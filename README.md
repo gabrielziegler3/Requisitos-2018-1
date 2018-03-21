@@ -1,4 +1,4 @@
-![](./images/Twitch_logo.svg)
+![](./imagens/Twitch_logo.svg)
 
 
 # Requisitos 2018.1 - Twitch   
