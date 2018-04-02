@@ -1,6 +1,6 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
-|01/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
+|01/04/2018|1.0|Criação do Documento|João Carlos, Filipe Dias|
 |01/04/2018|1.1|Referenciação de links dos RichPictures|Gustavo Carvalho|
 
 ## Rich Picture
