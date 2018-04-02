@@ -1,17 +1,7 @@
-<p align="justify">
-
-Autores:
-
-* [João Carlos Porto dos Reis](https://github.com/joao4018)
-
-* [Filipe Dias Soares Lima](https://github.com/filypsdias)
-
-Data: 01/04/2018
-
-Técnica: Híbrido (Análise de protocolo + Observação participativa).
-</p>
-
 # Viewer 
+
+![](https://png.icons8.com/color/1600/person-male.png)
+
 ### Como você faz para assistir uma stream?
 
 <p align="justify">
@@ -32,7 +22,12 @@ Técnica: Híbrido (Análise de protocolo + Observação participativa).
 * Em uma transmissão gravada ou em uma live basta usar um atalho no teclado (ALT + x), após esse procedimento você será redirecionado para uma nova aba no seu navegador, e nessa aba vai ter ferramentas de edições para que possa ser feito o corte apenas da parte em interesse.
 </p>
 
-# Streamer
+------------------------------------
+
+# Streamer 
+
+![](https://cdn0.iconfinder.com/data/icons/user-pictures/100/supportmale-2-512.png)
+
 ### Estou jogando por muito tempo. Como eu faço para arrecadar dinheiro jogando?
 
 <p align="justify">
@@ -45,7 +40,9 @@ Técnica: Híbrido (Análise de protocolo + Observação participativa).
 * Caso um viewer goste de minha stream, e queira ficar por mais tempo, ele pode se inscrever no meu canal (subscribe) e assim ele não terá que ver anúncios e terá mais visibilidade no meu chat. Assim, poderei interagir mais com ele e ele gostará ainda mais de me assistir jogando.
 </p>
 
-# Twitch
+------------------------------------
+
+# Twitch ![](https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2016/twitch-logo-topic.png)
 ### O que vou ganhar ao fornecer a plataforma de stream?
 
 <p align="justify">
@@ -68,4 +65,21 @@ Técnica: Híbrido (Análise de protocolo + Observação participativa).
 
 <p align="justify">
 * Após logado, no canto inferior à esquerda tem uma barra de busca basta inserir o nick da pessoa desejada e clicar no ícone ao lado do nome do mesmo.
+</p>
+
+<p align="justify">
+
+------------------------------------
+
+Autores:
+
+* [João Carlos Porto dos Reis](https://github.com/joao4018)
+
+* [Filipe Dias Soares Lima](https://github.com/filypsdias)
+
+#### Data: 01/04/2018
+
+#### Versão 1.0.1 
+
+#### Técnica: Híbrido (Análise de protocolo + Observação participativa).
 </p>
