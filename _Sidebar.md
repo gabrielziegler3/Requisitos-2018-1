@@ -7,7 +7,7 @@
 * [Argumentação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o)
 
 ### [Elicitação](./Elicitacao-requisitos)
-* Questionário
+* [Questionário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Elicitacao-requisitos#question%C3%A1rio)
 * [Análise de Protocolo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo--&-Observa%C3%A7%C3%A3o-Participativa))
 * MoSCoW
-* Introspecção
+* [Introspecção](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Elicitacao-requisitos#introspec%C3%A7%C3%A3o)
