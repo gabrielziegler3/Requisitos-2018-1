@@ -11,3 +11,6 @@
 
 ### User 1.0.0
 <img src="./images/rich-picture/rich-picture-user-1.0.jpg" width=400px>
+
+### Subscribe 1.0.0
+<img src="./pre-rastreabilidade/richPicture/subscriber.jpeg" width=400px>
