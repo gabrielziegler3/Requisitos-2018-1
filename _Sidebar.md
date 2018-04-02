@@ -8,6 +8,6 @@
 
 ### [Elicitação](./Elicitacao-requisitos)
 * Questionário
-* Análise de Protocolo
+* [Análise de Protocolo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo---Observa%C3%A7%C3%A3o-Participativa))
 * MoSCoW
 * Introspecção
