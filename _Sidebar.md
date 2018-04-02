@@ -4,7 +4,7 @@
 
 ### [Pré-rastreabilidade](Pre-rastreabilidade)
 * [RichPicture](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/RichPicture)
-* Argumentação
+* [Argumentação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o)
 
 ### [Elicitação](./Elicitacao-requisitos)
 * Questionário
