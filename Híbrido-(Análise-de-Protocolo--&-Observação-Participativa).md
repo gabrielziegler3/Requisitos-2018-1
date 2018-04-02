@@ -22,6 +22,10 @@
 * Em uma transmissão gravada ou em uma live basta usar um atalho no teclado (ALT + x), após esse procedimento você será redirecionado para uma nova aba no seu navegador, e nessa aba vai ter ferramentas de edições para que possa ser feito o corte apenas da parte em interesse.
 </p>
 
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/N%C3%A3oEstouGostandodoTemaOriginaldaTwitch.png" width=500px>
+
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/ViUmaJogadaIncr%C3%ADvelDuranteUmaStream.png" width=500px>
+
 ------------------------------------
 
 # Streamer 
