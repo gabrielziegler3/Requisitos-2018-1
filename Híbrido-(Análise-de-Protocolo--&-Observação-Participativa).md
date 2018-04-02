@@ -1,3 +1,9 @@
+|Data|Versão|Descrição|Autor|
+|----|------|---------|-----|
+|02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
+
+
+
 # Viewer 
 
 ![](https://png.icons8.com/color/1600/person-male.png)
