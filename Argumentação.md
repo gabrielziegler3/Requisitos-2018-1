@@ -2,7 +2,7 @@
 |----|------|---------|-----|
 |01/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
 |01/04/2018|1.1|Referenciação de links de imagens dos argumentos|Gustavo Carvalho|
-|01/04/2018|1.2|Descrição dos argumentos |Gustavo Carvalho, João Carlos, Gabriel Ziegler, Amanda Pires, Thiago Ferreira|
+|01/04/2018|1.2|Descrição dos argumentos |Amanda Pires, Filipe Dias, Gustavo Carvalho, Gabriel Ziegler, João Carlos, Thiago Ferreira|
 
 ## Argumentação
 
