@@ -25,6 +25,13 @@ Técnica: Híbrido (Análise de protocolo + Observação participativa).
 * Posso pagar para a Twitch e me tornar um Twitch primer, que além de remover os anúncios para mim,  me concede prêmios relacionados ao meu jogo preferido. Ou posso dar subscribe no canal do meu streamer, que fará com que eu pare de ver anúncios somente na stream dele.
 </p>
 
+
+### Vi uma jogada incrível durante uma stream, como fazer um clip dessa parte?
+
+<p align="justify">
+* Em uma transmissão gravada ou em uma live basta usar um atalho no teclado (ALT + x), após esse procedimento você será redirecionado para uma nova aba no seu navegador, e nessa aba vai ter ferramentas de edições para que possa ser feito o corte apenas da parte em interesse.
+</p>
+
 # Streamer
 ### Estou jogando por muito tempo. Como eu faço para arrecadar dinheiro jogando?
 
@@ -61,10 +68,4 @@ Técnica: Híbrido (Análise de protocolo + Observação participativa).
 
 <p align="justify">
 * Após logado, no canto inferior à esquerda tem uma barra de busca basta inserir o nick da pessoa desejada e clicar no ícone ao lado do nome do mesmo.
-</p>
-	
-### Vi uma jogada incrível durante uma stream, como fazer um clip dessa parte?
-
-<p align="justify">
-* Em uma transmissão gravada ou em uma live basta usar um atalho no teclado (ALT + x), após esse procedimento você será redirecionado para uma nova aba no seu navegador, e nessa aba vai ter ferramentas de edições para que possa ser feito o corte apenas da parte em interesse.
 </p>
