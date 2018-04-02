@@ -61,6 +61,10 @@
 * Após logado, basta clicar no seu nick no canto superior direito e vai aparecer algumas opções onde tem uma chamada dark mode e clicar na mesma.
 </p>
 
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/N%C3%A3oEstouGostandodoTemaOriginaldaTwitch.png" width=500px>
+
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/N%C3%A3oEstouGostandodoTemaOriginaldaTwitch%20(1).png" width=500px>
+
 ### Como adicionar alguém na lista de amigos?
 
 <p align="justify">
