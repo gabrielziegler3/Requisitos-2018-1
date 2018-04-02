@@ -1,7 +1,8 @@
-### PRÉ-RASTRIABILIDADE
-* [RichPicture](Pre-rastreabilidade.md)
+### [PRÉ-RASTRIABILIDADE](Pre-rastreabilidade)
+* RichPicture
 * Argumentação
-### ELICITAÇÂO
+### [ELICITAÇÃO](./Elicitacao-requisitos)
 * Questionário
 * Análise de Protocolo
 * MoSCoW
+* Introspecção

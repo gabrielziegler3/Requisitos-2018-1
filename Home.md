@@ -1,7 +1,7 @@
 # Engenharia de Requisitos
 Repositório criado para versionamento dos artefatos produzidos para a disciplina de Requisitos de Software do Curso de Engenharia de Software da Universidade de Brasília, no primeiro semestre de 2018.
 
-![](./imagens/Twitch_logo.svg)
+<img src="./images/Twitch_logo.svg" width=700px>
 
 ## Equipe de Requisitos de Software
 
