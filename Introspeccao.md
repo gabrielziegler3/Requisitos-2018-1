@@ -1,5 +1,3 @@
-## Introspecção
-
 Eu, como streamer, gostaria de ter artifícios integrados à plataforma que tornassem possível, a exportação da livestream para outras plataformas, sem necessidade de estar com o setup ligado em várias plataformas.
 
 Eu, como desenvolvedor, gostaria de criar uma  Plataforma para livestreaming destinada a jogos.
