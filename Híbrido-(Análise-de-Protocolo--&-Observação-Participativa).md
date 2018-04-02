@@ -66,6 +66,9 @@
 <p align="justify">
 * Após logado, no canto inferior à esquerda tem uma barra de busca basta inserir o nick da pessoa desejada e clicar no ícone ao lado do nome do mesmo.
 </p>
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/ComoAdicionarAlgu%C3%A9mnaListadeAmigos.png" width=500px>
+
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_AnaliseProtocolo%2BObserva%C3%A7%C3%A3oParticipativa/ComoAdicionarAlgu%C3%A9mnaListadeAmigos2.png" width=500px>
 
 <p align="justify">
 
