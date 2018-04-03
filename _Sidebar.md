@@ -12,3 +12,7 @@
 * MoSCoW
 * [Introspecção](Introspeccao)
 * [Apresentação 02/04/18](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Apresenta%C3%A7%C3%A3o-02-04-2018)
+
+### Priorização
+* [First Things First](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/First-Things-First)
+* Moscow
