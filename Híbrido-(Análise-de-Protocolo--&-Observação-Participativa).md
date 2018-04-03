@@ -1,5 +1,6 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
+|01/04/2018|1.0|Criação e Desenvolvimento do Documento|Filipe Dias| 
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
 
 
@@ -89,10 +90,9 @@
 ------------------------------------
 
 Autores:
+* [Filipe Dias Soares Lima](https://github.com/filypsdias)
 
 * [João Carlos Porto dos Reis](https://github.com/joao4018)
-
-* [Filipe Dias Soares Lima](https://github.com/filypsdias)
 
 #### Data: 01/04/2018
 
