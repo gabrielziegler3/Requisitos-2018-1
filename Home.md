@@ -15,4 +15,7 @@ Repositório criado para versionamento dos artefatos produzidos para a disciplin
 |Thiago Ferreira|thiagoiferreira@outlook.com|[@TPFChaos](https://github.com/TPFChaos)|
 
 ## A Plataforma Twitch.tv
+
+<p align="justify">
 A Twitch é uma plataforma de live streaming destinada ao streaming de jogos digitais. A Twitch foi lançada em 2011 como uma plataforma externa ao hoje extinto, justin.tv. Em 2014 a Twitch foi adquirida pela Amazon e em 2016, esta teve os serviços da Curse, Inc incorporados à plataforma.
+</p>
