@@ -12,3 +12,12 @@
 |X|X|X|X|X|X|Pessoa encontra o link de um Streamer em atividade|
 |X|X|X|X|X|X|Pessoa acede ao link|
 |X|X|X|X|X|X|Pessoa assiste a stream|
+
+
+## Cenário 002 - Viewer  stream
+
+|Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
+|---------|---------|---------|---------|---------|---------|---------|
+|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|
+|X|X|X|X|X|X|X|
