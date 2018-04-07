@@ -1,6 +1,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |03/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
+|06/04/2018|1.0|Inserção do link de Dados e Estatísticas|Filipe Dias|
 
 ## MoSCoW
 ### User
