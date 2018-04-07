@@ -14,10 +14,16 @@
 |X|X|X|X|X|X|Pessoa assiste a stream|
 
 
-## Cenário 002 - Viewer  stream
+## Cenário 002 - Viewer se cadastrando na Twitch
 
 |Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
 |---------|---------|---------|---------|---------|---------|---------|
-|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|
-|X|X|X|X|X|X|X|
+|Cadastrar na Twitch|Descrever o processo de cadastro na plataforma|Pessoa deseja se tornar um membro da Twitch|Pessoa não cadastrada na plataforma|Dispositivo eletrônico conectado à internet|Dispositivo eletrônico não estar conectado à internet|A pessoa não cadastrada acessa o site da [Twitch.tv](https://www.twitch.tv)|
+|X|X|X|X|Conta no Facebook|Não possuir conta no Facebook|A pessoa não cadastrada clica em Cadastre-se|
+|X|X|X|X|X|X|v1: A pessoa preenche os dados requeridos e clica em Cadastrar-se|
+|X|X|X|X|X|X|v2: A pessoa clica em Conectar-se com o Facebook|
+|X|X|X|X|X|X|v2.1: A pessoa permite a Twitch a usar os dados do Facebook para realizar o cadastro|
+
+<p>
+* Dispositivo eletrônico = Computador, celular
+</p>
