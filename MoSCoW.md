@@ -11,3 +11,5 @@
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/moscow_streamer.png)
 ### Twitch Prime
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/moscow_twitch_prime.png)
+
+[Dados e Estatísticas](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dados-e-Estat%C3%ADsticas)
