@@ -2,9 +2,16 @@
 
 ***
 
+
+* [Dados e Estatísticas](Dados-e-Estatísticas)
+
+***
+
 ### [Pré-rastreabilidade](Pre-rastreabilidade)
 * [RichPicture](RichPicture)
 * [Argumentação](Argumentação)
+
+***
 
 ### Elicitação
 * [Questionário](Questionario)
@@ -15,3 +22,5 @@
 ### Priorização
 * [First Things First](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/First-Things-First)
 * [MoSCoW](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/MoSCoW)
+
+***
