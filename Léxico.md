@@ -41,3 +41,12 @@ Termos e palavras cobertos por esta técnica:
 |**Impacto**|Usuário compartilha *stream* em rede social para que outras pessoas possam acompanhar.|
 
 ***
+
+|Nome|Canais em Destaque|
+|----|-----|
+|**Tipo**|Objeto|
+|**Sinônimo(s)**|Trending Channels, Canais em Alta|
+|**Noção**|Espaço que apresenta os canais que estão em alta naquele momento.|
+|**Impacto**|***Viewer*** pode ver os canais que estão sendo mais assistidos naquele exato momento. ***Streamer*** pode promover seu canal neste espaço para angariar mais seguidores e *subscribers*.|
+
+***
