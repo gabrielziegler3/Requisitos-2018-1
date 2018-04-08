@@ -5,7 +5,7 @@
 ## Léxico Twitch
 Termos e palavras cobertos por esta técnica:
 * Objeto
-  * [Moderator]()
+  * [Moderator](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Moderator)
   * [Streamer]()
   * [Viewer]()
 * Verbo 
