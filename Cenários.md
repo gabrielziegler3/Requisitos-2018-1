@@ -24,6 +24,13 @@
 |X|X|X|X|X|X|v2: A pessoa clica em Conectar-se com o Facebook|
 |X|X|X|X|X|X|v2.1: A pessoa permite a Twitch a usar os dados do Facebook para realizar o cadastro|
 
+
+## Cenário 003 - Viewer dando follow em uma stream
+
+|Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
+|---------|---------|--------|--------|--------|--------|---------|
+|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Computador, celular ou similar com acesso à internet|Sem monitor ou similar, Sem mouse, teclado ou tela touch|Viewer gosta de uma stream específica|
+
 <p>
 * Dispositivo eletrônico = Computador, celular
 </p>
