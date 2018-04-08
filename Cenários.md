@@ -31,7 +31,8 @@
 |---------|---------|--------|--------|--------|--------|---------|
 |Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Dispositivo eletrônico com acesso à internet|Sem transmissão de imagem e Periféricos|Viewer gosta de uma stream específica|
 |X|Ter o canal na home page da twitch|X|X|X|X,notificações indesejadas por default|X|
-
+|X|Receber notificações de um canal|Dado que a pessoa não esteja autenticada na twitch|X|X, ter conta na twitch|Sem transmissão de imagem e Periféricos|X|
+|X|X|X|X|X|X|V1: Efetuar login|
 * Dispositivo eletrônico = Computador, celular ou similar
 * Periféricos = Mouse, teclado, tela touch ou similar 
 * Transmissão de imagem = Monitor ou similar
