@@ -2,7 +2,7 @@
 |----|------|---------|-----|
 |07/04/2018|1.0|Criação do Documento|Filipe Dias|
 |08/04/2018|1.1|Revisão e Adição de Conteúdo|João Carlos|
-|08/04/2018|1.1|Revisão e Adição de Conteúdo|Filipe Dias|
+|08/04/2018|1.2|Revisão e Adição de Conteúdo|Filipe Dias|
 
 ## Cenário 001 - Viewer assistindo uma stream
 
