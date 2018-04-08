@@ -2,7 +2,7 @@
 |----|------|---------|-----|
 |07/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
 |07/04/2018|1.1|Criação dos léxicos e referenciação|Gustavo Carvalho|
-|08/04/2018|1.2|Adição de léxicos para Subscribe, Share...|Gabriel Ziegler|
+|08/04/2018|1.2|Adição de léxicos para Follow, Subscribe, Share, Canais em Destaque|Gabriel Ziegler|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
