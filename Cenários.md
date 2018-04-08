@@ -29,8 +29,10 @@
 
 |Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
 |---------|---------|--------|--------|--------|--------|---------|
-|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Dispositivo eletrônico com acesso à internet|Sem monitor ou similar, Sem mouse, teclado ou tela touch|Viewer gosta de uma stream específica|
+|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Dispositivo eletrônico com acesso à internet|Sem transmissão de imagem e Periféricos|Viewer gosta de uma stream específica|
+|X|Ter o canal na home page da twitch|X|X|X|X,notificações indesejadas por default|X|
 
-<p>
 * Dispositivo eletrônico = Computador, celular ou similar
-</p>
+* Periféricos = Mouse, teclado, tela touch ou similar 
+* Transmissão de imagem = Monitor ou similar
+* X = Replica da célula acima
