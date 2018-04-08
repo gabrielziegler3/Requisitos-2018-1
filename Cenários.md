@@ -37,7 +37,7 @@
 |X|X|X|X|X|X|Notificação na tela comprovando que ele está seguindo o streamer|
 
 ### Obs.: 
-* O Cenário 004 - Viewer dando susbscribe em um canal possui todas as mesmas características que o Cenário 003, mudando apenas o último episódio em que o Viewer clica em ```Inscrever-se```
+* O ```Cenário 004 - Viewer dando susbscribe em um canal``` possui todas as mesmas características que o Cenário 003, mudando apenas o último episódio em que o Viewer clica em ```Inscrever-se```
 ________________________
 
 ### Palavras chave 🔑:
