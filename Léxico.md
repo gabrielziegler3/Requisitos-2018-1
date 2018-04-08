@@ -17,6 +17,14 @@ Termos e palavras cobertos por esta técnica:
 |Nome|Subscribe|
 |------|-------|
 |**Tipo**|Verbo|
-| **Sinônimo(s)**|Inscrição|
-| **Noção** |Opção do usuário de poder se inscrever à um canal de um *Streamer* via uma funcionalidade paga que proporciona mais vantagens em relação ao *Follow*|
+|**Sinônimo(s)**|Subscrever|
+|**Noção**|Opção do usuário de poder se inscrever à um canal de um *Streamer* via uma funcionalidade paga que proporciona mais vantagens em relação ao *Follow*|
 |**Impacto**|Usuário se inscreve num canal via subscribe e recebe conteúdos exclusivos.|
+-----------
+|Nome|Share|
+|----|-----|
+|**Tipo**|Verbo|
+|**Sinônimo(s)**|Partilhar, Compartilhar|
+|**Noção**|Ação realizada pelo usuário para compartilhar um conteúdo.|
+|**Impacto**|Usuário compartilha *stream* em rede social para que outras pessoas possam acompanhar.|
+
