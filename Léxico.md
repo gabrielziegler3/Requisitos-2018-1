@@ -3,13 +3,20 @@
 |07/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
 |07/04/2018|1.1|Criação dos léxicos e referenciação|Gustavo Carvalho|
 
-## Léxico Twitch
+## Léxico
 Termos e palavras cobertos por esta técnica:
 * Objeto
   * [Moderator](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Moderator)
   * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
-* Verbo 
+* Verbo
   * [Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follow)
   * [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
+
+|Nome|Subscribe|
+|------|-------|
+|**Tipo**|Verbo|
+| **Sinônimo(s)**|Inscrição|
+| **Noção** |Opção do usuário de poder se inscrever à um canal de um *Streamer* via uma funcionalidade paga que proporciona mais vantagens em relação ao *Follow*|
+|**Impacto**|Usuário se inscreve num canal via subscribe e recebe conteúdos exclusivos.|
