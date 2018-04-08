@@ -25,15 +25,23 @@
 |X|X|X|X|X|X|v2.1: A pessoa permite a Twitch a usar os dados do Facebook para realizar o cadastro|
 
 
-## Cenário 003 - Viewer dando follow em uma stream
+## Cenário 003 - Viewer dando follow em um streamer
 
 |Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
-|---------|---------|--------|--------|--------|--------|---------|
-|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Dispositivo eletrônico com acesso à internet|Sem transmissão de imagem e Periféricos|Viewer gosta de uma stream específica|
-|X|Ter o canal na home page da twitch|X|X|X|X,notificações indesejadas por default|X|
-|X|Receber notificações de um canal|Dado que a pessoa não esteja autenticada na twitch|X|X, ter conta na twitch|Sem transmissão de imagem e Periféricos|X|
-|X|X|X|X|X|X|V1: Efetuar login|
+|---------|---------|--------|--------|--------|--------|------------|
+|Seguir canal|Se inscrever em um canal para receber suas notificações|Dado que a pessoa esteja autenticada na Twitch|Viewer|Dispositivo eletrônico com acesso à internet|Viewer não estar conectado à internet|Viewer gosta de uma stream específica|
+|X|Ter o canal na home page da Twitch.tv|X|Streamer|Ter conta na Twitch|Notificações indesejadas por default|Viewer efetua login|
+|X|Saber quando um streamer estiver streamando|X|X|X|X|Viewer clica na stream|
+|X|X|X|X|X|X|Viewer clica em ```❤️ Seguir```|
+|X|X|X|X|X|X|Notificação na tela comprovando que ele está seguindo o streamer|
+
+### Obs.: 
+* O Cenário 004 - Viewer dando susbscribe em um canal possui todas as mesmas características que o Cenário 003, mudando apenas o último episódio em que o Viewer clica em ```Inscrever-se```
+________________________
+
+### Palavras chave 🔑:
 * Dispositivo eletrônico = Computador, celular ou similar
 * Periféricos = Mouse, teclado, tela touch ou similar 
 * Transmissão de imagem = Monitor ou similar
-* X = Replica da célula acima
+* v1 = Primeira vertente do cenário (caminho 1)
+* v2 = Segunda vertente do cenário (caminho 2) 
