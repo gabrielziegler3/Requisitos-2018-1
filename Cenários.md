@@ -1,7 +1,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |07/04/2018|1.0|Criação do Documento|Filipe Dias|
-
+|08/04/2018|1.1|Revisão e Adição de Conteúdo|Filipe Dias|
 
 ## Cenário 001 - Viewer assistindo uma stream
 
@@ -29,8 +29,8 @@
 
 |Título|Objetivo|Contexto|Ator(es)|Recursos|Exceções|Episódios|
 |---------|---------|--------|--------|--------|--------|---------|
-|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Computador, celular ou similar com acesso à internet|Sem monitor ou similar, Sem mouse, teclado ou tela touch|Viewer gosta de uma stream específica|
+|Seguir canal|Receber notificações de um canal|Dado que a pessoa esteja autenticada na twitch|Viewer|Dispositivo eletrônico com acesso à internet|Sem monitor ou similar, Sem mouse, teclado ou tela touch|Viewer gosta de uma stream específica|
 
 <p>
-* Dispositivo eletrônico = Computador, celular
+* Dispositivo eletrônico = Computador, celular ou similar
 </p>
