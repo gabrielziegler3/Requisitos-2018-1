@@ -1,6 +1,8 @@
-## Stream
+## Streamar
 
 **Sinônimos:** 
+* Stream
+* Streaming
 * Transmitir 
 * Fazer live
 * Transmissão.
