@@ -1,11 +1,11 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |07/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
-|07/04/2018|1.1|Criação dos léxicos e referenciação|Gustavo Carvalho|
-|08/04/2018|1.2|Adição de léxicos para Follow, Subscribe, Share, Canais em Destaque|Gabriel Ziegler|
-|08/04/2018|1.3|Adição de léxicos para Bits, Raid, Loot Prime, Clipes, Streaming, Donate, Ads e Cheer|Thiago Ferreira|
+|07/04/2018|1.1|Criação dos léxicos Streamer, Viewer,Moderator, Streamar,Whisper e Dar Follow e referenciação|Gustavo Carvalho|
+|08/04/2018|1.2|Adição de léxicos para Subscribe, Canais em Destaque|Gabriel Ziegler|
+|08/04/2018|1.3|Adição de léxicos para Bits, Gankar, Loot Prime, Clipes, Donate e Cheer|Thiago Ferreira|
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
-
+|07/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
