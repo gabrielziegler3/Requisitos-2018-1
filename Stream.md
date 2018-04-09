@@ -3,7 +3,7 @@
 **Sinônimos:** 
 * Transmitir 
 * Fazer live
-* Transmição.
+* Transmissão.
 
 **Noção:** 
 * Ação realizada pelo streamer
