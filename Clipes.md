@@ -1,11 +1,13 @@
+## Clipes
+
 **Sinônimos:**
+* Clip
 * Video
-* Clipe
 * Curta
 
 **Noção:** 
-* Partes salvas de uma stream em um vídeo curto.
+* Partes salvas de uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar) em um vídeo curto.
 
 **Impacto:**
-* Ajuda a divulgar certas streams
-* Guarda momentos memoráveis de uma stream em um clipe para visualização posterior.
+* Ajuda a divulgar certas [streams](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar)
+* Guarda momentos memoráveis de uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar) em um clipe para visualização posterior.
