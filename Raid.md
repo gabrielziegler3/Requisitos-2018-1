@@ -2,7 +2,8 @@
 
 **Sinônimos:**
 * Gank
-* Raid
+* Gankar
+* Raidar
 
 **Noção:** 
 * Um [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Léxico-Streamer) direcionar seu público à stream de outro [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Léxico-Streamer).
