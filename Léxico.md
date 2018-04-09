@@ -13,7 +13,7 @@ Termos e palavras cobertos por esta técnica:
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 * Verbo
   * [Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follow)
-  * [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+  * [Streamar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
 
 |Nome|Follow|
