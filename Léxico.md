@@ -12,7 +12,7 @@ Termos e palavras cobertos por esta técnica:
   * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 * Verbo
-  * [Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow)
+  * [Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follow)
   * [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
 
@@ -123,5 +123,14 @@ Termos e palavras cobertos por esta técnica:
 |**Sinônimo(s)**|Torcer|
 |**Noção**| Utiliza *Bits* da Twitch para enviar uma torcida bonificada ao *streamer*|
 |**Impacto**| Dá receita aos *streamers* e também à twitch e incentiva as ações do *streamer*.|
+
+***
+
+|Nome|Go Live Notification|
+|----|-----|
+|**Tipo**|Objeto|
+|**Sinônimo(s)**|Anunciação, participação|
+|**Noção**| São notificações customizadas enviadas aos *viewers* no momento de uma transmissão ao vivo. Um *streamer* pode enviar uma notificação de no máximo 140 caracteres para se *comunicar* com seus viewers. |
+|**Impacto**| Dar algum aviso ou apenas se comunicar com um viewer no momento de uma transmissão ao vivo.|
 
 ***
