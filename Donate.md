@@ -1,4 +1,4 @@
-## DONATE
+## Donate
 
 **Sinônimos:** 
 * Doar, Fazer doação
