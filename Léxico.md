@@ -5,7 +5,8 @@
 |08/04/2018|1.2|Adição de léxicos para Subscribe, Canais em Destaque|Gabriel Ziegler|
 |08/04/2018|1.3|Adição de léxicos para Bits, Gankar, Loot Prime, Clipes, Donate e Cheer|Thiago Ferreira|
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
-|07/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
+|09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
+|09/04/2018|1.6|Adição de Página Donate e Hyperlinking desta|Gustavo Carvalho|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
@@ -78,24 +79,6 @@ Termos e palavras cobertos por esta técnica:
 |**Impacto**| Incentiva aos usuários à adquirirem o serviço de assinatura *Twitch Prime*.|
 
 ***
-
-
-***
-
-
-***
-
-
-|Nome|Donate|
-|----|-----|
-|**Tipo**|Verbo|
-|**Sinônimo(s)**|Doar, Fazer doação|
-|**Noção**| Dar dinheiro à pessoa que está fazendo a transmissão|
-|**Impacto**| Incentiva o *streamer* a continuar *streamando*.|
-
-***
-
-
 
 |Nome|Go Live Notification|
 |----|-----|
