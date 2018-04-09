@@ -23,6 +23,7 @@ Termos e palavras cobertos por esta técnica:
   * [Subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)
   * [Raid](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Gankar)
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
+  * [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
 
 
 
