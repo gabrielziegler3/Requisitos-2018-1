@@ -4,6 +4,8 @@
 |07/04/2018|1.1|Criação dos léxicos e referenciação|Gustavo Carvalho|
 |08/04/2018|1.2|Adição de léxicos para Follow, Subscribe, Share, Canais em Destaque|Gabriel Ziegler|
 |08/04/2018|1.3|Adição de léxicos para Bits, Raid, Loot Prime, Clipes, Streaming, Donate, Ads e Cheer|Thiago Ferreira|
+|09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
+
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
@@ -131,6 +133,15 @@ Termos e palavras cobertos por esta técnica:
 |**Tipo**|Objeto|
 |**Sinônimo(s)**|Anunciação, participação|
 |**Noção**| São notificações customizadas enviadas aos *viewers* no momento de uma transmissão ao vivo. Um *streamer* pode enviar uma notificação de no máximo 140 caracteres para se *comunicar* com seus viewers. |
-|**Impacto**| Dar algum aviso ou apenas se comunicar com um viewer no momento de uma transmissão ao vivo.|
+|**Impacto**| Dá algum aviso ou apenas se comunicar com um viewer no momento de uma transmissão ao vivo.|
+
+***
+
+|Nome|Group Chat|
+|----|-----|
+|**Tipo**|Objeto|
+|**Sinônimo(s)**|Bate-papo|
+|**Noção**| Sala privada de bate-papo onde usuários do Twich se integragem por meio de mensagens. Este recurso pode ser utilizado por qualquer usuário do Twich, desde que esteja logado.|
+|**Impacto**| Promove a interação e a troca de experiências entre usuários do Twich.|
 
 ***
