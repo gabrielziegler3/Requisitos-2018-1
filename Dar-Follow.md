@@ -1,8 +1,8 @@
-## FOLLOW
+## DAR FOLLOW
 
 **Sinônimos:** 
 * seguir
-* dar follow.
+* follow.
 
 **Noção:** 
 * Tarefa realizada pelo viewer
