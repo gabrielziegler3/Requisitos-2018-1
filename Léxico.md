@@ -13,18 +13,45 @@ Termos e palavras cobertos por esta técnica:
   * [Moderator](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Moderator)
   * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
+  * [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
+  * [Clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes)
+
 * Verbo
   * [Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow)
   * [Streamar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
+  * [Subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)
+  * [Gankar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Gankar)
+  * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
 
 
-|Nome|Subscribe|
-|------|-------|
-|**Tipo**|Verbo|
-|**Sinônimo(s)**|Subscrever|
-|**Noção**|Opção do usuário de poder se inscrever à um canal de um *Streamer* via uma funcionalidade paga que proporciona mais vantagens em relação ao *Follow*|
-|**Impacto**|Usuário se inscreve num canal via subscribe e recebe conteúdos exclusivos.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***
 
@@ -37,21 +64,8 @@ Termos e palavras cobertos por esta técnica:
 
 ***
 
-|Nome|Bits|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Sem Sinônimo|
-|**Noção**|Emotes animados comprados para mandar envio de Cheer.|
-|**Impacto**| Dá notoriedade ao doador e este recebe ícones referentes à quantidade de bits comprados e dá receita, equivalente à 1 centavo por bit, ao streamer.|
 
-***
 
-|Nome|Raid|
-|----|-----|
-|**Tipo**|Verbo|
-|**Sinônimo(s)**|Divulgação de stream, Gank|
-|**Noção**| Um *streamer* direcionar seu público à *stream* de outro *streamer*|
-|**Impacto**| Talvez direcione o *viewer* à um *streamer* que ele possa vir a gostar, divulga outros *streamers* à um público novo, melhora a relação entre *streamers* e cria amistosidade entre os mesmos.|
 
 ***
 
@@ -64,21 +78,9 @@ Termos e palavras cobertos por esta técnica:
 
 ***
 
-|Nome|Clipes|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Video, Clip, Curta|
-|**Noção**| Partes salvas de uma stream em um vídeo curto|
-|**Impacto**| Ajuda a divulgar certas streams com clipes e principalmente, guarda momentos memoráveis de uma stream em um clipe para visualização posterior.|
 
 ***
 
-|Nome|Streaming|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Transmissão|
-|**Noção**| Tecnologia de envio e captação de informação multimídia em tempo real.|
-|**Impacto**| Principal serviço oferecido pela Twitch.|
 
 ***
 
@@ -92,14 +94,7 @@ Termos e palavras cobertos por esta técnica:
 
 ***
 
-|Nome|Cheer|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Torcer|
-|**Noção**| Utiliza *Bits* da Twitch para enviar uma torcida bonificada ao *streamer*|
-|**Impacto**| Dá receita aos *streamers* e também à twitch e incentiva as ações do *streamer*.|
 
-***
 
 |Nome|Go Live Notification|
 |----|-----|
