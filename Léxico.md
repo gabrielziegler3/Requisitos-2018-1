@@ -21,7 +21,7 @@ Termos e palavras cobertos por esta técnica:
   * [Streamar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
   * [Subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)
-  * [Gankar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Gankar)
+  * [Raidar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Gankar)
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
 
 
