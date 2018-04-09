@@ -18,14 +18,6 @@ Termos e palavras cobertos por esta técnica:
   * [Streamar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamar)
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
 
-|Nome|Follow|
-|----|-----|
-|**Tipo**|Verbo|
-|**Sinônimo(s)**|Seguir|
-|**Noção**|Ação realizada pelo usuário para seguir um canal de um *Streamer*, recebendo notificações sempre que há conteúdo novo no canal, incluindo o momento de início de uma transmissão.|
-|**Impacto**|Usuário segue canal gratuitamente via botão de seguir. Usuário pode deixar de seguir um canal a qualquer momento que desejar.|
-
-***
 
 |Nome|Subscribe|
 |------|-------|
@@ -33,15 +25,6 @@ Termos e palavras cobertos por esta técnica:
 |**Sinônimo(s)**|Subscrever|
 |**Noção**|Opção do usuário de poder se inscrever à um canal de um *Streamer* via uma funcionalidade paga que proporciona mais vantagens em relação ao *Follow*|
 |**Impacto**|Usuário se inscreve num canal via subscribe e recebe conteúdos exclusivos.|
-
-***
-
-|Nome|Share|
-|----|-----|
-|**Tipo**|Verbo|
-|**Sinônimo(s)**|Partilhar, Compartilhar|
-|**Noção**|Ação realizada pelo usuário para compartilhar um conteúdo.|
-|**Impacto**|Usuário compartilha *stream* em rede social para que outras pessoas possam acompanhar.|
 
 ***
 
@@ -106,16 +89,6 @@ Termos e palavras cobertos por esta técnica:
 |**Sinônimo(s)**|Doar, Fazer doação|
 |**Noção**| Dar dinheiro à pessoa que está fazendo a transmissão|
 |**Impacto**| Incentiva o *streamer* a continuar *streamando*.|
-
-***
-
-
-|Nome|Ads|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Propaganda, Advertisement|
-|**Noção**| Divulgar um patriocinador através da propaganda, no player da twitch|
-|**Impacto**| Divulgar o patriocinador e dar receita à twitch e ao streamer.|
 
 ***
 
