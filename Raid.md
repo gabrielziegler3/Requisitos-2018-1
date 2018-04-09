@@ -1,4 +1,4 @@
-## Gankar
+## Raid
 
 **Sinônimos:**
 * Gank
