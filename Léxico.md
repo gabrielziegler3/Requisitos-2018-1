@@ -6,7 +6,7 @@
 |08/04/2018|1.3|Adição de léxicos para Bits, Gankar, Loot Prime, Clipes, Donate e Cheer|Thiago Ferreira|
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
 |09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
-|09/04/2018|1.6|Adição de Página Donate e Hyperlinking desta|Thiago Ferreira|
+|09/04/2018|1.6|Adição de Página Donate, Streaming e Share e Hyperlinking destas|Thiago Ferreira|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
@@ -16,6 +16,9 @@ Termos e palavras cobertos por esta técnica:
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
   * [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
   * [Clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes)
+  * [Streaming](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streaming)
+  * [Share](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Share)
+
 
 * Verbo
   * [Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow)
