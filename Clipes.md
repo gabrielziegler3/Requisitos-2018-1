@@ -1,8 +1,7 @@
-## Clipes
-
 **Sinônimos:**
-* Clip
-* Clips
+* Video
+* Clipe
+* Curta
 
 **Noção:** 
 * Partes salvas de uma stream em um vídeo curto.
