@@ -6,7 +6,7 @@
 |08/04/2018|1.3|Adição de léxicos para Bits, Gankar, Loot Prime, Clipes, Donate e Cheer|Thiago Ferreira|
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
 |09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
-|09/04/2018|1.6|Adição de Página Donate e Hyperlinking desta|Gustavo Carvalho|
+|09/04/2018|1.6|Adição de Página Donate e Hyperlinking desta|Thiago Ferreira|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
