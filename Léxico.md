@@ -38,6 +38,7 @@ Termos e palavras cobertos por esta técnica:
   * [Whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)
   * [Subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)
   * [Share](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Share)
+  * [Fazer Maratona](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Fazer-Maratona)
   * [Raid](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid)
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
   * [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
