@@ -7,6 +7,7 @@
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
 |09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
 |09/04/2018|1.6|Adição de Página Donate, Streaming e Hyperlinking destas|Thiago Ferreira|
+|10/04/2018|1.7|Adição de léxicos para Subscriber|João Carlos|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
