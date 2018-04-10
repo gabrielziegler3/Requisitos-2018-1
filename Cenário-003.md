@@ -1,4 +1,4 @@
-# Cenário 003 - Viewer dando follow em um streamer
+# Cenário 003 - Viewer dando follow em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
 
 ## Título
 * Seguir Canal
@@ -12,7 +12,7 @@
 
 ## Ator(es)
 * Viewer
-* Streamer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
 
 ## Recursos
 * Dispositivo eletrônico com acesso à internet 
@@ -26,4 +26,4 @@
 ## Episódios
 * Viewer gosta de uma stream 
 * Viewer clica em ```❤️ Seguir```
-* Notificação na tela comprovando que ele está seguindo o streamer
+* Notificação na tela comprovando que ele está seguindo o [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
