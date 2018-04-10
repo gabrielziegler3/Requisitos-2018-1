@@ -20,4 +20,7 @@
 * Usuário não consegue achar a funcionalidade
 
 ## Episódios
-* Ver clipes de stream gravada
+* User acessa um canal
+* User seleciona a aba ```Clipes```
+* User seleciona o Clip específico
+* User assiste o Clip da stream
