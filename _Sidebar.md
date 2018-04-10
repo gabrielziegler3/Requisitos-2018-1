@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto;" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/twitch-logo1.png" width=100px height=100px>
+<img style="display: block; margin: 0 auto;" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/twitch-logo1.png" width=100px height=100px align="middle">
 
 ***
 
