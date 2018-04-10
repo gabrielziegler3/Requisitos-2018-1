@@ -20,4 +20,7 @@
 * Usuário não consegue achar a funcionalidade
 
 ## Episódios
-* Ver videos de stream gravada
+* Usuário abre um canal específico da [Twitch.tv](http://www.twitch.tv)
+* Usuário clica em vídeos
+* Usuário seleciona um vídeo específico  
+* Usuário assiste o vídeo
