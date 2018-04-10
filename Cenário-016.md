@@ -4,16 +4,17 @@
 * Moderadores de chat
 
 ## Objetivo
-* Uso de poderes administrativos para moderar o chat.
+* Fazer um usuário possuir privilégios administrativos no chat.
 	
 ## Contexto
 * Durante uma transmissão.
 
 ## Ator(es)
-* Usuário
+* Streamer
+* Viewer
 
 ## Recursos
-* Privilégio de moderador.
+* Dispositivo eletrônico conectado à internet.
 	
 ## Exceções
 * Não possuir poderes administrativos.
@@ -21,7 +22,8 @@
 * Estar banido.
 
 ## Episódios
-* Usuário conectado a stream.
-* Usuário privilegiado.
-* Manter o controle na stream.
+* Streamer simpatiza com algum viewer
+* Streamer clica no nome do viewer
+* Streamer seleciona a opção de ```Moderador```
+* Viewer se torna moderador.
 
