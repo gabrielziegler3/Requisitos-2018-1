@@ -1,7 +1,9 @@
-# Cenário 006 - Streamer fazendo uma stream
+# Cenário 006 - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ fazendo uma stream
 
 ## Título
-* Streamer transmitindo seu jogo
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ transmitindo seu jogo
 
 ## Objetivo
 * Usuário realizar uma stream
@@ -12,7 +14,8 @@
 * Usuário com especificações de máquina de acordo
 
 ## Ator(es)
-* Streamer 
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+
 
 ## Recursos
 * [XSplit](https://www.xsplit.com/pt/?utm_source=blog&utm_campaign=rc_blogpost#broadcaster) (software de transmissão)	
