@@ -1,17 +1,21 @@
 # Cenário 007 - Permaban
 
 ## Título
-* Streamer dando um ban ou permaban
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ dando um ban ou permaban
 
 ## Objetivo
 * Retirar usuários indesejados do chat ao vivo
 
 ## Contexto
-* Streamer está streamando
-Um viewer está incomodando o streamer ou outros viewers no chat
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ está streamando
+Um viewer está incomodando o [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ ou outros viewers no chat
 
 ## Ator(es)
-* Streamer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+
 * Viewer
 
 ## Recursos
@@ -21,10 +25,14 @@ Um viewer está incomodando o streamer ou outros viewers no chat
 * Dispositivo eletrônico não conectado à internet
 
 ## Episódios
-* Streamer está streamando
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ está streamando
 * Viewer começa a incomodar no chat
-* Streamer localiza o viewer indesejado no chat
-* Streamer clica em seu nome
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ localiza o viewer indesejado no chat
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ clica em seu nome
 * Uma modal com as informações públicas do usuário é aberta
-* O streamer escolhe se dá um ban (temporário) ou um permaban (permanente) no viewer
+* O [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ escolhe se dá um ban (temporário) ou um permaban (permanente) no viewer
 * O viewer é banido
