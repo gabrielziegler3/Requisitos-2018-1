@@ -29,6 +29,7 @@ Termos e palavras cobertos por esta técnica:
   * [Raid](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid)
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
   * [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
+  * [Ban](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Ban)
 
 
 
