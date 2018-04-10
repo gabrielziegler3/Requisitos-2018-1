@@ -1,7 +1,8 @@
-## MODERATOR
+## MODs
 
 **Sinônimos:** 
 * Moderador
+* Moderator
 
 **Noção:** 
 * Pessoa escolhidas pelo [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) ou twitch para garantir o comprimento das regras no chat.
