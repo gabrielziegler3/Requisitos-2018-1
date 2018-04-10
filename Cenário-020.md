@@ -1,4 +1,4 @@
-# Cenário 0019 - Acessar clipes postados em um canal.
+# Cenário 0020 - Acessar clipes postados em um canal.
 
 ## Título 
 * Acessar clipes postados em um canal.
