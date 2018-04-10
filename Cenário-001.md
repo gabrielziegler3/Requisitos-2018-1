@@ -1,4 +1,4 @@
-# Cenário 001 - [Viewer]https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer assistindo uma stream
+# Cenário 001 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma stream
 
 ## Título 
 * Assistir uma stream
@@ -11,7 +11,7 @@
 * Pessoa busca aprender a respeito de um jogo
 
 ## Ator(es)
-* [Viewer]https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
 
 ## Recursos
