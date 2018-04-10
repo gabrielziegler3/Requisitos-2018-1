@@ -18,6 +18,7 @@ Termos e palavras cobertos por esta técnica:
   * [Clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes)
   * [Streaming](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streaming)
   * [Share](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Share)
+  * [Subscriber](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscriber)
 
 
 * Verbo
