@@ -30,7 +30,7 @@ Termos e palavras cobertos por esta técnica:
   * [Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)
   * [Usuário Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Usuario-Prime)
   * [Follower](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follower)
-
+  * [Emote](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Emotes)
 
 * Verbo
   * [Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow)
