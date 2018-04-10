@@ -12,13 +12,13 @@
 
 ## Ator(es)
 * Viewer
-* Streamer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet
 
 ## Exceções
-* Não há streamers streamando
+* Não há [streamers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001) streamando
 * Pessoa não conectada à internet
 
 ## Episódios
@@ -26,7 +26,7 @@
 
 * Pessoa está mexendo em alguma rede social
 
-* Pessoa encontra o link de um Streamer em atividade
+* Pessoa encontra o link de um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001) em atividade
 
 * Pessoa acede ao link
 
