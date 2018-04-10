@@ -20,6 +20,7 @@
 * Esquecer login ou senha.
 
 ## Episódios
-* Usuário acessando o site.
-* Usuário efetua login, clicando em “Fazer login”.
-* Usuário faz os procedimentos de preenchimento de dados.
+* Usuário acessa a Twitch
+* Usuário efetua login, clicando em ```Fazer login```
+* Usuário preenche os campos requeridos
+* Usuário é autenticado
