@@ -12,7 +12,7 @@
 ## Ator(es)
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
-* Viewer
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet.
@@ -29,5 +29,5 @@
  clica no nome do viewer
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
  seleciona a opção de ```Moderador```
-* Viewer se torna moderador.
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) se torna moderador.
 
