@@ -1,30 +1,30 @@
 # Cenário 009 - Bits
 
 ## Título
-* Viewer doando bits
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) doando bits
 
 ## Objetivo
-* Viewer doar bits ao [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) doar bits ao [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 
 ## Contexto
-* Viewer assistindo uma stream
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma stream
 
 ## Ator(es)
-* Viewer
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 *[Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet
-* Bits na conta do viewer que fará a doação
+* Bits na conta do [viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) que fará a doação
 
 ## Exceções
 * Dispositivo eletrônico não conectado à internet
 * O usuário não possui bits
 
 ## Episódios
-* Viewer está assistindo stream
-* Viewer clica em ```Start Cheering```
-* Viewer seleciona a quantidade de Bits a serem doados
-* Viewer faz a doação
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) está assistindo stream
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clica em ```Start Cheering```
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) seleciona a quantidade de Bits a serem doados
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) faz a doação
