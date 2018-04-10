@@ -10,7 +10,8 @@
 * Durante uma transmissão.
 
 ## Ator(es)
-* Streamer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+
 * Viewer
 
 ## Recursos
@@ -22,8 +23,11 @@
 * Estar banido.
 
 ## Episódios
-* Streamer simpatiza com algum viewer
-* Streamer clica no nome do viewer
-* Streamer seleciona a opção de ```Moderador```
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ simpatiza com algum viewer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ clica no nome do viewer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ seleciona a opção de ```Moderador```
 * Viewer se torna moderador.
 
