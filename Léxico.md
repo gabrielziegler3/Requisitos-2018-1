@@ -9,11 +9,12 @@
 |09/04/2018|1.6|Adição de Página Donate, Streaming e Hyperlinking destas|Thiago Ferreira|
 |10/04/2018|1.7|Adição de léxicos para Subscriber|João Carlos|
 |10/04/2018|1.8|Adição de Páginação para as tabelas Canais em Destaque, Loot Prime, Go Live Notification e Group Chat, assim como o Hyperlinking destas. Criação do Léxico para Ban|Thiago Ferreira|
+|10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e MOD|Gustavo Carvalho|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
 * Objeto
-  * [Moderator](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Moderator)
+  * [MODs](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/MODs)
   * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
   * [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
@@ -43,3 +44,5 @@ Termos e palavras cobertos por esta técnica:
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
   * [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
   * [Ban](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Ban)
+  * [Reagir](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Reagir)
+
