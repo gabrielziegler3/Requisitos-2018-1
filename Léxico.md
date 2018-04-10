@@ -8,6 +8,7 @@
 |09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
 |09/04/2018|1.6|Adição de Página Donate, Streaming e Hyperlinking destas|Thiago Ferreira|
 |10/04/2018|1.7|Adição de léxicos para Subscriber|João Carlos|
+|10/04/2018|1.8|Adição de Páginação para as tabelas Canais em Destaque, Loot Prime, Go Live Notification e Group Chat, assim como o Hyperlinking destas. Criação do Léxico para Ban|Thiago Ferreira|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
@@ -24,6 +25,11 @@ Termos e palavras cobertos por esta técnica:
   * [Loot Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Loot-Prime)
   * [Go Live Notification](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Go-Live_Notification)
   * [Group Chat](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat)
+  * [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
+  * [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+  * [Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)
+  * [Usuário Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Usuario-Prime)
+  * [Follower](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follower)
 
 
 * Verbo
