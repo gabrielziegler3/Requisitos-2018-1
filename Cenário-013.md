@@ -5,7 +5,7 @@
 * Hosteando outra stream
 	
 ## Objetivo
-* Transferir viewers para outro canal
+* Transferir [viewers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) para outro canal
 
 ## Contexto
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
