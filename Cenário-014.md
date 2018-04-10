@@ -19,4 +19,7 @@
 * Não estiver em transmissão.
 	
 ## Episódios
+* Streamer está streamando
+* Streamer deseja encerrar sua transmissão
+* Streamer vai para as configurações da transmissão
 * Streamer clica na opção “Parar stream”.
