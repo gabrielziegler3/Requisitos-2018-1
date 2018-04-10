@@ -12,7 +12,7 @@
 
 ## Ator(es)
 * Viewer
-* Streamer
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 ## Recursos
 * Dispositivo eletrônico com acesso à internet 
@@ -25,4 +25,5 @@
 ## Episódios
 * Viewer gosta de uma stream 
 * Viewer clica em ```Inscrever-se```
-* Notificação na tela comprovando que ele está seguindo o streamer
+* Notificação na tela comprovando que ele está seguindo o [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+
