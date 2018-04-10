@@ -27,3 +27,5 @@
 * [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014)
 
 * [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015)
+
+* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016)
