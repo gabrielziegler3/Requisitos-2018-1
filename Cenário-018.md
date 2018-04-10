@@ -20,6 +20,6 @@
 
 ## Episódios
 * User deseja encontrar conteúdo específico
-* User clica na parte superior da tela na sessão ```Procurar````
+* User clica na parte superior da tela na sessão ```Procurar```
 * User seleciona conteúdo específico
 * User assiste stream desejada
