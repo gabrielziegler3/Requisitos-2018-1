@@ -28,4 +28,4 @@
  deseja encerrar sua transmissão
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
  vai para as configurações da transmissão
-* [Streamer] clica na opção ```Parar stream```.
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) clica na opção ```Parar stream```.
