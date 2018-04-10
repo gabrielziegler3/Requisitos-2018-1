@@ -19,6 +19,10 @@ Termos e palavras cobertos por esta técnica:
   * [Streaming](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streaming)
   * [Share](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Share)
   * [Subscriber](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscriber)
+  * [Canais em Destaque](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Canais-em-Destaque)
+  * [Loot Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Loot-Prime)
+  * [Go Live Notification](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Go-Live_Notification)
+  * [Group Chat](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat)
 
 
 * Verbo
@@ -30,75 +34,3 @@ Termos e palavras cobertos por esta técnica:
   * [Cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer)
   * [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
   * [Ban](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Ban)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-***
-
-|Nome|Canais em Destaque|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Trending Channels, Canais em Alta|
-|**Noção**|Espaço que apresenta os canais que estão em alta naquele momento.|
-|**Impacto**|***Viewer*** pode ver os canais que estão sendo mais assistidos naquele exato momento. ***Streamer*** pode promover seu canal neste espaço para angariar mais seguidores e *subscribers*.|
-
-***
-
-
-
-
-***
-
-|Nome|Loot Prime|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Brinde|
-|**Noção**| Recompensas dadas aos assinantes da Twitch Prime|
-|**Impacto**| Incentiva aos usuários à adquirirem o serviço de assinatura *Twitch Prime*.|
-
-***
-
-|Nome|Go Live Notification|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Anunciação, participação|
-|**Noção**| São notificações customizadas enviadas aos *viewers* no momento de uma transmissão ao vivo. Um *streamer* pode enviar uma notificação de no máximo 140 caracteres para se *comunicar* com seus viewers. |
-|**Impacto**| Dá algum aviso ou apenas se comunicar com um viewer no momento de uma transmissão ao vivo.|
-
-***
-
-|Nome|Group Chat|
-|----|-----|
-|**Tipo**|Objeto|
-|**Sinônimo(s)**|Bate-papo|
-|**Noção**| Sala privada de bate-papo onde usuários do Twich se integragem por meio de mensagens. Este recurso pode ser utilizado por qualquer usuário do Twich, desde que esteja logado.|
-|**Impacto**| Promove a interação e a troca de experiências entre usuários do Twich.|
-
-***
