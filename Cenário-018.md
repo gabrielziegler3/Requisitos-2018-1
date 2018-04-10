@@ -7,7 +7,7 @@
 * Encontrar todos os jogos streamados.
 
 ## Contexto
-* Na home da twitch, sem acessar nem um canal.
+* Na home da Twitch, sem acessar nem um canal.
 
 ## Ator(es)
 * Usuário.
