@@ -12,7 +12,7 @@
 
 ## Ator(es)
 * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
-*[Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 
 ## Recursos
