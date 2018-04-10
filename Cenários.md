@@ -1,3 +1,10 @@
+|Data|Versão|Descrição|Autor|
+|----|------|---------|-----|
+|09/04/2018|1.0|Criação do Documento|Filipe Dias|
+|09/04/2018|1.1|Desenvolvimento dos Cenários|João Carlos, Filipe Dias|
+|10/04/2018|1.2|Revisão|João Carlos, Filipe Dias|
+|10/04/2018|1.3|Hyperlink léxico|João Carlos|
+
 ## Cenários
 
 * [C001](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
