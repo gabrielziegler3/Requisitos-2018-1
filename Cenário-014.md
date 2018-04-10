@@ -4,13 +4,16 @@
 * Encerar transmissão
 
 ## Objetivo
-* Streamer encerrar a stream.
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ encerrar a stream.
 	
 ## Contexto
-* Streamer streamando.	
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ streamando.	
 
 ## Ator(es)
-* Streamer.
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+.
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet.
@@ -19,7 +22,10 @@
 * Não estiver em transmissão.
 	
 ## Episódios
-* Streamer está streamando
-* Streamer deseja encerrar sua transmissão
-* Streamer vai para as configurações da transmissão
-* Streamer clica na opção ```Parar stream```.
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ está streamando
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ deseja encerrar sua transmissão
+* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+ vai para as configurações da transmissão
+* [Streamer] clica na opção ```Parar stream```.
