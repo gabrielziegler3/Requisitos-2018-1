@@ -1,15 +1,11 @@
 ## Streamar
 
 **Sinônimos:** 
-* Stream
-* Streaming
 * Transmitir 
 * Fazer live
-* Transmissão.
 
 **Noção:** 
-* Ação realizada pelo [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer).
-* Por meio de um software de compartilhamento de tela, o streamer joga em seu computador para que seus [viewers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) possam ver.
+* Ato de hospedar uma [live stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer), por parte do [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/streamer)
 
 **Impacto:**
-* Uma transmição ao vivo é disponibilizada na twitch quando se está streamando.
+* Serve o propósito do Site que é justamente hospedar [live streams](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream), trazendo público ao site, gerando conteúdo para os [viewers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) e gerando renda para a [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) e para o [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)
