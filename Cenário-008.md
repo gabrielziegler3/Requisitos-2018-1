@@ -1,19 +1,19 @@
 # Cenário 008 - Donate
 
 ## Título
-* Viewer fazendo donate
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) fazendo donate
 
 ## Objetivo
-* Viewer doar dinheiro ao [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) doar dinheiro ao [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 
 ## Contexto
-* Viewer assistindo uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
-* Viewer desejando doar dinheiro	
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) desejando doar dinheiro	
 
 ## Ator(es)
-* Viewer
+* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 
