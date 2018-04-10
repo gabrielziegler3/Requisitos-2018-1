@@ -16,9 +16,10 @@
 * Dispositivo conectado a internet.
 
 ## Exceções
-* Não estar na home.
 * Encontrar jogo específico sem usar o catálogo.
 
 ## Episódios
-* Qualquer usuário.
-* Jogo buscado, pouco visualizado.
+* User deseja encontrar conteúdo específico
+* User clica na parte superior da tela na sessão ```Procurar````
+* User seleciona conteúdo específico
+* User assiste stream desejada
