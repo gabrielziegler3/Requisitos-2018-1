@@ -1,6 +1,6 @@
 # Storytelling
 
-![]()
+![Storytelling](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Storytelling/storytelling-jonas.png)
 
 Considerando a experiência de Jonas com seus amigos, é possível elicitar os seguintes possíveis requisitos:
 
