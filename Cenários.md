@@ -6,6 +6,7 @@
 |10/04/2018|1.3|Hyperlink léxico|João Carlos|
 |10/04/2018|1.4|Revisão & Hyperlink léxico|Filipe Dias|
 |10/04/2018|1.5|Adição de cenários|Gustavo Carvalho|
+|11/04/2018|1.6|Adição de cenários|Gustavo Carvalho|
 
 ## Cenários
 
