@@ -12,3 +12,5 @@ Repositorio direcionado para o processo de Engenharia de Requisitos da plataform
 |Gustavo Barbosa Carvalho|gustavocarvalho1002@gmail.com|[@gustavocarvalho1002](https://github.com/gustavocarvalho1002)|
 |João Carlos Porto dos Reis|joao4018@gmail.com|[@joao4018](https://github.com/joao4018)|
 |Thiago Ferreira|thiagoiferreira@outlook.com|[@TPFChaos](https://github.com/TPFChaos)|
+
+Para mais informações visite o nossa [GithubPage - Twitch.io](https://filypsdias.github.io/twitch.io)
