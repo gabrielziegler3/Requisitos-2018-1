@@ -39,13 +39,13 @@
 
 * [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014) - Fechar [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
 
-* [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015) - Login
+* [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015) - User fazendo Login
 
-* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016) - [MODs](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Mods)
+* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) selecionando [moderadores](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Moderador)
 
-* [C017](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-017) - Anúncio
+* [C017](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-017) - Anunciando na [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
 
-* [C018](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-018) - Catálogo
+* [C018](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-018) - Catálogo de Jogos
 
 * [C019](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-019) - Acessar videos postados em um canal.
 
