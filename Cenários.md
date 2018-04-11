@@ -31,9 +31,9 @@
 
 * [C010](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-010) - Adicionando amigos
 
-* [C011](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-011) - Pagamento
+* [C011](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-011) - Configurando Pagamento
 
-* [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012) - Denúncia
+* [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012) - User fazendo denúncia
 
 * [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) fazendo [host](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid) de uma outra [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
 
