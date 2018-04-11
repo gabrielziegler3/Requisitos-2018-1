@@ -17,7 +17,7 @@
 
 * [C005](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-005) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clipando uma jogada
 
-* [C006](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-006) - Streamer
+* [C006](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-006) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 * [C007](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-007) - Permaban
 
@@ -31,7 +31,7 @@
 
 * [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012) - Denúncia
 
-* [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013) - Streamer fazendo [host](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid) de uma outra stream
+* [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) fazendo [host](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid) de uma outra stream
 
 * [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014) - Fechar stream
 
