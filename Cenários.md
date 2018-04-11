@@ -5,6 +5,7 @@
 |10/04/2018|1.2|Revisão|João Carlos, Filipe Dias|
 |10/04/2018|1.3|Hyperlink léxico|João Carlos|
 |10/04/2018|1.4|Revisão & Hyperlink léxico|Filipe Dias|
+|10/04/2018|1.5|Adição de cenários|Gustavo Carvalho|
 
 ## Cenários
 
@@ -47,3 +48,11 @@
 * [C019](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-019) - Acessar videos postados em um canal.
 
 * [C020](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-020) -  Acessar [clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes) postados em um canal.
+
+* [C021](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-021) - Mandar [sussuro](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper).
+
+* [C022](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-022) - Fazer Postagem.
+
+* [C023](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-023) - Atualizar dados de perfil.
+
+* [C024](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-024) - Mudar idioma da Twitch.
