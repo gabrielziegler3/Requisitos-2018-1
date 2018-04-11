@@ -25,7 +25,7 @@ Termos e palavras cobertos por esta técnica:
   * [Subscriber](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscriber)
   * [Canais em Destaque](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Canais-em-Destaque)
   * [Loot Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Loot-Prime)
-  * [Go Live Notification](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Go-Live_Notification)
+  * [Live Notification](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Live_Notification)
   * [Group Chat](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat)
   * [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
   * [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
