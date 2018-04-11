@@ -62,3 +62,24 @@
 * [C025](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
 
 * [C026](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-026) - Criar coleções.
+
+________________________
+
+### Palavras chave 🔑:
+* Dispositivo eletrônico = Computador, celular ou similar
+* Periféricos = Mouse, teclado, tela touch ou similar 
+* Transmissão de imagem = Monitor ou similar
+* v1 = Primeira vertente do cenário (caminho 1)
+* v2 = Segunda vertente do cenário (caminho 2) 
+
+<div align="justify">
+
+> * Cheering = Cheering é uma nova maneira de mostrar seu apoio aos streamers e celebrar os momentos que você ama com a comunidade. Tudo isso no bate-papo. Um Cheer é uma mensagem de bate-papo que usa Bits, emoticons animados evoluídos que você pode comprar. Bit Emoticons podem ser usados um a um, todos de uma vez ou como você quiser. Usar vários de uma só vez mostra mais apoio e cria emoticons mais legais! _[Fonte](https://help.twitch.tv/customer/pt_br/portal/articles/2449458-guia-do-cheering-beta-)_
+
+</div>
+<div align="center">
+
+![Alt Text](http://i.imgur.com/Pnw2fs9.gif)
+
+</div>
+
