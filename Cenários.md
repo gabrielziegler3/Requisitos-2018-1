@@ -12,7 +12,7 @@
 
 * [C002](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-002) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) se cadastrando na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
 
-* [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follower) em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-follow) em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
 * [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscriber) em um canal
 
