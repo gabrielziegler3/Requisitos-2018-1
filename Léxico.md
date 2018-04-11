@@ -9,12 +9,13 @@
 |09/04/2018|1.6|Adição de Página Donate, Streaming e Hyperlinking destas|Thiago Ferreira|
 |10/04/2018|1.7|Adição de léxicos para Subscriber|João Carlos|
 |10/04/2018|1.8|Adição de Páginação para as tabelas Canais em Destaque, Loot Prime, Go Live Notification e Group Chat, assim como o Hyperlinking destas. Criação do Léxico para Ban|Thiago Ferreira|
-|10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e MOD|Gustavo Carvalho|
+|10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e Moderador|Gustavo Carvalho|
+|10/04/2018|1.10|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
 * Objeto
-  * [MODs](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/MODs)
+  * [Moderador](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Moderador)
   * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
   * [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
@@ -32,6 +33,7 @@ Termos e palavras cobertos por esta técnica:
   * [Usuário Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Usuario-Prime)
   * [Follower](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follower)
   * [Emote](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Emotes)
+  * [Mods](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Mods)
 
 * Verbo
   * [Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow)
