@@ -25,7 +25,7 @@
 * [C007](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-007) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
  dando um ban ou permaban
 
-* [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008) - [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
+* [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008) - User fazendo [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
 
 * [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009) - [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
 
