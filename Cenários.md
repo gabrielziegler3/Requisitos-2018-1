@@ -14,7 +14,7 @@
 
 * [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-follow) em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
 
-* [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscriber) em um canal
+* [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe) em um canal
 
 * [C005](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-005) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clipando uma jogada
 
