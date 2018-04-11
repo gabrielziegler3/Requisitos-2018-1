@@ -1,4 +1,4 @@
-# Cenário 004 - Usuário mudando o idioma da página.
+# Cenário 024 - Usuário mudando o idioma da página.
 
 ## Título
 * Mudar tradução
@@ -7,7 +7,7 @@
 * Mudar tradução da página para a de desejo do usuário.
 
 ## Contexto
-* Pessoa não consegue compreender o idioma em da página em questão.
+* Pessoa não consegue compreender o idioma da página em questão.
 
 ## Ator(es)
 * Usuário
