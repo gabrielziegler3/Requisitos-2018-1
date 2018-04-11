@@ -59,3 +59,5 @@
 * [C024](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-024) - Mudar idioma da Twitch.
 
 * [C025](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
+
+* [C026](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-026) - Criar coleções.
