@@ -1,4 +1,3 @@
-## Viewer
 
 **Sinônimos:** 
 * espectador
@@ -6,7 +5,7 @@
 * viewers.
 
 **Noção:** 
-* Indivíduo que assiste a uma stream ou transmição
+* Indivíduo que assiste a uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream).
 
 **Impacto:**
-* Realiza as tarefas: assistir stream,[dar follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow) , subscribe, [whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper), cheer.
+* Realiza as tarefas: assistir [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream),[dar follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow) , [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe), [whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper), [cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer).
