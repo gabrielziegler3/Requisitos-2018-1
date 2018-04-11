@@ -7,42 +7,42 @@
 
 ## Cenários
 
-* [C001](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
+* [C001](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma stream
 
-* [C002](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-002)
+* [C002](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-002) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) se cadastrando na Twitch
 
-* [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003)
+* [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando follow em um Streamer
 
-* [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004)
+* [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando subscribe em um canal
 
-* [C005](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-005)
+* [C005](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-005) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clipando uma jogada
 
-* [C006](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-006)
+* [C006](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-006) - Streamer
 
-* [C007](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-007)
+* [C007](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-007) - Permaban
 
-* [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008)
+* [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008) - Donate
 
-* [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009)
+* [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009) - Bits
 
-* [C010](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-010)
+* [C010](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-010) - Adicionando amigos
 
-* [C011](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-011)
+* [C011](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-011) - Pagamento
 
-* [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012)
+* [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012) - Denúncia
 
-* [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013)
+* [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013) - Streamer fazendo host de uma outra stream
 
-* [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014)
+* [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014) - Fechar stream
 
-* [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015)
+* [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015) - Login
 
-* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016)
+* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016) - MODs
 
-* [C017](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-017)
+* [C017](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-017) - Anúncio
 
-* [C018](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-018)
+* [C018](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-018) - Catálogo
 
-* [C019](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-019)
+* [C019](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-019) - Acessar videos postados em um canal.
 
-* [C020](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-020)
+* [C020](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-020) -  Acessar clipes postados em um canal.
