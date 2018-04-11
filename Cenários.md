@@ -27,7 +27,7 @@
 
 * [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008) - User fazendo [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
 
-* [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009) - [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
+* [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009) - User doando [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
 
 * [C010](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-010) - Adicionando amigos
 
