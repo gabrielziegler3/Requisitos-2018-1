@@ -1,4 +1,4 @@
-# Cenário 017 Anúncio
+# Cenário 017 - Anúncio
 
 ## Título 
 * Monetização através de anúncio.
