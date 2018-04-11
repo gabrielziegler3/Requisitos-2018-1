@@ -1,4 +1,4 @@
-# Cenário 018 Catálogo
+# Cenário 018 - Catálogo
 	
 ## Título
 * Obter lista de jogos.
