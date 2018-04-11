@@ -16,7 +16,7 @@
 Termos e palavras cobertos por esta técnica:
 * Objeto
   * [Moderador](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Moderador)
-  * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+  * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)
   * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
   * [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
   * [Bot](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bot)
