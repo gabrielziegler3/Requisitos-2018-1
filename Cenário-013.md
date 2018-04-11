@@ -1,5 +1,4 @@
-# Cenário 013 - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
- fazendo host de uma outra stream
+# Cenário 013 - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) fazendo host de uma outra stream
 
 ## Título
 * Hosteando outra stream
