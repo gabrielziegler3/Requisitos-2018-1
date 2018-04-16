@@ -10,67 +10,67 @@
 
 ## Cenários
 
-* [C001](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+* [C001](Cenário-001) - [Viewer](Viewer) assistindo uma [stream](Stream)
 
-* [C002](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-002) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) se cadastrando na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
+* [C002](Cenário-002) - [Viewer](Viewer) se cadastrando na [Twitch](Twitch)
 
-* [C003](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-003) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-follow) em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [C003](Cenário-003) - [Viewer](Viewer) dando [follow](Dar-follow) em um [Streamer](L%C3%A9xico-Streamer)
 
-* [C004](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-004) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe) em um canal
+* [C004](Cenário-004) - [Viewer](Viewer) dando [subscribe](Subscribe) em um canal
 
-* [C005](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-005) - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clipando uma jogada
+* [C005](Cenário-005) - [Viewer](Viewer) clipando uma jogada
 
-* [C006](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-006) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) fazendo uma stream
+* [C006](Cenário-006) - [Streamer](L%C3%A9xico-Streamer) fazendo uma stream
 
-* [C007](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-007) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [C007](Cenário-007) - [Streamer](L%C3%A9xico-Streamer)
  dando um ban ou permaban
 
-* [C008](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-008) - User fazendo [Donate](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)
+* [C008](Cenário-008) - User fazendo [Donate](Donate)
 
-* [C009](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-009) - User doando [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)
+* [C009](Cenário-009) - User doando [Bits](Bits)
 
-* [C010](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-010) - Adicionando amigos
+* [C010](Cenário-010) - Adicionando amigos
 
-* [C011](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-011) - Configurando Pagamento
+* [C011](Cenário-011) - Configurando Pagamento
 
-* [C012](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-012) - User fazendo denúncia
+* [C012](Cenário-012) - User fazendo denúncia
 
-* [C013](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-013) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) fazendo [host](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Raid) de uma outra [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+* [C013](Cenário-013) - [Streamer](L%C3%A9xico-Streamer) fazendo [host](Raid) de uma outra [stream](Stream)
 
-* [C014](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-014) - Fechar [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+* [C014](Cenário-014) - Fechar [stream](Stream)
 
-* [C015](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-015) - User fazendo Login
+* [C015](Cenário-015) - User fazendo Login
 
-* [C016](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-016) - [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) selecionando [moderadores](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Moderador)
+* [C016](Cenário-016) - [Streamer](L%C3%A9xico-Streamer) selecionando [moderadores](Moderador)
 
-* [C017](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-017) - Anunciando na [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)
+* [C017](Cenário-017) - Anunciando na [Stream](Stream)
 
-* [C018](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-018) - Catálogo de Jogos
+* [C018](Cenário-018) - Catálogo de Jogos
 
-* [C019](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-019) - Acessar videos postados em um canal.
+* [C019](Cenário-019) - Acessar videos postados em um canal.
 
-* [C020](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-020) -  Acessar [clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes) postados em um canal.
+* [C020](Cenário-020) -  Acessar [clipes](Clipes) postados em um canal.
 
-* [C021](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-021) - Mandar [sussuro](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper).
+* [C021](Cenário-021) - Mandar [sussuro](Whisper).
 
-* [C022](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-022) - Fazer Postagem.
+* [C022](Cenário-022) - Fazer Postagem.
 
-* [C023](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-023) - Atualizar dados de perfil.
+* [C023](Cen%C3%A1rio-023) - Atualizar dados de perfil.
 
-* [C024](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-024) - Mudar idioma da Twitch.
+* [C024](Cen%C3%A1rio-024) - Mudar idioma da Twitch.
 
-* [C025](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
+* [C025](Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
 
-* [C026](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-026) - Criar coleções.
+* [C026](Cen%C3%A1rio-026) - Criar coleções.
 
 ________________________
 
 ### Palavras chave 🔑:
 * Dispositivo eletrônico = Computador, celular ou similar
-* Periféricos = Mouse, teclado, tela touch ou similar 
+* Periféricos = Mouse, teclado, tela touch ou similar
 * Transmissão de imagem = Monitor ou similar
 * v1 = Primeira vertente do cenário (caminho 1)
-* v2 = Segunda vertente do cenário (caminho 2) 
+* v2 = Segunda vertente do cenário (caminho 2)
 
 <div align="justify">
 
@@ -82,4 +82,3 @@ ________________________
 ![Alt Text](http://i.imgur.com/Pnw2fs9.gif)
 
 </div>
-
