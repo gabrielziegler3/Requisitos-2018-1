@@ -10,8 +10,8 @@
 > * Dessa forma, devem ser valorizados modelos simples, claros, com notações adequadas e objetivas
 
 ## Propostas de Modelagem
-* [Cenários](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenários)
-* [Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Léxico)
+* [Cenários](Cenários)
+* [Léxicos](Léxico)
 
 ## Refêrencias
 * SERRANO, M., Requisitos - Aula 10. Elicitação, Modelagem, Análise
