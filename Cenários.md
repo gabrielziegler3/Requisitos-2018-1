@@ -57,11 +57,19 @@
 
 * [C023](Cen%C3%A1rio-023) - Atualizar dados de perfil.
 
-* [C024](Cen%C3%A1rio-024) - Mudar idioma da Twitch.
+* [C024](Cen%C3%A1rio-024) - Mudar idioma da [Twitch](Twitch).
 
-* [C025](Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
+* [C025](Cen%C3%A1rio-025) - Se tornar parceiro [Twitch](Twitch).
 
 * [C026](Cen%C3%A1rio-026) - Criar coleções.
+
+* [C027](Cenário-027) - [Streamer](Streamer)/[Moderador](Moderador) dá [ban](Ban) em [viewer](Viewer).
+
+* [C028](Cenário-028) - [Streamer](Streamer) muda o nome de sua [Transmissão](Stream).
+
+* [C029](Cenário-029) - [Streamer](Streamer) inicia uma [Stream](Stream)
+
+
 
 ________________________
 
