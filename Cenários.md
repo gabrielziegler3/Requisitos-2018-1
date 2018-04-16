@@ -7,6 +7,7 @@
 |10/04/2018|1.4|Revisão & Hyperlink léxico|Filipe Dias|
 |10/04/2018|1.5|Adição de cenários|Gustavo Carvalho|
 |11/04/2018|1.6|Adição de cenários|Amanda Pires|
+|16/04/2018|1.7|Adição dos cenários 27,28 e 29|Thiago Ferreira|
 
 ## Cenários
 
@@ -63,7 +64,13 @@
 
 * [C026](Cenário-026) - Criar coleções.
 
-* [C027](Cenário-027) - [Viewer](Viewer) compartilha uma [stream](Stream).
+* [C027](Cenário-027) - [Streamer](Streamer)/[Moderador](Moderador) dá [ban](Ban) em [viewer](Viewer).
+
+* [C028](Cenário-028) - [Streamer](Streamer) muda o nome de sua [Transmissão](Stream).
+
+* [C029](Cenário-029) - [Streamer](Streamer) inicia uma [Stream](Stream)
+
+* [C030](Cenário-030) - [Viewer](Viewer) compartilha uma [stream](Stream).
 
 ________________________
 

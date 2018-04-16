@@ -31,7 +31,7 @@ Termos e palavras cobertos por esta técnica:
   * [Twitch](Twitch)
   * [Stream](Stream)
   * [Twitch Prime](Twitch-Prime)
-  * [Usuário Prime](Usuario-Prime)
+  * [Usuário Prime](Usuário-Prime)
   * [Follower](Follower)
   * [Emote](Emotes)
   * [Mods](Mods)
