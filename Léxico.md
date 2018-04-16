@@ -7,10 +7,11 @@
 |09/04/2018|1.4|Adição de léxicos para Go Live Notification e Group chat|Amanda Pires|
 |09/04/2018|1.5|Criação dos Hyperlink ligando os léxicos existentes|Gustavo Carvalho|
 |09/04/2018|1.6|Adição de Página Donate, Streaming e Hyperlinking destas|Thiago Ferreira|
-|10/04/2018|1.7|Adição de léxicos para Subscriber|João Carlos|
+|10/04/2018|1.7|Adição de léxico Subscriber|João Carlos|
 |10/04/2018|1.8|Adição de Páginação para as tabelas Canais em Destaque, Loot Prime, Go Live Notification e Group Chat, assim como o Hyperlinking destas. Criação do Léxico para Ban|Thiago Ferreira|
 |10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e Moderador|Gustavo Carvalho|
 |10/04/2018|1.10|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
+|16/04/2018|2.0|Adição do léxico Creative e organização do artefato|Gabriel Ziegler|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
