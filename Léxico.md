@@ -34,6 +34,7 @@ Termos e palavras cobertos por esta técnica:
   * [Follower](Follower)
   * [Emote](Emotes)
   * [Mods](Mods)
+  * [Creative](Creative)
 
 * Verbo
   * [Dar Follow](Dar-Follow)
