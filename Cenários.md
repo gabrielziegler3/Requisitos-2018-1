@@ -18,7 +18,7 @@
 
 * [C004](Cenário-004) - [Viewer](Viewer) dando [subscribe](Subscribe) em um canal
 
-* [C005](Cenário-005) - [Viewer](Viewer) clipando uma jogada
+* [C005](Cenário-005) - [Viewer](Viewer) [clipando](Clipes) uma jogada
 
 * [C006](Cenário-006) - [Streamer](L%C3%A9xico-Streamer) fazendo uma stream
 
@@ -49,19 +49,21 @@
 
 * [C019](Cenário-019) - Acessar videos postados em um canal.
 
-* [C020](Cenário-020) -  Acessar [clipes](Clipes) postados em um canal.
+* [C020](Cenário-020) - Acessar [clipes](Clipes) postados em um canal.
 
 * [C021](Cenário-021) - Mandar [sussuro](Whisper).
 
 * [C022](Cenário-022) - Fazer Postagem.
 
-* [C023](Cen%C3%A1rio-023) - Atualizar dados de perfil.
+* [C023](Cenário-023) - Atualizar dados de perfil.
 
-* [C024](Cen%C3%A1rio-024) - Mudar idioma da Twitch.
+* [C024](Cenário-024) - Mudar idioma da Twitch.
 
-* [C025](Cen%C3%A1rio-025) - Se tornar parceiro Twitch.
+* [C025](Cenário-025) - Se tornar parceiro Twitch.
 
-* [C026](Cen%C3%A1rio-026) - Criar coleções.
+* [C026](Cenário-026) - Criar coleções.
+
+* [C027](Cenário-027) - [Viewer](Viewer) compartilha uma [stream](Stream).
 
 ________________________
 
