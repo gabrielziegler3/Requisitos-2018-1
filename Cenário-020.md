@@ -1,6 +1,6 @@
 # Cenário 020 - Acessar clipes postados em um canal.
 
-## Título 
+## Título
 * Acessar clipes postados em um canal.
 
 ## Objetivo
@@ -22,5 +22,5 @@
 ## Episódios
 * User acessa um canal
 * User seleciona a aba ```Clipes```
-* User seleciona o Clip específico
-* User assiste o Clip da stream
+* User seleciona o clipe específico
+* User assiste o clipe da stream
