@@ -36,3 +36,5 @@
 * [Cenários](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenários)
 
 ***
+
+### Análise
