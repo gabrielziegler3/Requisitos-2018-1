@@ -34,10 +34,15 @@
 
 * [Léxico](Léxico)
 * [Cenários](Cenários)
+* [Especificação de Casos de Uso](Especificação-de-Casos-de-Uso)
+* [Especificação Suplementar](Especificação-Suplementar)
+* [Diagramas de Casos de Uso](Diagramas-de-Casos-de-Uso)
 
 ***
 
 ### Análise
 
-* [Cheklist]()
-* [Processo de Verificação e Validação]()
+* [Checklist](Checklist)
+* [Processo de Verificação e Validação](Processo-de-Verificação-e-Validação)
+
+
