@@ -7,6 +7,7 @@
 |10/04/2018|1.4|Revisão & Hyperlink léxico|Filipe Dias|
 |10/04/2018|1.5|Adição de cenários|Gustavo Carvalho|
 |11/04/2018|1.6|Adição de cenários|Amanda Pires|
+|16/04/2018|1.7|Adição dos cenários 27,28 e 29|Thiago Ferreira|
 
 ## Cenários
 
