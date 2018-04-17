@@ -8,6 +8,7 @@
 |10/04/2018|1.5|Adição de cenários|Gustavo Carvalho|
 |11/04/2018|1.6|Adição de cenários|Amanda Pires|
 |16/04/2018|1.7|Adição dos cenários 27,28 e 29|Thiago Ferreira|
+|16/04/2018|1.8|Ajustes no artefato e adição dos cenários 30|Gabriel Ziegler|
 
 ## Cenários
 
@@ -70,7 +71,7 @@
 
 * [C029](Cenário-029) - [Streamer](Streamer) inicia uma [Stream](Stream)
 
-* [C030](Cenário-030) - [Viewer](Viewer) compartilha uma [stream](Stream).
+* [C030](Cenário-030) - Usuário compartilha uma [stream](Stream).
 
 ________________________
 
