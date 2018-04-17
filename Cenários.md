@@ -27,21 +27,21 @@
 * [C007](Cenário-007) - [Streamer](L%C3%A9xico-Streamer)
  dando um ban ou permaban
 
-* [C008](Cenário-008) - User fazendo [Donate](Donate)
+* [C008](Cenário-008) - Usuário fazendo [Donate](Donate)
 
-* [C009](Cenário-009) - User doando [Bits](Bits)
+* [C009](Cenário-009) - Usuário doando [Bits](Bits)
 
 * [C010](Cenário-010) - Adicionando amigos
 
 * [C011](Cenário-011) - Configurando Pagamento
 
-* [C012](Cenário-012) - User fazendo denúncia
+* [C012](Cenário-012) - Usuário fazendo denúncia
 
 * [C013](Cenário-013) - [Streamer](L%C3%A9xico-Streamer) fazendo [host](Raid) de uma outra [stream](Stream)
 
 * [C014](Cenário-014) - Fechar [stream](Stream)
 
-* [C015](Cenário-015) - User fazendo Login
+* [C015](Cenário-015) - Usuário fazendo Login
 
 * [C016](Cenário-016) - [Streamer](L%C3%A9xico-Streamer) selecionando [moderadores](Moderador)
 
