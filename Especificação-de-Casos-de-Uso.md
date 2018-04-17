@@ -1,6 +1,6 @@
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
-17/08/2017|0.1|Criação do documento|Thiago Ferreira|
+17/04/2018|1.0|Criação do documento e adição dos Casos de Uso e do Objetivo do Documento|Thiago Ferreira|
 
 
 ## Objetivo do Documento
@@ -10,7 +10,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 ## Casos de Uso 
 
 * [UC01 - Visualização de Stream](Visualização-de-Stream)
-* [UC02 - Banir Viewer](Banir-Viewer)
+* [UC02 - Transmissão Multimídia](Transmissão-Multimídia)
 * [UC03 - Criação de Conta](Criação-de-Conta)
 * [UC04 - Inscrição em Canal](Inscrição-em-Canal)
 * [UC05 - Doação de Bits](Doação-de-Bits)
@@ -22,4 +22,14 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC11 - Adição de Add-ons em Jogos](Adição-de-Add-ons-em-Jogos)
 * [UC12 - Chat de Voz](Chat-de-Voz)
 * [UC13 - Transmissão de Ads](Transmissão-de-Ads)
-* [UC13 - Assinatura Twitch Prime](Assinatura-Twitch-Prime)
+* [UC14 - Assinatura Twitch Prime](Assinatura-Twitch-Prime)
+* [UC15 - Alterar Nome da Stream](Alterar-Nome-da-Stream)
+* [UC16 - Seguir Canal](Seguir-Canal)
+* [UC17 - Banir Viewer](Banir-Viewer)
+* [UC18 - Adição de Amigo](Adição-de-Amigo)
+* [UC19 - Alteração do Nome da Transmissão](Alteração-do-Nome-da-Transmissão)
+* [UC20 - Adição de Jogo ao Catálogo](Adição-de-Jogo-ao-Catálogo)
+* [UC21 - Criação de Vídeo](Criação-de-Vídeo)
+* [UC22 - Hosting](Hosting)
+* [UC23 - Análise de Canal](Análise-de-Canal)
+
