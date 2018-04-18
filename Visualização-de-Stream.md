@@ -43,7 +43,7 @@
 
 ### Fluxo de Exceção
 
-[FE01] - O Player da Stream apresenta um erro
+#### FE01 - O Player da Stream apresenta um erro
 * 1. O Usuário está assistindo a uma stream
 * 2. O player da stream apresenta um erro
 * 3. O Usuário refresca a página ou sai da stream
