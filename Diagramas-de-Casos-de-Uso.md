@@ -1,0 +1,27 @@
+Data|Versão|Descrição|Autor
+-----|------|---------|-------
+17/04/2018|1.0|Criação do documento e adição dos Casos de Uso|João Carlos|
+ 
+* [UC01 - Visualização de Stream](Diagrama-Visualização-de-Stream)
+* [UC02 - Transmissão Multimídia](Diagrama-Transmissão-Multimídia)
+* [UC03 - Criação de Conta](Diagrama-Criação-de-Conta)
+* [UC04 - Inscrição em Canal](Diagrama-Inscrição-em-Canal)
+* [UC05 - Doação de Bits](Diagrama-Doação-de-Bits)
+* [UC06 - Compra de Bits](Diagrama-Compra-de-Bits)
+* [UC07 - Cadastro de Usuário](Diagrama-Cadastro-de-Usuário)
+* [UC08 - Geração de Token do Streamer](Diagrama-Geração-de-Token-do-Streamer)
+* [UC09 - Mensagens Privadas](Diagrama-Mensagens-Privadas)
+* [UC10 - Restrições de Chat](Diagrama-Restrições-de-Chat)
+* [UC11 - Adição de Add-ons em Jogos](Diagrama-Adição-de-Add-ons-em-Jogos)
+* [UC12 - Chat de Voz](Diagrama-Chat-de-Voz)
+* [UC13 - Transmissão de Ads](Diagrama-Transmissão-de-Ads)
+* [UC14 - Assinatura Twitch Prime](Diagrama-Assinatura-Twitch-Prime)
+* [UC15 - Alterar Nome da Stream](Diagrama-Alterar-Nome-da-Stream)
+* [UC16 - Seguir Canal](Diagrama-Seguir-Canal)
+* [UC17 - Banir Viewer](Diagrama-Banir-Viewer)
+* [UC18 - Adição de Amigo](Diagrama-Adição-de-Amigo)
+* [UC19 - Alteração do Nome da Transmissão](Diagrama-Alteração-do-Nome-da-Transmissão)
+* [UC20 - Adição de Jogo ao Catálogo](Diagrama-Adição-de-Jogo-ao-Catálogo)
+* [UC21 - Criação de Vídeo](Diagrama-Criação-de-Vídeo)
+* [UC22 - Hosting](Diagrama-Hosting)
+* [UC23 - Análise de Canal](Diagrama-Análise-de-Canal)
