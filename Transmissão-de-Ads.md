@@ -18,9 +18,10 @@
 * 3. O caso se encerra
 
 ### Fluxos Alternativos
-*
+* Não se aplica
 
 ### Fluxo de Exceção
+* Não se aplica
 
 ## Pós-condição
 * O streamer começa a arrecadar baseado na visualização dos anúncios
