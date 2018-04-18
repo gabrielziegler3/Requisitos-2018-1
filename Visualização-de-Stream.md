@@ -29,15 +29,15 @@
 * 1. O Usuário abre o aplicativo.
 * 2. O Usuário retorna ao passo 2 do fluxo principal.
 
-### FA03 - O Usuário procura a stream através da barra de busca.
+#### FA03 - O Usuário procura a stream através da barra de busca.
 * 1. O Usuário procura o jogo através da barra de buscas.
 * 2. O Usuário retorna ao passo 4 do fluxo principal.
 
-### FA04 - O Usuário seleciona uma stream dos canais em destaque.
+#### FA04 - O Usuário seleciona uma stream dos canais em destaque.
 * 1. O Usuário escolhe uma stream dos streamers em destaque.
 * 2. O Usuário retorna ao passo 4.
 
-### FA05 - O Usuário escolhe uma stream, dos canais que ele segue
+#### FA05 - O Usuário escolhe uma stream, dos canais que ele segue
 * 1. O Usuário escolhe uma stream dos canais seguidos.
 * 2. O Usuário retorna ao passo 4.
 
