@@ -1,4 +1,5 @@
 # UC14 - Alterar Nome da Stream
+### [Diagrama - Alterar Nome da Stream](Diagrama-Alterar-Nome-da-Stream)
 ## Descrição
 * Este caso de uso descreve como um streamer pode modificar o nome da sua stream.
 
