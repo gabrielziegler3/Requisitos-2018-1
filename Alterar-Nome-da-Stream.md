@@ -1,21 +1,21 @@
-# UC15 - Seguir Canal
-### [Diagrama seguir Canal](Diagrama-Seguir-Canal)
+# UC14 - Alterar Nome da Stream
 ## Descrição
-* Este caso de uso descreve como seguir um determinado canal.
+* Este caso de uso descreve como um streamer pode modificar o nome da sua stream.
 
 ## Atores
-* Usuário.
+* Streamer.
 
 ## Pré-condições
 * O usuário deve ter acesso à internet.
 * E logado na twitch.
+* Efetuando uma transmissão.
 
 ## Fluxo de Eventos
 ### Fluxo Principal
-* 1. O Usuário acessa o site da Twitch.
-* 2. O Usuário seleciona um canal que gostaria de seguir.
-* 3. O Usuário clica no botão de seguir.
-* 4. O caso de uso se encerra.
+* 1. O Usuário com stream ativa.
+* 2. Seleciona a opção mudar o nome da stream.
+* 3. Salva o nome.
+* 4. Fim do caso de uso 
 
 ### Fluxos Alternativos
 #### FA01 - O Usuário acessa a plataforma Desktop da Twitch
