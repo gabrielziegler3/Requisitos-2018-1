@@ -25,12 +25,12 @@
 * 2. O futuro usuário autoriza o uso do Facebook por parte da Twitch .
 
 ### Fluxo de Exceção
-#### [FE01] - O futuro usuário não preenche os dados corretamente
+#### FE01 - O futuro usuário não preenche os dados corretamente
 * 1. O futuro usuário preenche os campos incorretamente
 * 2. O futuro usuário clica em confirmar
 * 3. Uma mensagem na tela avisa que o cadastro não foi efetivado
 
-#### [FE01] - O futuro usuário deixa de preencher algum campo
+#### FE01 - O futuro usuário deixa de preencher algum campo
 * 1. O futuro usuário deixa de preencher algum campo
 * 2. O futuro usuário clica em confirmar
 * 3. Uma mensagem na tela avisa que o campo é necessário
