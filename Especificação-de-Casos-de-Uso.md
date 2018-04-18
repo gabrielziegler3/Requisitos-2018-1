@@ -2,6 +2,7 @@ Data|Versão|Descrição|Autor
 -----|------|---------|-------
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso e do Objetivo do Documento|Thiago Ferreira|
 18/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
+19/04/2018|1.2|Adição dos UC 01,02,04,09,10 e 11 e algumas outras alterações aos UC feitos por outros membros|Thiago Ferreira
 
 ## Objetivo do Documento
 O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
@@ -27,8 +28,8 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC16 - Banir Viewer](Banir-Viewer)
 * [UC17 - Adição de Amigo](Adição-de-Amigo)
 * [UC18 - Alteração do Nome da Transmissão](Alteração-do-Nome-da-Transmissão)
-* [UC19 - Adição de Jogo ao Catálogo](Adição-de-Jogo-ao-Catálogo)
+* [UC19 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
 * [UC20 - Criação de Vídeo](Criação-de-Vídeo)
 * [UC21 - Hosting](Hosting)
 * [UC22 - Análise de Canal](Análise-de-Canal)
-* [UC23 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
+
