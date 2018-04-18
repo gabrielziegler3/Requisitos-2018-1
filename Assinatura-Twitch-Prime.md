@@ -6,7 +6,6 @@
 
 ## Atores
 * Usuário Twitch
-* Parceiro ou afiliado
 
 ## Pré-condições
 * O usuário deve ter acesso à internet
