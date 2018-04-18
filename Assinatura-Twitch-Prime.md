@@ -32,12 +32,22 @@
 * 2. O usuário conecta a conta na Amazon a conta no Twitch.
 * 3. O usuário é um Twitch Prime.
 
-#### FA02 - Usuário atual membro do Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
+#### FA03 - Usuário atual membro do Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
 
 * 1. O usuário cria uma conta na Amazon.
 * 2. O usuário acessa o Twitch Prime e clica em "Comece a sua avaliação gratuit" a para conectar a conta do Prime Video com a da Twitch.
 * 3. Depois de conectado, é um Twich Prime.
 
+#### FA04 - Usuário  não é membro do Amazon Prime nem membro do Amazon Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
+
+* 1. O usuário cria uma conta na Amazon Prime Video.
+* 2. O usuário faz login na conta da Amazon.
+* 3. O usuário faz login na conta do Twitch.
+* 4. O usuário conecta a conta da Amazon a da Twitch.
+
 ### Fluxo de Exceção
+* 1. O Usuário digita algum dado do cartão inválido na hora de cadastrar na Amazon (Erro ne negócio - deve ser tratado).
+* 2. O usuário insere o login ou senha errados na hora do login (Erro de negócio).
+* 3. O Usuário perde conexão com a internet.
 
 ## Pós-condição
