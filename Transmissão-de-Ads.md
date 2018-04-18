@@ -23,4 +23,4 @@
 ### Fluxo de Exceção
 
 ## Pós-condição
-*
+* O streamer começa a arrecadar baseado na visualização dos anúncios
