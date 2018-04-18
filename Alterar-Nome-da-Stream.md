@@ -8,12 +8,11 @@
 ## Pré-condições
 * O usuário deve ter acesso à internet.
 * E logado na twitch.
-* Efetuando uma transmissão.
 
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O Usuário com stream ativa.
-* 2. Seleciona a opção mudar o nome da stream.
+* 2. Vai no campo titulo insere o novo nome.
 * 3. Salva o nome.
 * 4. Fim do caso de uso 
 
