@@ -16,7 +16,7 @@
 * 4. O usuário convidado aceita o convite
 * 5. O caso de uso se encerra
 ### Fluxos Alternativos
-####FA01 - O usuário entra em uma sala de chamada de um servidor
+#### FA01 - O usuário entra em uma sala de chamada de um servidor
 * 1. O usuário entra na sala de um servidor
 * 2. O usuário retorna ao item 5 do fluxo principal
 
