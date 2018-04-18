@@ -1,7 +1,7 @@
 # UC09 - Restrições de Chat
 
 ## Descrição
-* 1. Usuário aplica filtro de acesso ao chat
+* Usuário aplica filtro de acesso ao chat
 
 ## Atores
 * Usuário 
