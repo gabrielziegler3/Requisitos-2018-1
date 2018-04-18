@@ -7,7 +7,7 @@ Data|Versão|Descrição|Autor
 O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
 Este documento contém os casos de uso levantados pela equipe para a plataforma Twitch, em prol da disciplina de requisitos de software.
 
-## Casos de Uso 
+## Casos de Uso
 
 * [UC01 - Visualização de Stream](Visualização-de-Stream)
 * [UC02 - Transmissão Multimídia](Transmissão-Multimídia)
@@ -31,3 +31,4 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC20 - Criação de Vídeo](Criação-de-Vídeo)
 * [UC21 - Hosting](Hosting)
 * [UC22 - Análise de Canal](Análise-de-Canal)
+* [UC23 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
