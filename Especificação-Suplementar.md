@@ -121,3 +121,5 @@ que é utilizada na maior parte dos produtos de software desenvolvidos com boa q
 ![Software Product Quality ](http://iso25000.com/images/figures/en/iso25010.png)
 
 <h1> 8. Observações Legais, Direitos Autorais </h1>
+
+[Twitch copyright](https://www.twitch.tv/p/legal/dmca-guidelines/)
