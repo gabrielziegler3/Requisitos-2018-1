@@ -51,3 +51,4 @@
 * 3. O Usuário perde conexão com a internet.
 
 ## Pós-condição
+* Não se aplica.
