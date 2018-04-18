@@ -14,7 +14,7 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O streamer abre a stream
-* 2. A stream automaticamente gera anúncios para o streamer [FE01]
+* 2. A stream automaticamente gera anúncios para o streamer 
 * 3. O caso se encerra
 
 ### Fluxos Alternativos
