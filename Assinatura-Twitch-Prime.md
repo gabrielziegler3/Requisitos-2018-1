@@ -14,6 +14,10 @@
 
 ## Fluxo de Eventos
 ### Fluxo Principal
+* 1. O usuário acessa o site da Twitch
+* 2. O usuário faz login.
+* 3. O usuário clica em iniciar um teste gratuito.
+* 4. O usuário conecta sua conta do Twich a sua conta na Amazon.
 
 ### Fluxos Alternativos
 
