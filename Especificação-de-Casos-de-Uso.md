@@ -1,7 +1,7 @@
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso e do Objetivo do Documento|Thiago Ferreira|
-
+18/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
 
 ## Objetivo do Documento
 O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
