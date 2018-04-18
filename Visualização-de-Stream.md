@@ -1,5 +1,7 @@
 # UC01 - Visualização de Stream
 
+### [Diagrama de caso de uso](Diagrama-Visualização-de-Stream)
+
 ## Descrição
 
 * Este caso de uso descreve a visualização de conteúdo multimídia ao vivo.
