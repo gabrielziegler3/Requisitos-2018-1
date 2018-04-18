@@ -1,34 +1,39 @@
-# UC07 - Geração de Token de Streamer
+# UC07 - Geração de Chave de Transmissão
 
 ## Descrição
-* Este caso de uso descreve o processo de gerar um token ao Streamer.
+* Este caso de uso descreve o processo de gerar a chave de transmissão para o usuário.
 
 ## Atores
-* Streamer
+* Usuário
 
 ## Pré-condições
-* O streamer deve ter acesso à internet
-* O streamer deve estar logado na Twitch
+* O usuário deve ter acesso à internet
+* O usuário deve estar logado na Twitch
 
 ## Fluxo de Eventos
 ### Fluxo Principal
-* 1. O streamer acessa o site da Twitch 
-* 2. O streamer seleciona a sessão ```Painel de Controle```
-* 3. Na seção ```Integridade da transmissão``` o streamer seleciona a opção ```Saiba como realizar um teste de transmissão```
-* 4. O streamer seleciona a opção ```Pegue a sua chave de transmissão no Painel de controle do Twitch.```
-* 5. O streamer clica em ```Mostrar chave``` e concorda com os termos [FE01]
-* 6. O streamer visualiza sua Chave de Transmissão
+* 1. O usuário acessa o site da Twitch 
+* 2. O usuário seleciona a sessão ```Painel de Controle``` no dropdown do usuário
+* 3. O usuário vai até a secção de configurações e seleciona ```preferencias de stream``` [FA01]
+* 4. O usuário clica em chave de transmissão
+* 5. O sistema envia uma mensagem de aviso e confirmação
+* 6. O usuário concorda com os termos [FE01]
 * 7. O caso se encerra
 
+
+
 ### Fluxos Alternativos
-* Não se aplica
+* FA01 - O usuário acessa a chave de treanmissão através do teste de integridade da transmissão
+* 1. Na seção ```Integridade da transmissão``` o streamer seleciona a opção ```Saiba como realizar um teste de transmissão```
+* 2. O usuário seleciona a opção ```Pegue a sua chave de transmissão no Painel de controle do Twitch.```
+* 3. O usuário retorna ao item 4 do fluxo principal.
 
 ### Fluxo de Exceção
 #### FE01 - O streamer não concorda com os termos
 * 1. O streamer faz todo o fluxo até o passo 5
 * 2. O streamer não concorda com os termos
 * 3. O streamer não visualiza a Chave de Transmissão
-* 4. O streamer retorna ao passo 5 dos fluxo principal
+* 4. O caso de uso se encerra
 
 ## Pós-condição
-* Não se aplica
+* O usuário agora possui a chave de transmissão
