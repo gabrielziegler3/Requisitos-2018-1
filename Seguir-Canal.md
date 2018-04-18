@@ -29,6 +29,6 @@
 * 2. Acessa o canal.
 * 4. Clica no ícone de coração.
 
-6. Pós-condição
+## Pós-condição
 
 * 1. Usuário já segue o canal.
