@@ -46,7 +46,7 @@
 * 4. O usuário conecta a conta da Amazon a da Twitch.
 
 ### Fluxo de Exceção
-* 1. O Usuário digita algum dado do cartão inválido na hora de cadastrar na Amazon (Erro ne negócio - deve ser tratado).
+* 1. O Usuário digita algum dado do cartão inválido na hora de cadastrar na Amazon (Erro de negócio - deve ser tratado).
 * 2. O usuário insere o login ou senha errados na hora do login (Erro de negócio).
 * 3. O Usuário perde conexão com a internet.
 
