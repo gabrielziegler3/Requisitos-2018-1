@@ -42,7 +42,7 @@
 * 3. O usuário volta para o passo 2 do fluxo principal
 * 4. O caso de uso se encerra
 
-###FE02 -  O usuário é bloqueado durante a conversa
+### FE02 -  O usuário é bloqueado durante a conversa
 * 1. O usuário encontra-se no item 5 do fluxo principal
 * 2. O usuário destinatário bloqueia o usuário remetente
 * 3. O usuário não pode mais enviar mensagens.
