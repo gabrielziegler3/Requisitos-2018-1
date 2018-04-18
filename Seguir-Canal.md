@@ -1,4 +1,4 @@
-# UC16 - Seguir Canal
+# UC15 - Seguir Canal
 ### [Diagrama seguir Canal](Diagrama-Seguir-Canal)
 ## Descrição
 * Este caso de uso descreve como seguir um determinado canal.
