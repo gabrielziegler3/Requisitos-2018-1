@@ -31,4 +31,4 @@
 
 ## Pós-condição
 
-* 1. Usuário já segue o canal.
+* 1. Usuário segue o canal.
