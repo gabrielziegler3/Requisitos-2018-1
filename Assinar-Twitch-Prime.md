@@ -1,4 +1,4 @@
-# UC13 - Assinatura Twitch Prime
+# UC13 - Assinar Twitch Prime
 
 ### [Diagrama de Caso de Uso](Diagrama-Assinatura-Twitch-Prime)
 
