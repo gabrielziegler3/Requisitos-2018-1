@@ -32,4 +32,3 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC21 - Criação de Vídeo](Criação-de-Vídeo)
 * [UC22 - Hosting](Hosting)
 * [UC23 - Análise de Canal](Análise-de-Canal)
-
