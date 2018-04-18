@@ -4,7 +4,6 @@
 
 ## Descrição
 * Este caso de uso descreve a assinatura no Twitch Prime.
-* O Twitch Prime é uma experiência Premium da Twitch que vem em uma inscrição Amazon Prime ou Amazon Prime Video. O Twitch Prime inclui jogos e conteúdos de jogos, inscrição de canal a cada 30 dias sem custo adicional, que pode ser usada em qualquer canal de Parceiro ou Afiliado, visualização sem anúncios na Twitch, emotes exclusivos e distintivo de bate-papo.
 
 ## Atores
 * Usuário Twitch
@@ -52,4 +51,4 @@
 * 3. O Usuário perde conexão com a internet.
 
 ## Pós-condição
-* Não se aplica.
+* Após o usuário assinar o Twitch Prime, ele terá acesso a jogos e conteúdos de jogos, inscrição de canal a cada 30 dias sem custo adicional, que pode ser usada em qualquer canal de Parceiro ou Afiliado, visualização sem anúncios na Twitch, emotes exclusivos e distintivo de bate-papo.
