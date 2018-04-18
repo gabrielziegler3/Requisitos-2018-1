@@ -24,7 +24,19 @@
 * 1. O usuário vai até a aba "Turbo" em configurações.
 * 2. O clica na opção "Não renovar" no centro da página, ao lado do cronograma de cobrança.
 * 3. Na próxima página, o usuário confirma que deseja cancelar ao clicar no botão "Não renovar".
-* 4. 
+* 4. O usuário volta ao passo 2 do fluxo principal.
+
+#### FA02 - Não é umusuário Turbo nem membro do Amazon Prime, e nem reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
+
+* 1. O usuário cria uma conta na Amazon.
+* 2. O usuário conecta a conta na Amazon a conta no Twitch.
+* 3. O usuário é um Twitch Prime.
+
+#### FA02 - Usuário atual membro do Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
+
+* 1. O usuário cria uma conta na Amazon.
+* 2. O usuário acessa o Twitch Prime e clica em "Comece a sua avaliação gratuit" a para conectar a conta do Prime Video com a da Twitch.
+* 3. Depois de conectado, é um Twich Prime.
 
 ### Fluxo de Exceção
 
