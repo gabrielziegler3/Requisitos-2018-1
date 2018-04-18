@@ -23,7 +23,7 @@
 
 
 ### Fluxos Alternativos
-* FA01 - O usuário acessa a chave de treanmissão através do teste de integridade da transmissão
+#### FA01 - O usuário acessa a chave de treanmissão através do teste de integridade da transmissão
 * 1. Na seção ```Integridade da transmissão``` o streamer seleciona a opção ```Saiba como realizar um teste de transmissão```
 * 2. O usuário seleciona a opção ```Pegue a sua chave de transmissão no Painel de controle do Twitch.```
 * 3. O usuário retorna ao item 4 do fluxo principal.
