@@ -78,4 +78,4 @@
 
 ## Pós-condição
 
-* Não se Aplica
+* O usuário assiste a stream.
