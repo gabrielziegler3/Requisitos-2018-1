@@ -35,7 +35,7 @@
 #### FA03 - Usuário atual membro do Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
 
 * 1. O usuário cria uma conta na Amazon.
-* 2. O usuário acessa o Twitch Prime e clica em "Comece a sua avaliação gratuit" a para conectar a conta do Prime Video com a da Twitch.
+* 2. O usuário acessa o Twitch Prime e clica em "Comece a sua avaliação gratuita" a para conectar a conta do Prime Video com a da Twitch.
 * 3. Depois de conectado, é um Twich Prime.
 
 #### FA04 - Usuário  não é membro do Amazon Prime nem membro do Amazon Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
