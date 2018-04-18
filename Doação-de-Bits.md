@@ -5,9 +5,11 @@
 
 ## Atores
 * Usuário
+* Streamer
 
 ## Pré-condições
 * O usuário deve possuir bits associados à sua conta
+* O streamer em questão deverá estar com uma transmissão ao vivo naquele momento
 
 ## Fluxo de Eventos
 ### Fluxo Principal
@@ -19,10 +21,10 @@
 * 6. O caso se encerra
 
 ### Fluxos Alternativos
-*
+* Não se aplica
 
 ### Fluxo de Exceção
-*
+* Não se aplica
 
 ## Pós-condição
 * O usuário que alvo da doação ganha o dinheiro associado à quantidade de bits recebidos
