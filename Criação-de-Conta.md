@@ -1,7 +1,7 @@
 # UC03 - Criação de Conta
 
 ## Descrição
-* Este caso de uso descreve como uma pessoa pode criar uma conta na Twitch.
+* Este caso de uso descreve como uma pessoa pode [criar uma conta](Criar-Conta) na Twitch.
 
 ## Atores
 * Pessoa não cadastrada na Twitch.
