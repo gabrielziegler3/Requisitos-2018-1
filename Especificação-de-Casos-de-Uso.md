@@ -31,5 +31,4 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC19 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
 * [UC20 - Criação de Vídeo](Criação-de-Vídeo)
 * [UC21 - Hosting](Hosting)
-* [UC22 - Análise de Canal](Análise-de-Canal)
 
