@@ -1,10 +1,9 @@
-## Fazer Maratona
 **Sinônimos:**
 * Hospedar.
 * Compartilhar.
 
 **Noção:**
-* Streamer está hospedando a transmissão ao vivo de outro canal no seu próprio canal.
+* [Streamer](Streamer) está hospedando a transmissão ao vivo de outro canal no seu próprio canal.
 * Ocorre quando o streamer hospeda outro canal.
 
 **Impacto:**
