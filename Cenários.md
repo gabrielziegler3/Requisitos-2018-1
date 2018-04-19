@@ -72,6 +72,7 @@
 * [C029](Cenário-029) - [Streamer](Streamer) inicia uma [Stream](Stream)
 
 * [C030](Cenário-030) - Usuário compartilha uma [stream](Stream).
+* [C031](Cenário-031) - [Streamer](Streamer) criando vídeos sob demanda.
 
 ________________________
 
