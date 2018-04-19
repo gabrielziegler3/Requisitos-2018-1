@@ -10,3 +10,4 @@
 
 **Impacto:**
 * Todas as transmissões serão arquivadas por tempo limitado.
+* Os seguidores do streamer poderão assistir vídeos perdidos.
