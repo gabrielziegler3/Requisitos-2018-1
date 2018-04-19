@@ -50,4 +50,6 @@ Termos e palavras cobertos por esta técnica:
   * [Ban](Ban)
   * [Reagir](Reagir)
   * [Criar Conta](Criar-Conta)
+  * [Criar video sob demanda](Criar-videos-sob-demanda)
+
 
