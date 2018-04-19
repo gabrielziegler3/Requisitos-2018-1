@@ -52,4 +52,7 @@ Termos e palavras cobertos por esta técnica:
   * [Criar Conta](Criar-Conta)
   * [Criar video sob demanda](Criar-videos-sob-demanda)
 
+* Estado
+  * [Modo host está sendo usado](Modo-host-está-sendo-usado)
+
 
