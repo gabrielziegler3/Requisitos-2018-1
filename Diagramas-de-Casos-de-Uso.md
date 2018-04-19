@@ -1,6 +1,7 @@
 Data|Versão|Descrição|Autor
 -----|------|---------|-------
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso|João Carlos|
+19/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
 
 * [UC01 - Visualização de Stream](Diagrama-Visualização-de-Stream)
 * [UC02 - Transmissão Multimídia](Diagrama-Transmissão-Multimídia)
@@ -24,3 +25,4 @@ Data|Versão|Descrição|Autor
 * [UC20 - Criação de Vídeo](Diagrama-Criação-de-Vídeo)
 * [UC21 - Hosting](Diagrama-Hosting)
 * [UC22 - Análise de Canal](Diagrama-Análise-de-Canal)
+* [UC23 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
