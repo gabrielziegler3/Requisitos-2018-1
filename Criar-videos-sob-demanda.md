@@ -9,4 +9,4 @@
 * Agora o Twitch salvará automaticamente as transmissões do streamer automaticamente por 14 dias ou por 60 dias se ele for um parceiro do Twitch.
 
 **Impacto:**
-* Incentiva aos usuários à adquirirem o serviço de assinatura [Twitch Prime](Twitch-Prime).
+* Todas as transmissões serão arquivadas por tempo limitado.
