@@ -49,3 +49,5 @@ Termos e palavras cobertos por esta técnica:
   * [Donate](Donate)
   * [Ban](Ban)
   * [Reagir](Reagir)
+  * [Criar Conta](Criar-Conta)
+
