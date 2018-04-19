@@ -21,8 +21,7 @@ Data|Versão|Descrição|Autor
 * [UC16 - Banir Viewer](Diagrama-Banir-Viewer)
 * [UC17 - Adição de Amigo](Diagrama-Adição-de-Amigo)
 * [UC18 - Alteração do Nome da Transmissão](Diagrama-Alteração-do-Nome-da-Transmissão)
-* [UC19 - Adição de Jogo ao Catálogo](Diagrama-Adição-de-Jogo-ao-Catálogo)
+* [UC19 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
 * [UC20 - Criação de Vídeo](Diagrama-Criação-de-Vídeo)
 * [UC21 - Hosting](Diagrama-Hosting)
-* [UC22 - Análise de Canal](Diagrama-Análise-de-Canal)
-* [UC23 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
+
