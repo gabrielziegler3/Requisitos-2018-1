@@ -12,6 +12,7 @@
 |10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e Moderador|Gustavo Carvalho|
 |10/04/2018|1.10|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
 |16/04/2018|2.0|Adição do léxico Creative e organização do artefato|Gabriel Ziegler|
+|18/04/2018|2.0|Adição dos léxicos Criar conta, Criar video sob demanda e Modo host está sendo usado|Amanda Pires|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
