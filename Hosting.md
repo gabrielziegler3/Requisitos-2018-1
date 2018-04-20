@@ -15,7 +15,7 @@
 * 2. O usuário se direciona à sub-secção de ```Host``` na secção ```Ao Vivo``` do painel
 * 3. O usuário abre as configurações do serviço de hosting
 * 4. O usuário ativa a opção de hospedagem automática [FA01]
-* 5. O usuário seleciona os canais que ele gostaria de hospedar [FA02]
+* 5. O usuário seleciona os canais que ele gostaria de hospedar [FA02][FE01]
 * 6. O usuário salva as alterações
 * 7. O caso de uso é encerrado
 
@@ -31,9 +31,8 @@
 
 ### Fluxo de Exceção
 #### FE01 - O usuário não segue nenhum canal.
-* 1. O usuário está no passo 5.
-* 2. O usuário não segue nenhum canal.
-* 3. O sistema não exibe nenhum canal a ser hospedado pelo usuário.
-* 4. O fluxo de excessão se encerra.
+* Essa excessão ocorre pois o usuário não é seguidor de nenhum canal.
+* 1. O sistema não exibe nenhum canal a ser hospedado pelo usuário.
+* 2. O fluxo de excessão se encerra.
 ## Pós-condição
 * O canal do usuário agora hospeda, automaticamente os canais selecionados ou associados automaticamente pela twitch
