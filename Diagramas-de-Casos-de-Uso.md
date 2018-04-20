@@ -20,8 +20,7 @@ Data|Versão|Descrição|Autor
 * [UC15 - Seguir Canal](Diagrama-Seguir-Canal)
 * [UC16 - Banir Viewer](Diagrama-Banir-Viewer)
 * [UC17 - Adição de Amigo](Diagrama-Adição-de-Amigo)
-* [UC18 - Alteração do Nome da Transmissão](Diagrama-Alteração-do-Nome-da-Transmissão)
-* [UC19 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
-* [UC20 - Criação de Vídeo](Diagrama-Criação-de-Vídeo)
-* [UC21 - Hosting](Diagrama-Hosting)
+* [UC18 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
+* [UC19 - Criação de Vídeo](Diagrama-Criação-de-Vídeo)
+* [UC20 - Hosting](Diagrama-Hosting)
 
