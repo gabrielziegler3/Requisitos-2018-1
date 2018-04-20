@@ -6,7 +6,7 @@ Data|Versão|Descrição|Autor
 
 * [UC01 - Visualizar Stream](Diagrama-Visualização-de-Stream)
 * [UC02 - Transmitir Multimídia](Diagrama-Transmissão-Multimídia)
-* [UC03 - Criar de Conta](Diagrama-Criação-de-Conta)
+* [UC03 - Criar Conta](Diagrama-Criação-de-Conta)
 * [UC04 - Inscrever em Canal](Diagrama-Inscrição-em-Canal)
 * [UC05 - Doar Bits](Diagrama-Doação-de-Bits)
 * [UC06 - Comprar Bits](Diagrama-Compra-de-Bits)
@@ -20,8 +20,8 @@ Data|Versão|Descrição|Autor
 * [UC14 - Alterar Nome da Stream](Diagrama-Alterar-Nome-da-Stream)
 * [UC15 - Seguir Canal](Diagrama-Seguir-Canal)
 * [UC16 - Banir Viewer](Diagrama-Banir-Viewer)
-* [UC17 - Adicionar de Amigo](Diagrama-Adição-de-Amigo)
+* [UC17 - Adicionar Amigo](Diagrama-Adição-de-Amigo)
 * [UC18 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
-* [UC19 - Criar de Vídeo](Diagrama-Criação-de-Vídeo)
+* [UC19 - Criar Vídeo](Diagrama-Criação-de-Vídeo)
 * [UC20 - Efetuar Hosting](Diagrama-Hosting)
 
