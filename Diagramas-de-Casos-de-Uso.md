@@ -3,7 +3,7 @@ Data|Versão|Descrição|Autor
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso|João Carlos|
 19/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
 
-* [UC01 - Visualizar de Stream](Diagrama-Visualização-de-Stream)
+* [UC01 - Visualizar Stream](Diagrama-Visualização-de-Stream)
 * [UC02 - Transmitir Multimídia](Diagrama-Transmissão-Multimídia)
 * [UC03 - Criar de Conta](Diagrama-Criação-de-Conta)
 * [UC04 - Inscrever em Canal](Diagrama-Inscrição-em-Canal)
