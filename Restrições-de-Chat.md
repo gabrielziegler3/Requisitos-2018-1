@@ -1,4 +1,5 @@
 # UC09 - Restrições de Chat
+### [Diagrama de caso de uso](Diagrama-Restrições-de-Chat)
 
 ## Descrição
 * Usuário aplica filtro de acesso ao chat
