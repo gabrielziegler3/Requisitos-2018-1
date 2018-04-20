@@ -27,8 +27,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC15 - Seguir Canal](Seguir-Canal)
 * [UC16 - Banir Viewer](Banir-Viewer)
 * [UC17 - Adição de Amigo](Adição-de-Amigo)
-* [UC18 - Alteração do Nome da Transmissão](Alteração-do-Nome-da-Transmissão)
-* [UC19 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
-* [UC20 - Criação de Vídeo](Criação-de-Vídeo)
-* [UC21 - Hosting](Hosting)
+* [UC18 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
+* [UC19 - Criação de Vídeo](Criação-de-Vídeo)
+* [UC20 - Hosting](Hosting)
 
