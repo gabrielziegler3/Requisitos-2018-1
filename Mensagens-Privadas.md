@@ -1,5 +1,5 @@
 # UC08 - Mensagens Privadas
-
+### [Diagrama de caso de uso](Diagrama-Mensagens-Privadas)
 ## Descrição
 * Esse caso de uso descreve como mandar mensagens privadas na Twitch
 
