@@ -1,4 +1,4 @@
-# Cenário 023 - Usuário querendo atualizar seus dados de perfil
+# Cenário 023 - Atualizar dados de perfil
 
 ## Título
 * Atualizar perfil
