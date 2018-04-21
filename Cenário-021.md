@@ -1,4 +1,4 @@
-# Cenário 021 - Usuário mandando um sussurro.
+# Cenário 021 - [Sussurrar](Whisper).
 
 ## Título 
 * Mandar Sussuro
