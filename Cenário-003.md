@@ -1,4 +1,4 @@
-# Cenário 003 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando follow em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
+# Cenário 003 - Dar follow em um [Streamer](Streamer)
 
 ## Título
 * Seguir Canal
@@ -11,8 +11,8 @@
 * Pessoa já autenticada na Twitch 
 
 ## Ator(es)
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
+* [Viewer](Viewer)
+* [Streamer](Streamer)
 
 ## Recursos
 * Dispositivo eletrônico com acesso à internet 
