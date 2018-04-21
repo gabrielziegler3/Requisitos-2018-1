@@ -1,4 +1,4 @@
-# Streamer/Moderador Dá Ban em Viewer
+# Dar [ban](Ban) em [viewer](Viewer)
 
 ## Objetivo:
 * Punir algum usuário do tipo viewer que está quebrando as regras ou sendo irritante do chat.
