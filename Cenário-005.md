@@ -1,4 +1,4 @@
-# Cenário 005 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clipando uma jogada
+# Cenário 005 - [Clipar](Clip) uma jogada
 
 ## Título
 * [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) fazendo um clip
