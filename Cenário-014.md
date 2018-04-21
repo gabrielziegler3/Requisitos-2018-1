@@ -1,4 +1,4 @@
-# Cenário  014 - Fechar stream
+# Cenário  014 - Fechar [transmissão](Stream)
 
 ## Título
 * Encerar transmissão
