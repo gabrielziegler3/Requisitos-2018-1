@@ -1,4 +1,4 @@
-# Cenário 015 - Login
+# Cenário 015 - Fazer login
 
 ## Título 
 * Efetuar login	
