@@ -1,4 +1,4 @@
-# Cenário 022 - Usuário fazendo uma postagem.
+# Cenário 022 - Fazer uma postagem.
 
 ## Título 
 * Fazer postagem
