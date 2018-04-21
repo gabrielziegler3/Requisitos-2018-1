@@ -1,4 +1,4 @@
-# Cenário 016 - MODs
+# Cenário 016 - Selecionar [moderadores](Mods)
  
 ## Título	
 * Moderadores de chat
