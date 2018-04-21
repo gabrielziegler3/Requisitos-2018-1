@@ -77,7 +77,7 @@
 
 * [C031](Cenário-031) - Criar vídeos sob demanda.
 
-* [C030](Cenário-032) - Adicionar amigos.
+* [C032](Cenário-032) - Adicionar amigos.
 
 ***
 
