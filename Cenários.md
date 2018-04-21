@@ -43,7 +43,7 @@
 
 * [C014](Cenário-014) - Fechar [transmissão](Stream)
 
-* [C015](Cenário-015) - Fazer Login
+* [C015](Cenário-015) - Fazer login
 
 * [C016](Cenário-016) - Selecionar [moderadores](Moderador)
 
