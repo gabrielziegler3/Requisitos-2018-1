@@ -1,4 +1,4 @@
-# Cenário 031 - Streamer criando vídeos sob demanda
+# Cenário 031 - Criar vídeos sob demanda
 
 ## Título
 * Criar vídeos sob demanda.
