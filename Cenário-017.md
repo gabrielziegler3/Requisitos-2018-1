@@ -1,4 +1,4 @@
-# Cenário 017 - Anúncio
+# Cenário 017 - Anunciar na [transmissão](Stream)
 
 ## Título 
 * Monetização através de anúncio.
