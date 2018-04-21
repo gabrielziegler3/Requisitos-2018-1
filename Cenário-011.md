@@ -1,4 +1,4 @@
-# Cenário 011 - Pagamento
+# Cenário 011 - Configurar pagamento
 
 ## Título
 * User configurando sua forma de pagamento
