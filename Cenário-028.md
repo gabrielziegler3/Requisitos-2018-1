@@ -1,4 +1,4 @@
-# Streamer muda o nome de sua Stream
+# Mudar o nome de sua Stream
 
 ## Objetivo:
 * Alterar o nome de exibição de sua livestream
