@@ -1,4 +1,4 @@
-# Cenário 001 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) assistindo uma stream
+# Cenário 001 - Assistir uma stream
 
 ## Título 
 * Assistir uma stream
