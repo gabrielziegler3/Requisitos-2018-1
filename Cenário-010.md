@@ -1,4 +1,4 @@
-# Cenário 010 - Adicionando amigos
+# Cenário 010 - Adicionar amigos
 
 ## Título
 * User adicionando amigos
