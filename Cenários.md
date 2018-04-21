@@ -14,48 +14,47 @@
 
 ## Cenários
 
-* [C001](Cenário-001) - [Viewer](Viewer) assistindo uma [stream](Stream)
+* [C001](Cenário-001) - Assistir uma [stream](Stream)
 
-* [C002](Cenário-002) - [Viewer](Viewer) se cadastrando na [Twitch](Twitch)
+* [C002](Cenário-002) - Cadastrar-se na [Twitch](Twitch)
 
-* [C003](Cenário-003) - [Viewer](Viewer) dando [follow](Dar-follow) em um [Streamer](L%C3%A9xico-Streamer)
+* [C003](Cenário-003) - [Dar follow](Dar-follow) em um [Streamer](L%C3%A9xico-Streamer)
 
-* [C004](Cenário-004) - [Viewer](Viewer) dando [subscribe](Subscribe) em um canal
+* [C004](Cenário-004) - [Subscrever](Subscribe) em um canal
 
-* [C005](Cenário-005) - [Viewer](Viewer) [clipando](Clipes) uma jogada
+* [C005](Cenário-005) - [Clipar](Clipes) uma jogada
 
-* [C006](Cenário-006) - [Streamer](L%C3%A9xico-Streamer) fazendo uma stream
+* [C006](Cenário-006) - Transmitir uma [stream](Stream)
 
-* [C007](Cenário-007) - [Streamer](L%C3%A9xico-Streamer)
- dando um ban ou permaban
+* [C007](Cenário-007) - Dar um ban ou permaban
 
-* [C008](Cenário-008) - Usuário fazendo [Donate](Donate)
+* [C008](Cenário-008) - Fazer [Donate](Donate)
 
-* [C009](Cenário-009) - Usuário doando [Bits](Bits)
+* [C009](Cenário-009) - Doar [Bits](Bits)
 
-* [C010](Cenário-010) - Adicionando amigos
+* [C010](Cenário-010) - Adicionar amigos
 
-* [C011](Cenário-011) - Configurando Pagamento
+* [C011](Cenário-011) - Configurar Pagamento
 
-* [C012](Cenário-012) - Usuário fazendo denúncia
+* [C012](Cenário-012) - Fazer denúncia
 
-* [C013](Cenário-013) - [Streamer](L%C3%A9xico-Streamer) fazendo [host](Raid) de uma outra [stream](Stream)
+* [C013](Cenário-013) - Fazer [host](Raid) de uma [stream](Stream)
 
 * [C014](Cenário-014) - Fechar [stream](Stream)
 
-* [C015](Cenário-015) - Usuário fazendo Login
+* [C015](Cenário-015) - Fazer Login
 
-* [C016](Cenário-016) - [Streamer](L%C3%A9xico-Streamer) selecionando [moderadores](Moderador)
+* [C016](Cenário-016) - Selecionar [moderadores](Moderador)
 
-* [C017](Cenário-017) - Anunciando na [Stream](Stream)
+* [C017](Cenário-017) - Anunciar na [Stream](Stream)
 
-* [C018](Cenário-018) - Catálogo de Jogos
+* [C018](Cenário-018) - Acessar catálogo de Jogos
 
 * [C019](Cenário-019) - Acessar videos postados em um canal.
 
 * [C020](Cenário-020) - Acessar [clipes](Clipes) postados em um canal.
 
-* [C021](Cenário-021) - Mandar [sussuro](Whisper).
+* [C021](Cenário-021) - [Sussurar](Whisper).
 
 * [C022](Cenário-022) - Fazer Postagem.
 
@@ -63,19 +62,19 @@
 
 * [C024](Cenário-024) - Mudar idioma da Twitch.
 
-* [C025](Cenário-025) - Se tornar parceiro Twitch.
+* [C025](Cenário-025) - Tornar-se parceiro Twitch.
 
 * [C026](Cenário-026) - Criar coleções.
 
-* [C027](Cenário-027) - [Streamer](Streamer)/[Moderador](Moderador) dá [ban](Ban) em [viewer](Viewer).
+* [C027](Cenário-027) - Dar [ban](Ban) em [viewer](Viewer).
 
-* [C028](Cenário-028) - [Streamer](Streamer) muda o nome de sua [Transmissão](Stream).
+* [C028](Cenário-028) - Mudar o nome de sua [transmissão](Stream).
 
-* [C029](Cenário-029) - [Streamer](Streamer) inicia uma [Stream](Stream)
+* [C029](Cenário-029) - Iniciar uma [Stream](Stream)
 
-* [C030](Cenário-030) - Usuário compartilha uma [stream](Stream).
+* [C030](Cenário-030) - Compartilhar uma [stream](Stream).
 
-* [C031](Cenário-031) - [Streamer](Streamer) criando vídeos sob demanda.
+* [C031](Cenário-031) - Criar vídeos sob demanda.
 
 * [C030](Cenário-032) - Adicionar amigos.
 
