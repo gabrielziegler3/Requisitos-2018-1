@@ -1,4 +1,4 @@
-# Cenário 002 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) se cadastrando na Twitch
+# Cenário 002 - Cadastrar-se na Twitch
 
 ## Título
 * Cadastrar na Twitch
