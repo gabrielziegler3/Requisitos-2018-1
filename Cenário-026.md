@@ -1,4 +1,4 @@
-# Cenário 026 - Criando uma coleção
+# Cenário 026 - Criar coleções
 
 ## Título
 * Criar coleções
