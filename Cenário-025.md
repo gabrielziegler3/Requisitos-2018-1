@@ -1,4 +1,4 @@
-# Cenário 025 - Programa de Parceiro Twitch
+# Cenário 025 - Tornar-se parceiro Twitch
 
 ## Título
 * Se tornar um parceiro Twitch.
