@@ -15,7 +15,7 @@ Data|Versão|Descrição|Autor
 * [UC09 - Restringir Chat](Diagrama-Restrições-de-Chat)
 * [UC10 - Adicionar Add-ons em Jogos](Diagrama-Adição-de-Add-ons-em-Jogos)
 * [UC11 - Comunicar por Chat de Voz](Diagrama-Chat-de-Voz)
-* [UC12 - Transmitir Ads](Diagrama-Transmissão-de-Ads)
+* [UC12 - Transmitir Ads](Diagrama-Transmitir-Ads## )
 * [UC13 - Assinar Twitch Prime](Diagrama-Assinatura-Twitch-Prime)
 * [UC14 - Alterar Nome da Stream](Diagrama-Alterar-Nome-da-Stream)
 * [UC15 - Seguir Canal](Diagrama-Seguir-Canal)
