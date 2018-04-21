@@ -1,4 +1,4 @@
-# Streamer Inicia uma Stream
+# Iniciar uma [transmissão](Stream)
 
 ## Objetivo
 * Iniciar uma livestream
