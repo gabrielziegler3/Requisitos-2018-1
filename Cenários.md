@@ -11,6 +11,7 @@
 |16/04/2018|1.8|Ajustes no artefato e adição do cenário 30|Gabriel Ziegler|
 |18/04/2018|1.9|Adição do cenário Streamer criando video sob demanda|Amanda Pires|
 |19/04/2018|1.9|Adição do cenário 32|Gabriel Ziegler|
+|21/04/2018|2.0|Revisão geral do artefato|Gabriel Ziegler|
 
 ## Cenários
 
