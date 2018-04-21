@@ -14,7 +14,7 @@
 
 ## Cenários
 
-* [C001](Cenário-001) - Assistir uma [stream](Stream)
+* [C001](Cenário-001) - Assistir uma [transmissão](Stream)
 
 * [C002](Cenário-002) - Cadastrar-se na [Twitch](Twitch)
 
@@ -24,7 +24,7 @@
 
 * [C005](Cenário-005) - [Clipar](Clipes) uma jogada
 
-* [C006](Cenário-006) - Transmitir uma [stream](Stream)
+* [C006](Cenário-006) - Transmitir uma [transmissão](Stream)
 
 * [C007](Cenário-007) - Dar um ban ou permaban
 
@@ -38,15 +38,15 @@
 
 * [C012](Cenário-012) - Fazer denúncia
 
-* [C013](Cenário-013) - Fazer [host](Raid) de uma [stream](Stream)
+* [C013](Cenário-013) - Fazer [host](Raid) de uma [transmissão](Stream)
 
-* [C014](Cenário-014) - Fechar [stream](Stream)
+* [C014](Cenário-014) - Fechar [transmissão](Stream)
 
 * [C015](Cenário-015) - Fazer Login
 
 * [C016](Cenário-016) - Selecionar [moderadores](Moderador)
 
-* [C017](Cenário-017) - Anunciar na [Stream](Stream)
+* [C017](Cenário-017) - Anunciar na [transmissão](Stream)
 
 * [C018](Cenário-018) - Acessar catálogo de Jogos
 
@@ -70,9 +70,9 @@
 
 * [C028](Cenário-028) - Mudar o nome de sua [transmissão](Stream).
 
-* [C029](Cenário-029) - Iniciar uma [Stream](Stream)
+* [C029](Cenário-029) - Iniciar uma [transmissão](Stream)
 
-* [C030](Cenário-030) - Compartilhar uma [stream](Stream).
+* [C030](Cenário-030) - Compartilhar uma [transmissão](Stream).
 
 * [C031](Cenário-031) - Criar vídeos sob demanda.
 
