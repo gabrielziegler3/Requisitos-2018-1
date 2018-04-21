@@ -1,4 +1,4 @@
-# Cenário 024 - Usuário mudando o idioma da página.
+# Cenário 024 - Mudar o idioma da Twitch.
 
 ## Título
 * Mudar tradução
