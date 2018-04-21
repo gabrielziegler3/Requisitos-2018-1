@@ -1,4 +1,4 @@
-# Cenário 012 - Denúncia
+# Cenário 012 - Fazer denúncia
 
 ## Título
 * Denunciar um canal
