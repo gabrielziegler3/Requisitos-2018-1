@@ -1,4 +1,4 @@
-# Cenário 004 - [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) dando subscribe em um canal
+# Cenário 004 - [Subscrever](Subscribe) em um canal
 
 ## Título
 * Inscrever-se em um canal
