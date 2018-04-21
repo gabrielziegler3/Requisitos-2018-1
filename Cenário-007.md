@@ -1,4 +1,4 @@
-# Cenário 007 - Streamer dando Permaban
+# Cenário 007 - Dar um [ban](Ban) ou permaban
 
 ## Título
 * [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
