@@ -1,4 +1,5 @@
-# Cenário 030 - Compartilhando uma stream
+# Cenário 030 - Compartilhar uma [transmissão](Stream)
+
 
 ## Título
 * Usuário compartilha uma [stream](Stream)
