@@ -2,7 +2,7 @@ Data|Versão|Descrição|Autor
 -----|------|---------|-------
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso e do Objetivo do Documento|Thiago Ferreira|
 18/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
-18/04/2018|1.2|Adição de Casos de Uso 13|Amanda Pires|
+18/04/2018|1.2|Adição da especificação do caso de uso 13|Amanda Pires|
 19/04/2018|1.3|Adição dos UC 01,02,04,09,10 e 11 e algumas outras alterações aos UC feitos por outros membros|Thiago Ferreira
 20/04/2018|1.4|Revisão|João Carlos|
 
