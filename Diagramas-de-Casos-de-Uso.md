@@ -5,11 +5,11 @@ Data|Versão|Descrição|Autor
 20/04/2018|1.2|Revisão|João Carlos|
 
 * [UC01 - Visualizar Stream](Diagrama-Visualização-de-Stream)
-* [UC02 - Transmitir Multimídia](Diagrama-Transmissão-Multimídia)
-* [UC03 - Criar Conta](Diagrama-Criação-de-Conta)
-* [UC04 - Inscrever em Canal](Diagrama-Inscrição-em-Canal)
-* [UC05 - Doar Bits](Diagrama-Doação-de-Bits)
-* [UC06 - Comprar Bits](Diagrama-Compra-de-Bits)
+* [UC02 - Transmitir Multimídia](Diagrama-transmitir-multimidia)
+* [UC03 - Criar Conta](Diagrama-criar-conta)
+* [UC04 - Inscrever em Canal](Diagrama-inscrever-em-canal)
+* [UC05 - Doar Bits](Diagrama-doar-bits)
+* [UC06 - Comprar Bits](Diagrama-comprar-bits)
 * [UC07 - Gerar Token do Streamer](Diagrama-Geração-de-Token-do-Streamer)
 * [UC08 - Enviar Mensagens Privadas](Diagrama-Mensagens-Privadas)
 * [UC09 - Restringir Chat](Diagrama-Restrições-de-Chat)
