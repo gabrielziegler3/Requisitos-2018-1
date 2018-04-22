@@ -71,13 +71,13 @@ Alguns dos acrônimos, definições e abreviações usados neste documento são:
 <h1> 3. Confiabilidade </h1>
 
 <h2> 3.1 Garantia de funcionamento em tempo integral </h2>
-<p align="justify">O nosso software deve funcionar em tempo integral, 24 horas por dia, mesmo com um volume intenso de dados, suportando os possíveis 80 mil usuários que podem utilizar o sistema, sem qualquer tipo de dano ou queda do mesmo, desde que a conexão à internet esteja estabelecida. </p>
+<p align="justify">O software deve funcionar em tempo integral, 24 horas por dia, mesmo com um volume intenso de dados, suportando os possíveis 80 mil usuários que podem utilizar o sistema, sem qualquer tipo de dano ou queda do mesmo, desde que a conexão à internet esteja estabelecida. </p>
 
 <h2> 3.2 Garantia de armazenamento de dados </h2>
-<p align="justify">O nosso software deve se comprometer em armazenar de forma correta todos os dados referentes ao usuário, de forma a não apresentar possíveis erros de armazenamento, para que desse modo não ocorra a necessidade de recadastramento do usuário no sistema. </p>
+<p align="justify">O software deve se comprometer em armazenar de forma correta todos os dados referentes ao usuário, de forma a não apresentar possíveis erros de armazenamento, para que desse modo não ocorra a necessidade de recadastramento do usuário no sistema. </p>
 
 <h2> 3.3 Garantia de segurança no armazenamento de dados </h2>
-<p align="justify">O nosso software deve se comprometer em garantir a segurança dos dados informados pelo usuário no momento de seu cadastramento no sistema, de modo que esses dados sejam guardados de forma segura e confiável, não sendo possível o acesso de outros usuários sem a devida permissão.</p>
+<p align="justify">O software deve se comprometer em garantir a segurança dos dados informados pelo usuário no momento de seu cadastramento no sistema, de modo que esses dados sejam guardados de forma segura e confiável, não sendo possível o acesso de outros usuários sem a devida permissão.</p>
 
 <h1> 4. Suportabilidade </h1>
 <p align="justify">O website será suportado em todos os navegadores e em qualquer sistema operacional (Windows, Mac e Linux). A performance da aplicação pode variar de um sistema para outro e também entre navegadores. É sugerido o uso da aplicação na versão mais atualizada do navegador Google Chrome para melhor UX.</p>
@@ -108,7 +108,7 @@ Alguns dos acrônimos, definições e abreviações usados neste documento são:
 * Todos os sistemas operacionais que possuem suporte a navegadores e acesso a internet.
 * Todos navegadores web.
 
-<h2> 7. Qualidade de software </h2>
+<h1> 7. Qualidade de software </h1>
 
 <p align="justify">
 Para mensurar e garantir a qualidade da usabilidade, eficiência, compatibilidade, confiabilidade, segurança, manutenabilidade, portabilidade do sistema, é utilizada a
@@ -119,6 +119,24 @@ que é utilizada na maior parte dos produtos de software desenvolvidos com boa q
 </p>
 
 ![Software Product Quality ](http://iso25000.com/images/figures/en/iso25010.png)
+
+## Prioridade
+### Críticos
+* Segurança
+   * Por se tratar de uma plataforma que utiliza serviços pagos, os dados bancários dos seus usuários devem permanecer seguros.
+### Alta
+* Performance/Eficiência
+   * As transmissões devem ocorrer em diversas resoluções de imagem para uma melhor performance a usuários com máquinas e conexões menos potentes
+
+* Compatibilidade
+   * A plataforma deve rodar em diferentes navegadores e sistemas operacionais. 
+
+### Média
+* Usabilidade
+   * A plataforma deve ser simples de usar e entender.
+
+### Baixa
+* Portabilidade
 
 <h1> 8. Observações Legais, Direitos Autorais </h1>
 
