@@ -1,5 +1,7 @@
 # UC05 - Doação de Bits
 
+### [Diagrama de caso de uso](Diagrama-doar-bits)
+
 ## Descrição
 * Esse caso de uso descreve como doar bits.
 
