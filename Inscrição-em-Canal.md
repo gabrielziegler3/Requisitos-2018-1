@@ -1,5 +1,7 @@
 # UC04 - Inscrição em Canal
 
+### [Diagrama de caso de uso](Diagrama-inscrever-em-canal)
+
 ## Descrição
 * Este caso de uso descreve a inscrição em um canal por parte de um usuário.
 
