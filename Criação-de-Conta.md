@@ -1,5 +1,7 @@
 # UC03 - Criação de Conta
 
+### [Diagrama de caso de uso](Diagrama-criar-conta)
+
 ## Descrição
 * Este caso de uso descreve como uma pessoa pode [criar uma conta](Criar-Conta) na Twitch.
 
