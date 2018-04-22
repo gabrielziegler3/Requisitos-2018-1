@@ -1,5 +1,7 @@
 # UC06 - Compra de Bits
 
+### [Diagrama de caso de uso](Diagrama-comprar-bits)
+
 ## Descrição
 * Esse caso de uso descreve como comprar Bits.
  
