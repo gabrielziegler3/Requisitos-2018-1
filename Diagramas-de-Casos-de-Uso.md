@@ -24,6 +24,6 @@ Data|Versão|Descrição|Autor
 * [UC16 - Banir Viewer](Diagrama-Banir-Viewer)
 * [UC17 - Adicionar Amigo](Diagrama-Adição-de-Amigo)
 * [UC18 - Compartilhar uma Transmissão](Diagrama-Compartilhar-uma-Transmissão)
-* [UC19 - Criar Vídeo](Diagrama-Criação-de-Vídeo)
-* [UC20 - Efetuar Hosting](Diagrama-Hosting)
+* [UC19 - Criar Vídeo](Diagrama-Criar-Vídeo)
+* [UC20 - Efetuar Hosting](Diagrama-Efetuar-Hosting)
 
