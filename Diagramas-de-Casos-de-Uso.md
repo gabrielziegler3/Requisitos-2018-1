@@ -2,9 +2,9 @@ Data|Versão|Descrição|Autor
 -----|------|---------|-------
 17/04/2018|1.0|Criação do documento e adição dos Casos de Uso|João Carlos|
 19/04/2018|1.1|Adição de Casos de Uso 01 e 13|Amanda Pires|
-19/04/2018|1.1|Adição de Casos de Uso|Gabriel Ziegler|
-20/04/2018|1.2|Revisão|João Carlos|
-22/04/2018|1.1|Adição de Casos de Uso 02, 03, 04, 05 e 06|Amanda Pires|
+19/04/2018|1.2|Adição de Casos de Uso|Gabriel Ziegler|
+20/04/2018|1.3|Revisão|João Carlos|
+22/04/2018|1.4|Adição de Casos de Uso 02, 03, 04, 05 e 06|Amanda Pires|
 
 * [UC01 - Visualizar Stream](Diagrama-Visualização-de-Stream)
 * [UC02 - Transmitir Multimídia](Diagrama-transmitir-multimídia)
