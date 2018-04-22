@@ -1,5 +1,7 @@
 # UC02 - Transmissão Multimídia
 
+### [Diagrama de caso de uso](Diagrama-transmitir-multimídia)
+
 ## Descrição
 * O Usuário capturará dados e os enviará por streaming e esse conteúdo será transmitido no player da Twitch.
 
