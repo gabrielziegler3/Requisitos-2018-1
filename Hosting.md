@@ -1,4 +1,6 @@
-# UC20 - Hosting
+# UC20 - Hospedagem
+
+* [Diagrama de Caso de Uso](Diagrama-Hospedagem)
 
 ## Descrição
 * Este caso de uso descreve o sistema de hospedagem de stream em outros canais
