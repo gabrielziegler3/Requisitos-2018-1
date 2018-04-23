@@ -39,4 +39,4 @@
 
 
 ## Pós-condição
-* Não se Aplica
+* A conta do usuário é criada
