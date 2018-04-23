@@ -1,1 +1,1 @@
-![](https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Casos_de_uso/UC17.png)
+![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Casos_de_uso/Adicionar%20amigos.png)
