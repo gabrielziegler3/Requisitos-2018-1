@@ -1,5 +1,7 @@
 # UC19 - Criação de Vídeo
 
+* [Diagrama de Caso de Uso](Diagrama-Criar-Video)
+
 ## Descrição
 * Descrição do caso de uso para criação de vídeos na plataforma.
 ## Atores
