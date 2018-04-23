@@ -1,5 +1,7 @@
 # UC10 - Adição de Add ons em Jogos
 
+### [Diagrama de caso de uso](Diagrama-Adição-de-Add-ons-em-Jogos)
+
 ## Descrição
 * Uso do aplicativo desktop para adição de add-ons em jogos
 
