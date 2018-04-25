@@ -29,7 +29,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |Tipo|História|Descrição|Pontuação|
 |----|----|---------|-------|
 |RF|US01|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|8|
-|RF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|5|
+|RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|5|
 |RF|US03|Eu, como usuário, desejo editar meu perfil na Twitch para manter meus dados atualizados.|5|
 |RF|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|3|
 |RF|US05|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|13|
@@ -78,8 +78,8 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US26|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|
 |RF|US27|Eu, como usuário, gostaria de instalar novos add-ons.|
 |RF|US28|Eu, como usuário, gostaria de deletar add-ons.|
-|RF|US29|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|
-|RF|US30|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|
+|RNF|US29|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|
+|RNF|US30|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|
 
 #### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 
@@ -95,9 +95,9 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|
 |----|----|---------|
-|RF|US36|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|
+|RNF|US36|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|
 |RF|US37|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|
 |RF|US38|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|
-|RF|US39|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|
+|RNF|US39|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|
 |RF|US40|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|
 |RF|US41|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|
