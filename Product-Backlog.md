@@ -12,6 +12,12 @@
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
+## Temas
+* Cadastro EPs 01 & 03
+* Streaming EP02
+* Add-ons EP05
+* Finanças EP07
+
 ## Épicos
 
 |Épico|Descrição|Para que|
@@ -26,7 +32,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 ## Histórias de Usuário
 
-### TEMA: Cadastro
 
 #### EP01 - Eu, como usuário, desejo gerenciar meu cadastro na twitch.
 
@@ -41,7 +46,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
-### TEMA: Streaming
 
 |Tipo|História|Descrição|
 |----|----|---------|
@@ -56,7 +60,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 
-### TEMA: Canal
 
 |Tipo|História|Descrição|
 |-----|----|---------|
@@ -77,7 +80,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.|<input type="checkbox"> Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|
 |USXX|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|
 
-### TEMA: Comunicação
 
 |Tipo|História|Descrição|Critérios de Aceitação|
 |----|-|-|-|
@@ -91,7 +93,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela Twitch para usufruir de maiores funcionalidades em determinados jogos
 
-### TEMA: Add-ons
+
 
 |Tipo|História|Descrição|
 |----|----|---------|
@@ -104,8 +106,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 
-### TEMA: Chat de Voz
-
 |Tipo|História|Descrição|
 |----|----|---------|
 |RF|US31|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|
@@ -115,8 +115,6 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US35|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|
 
 #### EP07 - Eu, como usuário, desejo poder contribuir financeiramente com canais e com a Twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
-
-### TEMA: Finanças
 
 |Tipo|História|Descrição|
 |----|----|---------|
