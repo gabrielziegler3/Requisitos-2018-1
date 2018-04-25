@@ -8,6 +8,7 @@
 |25/04/2018|1.5|Adição das US do EP07|João Carlos Porto|
 |25/04/2018|1.6|Revisão dos épicos|Gustavo Carvalho e Gabriel Ziegler|
 |25/04/2018|1.7|Adição de tipos de Requisitos|Filipe Dias|
+|25/04/2018|1.8|Adicionando ordenação e pré-reastreabilidade|Amanda Pires|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
@@ -71,7 +72,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |-|-|-|
 |USXX|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|
 |USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários, para que eu possa aumentar a minha interatividade com a comunidade.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|
-|USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas, para poder me comunicar com outros usuários.|<input type="checkbox"> Poder selecionar o usuário de destino.|
+|USXX|Eu, como usuário, desejo poder mandar [mensagens de texto privadas](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Mensagens-Privadas), para poder me comunicar com outros usuários.|<input type="checkbox"> Poder selecionar o usuário de destino.|
 |USXX|Eu, como viewer, desejo poder participar de chats durante as streams, para poder comentar cenas da transmissão.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |
 |USXX|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.|<input type="checkbox"> Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|
 |USXX|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|
