@@ -6,20 +6,21 @@
 |24/04/2018|1.3|Adição das US do EP01|Amanda Pires|
 |25/04/2018|1.4|Adição das US do EP01|Gabriel Ziegler|
 |25/04/2018|1.5|Adição das US do EP07|João Carlos Porto|
+|25/04/2018|1.6|Revisão dos épicos|Gustavo Carvalho e Gabriel Ziegler|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
 ## Épicos
 
-|Épico|Descrição|
-|----|---------|
-|EP01|Eu, como usuário, desejo gerenciar meu cadastro na twitch.|
-|EP02|Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv|
-|EP03|Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade|
-|EP04|Eu, como usuário, desejo me comunicar com outros usuários |
-|EP05|Eu, como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos|
-|EP06|Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas|
-|EP07|Eu, como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido.|
+|Épico|Descrição|Para que|
+|----|---------|---|
+|EP01|Eu, como usuário, desejo gerenciar meu cadastro na twitch.|Eu possa ter um maior controle sobre minha conta|
+|EP02|Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv|Eu tenha a melhor experiência com streams|
+|EP03|Eu, como usuário, desejo gerenciar um vídeo na twitch.tv| Tenha um maior controle do conteúdo postado.|
+|EP04|Eu, como usuário, desejo me comunicar com outros usuários |Haja maior interatividade entre os usuários.|
+|EP05|Eu, como usuário, desejo gerenciar add-ons pela twitch|Eu possa usufruir de maiores funcionalidades em determinados jogos|
+|EP06|Eu, como usuário, desejo poder fazer uso de conferências de voz|seja possível se comunicar com outras pessoas|
+|EP07|Eu, como usuário, desejo poder contribuir financeiramente com canais e com a twitch|Eu possa incentivar e/ou recompensar pelo entretenimento fornecido.|
 
 ## Histórias de Usuário
 
@@ -62,11 +63,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |História|Descrição|Critérios de Aceitação|
 |-|-|-|
 |USXX|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|
-|USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|
-|USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|<input type="checkbox"> Poder selecionar o usuário de destino.|
-|USXX|Eu, como viewer, desejo poder participar de chats durante as streams.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |
-|USXX|Eu, como usuário, desejo poder mandar emoticons em conversas.|<input type="checkbox"> Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|
-|USXX|Eu, como usuário, desejo bloquear alguém em uma conversa.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|
+|USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários, para que eu possa aumentar a minha interatividade com a comunidade.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|
+|USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas, para poder me comunicar com outros usuários.|<input type="checkbox"> Poder selecionar o usuário de destino.|
+|USXX|Eu, como viewer, desejo poder participar de chats durante as streams, para poder comentar cenas da transmissão.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |
+|USXX|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.|<input type="checkbox"> Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|
+|USXX|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|
 
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos
