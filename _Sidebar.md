@@ -38,7 +38,7 @@
 * [Especificação Suplementar](Especificação-Suplementar)
 * [Diagramas de Casos de Uso](Diagramas-de-Casos-de-Uso)
 * [Product Backlog](Product-Backlog)
-* [Sprint Backlog #1](Sprint-Backlog-1)
+* [Sprint Backlog #1](Sprint-Backlog)
 
 ***
 
