@@ -2,6 +2,7 @@
 |----|------|---------|-----|
 |24/04/2018|1.0|Criação do Documento |Thiago Ferreira|
 |24/04/2018|1.1|Adição das US do EP04|Gustavo Carvalho|
+|24/04/2018|1.2|Adição das US's do EP03,EP05 e EP06|Thiago Ferreira|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
@@ -34,8 +35,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 #### EP03 - Eu como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 |História|Descrição|
 |----|---------|
-|USXX||
-
+|USXX|Eu, como usuário, desejo subir um vídeo na plataforma.|
+|USXX|Eu, como usuário, gostaria de deletar um vídeo que eu subi na plataforma.|
+|USXX|Eu, como usuário, gostaria de programar uma premiere para meu vídeo.|
+|USXX|Eu, como usuário gostaria de gravar uma transmissão anterior em vídeo.|
+|USXX|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.|
 
 #### EP04 - Eu como usuário, desejo me comunicar com outros usuários
 |História|Descrição|
@@ -43,20 +47,29 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário, desejo poder buscar outros usuários.|
 |USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|
 |USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|
-|USXX|Eu como viewer desejo poder participar de chats durante as streams.|
-|USXX|Eu como usuário desejo poder mandar emoticons em conversas.|
-|USXX|Eu como usuário desejo bloquear alguém em uma conversa.|
+|USXX|Eu, como viewer, desejo poder participar de chats durante as streams.|
+|USXX|Eu, como usuário, desejo poder mandar emoticons em conversas.|
+|USXX|Eu, como usuário, desejo bloquear alguém em uma conversa.|
 
 
 #### EP05 - Eu como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos
 |História|Descrição|
 |----|---------|
-|USXX||
+|USXX|Eu, como usuário, gostaria de sincronizar os add-ons com meus jogos.|
+|USXX|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|
+|USXX|Eu, como usuário, gostaria de instalar novos add-ons.|
+|USXX|Eu, como usuário, gostaria de deletar add-ons.|
+|USXX|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|
+|USXX|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|
 
 #### EP06 - Eu como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 |História|Descrição|
 |----|---------|
-|USXX||
+|USXX|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|
+|USXX|Eu, como usuário, gostaria de poder filtrar quem entrar na chamada.|
+|USXX|Eu, como usuário, desejo fazer uma vídeo conferência.|
+|USXX|Eu, como usuário, desejo fazer uso de uma video  conferência em um servidor.|
+|USXX|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|
 
 
 #### EP07 -Eu como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
