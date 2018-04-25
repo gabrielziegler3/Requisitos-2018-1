@@ -23,12 +23,12 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 #### EP01 - Eu, como usuário, desejo gerenciar meu cadastro na twitch.
 |História|Descrição|
 |----|---------|
-|USXX|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|
-|USXX|Eu, como usuário, desejo utilizar a Twitch me conctando pelo facebook para acessar mais rápido os serviços de streaming.|
-|USXX|Eu, como usuário, desejo editar meu perfil na Twitch para manter meus dados atualizados.|
-|USXX|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|
-|USXX|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|
-|USXX|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|
+|US01|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|
+|US02|Eu, como usuário, desejo utilizar a Twitch me conctando pelo facebook para acessar mais rápido os serviços de streaming.|
+|US03|Eu, como usuário, desejo editar meu perfil na Twitch para manter meus dados atualizados.|
+|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|
+|US05|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|
+|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 |História|Descrição|
