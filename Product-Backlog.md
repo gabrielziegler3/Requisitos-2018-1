@@ -30,11 +30,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|Pontuação|
 |----|----|---------|-------|
-|RF|US01|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|8|
+|RF|US01|Eu, como usuário, desejo [criar uma conta](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-002) na Twitch para desfrutar dos serviços de streaming.|8|
 |RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|5|
-|RF|US03|Eu, como usuário, desejo editar meu perfil na Twitch para manter meus dados atualizados.|5|
+|RF|US03|Eu, como usuário, desejo [editar meu perfil](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-023) na Twitch para manter meus dados atualizados.|5|
 |RF|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|3|
-|RF|US05|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|13|
+|RF|US05|Eu, como usuário, desejo me tornar um usuário da [Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime) para ter acesso a funcionalidades diferenciadas do Twitch.|13|
 |RF|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|20|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
@@ -43,11 +43,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|
 |----|----|---------|
-|RF|US07|Eu, como usuário, gostaria poder compartilhar uma stream que estou assistindo para que meus amigos possam assistir também.||
+|RF|US07|Eu, como usuário, gostaria poder [compartilhar uma stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-030) que estou assistindo para que meus amigos possam assistir também.||
 |RF|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|
 |RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|
-|RF|US10|Eu, como streamer, desejo a opção de filtrar quem digita no chat da minha stream|
-|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de banir alguém do chat de minha stream|
+|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream|
+|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-027) do chat de minha stream|
 |RF|US12|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|
 |RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|
 
@@ -84,7 +84,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|
 |----|----|---------|
-|RF|US25|Eu, como usuário, gostaria de sincronizar os add-ons com meus jogos.|
+|RF|US25|Eu, como usuário, gostaria de [sincronizar os add-ons](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.|
 |RF|US26|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|
 |RF|US27|Eu, como usuário, gostaria de instalar novos add-ons.|
 |RF|US28|Eu, como usuário, gostaria de deletar add-ons.|
