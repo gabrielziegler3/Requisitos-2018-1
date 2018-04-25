@@ -13,10 +13,10 @@
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
 ## Temas
-* Cadastro EPs 01 & 03
-* Streaming EP02
-* Add-ons EP05
-* Finanças EP07
+* Cadastro = [EP01](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch_) & [EP03](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog#ep03---eu-como-usu%C3%A1rio-desejo-gerenciar-um-v%C3%ADdeo-na-twitchtv-para-visualiza%C3%A7%C3%A3o-da-comunidade)
+* Streaming = [EP02](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog#ep02---eu-como-usu%C3%A1rio-desejo-usufruir-servi%C3%A7os-relacionados-a-streaming-na-twitchtv)
+* Add-ons = [EP05](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog#ep05---eu-como-usu%C3%A1rio-desejo-gerenciar-add-ons-pela-twitch-para-usufruir-de-maiores-funcionalidades-em-determinados-jogos)
+* Finanças = [EP07](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog#ep07---eu-como-usu%C3%A1rio-desejo-poder-contribuir-financeiramente-com-canais-e-com-a-twitch-para-incentivar-eou-recompensar-pelo-entretenimento-fornecido)
 
 ## Épicos
 
