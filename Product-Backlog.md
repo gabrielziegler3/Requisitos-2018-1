@@ -33,6 +33,8 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |US05|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|
 |US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|
 |US07|Eu, como usuário, gostaria poder compartilhar uma stream que estou assistindo para que meus amigos possam assistir também.|
+|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|
+
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
