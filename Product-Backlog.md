@@ -33,19 +33,19 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|
 |US05|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|
 |US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|
-|US07|Eu, como usuário, gostaria poder compartilhar uma stream que estou assistindo para que meus amigos possam assistir também.|
-|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|
-|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|
-|US10|Eu, como streamer, desejo a opção de filtrar quem digita no chat da minha stream|
-|US11|Eu, como streamer, gostaria de ter a possibilidade de banir alguém do chat de minha stream|
-|US12|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|
-|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
 |História|Descrição|
 |----|---------|
-|USXX||
+|USXX|Eu, como usuário, gostaria poder compartilhar uma stream que estou assistindo para que meus amigos possam assistir também.|
+|USXX|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|
+|USXX|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|
+|USXX|Eu, como streamer, desejo a opção de filtrar quem digita no chat da minha stream|
+|USXX|Eu, como streamer, gostaria de ter a possibilidade de banir alguém do chat de minha stream|
+|USXX|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|
+|USXX|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|
+
 
 #### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 
