@@ -9,7 +9,7 @@ Data|Versão|Descrição|Autor
 
 Essa primeira sprint será designada ao desenvolvimento das histórias do épico 1. 
 
-No dia 24/04/2018 todos com componentes do grupo se reuniram via hangouts para o planejamento da primeira sprint, ou seja, foi feita o _ Sprint Planning Meeting_. Depois que as histórias de usuários estavam definidas, foi feito um formulário para pontuar tecnicamente as histórias de usuário. 
+No dia 24/04/2018 todos com componentes do grupo se reuniram via hangouts para o planejamento da primeira sprint, ou seja, foi feita o _Sprint Planning Meeting_. Depois que as histórias de usuários estavam definidas, foi feito um formulário para pontuar tecnicamente as histórias de usuário. 
 
 * Imagem da reunião feita via hangouts
 
