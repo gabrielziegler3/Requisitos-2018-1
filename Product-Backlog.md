@@ -59,14 +59,14 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP04 - Eu, como usuário, desejo me comunicar com outros usuários
 
-|História|Descrição|
-|----|---------|
-|USXX|Eu, como usuário, desejo poder buscar outros usuários.|
-|USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|
-|USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|
-|USXX|Eu, como viewer, desejo poder participar de chats durante as streams.|
-|USXX|Eu, como usuário, desejo poder mandar emoticons em conversas.|
-|USXX|Eu, como usuário, desejo bloquear alguém em uma conversa.|
+|História|Descrição|Critérios de Aceitação|
+|-|-|-|
+|USXX|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|
+|USXX|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|
+|USXX|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|<input type="checkbox"> Poder selecionar o usuário de destino.|
+|USXX|Eu, como viewer, desejo poder participar de chats durante as streams.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |
+|USXX|Eu, como usuário, desejo poder mandar emoticons em conversas.|<input type="checkbox"> Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|
+|USXX|Eu, como usuário, desejo bloquear alguém em uma conversa.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|
 
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos
