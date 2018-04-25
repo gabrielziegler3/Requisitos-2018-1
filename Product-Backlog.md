@@ -4,7 +4,7 @@
 |24/04/2018|1.1|Adição das US do EP04|Gustavo Carvalho|
 |24/04/2018|1.2|Adição das US's do EP03,EP05 e EP06|Thiago Ferreira|
 |24/04/2018|1.3|Adição das US do EP01|Amanda Pires|
-|24/04/2018|1.4|Adição das US do EP01|Gabriel Ziegler|
+|25/04/2018|1.4|Adição das US do EP01|Gabriel Ziegler|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
