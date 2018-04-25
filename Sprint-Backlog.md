@@ -17,6 +17,12 @@ No dia 24/04/2018 todos com componentes do grupo se reuniram via hangouts para o
 
 #### EP01 - Eu, como usuário, desejo gerenciar meu cadastro na twitch.
 
+* Pré-rastreabilidade
+  - [Cadastro e conexão pelo facebook US01 e US02](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rio-002)
+  - [Twitch Prime US05](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime)
+  - [Twitch Partner US06](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o)
+
+
 |História|Descrição|Pontuação|
 |----|---------|-------|
 |US01|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|8|
