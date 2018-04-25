@@ -37,6 +37,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|
 |US10|Eu, como streamer, desejo a opção de filtrar quem digita no chat da minha stream|
 |US11|Eu, como streamer, gostaria de ter a possibilidade de banir alguém do chat de minha stream|
+|US12|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
