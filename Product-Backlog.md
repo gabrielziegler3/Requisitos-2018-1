@@ -3,6 +3,7 @@
 |24/04/2018|1.0|Criação do Documento |Thiago Ferreira|
 |24/04/2018|1.1|Adição das US do EP04|Gustavo Carvalho|
 |24/04/2018|1.2|Adição das US's do EP03,EP05 e EP06|Thiago Ferreira|
+|24/04/2018|1.3|Adição das US do EP01|Amanda Pires|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
@@ -10,29 +11,32 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Épico|Descrição|
 |----|---------|
-|EP01|Eu como usuário, desejo gerenciar meu cadastro na twitch para mantê-lo atualizado.|
-|EP02|Eu como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv|
-|EP03|Eu como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade|
-|EP04|Eu como usuário, desejo me comunicar com outros usuários |
-|EP05|Eu como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos|
-|EP06|Eu como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas|
-|EP07|Eu como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido.|
+|EP01|Eu, como usuário, desejo gerenciar meu cadastro na twitch.|
+|EP02|Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv|
+|EP03|Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade|
+|EP04|Eu, como usuário, desejo me comunicar com outros usuários |
+|EP05|Eu, como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos|
+|EP06|Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas|
+|EP07|Eu, como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido.|
 
 ## Histórias de Usuário
-#### EP01 - Eu como usuário, desejo gerenciar meu cadastro na twitch para mantê-lo atualizado
+#### EP01 - Eu, como usuário, desejo gerenciar meu cadastro na twitch.
+|História|Descrição|
+|----|---------|
+|USXX|Eu, como usuário, desejo criar uma conta na Twitch para desfrutar dos serviços de streaming.|
+|USXX|Eu, como usuário, desejo utilizar a Twitch me conctando pelo facebook para acessar mais rápido os serviços de streaming.|
+|USXX|Eu, como usuário, desejo editar meu perfil na Twitch para manter meus dados atualizados.|
+|USXX|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|
+|USXX|Eu, como usuário, desejo me tornar um usuário da Twitch Prime para ter acesso a funcionalidades diferenciadas do Twitch.|
+|USXX|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|
+
+#### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 |História|Descrição|
 |----|---------|
 |USXX||
-|USXX||
-|USXX||
-
-#### EP02 - Eu como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
-|História|Descrição|
-|----|---------|
-|USXX||
 
 
-#### EP03 - Eu como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
+#### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 |História|Descrição|
 |----|---------|
 |USXX|Eu, como usuário, desejo subir um vídeo na plataforma.|
@@ -41,7 +45,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário gostaria de gravar uma transmissão anterior em vídeo.|
 |USXX|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.|
 
-#### EP04 - Eu como usuário, desejo me comunicar com outros usuários
+#### EP04 - Eu, como usuário, desejo me comunicar com outros usuários
 |História|Descrição|
 |----|---------|
 |USXX|Eu, como usuário, desejo poder buscar outros usuários.|
@@ -52,7 +56,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário, desejo bloquear alguém em uma conversa.|
 
 
-#### EP05 - Eu como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos
+#### EP05 - Eu, como usuário, desejo gerenciar add-ons pela twitch para usufruir de maiores funcionalidades em determinados jogos
 |História|Descrição|
 |----|---------|
 |USXX|Eu, como usuário, gostaria de sincronizar os add-ons com meus jogos.|
@@ -62,7 +66,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|
 |USXX|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|
 
-#### EP06 - Eu como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
+#### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 |História|Descrição|
 |----|---------|
 |USXX|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|
@@ -72,7 +76,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |USXX|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|
 
 
-#### EP07 -Eu como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
+#### EP07 -Eu, como usuário, desejo poder contribuir financeiramente com canais e com a twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
 |História|Descrição|
 |----|---------|
 |USXX||
