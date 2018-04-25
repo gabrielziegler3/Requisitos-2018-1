@@ -11,6 +11,10 @@ Essa primeira sprint será designada ao desenvolvimento das histórias do épico
 
 No dia 24/04/2018 todos com componentes do grupo se reuniram via hangouts para o planejamento da primeira sprint, ou seja, foi feita o _ Sprint Planning Meeting_. Depois que as histórias de usuários estavam definidas, foi feito um formulário para pontuar tecnicamente as histórias de usuário. 
 
+* Imagem da reunião feita via hangouts
+
+<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Reunioes/reuniao_24-04-2018.jpg" width=900px>
+
 #### EP01 - Eu, como usuário, desejo gerenciar meu cadastro na twitch.
 
 |História|Descrição|Pontuação|
