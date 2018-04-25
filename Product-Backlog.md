@@ -93,6 +93,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |História|Descrição|
 |----|---------|
-|USXX||
+|USXX|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|
+|USXX|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|
+|USXX|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|
+|USXX|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|
+|USXX|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|
+|USXX|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na twitch.|
 
 #### EP08 -Eu, como usuário, desejo me comunicar com outros usuários via _chat_
