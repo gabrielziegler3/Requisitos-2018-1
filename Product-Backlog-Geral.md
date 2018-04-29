@@ -1,6 +1,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |29/04/2018|0.1|Criação do Documento |Gabriel Ziegler|
+|29/04/2018|0.2|Inserção de User Stories |Gabriel Ziegler|
 
 # Product Backlog - Geral
 
