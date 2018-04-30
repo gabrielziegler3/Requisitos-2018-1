@@ -14,10 +14,10 @@
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
 ## Temas
-* 1. Manter cadastro = [EP01](#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch)
-* 2. Serviços de Streaming = [EP02](#ep02---eu-como-usu%C3%A1rio-desejo-usufruir-servi%C3%A7os-relacionados-a-streaming-na-twitchtv) e & [EP03](#ep03---eu-como-usu%C3%A1rio-desejo-gerenciar-um-v%C3%ADdeo-na-twitchtv-para-visualiza%C3%A7%C3%A3o-da-comunidade)
-* 3. Serviços de comunicação entre usuário do Twitch = [EP06](#ep06---eu-como-usu%C3%A1rio-desejo-poder-fazer-uso-de-confer%C3%AAncias-de-voz-para-me-comunicar-com-outras-pessoas) e [EP04](#ep04---eu-como-usuário-desejo-me-comunicar-com-outros-usuários)
-* 4. Manter Add-ons [EP05](#ep05---eu-como-usu%C3%A1rio-desejo-gerenciar-add-ons-pela-twitch-para-usufruir-de-maiores-funcionalidades-em-determinados-jogos)
+* 1. Cadastro = [EP01](#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch)
+* 2. Stream = [EP02](#ep02---eu-como-usu%C3%A1rio-desejo-usufruir-servi%C3%A7os-relacionados-a-streaming-na-twitchtv) e & [EP03](#ep03---eu-como-usu%C3%A1rio-desejo-gerenciar-um-v%C3%ADdeo-na-twitchtv-para-visualiza%C3%A7%C3%A3o-da-comunidade)
+* 3. Comunicação = [EP06](#ep06---eu-como-usu%C3%A1rio-desejo-poder-fazer-uso-de-confer%C3%AAncias-de-voz-para-me-comunicar-com-outras-pessoas) e [EP04](#ep04---eu-como-usuário-desejo-me-comunicar-com-outros-usuários)
+* 4. Add-ons [EP05](#ep05---eu-como-usu%C3%A1rio-desejo-gerenciar-add-ons-pela-twitch-para-usufruir-de-maiores-funcionalidades-em-determinados-jogos)
 * 5. Finanças = [EP07](#ep07---eu-como-usu%C3%A1rio-desejo-poder-contribuir-financeiramente-com-canais-e-com-a-twitch-para-incentivar-eou-recompensar-pelo-entretenimento-fornecido)
 
 ## Épicos
