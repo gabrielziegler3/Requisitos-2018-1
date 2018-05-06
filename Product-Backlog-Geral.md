@@ -7,7 +7,7 @@
 # Product Backlog - Geral
 
 |Tipo|História|Descrição|Prioridade|
-|----|----|---------|-------|-----|
+|----|----|---------|-------|
 |RF|US01|Eu, como usuário, desejo [criar uma conta](Cen%C3%A1rio-002) na Twitch para desfrutar dos serviços de streaming.|Must|
 |RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|Could|
 |RF|US03|Eu, como usuário, desejo [editar meu perfil](Cen%C3%A1rio-023) na Twitch para manter meus dados atualizados.|Should|
