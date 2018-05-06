@@ -40,82 +40,82 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|Pontuação|Prioridade|
 |----|----|---------|-------|-----|
-|RF|US01|Eu, como usuário, desejo [criar uma conta](Cen%C3%A1rio-002) na Twitch para desfrutar dos serviços de streaming.|8|Must|
-|RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|5|Could|
-|RF|US03|Eu, como usuário, desejo [editar meu perfil](Cen%C3%A1rio-023) na Twitch para manter meus dados atualizados.|5|Should|
-|RF|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|3|Must|
-|RF|US05|Eu, como usuário, desejo me tornar um usuário da [Twitch Prime](Assinar-Twitch-Prime) para ter acesso a funcionalidades diferenciadas do Twitch.|13|Must|
-|RF|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|20|Must|
+|RF|US01|Eu, como usuário, desejo [criar uma conta](Cen%C3%A1rio-002) na Twitch para desfrutar dos serviços de streaming.|8|Alta|
+|RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|5|Baixa|
+|RF|US03|Eu, como usuário, desejo [editar meu perfil](Cen%C3%A1rio-023) na Twitch para manter meus dados atualizados.|5|Média|
+|RF|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|3|Alta|
+|RF|US05|Eu, como usuário, desejo me tornar um usuário da [Twitch Prime](Assinar-Twitch-Prime) para ter acesso a funcionalidades diferenciadas do Twitch.|13|Alta|
+|RF|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|20|Alta|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
 |Tipo|História|Descrição|Prioridade|
 |----|----|---------|---|
-|RF|US07|Eu, como usuário, gostaria poder [compartilhar uma stream](Cen%C3%A1rio-030) que estou assistindo para que meus amigos possam assistir também.|Must|
-|RF|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|Should|
-|RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|Could|
-|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream|Could|
-|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream|Could|
-|RF|US12|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|Should|
-|RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|Could|
+|RF|US07|Eu, como usuário, gostaria poder [compartilhar uma stream](Cen%C3%A1rio-030) que estou assistindo para que meus amigos possam assistir também.|Alta|
+|RF|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|Média|
+|RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|Baixa|
+|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream|Baixa|
+|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream|Baixa|
+|RF|US12|Eu, como streamer, gostaria de alterar jogo que estou jogando na minha stream sem que seja necessário começar outra stream|Média|
+|RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|Baixa|
 
 #### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 
 
 |Tipo|História|Descrição|Prioridade|
 |-----|----|---------|---|
-|RF|US14|Eu, como usuário, desejo subir um vídeo na plataforma.|Must|
-|RF|US15|Eu, como usuário, gostaria de deletar um vídeo que eu subi na plataforma.|Must|
-|RF|US16|Eu, como usuário, gostaria de programar uma premiere para meu vídeo.|Should|
-|RF|US17|Eu, como usuário gostaria de gravar uma transmissão anterior em vídeo.|Could|
-|RF|US18|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.|Could|
+|RF|US14|Eu, como usuário, desejo subir um vídeo na plataforma.|Alta|
+|RF|US15|Eu, como usuário, gostaria de deletar um vídeo que eu subi na plataforma.|Alta|
+|RF|US16|Eu, como usuário, gostaria de programar uma premiere para meu vídeo.|Média|
+|RF|US17|Eu, como usuário gostaria de gravar uma transmissão anterior em vídeo.|Baixa|
+|RF|US18|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.|Baixa|
 
 #### EP04 - Eu, como usuário, desejo me comunicar com outros usuários
 
 |Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
 |----|----|-----|-----|-----|
-|RF|US19|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|Could|
-|RF|US20|Eu, como usuário, desejo poder adicionar como amigo outros usuários, para que eu possa aumentar a minha interatividade com a comunidade.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Could|
-|RF|US21|Eu, como usuário, desejo poder mandar [mensagens de texto privadas](Mensagens-Privadas), para poder me comunicar com outros usuários.|<input type="checkbox"> Poder selecionar o usuário de destino.|Could|
-|RF|US22|Eu, como viewer, desejo poder participar de chats durante as streams, para poder comentar cenas da transmissão.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |Could|
-|RF|US23|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.|<input type="checkbox"> Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|Should|
-|RF|US24|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Must|
-|RF|US25|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|Could|
-|RF|US26|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Could|
-|RF|US27|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|<input type="checkbox"> Poder selecionar o usuário de destino.|Could|
-|RF|US28|Eu, como viewer, desejo poder participar de chats durante as streams.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |Could|
-|RF|US29|Eu, como usuário, desejo poder mandar emoticons em conversas.|<input type="checkbox"> Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|Could|
-|RF|US30|Eu, como usuário, desejo bloquear alguém em uma conversa.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Could|
+|RF|US19|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|Baixa|
+|RF|US20|Eu, como usuário, desejo poder adicionar como amigo outros usuários, para que eu possa aumentar a minha interatividade com a comunidade.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Baixa|
+|RF|US21|Eu, como usuário, desejo poder mandar [mensagens de texto privadas](Mensagens-Privadas), para poder me comunicar com outros usuários.|<input type="checkbox"> Poder selecionar o usuário de destino.|Baixa|
+|RF|US22|Eu, como viewer, desejo poder participar de chats durante as streams, para poder comentar cenas da transmissão.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |Baixa|
+|RF|US23|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.|<input type="checkbox"> Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|Média|
+|RF|US24|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Alta|
+|RF|US25|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.|<input type="checkbox"> Poder buscar tanto com caixa alta ou não. <br/> <input type="checkbox"> Informar quando não achar um usuário correspondente a busca.|Baixa|
+|RF|US26|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|<input type="checkbox"> Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Baixa|
+|RF|US27|Eu, como usuário, desejo poder mandar mensagens de texto privadas.|<input type="checkbox"> Poder selecionar o usuário de destino.|Baixa|
+|RF|US28|Eu, como viewer, desejo poder participar de chats durante as streams.|<input type="checkbox"> Se uma transmissão acabar o chat deve acabar também. |Baixa|
+|RF|US29|Eu, como usuário, desejo poder mandar emoticons em conversas.|<input type="checkbox"> Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|Baixa|
+|RF|US30|Eu, como usuário, desejo bloquear alguém em uma conversa.|<input type="checkbox"> Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Baixa|
 
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela Twitch para usufruir de maiores funcionalidades em determinados jogos
 
 |Tipo|História|Descrição|Prioridade|
 |----|------|----------|----|
-|RF|US31|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.|Must|
-|RF|US32|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|Must|
-|RF|US33|Eu, como usuário, gostaria de instalar novos add-ons.|Must|
-|RF|US34|Eu, como usuário, gostaria de deletar add-ons.|Must|
-|RNF|US35|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|Must|
-|RNF|US36|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|Must|
+|RF|US31|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.|Alta|
+|RF|US32|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|Alta|
+|RF|US33|Eu, como usuário, gostaria de instalar novos add-ons.|Alta|
+|RF|US34|Eu, como usuário, gostaria de deletar add-ons.|Alta|
+|RNF|US35|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|Alta|
+|RNF|US36|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|Alta|
 
 #### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 
 |Tipo|História|Descrição|Prioridade|
 |----|----|---------|-|
-|RF|US37|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|Could|
-|RF|US38|Eu, como usuário, gostaria de poder filtrar quem entrar na chamada.|Could|
-|RF|US39|Eu, como usuário, desejo fazer uma vídeo conferência.|Could|
-|RF|US40|Eu, como usuário, desejo fazer uso de uma video  conferência em um servidor.|Could|
-|RF|US41|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|Could|
+|RF|US37|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|Baixa|
+|RF|US38|Eu, como usuário, gostaria de poder filtrar quem entrar na chamada.|Baixa|
+|RF|US39|Eu, como usuário, desejo fazer uma vídeo conferência.|Baixa|
+|RF|US40|Eu, como usuário, desejo fazer uso de uma video  conferência em um servidor.|Baixa|
+|RF|US41|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|Baixa|
 
 #### EP07 - Eu, como usuário, desejo poder contribuir financeiramente com canais e com a Twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
 
 |Tipo|História|Descrição|Prioridade|
 |----|----|---------|--|
-|RNF|US42|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|Must|
-|RF|US43|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|Must|
-|RF|US44|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|Must|
-|RNF|US45|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|Must|
-|RF|US46|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|Must|
-|RF|US47|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|Must|
+|RNF|US42|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|Alta|
+|RF|US43|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|Alta|
+|RF|US44|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|Alta|
+|RNF|US45|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|Alta|
+|RF|US46|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|Alta|
+|RF|US47|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|Alta|
