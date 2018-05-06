@@ -4,7 +4,7 @@
 |24/04/2018|1.1|Adição das US do EP04|Gustavo Carvalho|
 |24/04/2018|1.2|Adição das US's do EP03,EP05 e EP06|Thiago Ferreira|
 |24/04/2018|1.3|Adição das US do EP01|Amanda Pires|
-|25/04/2018|1.4|Adição das US do EP01|Gabriel Ziegler|
+|25/04/2018|1.4|Adição das US do EP02|Gabriel Ziegler|
 |25/04/2018|1.5|Adição das US do EP07|João Carlos Porto|
 |25/04/2018|1.6|Revisão dos épicos|Gustavo Carvalho e Gabriel Ziegler|
 |25/04/2018|1.7|Adição de tipos de Requisitos|Filipe Dias|
