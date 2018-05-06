@@ -10,7 +10,7 @@
 * Estar acontecendo a stream.
 
 ## Ator(es)
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Streamer](L%C3%A9xico-Streamer)
 .
 
 ## Recursos

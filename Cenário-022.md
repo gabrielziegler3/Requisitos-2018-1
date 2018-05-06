@@ -8,11 +8,11 @@
 
 ## Contexto
 * Usuário logado na Twitch.
-* Usuário deseja compartilhar algo que achou interessante para seus [followers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Follower).
+* Usuário deseja compartilhar algo que achou interessante para seus [followers](Follower).
 
 ## Ator(es)
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer).
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Léxico-Streamer).
+* [Viewer](Viewer).
+* [Streamer](Léxico-Streamer).
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet
@@ -23,7 +23,7 @@
 * Usuário não estar logado.
 
 ## Episódios
-* Usuários deseja compartilhar algum pensamento, [clip](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes) ou link para seus seguidores.
+* Usuários deseja compartilhar algum pensamento, [clip](Clipes) ou link para seus seguidores.
 * Usuário está na pagina principal, e preenche o campo de texto com oque achar necessário.
 * Usuário clica no botão ```postar```.
 * Uma postagem é feita no mural do mesmo.

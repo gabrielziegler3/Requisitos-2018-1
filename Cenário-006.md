@@ -1,7 +1,7 @@
 # Cenário 006 - Transmitir uma [transmissão](Stream)
 
 ## Título
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Streamer](L%C3%A9xico-Streamer)
  transmitindo seu jogo
 
 ## Objetivo
@@ -13,7 +13,7 @@
 * Usuário com especificações de máquina de acordo
 
 ## Ator(es)
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer)
+* [Streamer](L%C3%A9xico-Streamer)
 
 
 ## Recursos

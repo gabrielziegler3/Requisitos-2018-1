@@ -7,7 +7,7 @@
 * Se tornar um parceiro Twitch para monetizar suas streams.
 
 ## Contexto
-* O [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) possui uma audiência média de espectadores simultâneos, muitos seguidores em seu canal ou outras redes sociais e faz transmissão com muita frequência. Com isso, o streamer deseja monetizar suas streams passando comerciais em suas transmissões. 
+* O [streamer](L%C3%A9xico-Streamer) possui uma audiência média de espectadores simultâneos, muitos seguidores em seu canal ou outras redes sociais e faz transmissão com muita frequência. Com isso, o streamer deseja monetizar suas streams passando comerciais em suas transmissões. 
 
 ## Ator(es)
 * Streamers, personalidades, ligas, equipes e torneios mais famosos do mundo.
@@ -23,11 +23,11 @@
 * User não estar conectado à internet.
 
 ## Episódios
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) começa a produzir transmissões ao vivo.
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) produz vídeos com conteúdos de alta relevância.
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) começa a ganhar muitos seguidores e inscrições em seu canal.
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) passa a produzir vídeos com muita frequência.
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) adquire audiência média de espectadores simultâneos.
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico-Streamer) consegue se tornar um parceiro Twich.
+* [Streamer](L%C3%A9xico-Streamer) começa a produzir transmissões ao vivo.
+* [Streamer](L%C3%A9xico-Streamer) produz vídeos com conteúdos de alta relevância.
+* [Streamer](L%C3%A9xico-Streamer) começa a ganhar muitos seguidores e inscrições em seu canal.
+* [Streamer](L%C3%A9xico-Streamer) passa a produzir vídeos com muita frequência.
+* [Streamer](L%C3%A9xico-Streamer) adquire audiência média de espectadores simultâneos.
+* [Streamer](L%C3%A9xico-Streamer) consegue se tornar um parceiro Twich.
 
 Referência: [Parceiro Twitch](https://help.twitch.tv/customer/pt_br/portal/articles/735127-dicas-para-se-inscrever-no-programa-de-parceiros)

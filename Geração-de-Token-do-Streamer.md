@@ -1,6 +1,6 @@
 # UC07 - Geração de Chave de Transmissão
 
-### [Diagrama de Caso de uso](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Diagrama-Gera%C3%A7%C3%A3o-de-Token-do-Streamer)
+### [Diagrama de Caso de uso](Diagrama-Gera%C3%A7%C3%A3o-de-Token-do-Streamer)
 
 ## Descrição
 * Este caso de uso descreve o processo de gerar a chave de transmissão para o usuário.

@@ -10,8 +10,8 @@
 * Pessoa possui perfil na Twitch.
 
 ## Ator(es)
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer)
-* [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
+* [Viewer](Viewer)
+* [Streamer](Cenário-001)
 
 ## Recursos
 * Dispositivo eletrônico com acesso à internet 

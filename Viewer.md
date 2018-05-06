@@ -5,7 +5,7 @@
 * viewers.
 
 **Noção:** 
-* Indivíduo que assiste a uma [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream).
+* Indivíduo que assiste a uma [stream](Stream).
 
 **Impacto:**
-* Realiza as tarefas: assistir [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream),[dar follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-Follow) , [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe), [whisper](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper), [cheer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cheer).
+* Realiza as tarefas: assistir [stream](Stream),[dar follow](Dar-Follow) , [subscribe](Subscribe), [whisper](Whisper), [cheer](Cheer).

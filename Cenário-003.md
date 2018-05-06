@@ -19,11 +19,11 @@
 * Conta na Twitch
 
 ## Exceções
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) não estar conectado à internet
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) não logado na Twitch.tv
+* [Viewer](Viewer) não estar conectado à internet
+* [Viewer](Viewer) não logado na Twitch.tv
 * Notificações indesejadas por default
 
 ## Episódios
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) gosta de uma stream 
-* [Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) clica em ```❤️ Seguir```
-* Notificação na tela comprovando que ele está seguindo o [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cenário-001)
+* [Viewer](Viewer) gosta de uma stream 
+* [Viewer](Viewer) clica em ```❤️ Seguir```
+* Notificação na tela comprovando que ele está seguindo o [streamer](Cenário-001)
