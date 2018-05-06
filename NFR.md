@@ -6,7 +6,7 @@
 
 
 ### USXX
-![NFR Usabilidade](./images/NFR-Usabilidadade.png)
+![NFR Usabilidade](images/NFR-Usabilidade.png)
 
 
 ### USYY
