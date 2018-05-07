@@ -1,31 +1,32 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |05/05/2018|1.0|Criação do Documento|Gustavo Carvalho|
-|05/05/2018|1.1|Adicionando NFR USVV|João Carlos Porto|
-|06/05/2018|1.2|Adição de NFR USXX|Gabriel Ziegler|
-|06/05/2018|1.3|Adição de NFR USWW|Amanda Pires|
-|06/05/2018|1.4|Adição de NFR USZZ|Thiago Ferreira|
-|06/05/2018|1.4|Adição de NFR USTT|Filipe Dias|
-|05/05/2018|1.0|Adição de NFR USYY|Gustavo Carvalho|
+|05/05/2018|1.1|Adicionando NFR US53|João Carlos Porto|
+|06/05/2018|1.2|Adição de NFR US48|Gabriel Ziegler|
+|06/05/2018|1.3|Adição de NFR US52|Amanda Pires|
+|06/05/2018|1.4|Adição de NFR US51|Thiago Ferreira|
+|06/05/2018|1.4|Adição de NFR US49|Filipe Dias|
+|06/05/2018|1.5|Adição de NFR US50|Gustavo Carvalho|
 
 
-### USXX
-![NFR Usabilidade](images/NFR-Usabilidade.png)
+### US48
+
+![NFR Usabilidade](images/NFR_US48.png)
+
+### US49
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US49.jpg" width=900px>
+
+### US50
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US50.png" width=900px>
+
+### US51
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US51.jpg" width=900px>
+
+### US52
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.png" width=900px>
+
+### US53
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US53.png" width=900px>
 
 
-### USYY
-<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_USYY.png?raw=true" width=900px>
-
-### USZZ
-<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/StreamingQualityNFR.jpg?raw=true" width=900px>
-
-### USWW
-<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_USWW.png?raw=true" width=900px>
-
-### USVV
-<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_USVV.png?raw=true" width=900px>
-
-### USTT
-
-<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/high_trafic.jpg" width=900px>
 
