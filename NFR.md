@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.jpg" width=900px>
 
 ### US53
-<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US53.png" width=900px>
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_53.png" width=900px>
 
 
 
