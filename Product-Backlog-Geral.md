@@ -55,3 +55,9 @@
 |RNF|US45|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|Must|
 |RF|US46|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|Must|
 |RF|US47|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|Must|
+|RNF|US48|Eu, como usuário, desejo que o sistema possua boa usabilidade para que eu tenha boas experiencias na Twitch.||
+|RNF|US49|Eu, como streamer, desejo que a twitch tenha capacidade de suportar um tráfico muito de grande de usuários, para que assim, eu possa ter uma grande quantidade de viewers durante minhas transmissões.||
+|RNF|US50|Eu, como usuário, desejo que a twitch tenha segurança em transações financeiras, para que eu possa fazer doações e assinar twitch prime.||
+|RNF|US51|Eu, como usuário, desejo poder ter uma transmissão rápida e de qualidade, para que uma "live" não fique travando durante as transmissões.||
+|RNF|US52|Eu, como usuário, desejo que a Twitch tenha portabilidade, para que eu possa acessar a plataforma de um celular ou tablet.||
+|RNF|US52|Eu, como usuário, desejo que a Twitch funcione 24h, para que eu possa acessa-la em qualquer hora e parte do mundo.||
