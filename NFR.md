@@ -8,6 +8,14 @@
 |06/05/2018|1.4|Adição de NFR US49|Filipe Dias|
 |06/05/2018|1.5|Adição de NFR US50|Gustavo Carvalho|
 
+<h1>Introdução</h1>
+
+## 1.1 Finalidade
+
+Este documento tem como finalidade apresentar o NFR framework, baseados em User Cases desenvolvidos previamente pela equipe que abordam Usabilidade, Performance e Eficiência.
+
+
+<h1>NFR</h1>
 
 ### US48
 
