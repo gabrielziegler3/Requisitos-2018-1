@@ -6,6 +6,7 @@
 |06/05/2018|1.3|Adição de NFR USWW|Amanda Pires|
 |06/05/2018|1.4|Adição de NFR USZZ|Thiago Ferreira|
 |06/05/2018|1.4|Adição de NFR USTT|Filipe Dias|
+|05/05/2018|1.0|Adição de NFR USYY|Gustavo Carvalho|
 
 
 ### USXX
