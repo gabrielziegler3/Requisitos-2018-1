@@ -5,6 +5,7 @@
 |06/05/2018|1.2|Adição de NFR USXX|Gabriel Ziegler|
 |06/05/2018|1.3|Adição de NFR USWW|Amanda Pires|
 |06/05/2018|1.4|Adição de NFR USZZ|Thiago Ferreira|
+|06/05/2018|1.4|Adição de NFR USTT|Filipe Dias|
 
 
 ### USXX
@@ -24,4 +25,6 @@
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_USVV.png?raw=true" width=900px>
 
 ### USTT
+
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/high_trafic.jpg" width=900px>
 
