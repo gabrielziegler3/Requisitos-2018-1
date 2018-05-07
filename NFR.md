@@ -1,7 +1,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |05/05/2018|1.0|Criação do Documento|Gustavo Carvalho|
-|05/05/2018|1.1|Adicionando NFR US53|João Carlos Porto|
+|05/05/2018|1.1|Adição NFR US53|João Carlos Porto|
 |06/05/2018|1.2|Adição de NFR US48|Gabriel Ziegler|
 |06/05/2018|1.3|Adição de NFR US52|Amanda Pires|
 |06/05/2018|1.4|Adição de NFR US51|Thiago Ferreira|
