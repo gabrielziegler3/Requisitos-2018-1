@@ -19,7 +19,9 @@ Este documento tem como finalidade apresentar o NFR framework, baseados em User 
 
 ### US48
 
-![NFR Usabilidade](images/NFR_US48.png)
+[NFR Usabilidade 1.0](images/NFR_US48.png)
+
+![NFR Usabilidade 1.1](images/NFR-Usabilidade-1.1.png)
 
 ### US49
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US49.jpg" width=900px>
