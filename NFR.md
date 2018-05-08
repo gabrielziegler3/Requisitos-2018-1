@@ -15,34 +15,38 @@
 
 ## 1.1 Finalidade
 
-Este documento tem como finalidade apresentar o NFR framework, baseados em User Cases desenvolvidos previamente pela equipe que abordam Usabilidade, Performance e Eficiência.
+Este documento tem como finalidade apresentar o NFR framework, baseados em User Cases desenvolvidos previamente pela equipe que abordam Usabilidade, Performance, Segurança, Portabilidade e Eficiência da Twitch.tv.
+
+## 1.2 Escopo
+
+Esse documento tem como identificar os requisitos não funcionais da Twitch.tv, utilizando o NFR Framework divididos em um modelos que abordam cada tópico almejado, indicando os impactos entre eles.
 
 
-<h1>NFR</h1>
+<h1>NFRs</h1>
 
-### US48
+### US48 - Usabilidade
 
 [NFR Usabilidade 1.0](images/NFR_US48.png)
 
 ![NFR Usabilidade 1.1](images/NFR-Usabilidade-1.1.png)
 
-### US49
+### US49 - Performance
 <a href="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US49.jpg">NFR Performance Tráfego 1.0</a>
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR-PerformanceTrafego.jpg" width=900px>
 
-### US50
+### US50 - Segurança
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US50.png" width=900px>
 
 ### US51
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US51.jpg" width=900px>
 
-### US52
+### US52 - Performance
 [NFR US52 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.jpg)
 
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NRF_US52_1.1.jpg?raw=true" width=900px>
 
-### US53
+### US53 - Portabilidade
 [NFR US53 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_53.png)
 
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_US53.png?raw=true" width=900px>
