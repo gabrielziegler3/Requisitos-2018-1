@@ -11,6 +11,7 @@
 |07/05/2018|1.7|Adição de versão 1.1 do NFR US52|Amanda Pires|
 |07/05/2018|1.8|Adição de versão 1.1 do NFR US49|Filipe Dias|
 |07/05/2018|1.9|Adição de versão 1.1 do NFR US51|Thiago Ferreira|
+|07/05/2018|2.0|Adição de versão 1.1 do NFR US50|Gustavo Carvalho|
 
 
 <h1>Introdução</h1>
@@ -38,7 +39,9 @@ Esse documento tem como identificar os requisitos não funcionais da Twitch.tv, 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR-PerformanceTrafego.jpg" width=900px>
 
 ### US50 - Segurança
-<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US50.png" width=900px>
+<a href="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_US50.png">NFR Segurança em Transações 1.0</a>
+
+<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_US50_1-1.jpg" width=900px>
 
 ### US51
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US51.jpg" width=900px>
