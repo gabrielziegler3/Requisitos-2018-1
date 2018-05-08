@@ -34,7 +34,9 @@ Este documento tem como finalidade apresentar o NFR framework, baseados em User 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US51.jpg" width=900px>
 
 ### US52
-<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.jpg" width=900px>
+[NFR US52 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.jpg)
+
+<img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NRF_US52_1.1.jpg?raw=true" width=900px>
 
 ### US53
 [NFR US53 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_53.png)
