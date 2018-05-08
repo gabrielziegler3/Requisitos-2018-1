@@ -9,6 +9,7 @@
 |06/05/2018|1.5|Adição de NFR US50|Gustavo Carvalho|
 |07/05/2018|1.6|Adição de versão 1.1 do NFR US48|Gabriel Ziegler|
 |07/05/2018|1.7|Adição de versão 1.1 do NFR US52|Amanda Pires|
+|07/05/2018|1.8|Adição de versão 1.1 do NFR US49|Filipe Dias|
 
 <h1>Introdução</h1>
 
@@ -26,7 +27,9 @@ Este documento tem como finalidade apresentar o NFR framework, baseados em User 
 ![NFR Usabilidade 1.1](images/NFR-Usabilidade-1.1.png)
 
 ### US49
-<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US49.jpg" width=900px>
+<a href="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US49.jpg">NFR Performance Tráfego 1.0</a>
+
+<img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR-PerformanceTrafego.jpg" width=900px>
 
 ### US50
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US50.png" width=900px>
