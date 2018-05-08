@@ -8,6 +8,7 @@
 |06/05/2018|1.4|Adição de NFR US49|Filipe Dias|
 |06/05/2018|1.5|Adição de NFR US50|Gustavo Carvalho|
 |07/05/2018|1.6|Adição de versão 1.1 do NFR US48|Gabriel Ziegler|
+|07/05/2018|1.7|Adição de versão 1.1 do NFR US52|Amanda Pires|
 
 <h1>Introdução</h1>
 
