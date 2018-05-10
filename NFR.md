@@ -46,12 +46,12 @@ Esse documento tem como identificar os requisitos não funcionais da Twitch.tv, 
 ### US51
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US51.jpg" width=900px>
 
-### US52 - Performance
+### US52 - Portabilidade
 [NFR US52 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_US52.jpg)
 
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NRF_US52_1.1.jpg?raw=true" width=900px>
 
-### US53 - Portabilidade
+### US53 - Disponibilidade
 [NFR US53 1.0](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_NFR/NFR_53.png)
 
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_NFR/NFR_US53.png?raw=true" width=900px>
