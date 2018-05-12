@@ -53,4 +53,4 @@
 
 ## Orientada a meta
 
-* [Strategic Rationale](Strategic-Rationale.md)
+* [Strategic Rationale](Strategic-Rationale)
