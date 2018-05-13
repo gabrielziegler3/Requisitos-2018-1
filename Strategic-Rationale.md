@@ -9,7 +9,7 @@
 
 ## Usuário
 
-![Usuario](./images/iStar/strategic-rationale/Usuario.png)
+![![Usuario](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/Usuario.png)
 
 ## Streamer
 
