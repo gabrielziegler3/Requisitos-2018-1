@@ -3,7 +3,7 @@
 |12/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
 |12/05/2018|0.2|Adição de SR de Streamer versão 1.0|Gabriel Ziegler|
 |12/05/2018|0.3|Adição de SR da Twitch|Amanda Pires|
-|12/05/2018|0.4|Adição de SR de Streamer versão 1.1|Gabriel Ziegler|
+|13/05/2018|0.4|Adição de SR de Streamer versão 1.1|Gabriel Ziegler|
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
 
@@ -19,4 +19,4 @@
 
 ## Twitch
 
-![Twitch](./images/iStar/strategic-rationale/twitch.png)
+[![Twitch](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/twitch.png)
