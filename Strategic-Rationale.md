@@ -5,5 +5,5 @@
 
 # Streamer
 
-![Streamer](./images/strategic-rationale/streamer.png)
+![Streamer](./images/iStar/strategic-rationale/streamer.png)
 
