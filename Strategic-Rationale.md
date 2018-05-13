@@ -1,8 +1,8 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |12/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
-|12/05/2018|0.1|Adição de SR de Streamer|Gabriel Ziegler|
-|12/05/2018|0.1|Adição de SR da Twitch|Amanda Pires|
+|12/05/2018|0.2|Adição de SR de Streamer|Gabriel Ziegler|
+|12/05/2018|0.3|Adição de SR da Twitch|Amanda Pires|
 
 
 ## Streamer
