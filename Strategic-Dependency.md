@@ -3,6 +3,11 @@
 |12/05/2018|0.1|Criação do Documento|Gustavo Carvalho|
 |12/05/2018|0.2|Adição diagrama viewer-streamer|Gustavo Carvalho|
 |12/05/2018|0.3|Adição diagrama twitch-usuário|Gustavo Carvalho|
+|12/05/2018|0.4|Adição diagrama geral 1.0 |Gustavo Carvalho|
+
+## Geral
+
+![Geral 1.0](./images/iStar/strategic-dependecy/geral.png)
 
 ## Viewer - Streamer
 
