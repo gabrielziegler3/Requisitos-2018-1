@@ -15,6 +15,14 @@
       "x": 583,
       "y": 319,
       "nodes": []
+    },
+    {
+      "id": "c4b4230e-2e26-4c61-9961-e6a03bf6718e",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 71,
+      "y": 327,
+      "nodes": []
     }
   ],
   "dependencies": [
@@ -84,85 +92,85 @@
   ],
   "links": [
     {
-      "id": "e616fc70-3e74-4f12-a866-854515d5580c",
+      "id": "5d5a8e9c-78c8-443d-bf4a-eebd891a43be",
       "type": "istar.DependencyLink",
       "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
       "target": "99183065-26a5-491b-af5e-0aafdc1c855a"
     },
     {
-      "id": "f000bb69-a39f-400a-96e1-c5c811ce81b0",
+      "id": "53cf3145-d51a-4a9d-a9f1-3ef8b44e847f",
       "type": "istar.DependencyLink",
       "source": "99183065-26a5-491b-af5e-0aafdc1c855a",
       "target": "46964639-b480-4fc9-b01d-44cf3740be71"
     },
     {
-      "id": "be364039-398c-4912-9cb1-1d1c05bc34c8",
+      "id": "6b0afa74-d7c5-4837-b120-b6252bd4ce7d",
       "type": "istar.DependencyLink",
       "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
       "target": "6731576f-571d-4672-8d18-5b66ddeb4bc6"
     },
     {
-      "id": "b4e0e011-e1f9-476d-ac36-909e4ac2fe86",
+      "id": "d7830222-ea7c-4f23-b90b-e58eb51c37ab",
       "type": "istar.DependencyLink",
       "source": "6731576f-571d-4672-8d18-5b66ddeb4bc6",
       "target": "46964639-b480-4fc9-b01d-44cf3740be71"
     },
     {
-      "id": "26c2c440-1021-48c1-b835-8dc118e6af61",
+      "id": "a4d69af9-a744-49ca-97d3-55bd8fb3f607",
       "type": "istar.DependencyLink",
       "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
       "target": "1c3bb0d6-cf58-41c4-8e55-ba9aad450498"
     },
     {
-      "id": "491fcb6c-e2cb-4de6-938f-9e4c713fdf3d",
+      "id": "807d924a-c0df-4d9c-bd0b-13cab9419b4c",
       "type": "istar.DependencyLink",
       "source": "1c3bb0d6-cf58-41c4-8e55-ba9aad450498",
       "target": "46964639-b480-4fc9-b01d-44cf3740be71"
     },
     {
-      "id": "082ef4aa-5d30-41bf-9680-cd71dfa5c38e",
+      "id": "d21c9899-29bb-44e5-b602-99d586f610b4",
       "type": "istar.DependencyLink",
       "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
       "target": "62f05c1b-0984-4d1c-a8cd-4f71c2fd2389"
     },
     {
-      "id": "332ab970-8587-4b2a-b06e-b24d00f47cdd",
+      "id": "77a801b4-99d2-4b85-ab3f-0a4fadf4c8a1",
       "type": "istar.DependencyLink",
       "source": "62f05c1b-0984-4d1c-a8cd-4f71c2fd2389",
       "target": "46964639-b480-4fc9-b01d-44cf3740be71"
     },
     {
-      "id": "27ddd044-11a4-4962-83de-ed6ed15d0132",
+      "id": "13265209-8dd8-4686-bf49-1dd317f980b1",
       "type": "istar.DependencyLink",
       "source": "46964639-b480-4fc9-b01d-44cf3740be71",
       "target": "aac3c1a2-31ef-4bb6-88ae-a9a81145f9c3"
     },
     {
-      "id": "d8c3bd17-04b4-4dc9-aab2-13f388652036",
+      "id": "3b754368-0d48-4c7b-99c5-5572c19ef74d",
       "type": "istar.DependencyLink",
       "source": "aac3c1a2-31ef-4bb6-88ae-a9a81145f9c3",
       "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
     },
     {
-      "id": "7348bdaf-1475-464e-87ae-631117b2760f",
+      "id": "f39a756d-fd6d-4702-b725-fd16006e8b1e",
       "type": "istar.DependencyLink",
       "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
       "target": "d0afacfe-1905-45ea-8167-04fa4c171382"
     },
     {
-      "id": "71fc48a8-3558-4f35-b781-bd86a1db131f",
+      "id": "1d72a001-b3ed-497a-85f1-c877592d7485",
       "type": "istar.DependencyLink",
       "source": "d0afacfe-1905-45ea-8167-04fa4c171382",
       "target": "46964639-b480-4fc9-b01d-44cf3740be71"
     },
     {
-      "id": "34e30a3d-c4e2-4b41-a029-a9df1d5749c0",
+      "id": "615735c3-3071-4545-9ee7-dbd52029fec9",
       "type": "istar.DependencyLink",
       "source": "46964639-b480-4fc9-b01d-44cf3740be71",
       "target": "1fa5901d-d3f4-4572-a29b-0ee81653549c"
     },
     {
-      "id": "4b4bc92c-f65d-4b9a-a7b1-23f72799d0ac",
+      "id": "6895cc8a-9c56-4f68-9b71-015c8970021d",
       "type": "istar.DependencyLink",
       "source": "1fa5901d-d3f4-4572-a29b-0ee81653549c",
       "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
@@ -174,11 +182,14 @@
     },
     "46964639-b480-4fc9-b01d-44cf3740be71": {
       "collapsed": true
+    },
+    "c4b4230e-2e26-4c61-9961-e6a03bf6718e": {
+      "collapsed": true
     }
   },
   "tool": "pistar.1.2.0",
   "istar": "2.0",
-  "saveDate": "Sun, 13 May 2018 03:25:14 GMT",
+  "saveDate": "Sun, 13 May 2018 13:43:19 GMT",
   "diagram": {
     "width": 1700,
     "height": 1300
