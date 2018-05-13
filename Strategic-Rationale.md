@@ -4,12 +4,13 @@
 |12/05/2018|0.2|Adição de SR de Streamer versão 1.0|Gabriel Ziegler|
 |12/05/2018|0.3|Adição de SR da Twitch|Amanda Pires|
 |13/05/2018|0.4|Adição de SR de Streamer versão 1.1|Gabriel Ziegler|
+|13/05/2018|0.4|Adição de SR de Usuário versão 1.0|João Carlos|
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
 
 ## Usuário
 
-![![Usuario](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/Usuario.png)
+[![Usuario](./images/iStar/strategic-rationale/Usuario.png)](./images/iStar/strategic-rationale/Usuario.png)
 
 ## Streamer
 
