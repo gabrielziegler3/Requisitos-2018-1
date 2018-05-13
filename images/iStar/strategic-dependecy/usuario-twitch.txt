@@ -1,0 +1,249 @@
+{
+  "actors": [
+    {
+      "id": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 732,
+      "y": 363,
+      "nodes": []
+    },
+    {
+      "id": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "text": "Usuário",
+      "type": "istar.Actor",
+      "x": 35,
+      "y": 364,
+      "nodes": []
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "62714182-4c57-45da-9fd7-3a90f786c1cf",
+      "text": "Usuário seja cadastrado",
+      "type": "istar.Goal",
+      "x": 374,
+      "y": 60,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "d64e1476-df9b-4efe-9027-e34cbf42040e",
+      "text": "Adicionar evento",
+      "type": "istar.Task",
+      "x": 370,
+      "y": 191,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "4a701ed8-5177-4ad8-98ab-722fa02b5628",
+      "text": "Poder instalar extensão",
+      "type": "istar.Task",
+      "x": 371,
+      "y": 244,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "60c04a9e-1f27-4bcc-a9ef-019e24eb647b",
+      "text": "Ter acesso a lives",
+      "type": "istar.Task",
+      "x": 370,
+      "y": 301,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "87204153-57cb-486f-93c7-87612d306636",
+      "text": "Subscriptions sejam visualizadas",
+      "type": "istar.Goal",
+      "x": 376,
+      "y": 367,
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    },
+    {
+      "id": "7d9a97a0-d9d4-4ff6-a467-5a17c7886060",
+      "text": "Pagamentos sejam disponibilizados",
+      "type": "istar.Goal",
+      "x": 378,
+      "y": 442,
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    },
+    {
+      "id": "c9fde84d-d534-4088-9e4d-7132dfd2212d",
+      "text": "Adicionar formas de pagamento",
+      "type": "istar.Task",
+      "x": 369,
+      "y": 517,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "107edef3-82b0-4940-aa5a-3c580ba85512",
+      "text": "Vizualizar histórico de pagamentos",
+      "type": "istar.Task",
+      "x": 369,
+      "y": 578,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "726ca1c7-9baf-4037-9ed5-9283f0872c16",
+      "text": "Pesquisa seja realizada",
+      "type": "istar.Goal",
+      "x": 372,
+      "y": 648,
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "cb4e6470-64fe-4eab-a5a1-1ff44e80baa9",
+      "text": "Dashboard seja disponibilizado",
+      "type": "istar.Goal",
+      "x": 374,
+      "y": 133,
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    }
+  ],
+  "links": [
+    {
+      "id": "8ab6ddf3-24a4-4ab7-bd06-bf84da6f3175",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "62714182-4c57-45da-9fd7-3a90f786c1cf"
+    },
+    {
+      "id": "1f75e8ce-f899-49f6-938a-61b8eec451c7",
+      "type": "istar.DependencyLink",
+      "source": "62714182-4c57-45da-9fd7-3a90f786c1cf",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "cd7b115a-60aa-42e0-81ce-688039d87389",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "d64e1476-df9b-4efe-9027-e34cbf42040e"
+    },
+    {
+      "id": "ce481cd1-365e-4311-93aa-56afe95726cb",
+      "type": "istar.DependencyLink",
+      "source": "d64e1476-df9b-4efe-9027-e34cbf42040e",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "c5b70d69-72e7-4656-9761-8e93308a0685",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "4a701ed8-5177-4ad8-98ab-722fa02b5628"
+    },
+    {
+      "id": "1361c477-61d0-4620-ac54-6680d0758d00",
+      "type": "istar.DependencyLink",
+      "source": "4a701ed8-5177-4ad8-98ab-722fa02b5628",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "9619fcec-85bd-448b-9f60-afdfec3c0406",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "60c04a9e-1f27-4bcc-a9ef-019e24eb647b"
+    },
+    {
+      "id": "c79b6b4d-c962-455b-a13a-8c4a49372096",
+      "type": "istar.DependencyLink",
+      "source": "60c04a9e-1f27-4bcc-a9ef-019e24eb647b",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "34e11fec-61ed-4b70-85a6-756296ab2e05",
+      "type": "istar.DependencyLink",
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "87204153-57cb-486f-93c7-87612d306636"
+    },
+    {
+      "id": "05dd6a1c-cefd-4673-a97b-218282b639fd",
+      "type": "istar.DependencyLink",
+      "source": "87204153-57cb-486f-93c7-87612d306636",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    },
+    {
+      "id": "594e296f-0b8d-443e-803b-89a5c4c05600",
+      "type": "istar.DependencyLink",
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "7d9a97a0-d9d4-4ff6-a467-5a17c7886060"
+    },
+    {
+      "id": "9c7f205b-f843-4cfd-a9a0-213561aa774b",
+      "type": "istar.DependencyLink",
+      "source": "7d9a97a0-d9d4-4ff6-a467-5a17c7886060",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    },
+    {
+      "id": "73a228bc-4eb1-4467-b5f8-1d63a3094da2",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "c9fde84d-d534-4088-9e4d-7132dfd2212d"
+    },
+    {
+      "id": "e1ff30ed-c1fa-4a1b-aa7e-97f3b0ac8839",
+      "type": "istar.DependencyLink",
+      "source": "c9fde84d-d534-4088-9e4d-7132dfd2212d",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "687eadd7-c1e8-48b3-a476-6b62ccec8190",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "107edef3-82b0-4940-aa5a-3c580ba85512"
+    },
+    {
+      "id": "bce900f2-7e30-4f9b-a99e-9ba5c3c5c30b",
+      "type": "istar.DependencyLink",
+      "source": "107edef3-82b0-4940-aa5a-3c580ba85512",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "41ab9511-dc78-47f0-bc46-6d65998fd506",
+      "type": "istar.DependencyLink",
+      "source": "6edb7088-a7f2-4cec-a93a-f22570f2bf07",
+      "target": "726ca1c7-9baf-4037-9ed5-9283f0872c16"
+    },
+    {
+      "id": "38f54930-c829-4aa0-80ef-63b076fbe652",
+      "type": "istar.DependencyLink",
+      "source": "726ca1c7-9baf-4037-9ed5-9283f0872c16",
+      "target": "63b98f9f-d643-440d-8efb-f59c5a7463be"
+    },
+    {
+      "id": "ab6b4dab-c19a-4f37-aff7-0ba8c01f07ba",
+      "type": "istar.DependencyLink",
+      "source": "63b98f9f-d643-440d-8efb-f59c5a7463be",
+      "target": "cb4e6470-64fe-4eab-a5a1-1ff44e80baa9"
+    },
+    {
+      "id": "4d8c0aaa-1744-45f1-86af-5c037f9eb505",
+      "type": "istar.DependencyLink",
+      "source": "cb4e6470-64fe-4eab-a5a1-1ff44e80baa9",
+      "target": "6edb7088-a7f2-4cec-a93a-f22570f2bf07"
+    }
+  ],
+  "display": {
+    "6edb7088-a7f2-4cec-a93a-f22570f2bf07": {
+      "collapsed": true
+    },
+    "63b98f9f-d643-440d-8efb-f59c5a7463be": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sun, 13 May 2018 03:43:44 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
