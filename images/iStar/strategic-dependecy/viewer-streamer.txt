@@ -1,0 +1,123 @@
+{
+  "actors": [
+    {
+      "id": "33126b18-d200-45cb-a887-364b43b46bbd",
+      "text": "Viewer",
+      "type": "istar.Role",
+      "x": 261,
+      "y": 312,
+      "nodes": []
+    },
+    {
+      "id": "c4e2ce42-c343-4a7f-8769-edf4276d8a72",
+      "text": "Streamer",
+      "type": "istar.Role",
+      "x": 727,
+      "y": 310,
+      "nodes": []
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "85c62613-9550-4676-b5d6-aa352112b383",
+      "text": "Transmissão seja assistida",
+      "type": "istar.Goal",
+      "x": 476,
+      "y": 190,
+      "source": "c4e2ce42-c343-4a7f-8769-edf4276d8a72",
+      "target": "33126b18-d200-45cb-a887-364b43b46bbd"
+    },
+    {
+      "id": "13782e5b-fe5a-409f-9ed2-e25831675e04",
+      "text": "Seguir",
+      "type": "istar.Task",
+      "x": 476,
+      "y": 262,
+      "source": "33126b18-d200-45cb-a887-364b43b46bbd",
+      "target": "c4e2ce42-c343-4a7f-8769-edf4276d8a72"
+    },
+    {
+      "id": "845ecfdf-7303-43a6-93bc-55c9477a6e09",
+      "text": "Se inscrever",
+      "type": "istar.Task",
+      "x": 475,
+      "y": 327,
+      "source": "33126b18-d200-45cb-a887-364b43b46bbd",
+      "target": "c4e2ce42-c343-4a7f-8769-edf4276d8a72"
+    },
+    {
+      "id": "c768d6e2-5070-49ea-b324-1a8179c3ac18",
+      "text": "Stream seja compartilhada",
+      "type": "istar.Goal",
+      "x": 474,
+      "y": 396,
+      "source": "c4e2ce42-c343-4a7f-8769-edf4276d8a72",
+      "target": "33126b18-d200-45cb-a887-364b43b46bbd"
+    }
+  ],
+  "links": [
+    {
+      "id": "095ea68a-cda8-4c34-ad66-44e935a19794",
+      "type": "istar.DependencyLink",
+      "source": "c4e2ce42-c343-4a7f-8769-edf4276d8a72",
+      "target": "85c62613-9550-4676-b5d6-aa352112b383"
+    },
+    {
+      "id": "16275918-d688-4a68-ade0-6a97305bd3c3",
+      "type": "istar.DependencyLink",
+      "source": "85c62613-9550-4676-b5d6-aa352112b383",
+      "target": "33126b18-d200-45cb-a887-364b43b46bbd"
+    },
+    {
+      "id": "872e1291-28b7-49ad-ae2d-b1ac7291d23a",
+      "type": "istar.DependencyLink",
+      "source": "33126b18-d200-45cb-a887-364b43b46bbd",
+      "target": "13782e5b-fe5a-409f-9ed2-e25831675e04"
+    },
+    {
+      "id": "0c5283b5-d5c2-4b1a-85f3-7965c29da0ed",
+      "type": "istar.DependencyLink",
+      "source": "13782e5b-fe5a-409f-9ed2-e25831675e04",
+      "target": "c4e2ce42-c343-4a7f-8769-edf4276d8a72"
+    },
+    {
+      "id": "ca171884-87e0-4c2f-b4fd-82b4f6f3c3af",
+      "type": "istar.DependencyLink",
+      "source": "33126b18-d200-45cb-a887-364b43b46bbd",
+      "target": "845ecfdf-7303-43a6-93bc-55c9477a6e09"
+    },
+    {
+      "id": "ca0c3e19-6575-457d-a9c4-6da8beb60aaf",
+      "type": "istar.DependencyLink",
+      "source": "845ecfdf-7303-43a6-93bc-55c9477a6e09",
+      "target": "c4e2ce42-c343-4a7f-8769-edf4276d8a72"
+    },
+    {
+      "id": "7325eeb2-8320-4575-810e-d52430bfd0b3",
+      "type": "istar.DependencyLink",
+      "source": "c4e2ce42-c343-4a7f-8769-edf4276d8a72",
+      "target": "c768d6e2-5070-49ea-b324-1a8179c3ac18"
+    },
+    {
+      "id": "1f21db06-0b7a-420c-ba1b-edc08aca4ab5",
+      "type": "istar.DependencyLink",
+      "source": "c768d6e2-5070-49ea-b324-1a8179c3ac18",
+      "target": "33126b18-d200-45cb-a887-364b43b46bbd"
+    }
+  ],
+  "display": {
+    "33126b18-d200-45cb-a887-364b43b46bbd": {
+      "collapsed": true
+    },
+    "c4e2ce42-c343-4a7f-8769-edf4276d8a72": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sun, 13 May 2018 00:20:00 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
