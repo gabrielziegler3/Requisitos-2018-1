@@ -9,3 +9,6 @@
 
 ![Streamer](./images/iStar/strategic-rationale/streamer.png)
 
+## Twitch
+
+![Twitch](./images/iStar/strategic-rationale/twitch.png)
