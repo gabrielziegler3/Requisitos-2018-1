@@ -5,6 +5,7 @@
 |12/05/2018|0.3|Adição de SR da Twitch|Amanda Pires|
 |13/05/2018|0.4|Adição de SR de Streamer versão 1.1|Gabriel Ziegler|
 |13/05/2018|0.5|Adição de SR de Usuário versão 1.0|João Carlos|
+|13/05/2018|0.6|Adição de SR de Visitante versão 1.0|João Carlos|
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
 
@@ -21,3 +22,7 @@
 ## Twitch
 
 [![Twitch](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/twitch.png)
+
+## Visitante
+
+[![Visitante](./images/iStar/strategic-rationale/visitante.png)](./images/iStar/strategic-rationale/visitante.png)

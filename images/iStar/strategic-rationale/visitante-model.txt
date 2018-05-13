@@ -1,0 +1,91 @@
+{
+  "actors": [
+    {
+      "id": "3589ee55-603d-41ee-8bf1-2b2a54498def",
+      "text": "Visitante",
+      "type": "istar.Actor",
+      "x": 143,
+      "y": 49,
+      "nodes": [
+        {
+          "id": "ce606b01-f64d-4456-8143-1fdbef9a1ed6",
+          "text": "Cadastro seja efetuado",
+          "type": "istar.Goal",
+          "x": 215,
+          "y": 66
+        },
+        {
+          "id": "6d4089ce-4c58-408f-873d-90607dff33a2",
+          "text": "Cadastrar conta",
+          "type": "istar.Task",
+          "x": 287,
+          "y": 151
+        },
+        {
+          "id": "60106f58-c5af-4b97-8920-5cca372dd690",
+          "text": "Cadastrar pelo Facebook",
+          "type": "istar.Task",
+          "x": 148,
+          "y": 151
+        },
+        {
+          "id": "6ebf7a1b-c011-44b4-b773-897ac84452e4",
+          "text": "Twitch seja explorada",
+          "type": "istar.Goal",
+          "x": 521,
+          "y": 67
+        },
+        {
+          "id": "a5ecf5a1-d696-4c4d-8d09-9c64e71ab366",
+          "text": "Liberar funcionalidades básicas",
+          "type": "istar.Task",
+          "x": 449,
+          "y": 206
+        },
+        {
+          "id": "5d2c251b-4ad7-436c-b64a-a3500faa1194",
+          "text": "Liberade para o visitante usufruir dos serviços",
+          "type": "istar.Quality",
+          "x": 363,
+          "y": 83
+        }
+      ]
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "cf8a4078-de78-4b4c-b4bd-7cf27b73cbc8",
+      "type": "istar.OrRefinementLink",
+      "source": "6d4089ce-4c58-408f-873d-90607dff33a2",
+      "target": "ce606b01-f64d-4456-8143-1fdbef9a1ed6"
+    },
+    {
+      "id": "daa44c6b-42db-4449-8cea-74d4a50e1f26",
+      "type": "istar.OrRefinementLink",
+      "source": "60106f58-c5af-4b97-8920-5cca372dd690",
+      "target": "ce606b01-f64d-4456-8143-1fdbef9a1ed6"
+    },
+    {
+      "id": "9485a6b5-3adc-43ac-9842-6a8ede8bdbc6",
+      "type": "istar.OrRefinementLink",
+      "source": "a5ecf5a1-d696-4c4d-8d09-9c64e71ab366",
+      "target": "6ebf7a1b-c011-44b4-b773-897ac84452e4"
+    },
+    {
+      "id": "da72ed54-2261-4209-a2bc-44d2de712c73",
+      "type": "istar.ContributionLink",
+      "source": "a5ecf5a1-d696-4c4d-8d09-9c64e71ab366",
+      "target": "5d2c251b-4ad7-436c-b64a-a3500faa1194",
+      "label": "hurt"
+    }
+  ],
+  "display": {},
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sun, 13 May 2018 18:51:16 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
