@@ -24,7 +24,7 @@
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
 
 
-## Patrocinador - Streammer
+## Patrocinador - Streamer
 
 ![Patrocinador - Streammer](./images/iStar/strategic-dependecy/patrocinador-streamer.png)
 
