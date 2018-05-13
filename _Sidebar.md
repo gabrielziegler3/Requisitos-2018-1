@@ -51,6 +51,3 @@
 * [Checklist](Checklist)
 * [Processo de Verificação e Validação](Processo-de-Verificação-e-Validação)
 
-## Orientada a meta
-
-* [Strategic Rationale](Strategic-Rationale)
