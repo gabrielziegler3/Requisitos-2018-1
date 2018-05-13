@@ -6,10 +6,15 @@
 |12/05/2018|0.4|Adição diagrama geral 1.0 |Gustavo Carvalho|
 |12/05/2018|0.5|Adição do diagrama twitch-patrocinador |Amanda Pires|
 |12/05/2018|0.6|Adição do diagrama patrocinador-streamer |Amanda Pires|
+|13/05/2018|0.7|Adição diagrama geral 1.1 |Gustavo Carvalho , Amanda Pires|
 
 ## Geral
 
-![Geral 1.0](./images/iStar/strategic-dependecy/geral.png)
+![Gera 1.1](./images/iStar/strategic-dependecy/geral-1-1.png)
+
+[Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
+
+[Gera 1.1](./images/iStar/strategic-dependecy/geral-1-1.png)
 
 ## Viewer - Streamer
 
