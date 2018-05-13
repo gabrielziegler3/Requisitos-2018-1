@@ -7,6 +7,10 @@
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
 
+## Usuário
+
+![Usuario](./images/iStar/strategic-rationale/Usuario.png)
+
 ## Streamer
 
 [![Streamer 1.1](./images/iStar/strategic-rationale/streamer-1.1.png)](./images/iStar/strategic-rationale/streamer-1.1.png)
