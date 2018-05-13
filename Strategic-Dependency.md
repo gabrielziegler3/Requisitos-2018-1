@@ -4,6 +4,7 @@
 |12/05/2018|0.2|Adição diagrama viewer-streamer|Gustavo Carvalho|
 |12/05/2018|0.3|Adição diagrama twitch-usuário|Gustavo Carvalho|
 |12/05/2018|0.4|Adição diagrama geral 1.0 |Gustavo Carvalho|
+|12/05/2018|0.5|Adição do diagrama twitch-patrocinador |Amanda Pires|
 
 ## Geral
 
@@ -16,3 +17,8 @@
 ## Twitch - Usuário
 
 ![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario.png)
+
+## Twitch - Patrocinador
+
+![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
+
