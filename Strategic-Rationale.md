@@ -11,7 +11,9 @@
 
 ## Usuário
 
-[![Usuario](./images/iStar/strategic-rationale/Usuario.png)](./images/iStar/strategic-rationale/Usuario.png)
+[![Usuario 1.1](./images/iStar/strategic-rationale/usuario-1.1.png)](./images/iStar/strategic-rationale/usuario-1.1.png)
+
+[Usuario 1.0](./images/iStar/strategic-rationale/Usuario.png)
 
 ## Streamer
 
