@@ -6,7 +6,7 @@
 |13/05/2018|0.4|Adição de SR de Streamer versão 1.1|Gabriel Ziegler|
 |13/05/2018|0.5|Adição de SR de Usuário versão 1.0|João Carlos|
 |13/05/2018|0.6|Adição de SR de Visitante versão 1.0|João Carlos|
-|14/05/2018|0.7|Adição de SR de Visitante versão 1.1|João Carlos|
+|14/05/2018|0.7|Adição de SR de Usuário versão 1.1|João Carlos|
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
 
