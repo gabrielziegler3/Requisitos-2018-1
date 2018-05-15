@@ -10,14 +10,17 @@
 |13/05/2018|0.8|Adição do diagrama viewer-twitch |Filipe Dias|
 |13/05/2018|0.8|Adição do diagrama twitch-streamer |Filipe Dias|
 |15/05/2018|0.9|Adição diagrama viewer-streamer 1.1 |João Carlos Porto|
+|15/05/2018|1.0|Adição diagrama geral 1.2 |Gustavo Carvalho|
 
 ## Geral
 
-![Gera 1.1](./images/iStar/strategic-dependecy/geral-1-1.png)
+![Geral 1.1](./images/iStar/strategic-dependecy/geral-1-2.png)
 
 [Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
 
-[Gera 1.1](./images/iStar/strategic-dependecy/geral-1-1.png)
+[Geral 1.1](./images/iStar/strategic-dependecy/geral-1-1.png)
+
+[Geral 1.2](./images/iStar/strategic-dependecy/geral-1-3.png)
 
 ## Viewer - Streamer
 
