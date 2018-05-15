@@ -11,8 +11,9 @@
 |13/05/2018|0.8|Adição do diagrama twitch-streamer |Filipe Dias|
 |15/05/2018|0.9|Adição diagrama viewer-streamer 1.1 |João Carlos Porto|
 |15/05/2018|1.0|Adição diagrama geral 1.2 |Gustavo Carvalho|
+|15/05/2018|1.1|Adição do diagrama viewer-twitch 1.1 |Gustavo Carvalho|
 
-## Geral
+## Geral 1.2
 
 ![Geral 1.1](./images/iStar/strategic-dependecy/geral-1-2.png)
 
@@ -22,33 +23,35 @@
 
 [Geral 1.2](./images/iStar/strategic-dependecy/geral-1-3.png)
 
-## Viewer - Streamer
+## Viewer - Streamer 1.1
 
 [![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)
 
 [Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)
 
 
-## Twitch - Usuário
+## Twitch - Usuário 1.0
 
 ![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario.png)
 
-## Twitch - Patrocinador
+## Twitch - Patrocinador 1.0
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
 
 
-## Patrocinador - Streamer
+## Patrocinador - Streamer 1.0
 
 ![Patrocinador - Streamer](./images/iStar/strategic-dependecy/patrocinador-streamer.png)
 
 
-## Viewer - Twitch
+## Viewer - Twitch 1.1
 
-![Viewer - Twitch](./images/iStar/strategic-dependecy/viewer-twitch.png)
+![Viewer - Twitch 1.0](./images/iStar/strategic-dependecy/viewer-twitch-1-1.png)
+
+[Viewer - Twitch 1.0](./images/iStar/strategic-dependecy/viewer-twitch.png)
 
 
-## Streamer - Twitch
+## Streamer - Twitch 1.0
 
 ![Streamer - Twitch](./images/iStar/strategic-dependecy/twitch-streamer.png)
 
