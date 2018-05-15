@@ -9,6 +9,7 @@
 |13/05/2018|0.7|Adição diagrama geral 1.1 |Gustavo Carvalho , Amanda Pires|
 |13/05/2018|0.8|Adição do diagrama viewer-twitch |Filipe Dias|
 |13/05/2018|0.8|Adição do diagrama twitch-streamer |Filipe Dias|
+|13/05/2018|0.9|Adição diagrama viewer-streamer 1.1 |João Carlos Porto|
 
 ## Geral
 
@@ -20,7 +21,10 @@
 
 ## Viewer - Streamer
 
-![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer.png)
+[![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)
+
+[Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer.png)
+
 
 ## Twitch - Usuário
 
