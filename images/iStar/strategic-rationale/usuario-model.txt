@@ -4,434 +4,466 @@
       "id": "682a0a49-522b-4b1f-b66d-66add5238229",
       "text": "Usuário",
       "type": "istar.Actor",
-      "x": 389,
-      "y": 49,
+      "x": 477,
+      "y": 125,
       "nodes": [
         {
           "id": "14214713-362e-4697-b56b-fbb1513ef66b",
           "text": "Perfil seja atualizado",
           "type": "istar.Goal",
-          "x": 874,
-          "y": 182
+          "x": 962,
+          "y": 258
         },
         {
           "id": "4a1139cf-de73-423c-b8d2-6af72f0f22a7",
           "text": "Atualizar Perfil",
           "type": "istar.Task",
-          "x": 871,
-          "y": 275
+          "x": 959,
+          "y": 351
         },
         {
           "id": "c0385a4a-fd4e-437c-b4fe-27fa237d1ca6",
           "text": "Atualizar fotografia do perfil",
           "type": "istar.Task",
-          "x": 679,
-          "y": 664
+          "x": 767,
+          "y": 740
         },
         {
           "id": "b5239aca-d22e-4bd7-940c-dea4019eab86",
           "text": "Atualizar faixa do perfil",
           "type": "istar.Task",
-          "x": 794,
-          "y": 662
+          "x": 882,
+          "y": 738
         },
         {
           "id": "49876162-ad12-4bc5-98f2-bd0099ecd012",
           "text": "Atualizar definições do perfil",
           "type": "istar.Task",
-          "x": 920,
-          "y": 664
+          "x": 1008,
+          "y": 740
         },
         {
           "id": "69896abb-f4b8-4aad-88fa-72ada9bc9728",
           "text": "Dados seja gerenciados",
           "type": "istar.Goal",
-          "x": 874,
-          "y": 384
+          "x": 962,
+          "y": 460
         },
         {
           "id": "703476de-a666-4ce0-aa11-13a39e1894db",
           "text": "Dados do usuário",
           "type": "istar.Resource",
-          "x": 670,
-          "y": 546
+          "x": 758,
+          "y": 622
         },
         {
           "id": "68b59742-a86b-47ef-901d-108b3946d38f",
           "text": "Atualizar dados",
           "type": "istar.Task",
-          "x": 858,
-          "y": 558
+          "x": 946,
+          "y": 634
         },
         {
           "id": "52e3f276-71d4-41ab-bba3-d23733fd3e5f",
           "text": "Cancelar conta",
           "type": "istar.Task",
-          "x": 1034,
-          "y": 664
+          "x": 1122,
+          "y": 740
         },
         {
           "id": "82b9641b-ac17-4265-9619-06d902c5141d",
           "text": "Lista de amigos seja gerenciada",
           "type": "istar.Goal",
-          "x": 1286,
-          "y": 182
+          "x": 1374,
+          "y": 258
         },
         {
           "id": "984c38af-8fdf-42b4-89ac-25f25058cc3b",
           "text": "Gerenciar lista de amigos",
           "type": "istar.Task",
-          "x": 1430,
-          "y": 292
+          "x": 1518,
+          "y": 368
         },
         {
           "id": "ff7b6864-33a0-41c6-98f5-ee6981bf6e0c",
           "text": "Gerenciar amigo",
           "type": "istar.Task",
-          "x": 1429,
-          "y": 419
+          "x": 1517,
+          "y": 495
         },
         {
           "id": "f892198f-5deb-4c1a-a00b-46b39176ec4a",
           "text": "Enviar sussuro para amigo",
           "type": "istar.Task",
-          "x": 1564,
-          "y": 531
+          "x": 1652,
+          "y": 607
         },
         {
           "id": "99d0d260-9060-4922-b4a2-08e30e6dc07c",
           "text": "Seguir amigo",
           "type": "istar.Task",
-          "x": 1430,
-          "y": 529
+          "x": 1518,
+          "y": 605
         },
         {
           "id": "397fa9a9-abd2-491a-97cf-eb8b17341b03",
           "text": "Remover amizade",
           "type": "istar.Task",
-          "x": 1312,
-          "y": 530
+          "x": 1400,
+          "y": 606
         },
         {
           "id": "3163e84f-dfcd-403f-8875-24676879ec3e",
           "text": "Gerenciar lista de amigos pendentes",
           "type": "istar.Task",
-          "x": 1160,
-          "y": 309
+          "x": 1248,
+          "y": 385
         },
         {
           "id": "1de70ce8-2499-4d38-8ac3-6dfd7c81da96",
           "text": "Aceitar pedido de amizade",
           "type": "istar.Task",
-          "x": 1246,
-          "y": 424
+          "x": 1334,
+          "y": 500
         },
         {
           "id": "3df33adb-3fd3-4793-94ba-edf060d1ef47",
           "text": "Recusar pedido de amizade",
           "type": "istar.Task",
-          "x": 1110,
-          "y": 424
+          "x": 1198,
+          "y": 500
         },
         {
           "id": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
           "text": "Máximo de controle da conta pelo usuário",
           "type": "istar.Quality",
-          "x": 1078,
-          "y": 158
+          "x": 1166,
+          "y": 234
         },
         {
           "id": "24e157f0-8f82-43d5-8e72-a86c6f21bb2d",
           "text": "Conta do usuário seja gerenciada",
           "type": "istar.Goal",
-          "x": 1098,
-          "y": 58
+          "x": 1186,
+          "y": 134
         },
         {
           "id": "8f64fa0c-fb51-4630-902a-01df6481afcc",
           "text": "inventário seja gerenciado",
           "type": "istar.Goal",
-          "x": 1175,
-          "y": 588
+          "x": 1263,
+          "y": 664
         },
         {
           "id": "8c4c5cf2-c6d5-4d84-9342-e1e758123ab6",
           "text": "Ícones, drops e distintivos",
           "type": "istar.Resource",
-          "x": 1343,
-          "y": 757
+          "x": 1431,
+          "y": 833
         },
         {
           "id": "a3f80840-ab3d-45f9-ac35-2faa3022613b",
           "text": "Visualizar inventário",
           "type": "istar.Task",
-          "x": 1173,
-          "y": 692
+          "x": 1261,
+          "y": 768
         },
         {
           "id": "a727f984-374d-49f9-bc12-2319e931cc71",
           "text": "Formas de pagamento seja gerenciados",
           "type": "istar.Goal",
-          "x": 532,
-          "y": 422
+          "x": 620,
+          "y": 498
         },
         {
           "id": "2fbd377c-97d0-408c-bc05-0b09a04a386e",
           "text": "Incluir método de pagamento",
           "type": "istar.Task",
-          "x": 389,
-          "y": 674
+          "x": 477,
+          "y": 750
         },
         {
           "id": "e376231e-b420-44ae-a19d-67346b49faff",
           "text": "Editar métodos de pagamento",
           "type": "istar.Task",
-          "x": 537,
-          "y": 674
+          "x": 625,
+          "y": 750
         },
         {
           "id": "2ee4d124-900c-45a5-a998-c9edc775181a",
           "text": "Quadro com forma de pagamento do usuário",
           "type": "istar.Resource",
-          "x": 605,
-          "y": 767
+          "x": 693,
+          "y": 843
         }
       ]
+    },
+    {
+      "id": "140452dc-0db1-46a9-a3cc-50aa95311368",
+      "type": "istar.Agent",
+      "x": 33,
+      "y": 121,
+      "nodes": []
     }
   ],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "2524a63f-0719-4181-a79a-9f136e0d1de2",
+      "text": "Usuário seja cadastrado",
+      "type": "istar.Goal",
+      "x": 232,
+      "y": 46,
+      "source": "24e157f0-8f82-43d5-8e72-a86c6f21bb2d",
+      "target": "140452dc-0db1-46a9-a3cc-50aa95311368"
+    }
+  ],
   "links": [
     {
-      "id": "e59b0480-b7e0-4d3c-88cf-4161ca092c56",
+      "id": "4f7efa67-e0aa-4294-ab81-aaab8f5ca107",
       "type": "istar.OrRefinementLink",
       "source": "4a1139cf-de73-423c-b8d2-6af72f0f22a7",
       "target": "14214713-362e-4697-b56b-fbb1513ef66b"
     },
     {
-      "id": "ae47faab-4624-4e45-9a3b-cd2e14c8a4d2",
+      "id": "b43db22b-596e-48b0-8b43-ef7d4cce58f3",
       "type": "istar.NeededByLink",
       "source": "703476de-a666-4ce0-aa11-13a39e1894db",
       "target": "68b59742-a86b-47ef-901d-108b3946d38f"
     },
     {
-      "id": "ba8b978f-a42a-4a0c-91a2-3b8cfaa202bf",
+      "id": "54d64d8b-89b3-488d-9c76-9b9d23f0257c",
       "type": "istar.AndRefinementLink",
       "source": "3163e84f-dfcd-403f-8875-24676879ec3e",
       "target": "82b9641b-ac17-4265-9619-06d902c5141d"
     },
     {
-      "id": "d0754be9-c25b-43b3-a49d-2a1668c0b2c6",
+      "id": "9d59205e-1966-4e4c-a218-208a6441fe0e",
       "type": "istar.AndRefinementLink",
       "source": "984c38af-8fdf-42b4-89ac-25f25058cc3b",
       "target": "82b9641b-ac17-4265-9619-06d902c5141d"
     },
     {
-      "id": "5033c6d8-43a1-4d6d-972a-e898a500a8b7",
+      "id": "263aa2e6-0776-4e3a-9578-ac3b27c00d73",
       "type": "istar.AndRefinementLink",
       "source": "69896abb-f4b8-4aad-88fa-72ada9bc9728",
       "target": "4a1139cf-de73-423c-b8d2-6af72f0f22a7"
     },
     {
-      "id": "942794a9-07fd-4c7e-8199-89bc730d7af1",
+      "id": "8ab8be6b-f1b5-4f49-9b1f-91f60be36aef",
       "type": "istar.AndRefinementLink",
       "source": "ff7b6864-33a0-41c6-98f5-ee6981bf6e0c",
       "target": "984c38af-8fdf-42b4-89ac-25f25058cc3b"
     },
     {
-      "id": "ba9c561c-010c-44aa-abcb-5ca2ff2a30fb",
+      "id": "2f8ab13f-354b-40fe-a723-d3328bc52146",
       "type": "istar.ContributionLink",
       "source": "68b59742-a86b-47ef-901d-108b3946d38f",
       "target": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
       "label": "help"
     },
     {
-      "id": "095445a1-fb1c-45c3-bef5-2ece563eb53d",
+      "id": "b211e791-9e25-4c25-b6ee-b113125269cb",
       "type": "istar.ContributionLink",
       "source": "3163e84f-dfcd-403f-8875-24676879ec3e",
       "target": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
       "label": "help"
     },
     {
-      "id": "39064432-fd6e-4dec-9f48-f24db78ccd37",
+      "id": "4d5fb5e2-e55f-4a79-8fc9-173795ec4a8e",
       "type": "istar.ContributionLink",
       "source": "984c38af-8fdf-42b4-89ac-25f25058cc3b",
       "target": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
       "label": "help"
     },
     {
-      "id": "698b9682-56f2-4c34-91b6-83c380bdb2ac",
+      "id": "5030cf32-ebf8-402d-a7c6-aa7dc517dea7",
       "type": "istar.AndRefinementLink",
       "source": "82b9641b-ac17-4265-9619-06d902c5141d",
       "target": "24e157f0-8f82-43d5-8e72-a86c6f21bb2d"
     },
     {
-      "id": "c5da4d7b-a435-467a-9f84-834c051d53c1",
+      "id": "a52719b4-5bdd-43fc-96a2-c7cbbdb96d79",
       "type": "istar.AndRefinementLink",
       "source": "14214713-362e-4697-b56b-fbb1513ef66b",
       "target": "24e157f0-8f82-43d5-8e72-a86c6f21bb2d"
     },
     {
-      "id": "d2708cb8-26da-4217-8d92-863c695bc45c",
+      "id": "fecc05f9-cf85-47ab-9615-f2eab4e05896",
       "type": "istar.AndRefinementLink",
       "source": "68b59742-a86b-47ef-901d-108b3946d38f",
       "target": "69896abb-f4b8-4aad-88fa-72ada9bc9728"
     },
     {
-      "id": "e5316fba-e88a-4724-b3c4-7933286493f9",
+      "id": "6e3234dc-c7c6-4ac9-af10-13818e70f63e",
       "type": "istar.AndRefinementLink",
       "source": "8f64fa0c-fb51-4630-902a-01df6481afcc",
       "target": "69896abb-f4b8-4aad-88fa-72ada9bc9728"
     },
     {
-      "id": "9f6a0b09-4e62-4512-bc61-f61c06df0d01",
+      "id": "f31b96d0-775f-469a-99cd-bcd55604828d",
       "type": "istar.AndRefinementLink",
       "source": "a3f80840-ab3d-45f9-ac35-2faa3022613b",
       "target": "8f64fa0c-fb51-4630-902a-01df6481afcc"
     },
     {
-      "id": "82725737-333f-4c05-b8cc-4d5bbf820ba7",
+      "id": "8522f24f-03c4-40b4-886f-bfb490224825",
       "type": "istar.NeededByLink",
       "source": "8c4c5cf2-c6d5-4d84-9342-e1e758123ab6",
       "target": "a3f80840-ab3d-45f9-ac35-2faa3022613b"
     },
     {
-      "id": "c0af039a-ef16-4708-83b3-5527e0e93e3a",
+      "id": "0a499e08-ea09-44d1-9edd-8132495c464c",
       "type": "istar.ContributionLink",
       "source": "a3f80840-ab3d-45f9-ac35-2faa3022613b",
       "target": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
       "label": "hurt"
     },
     {
-      "id": "32adf8bc-6035-464a-b7cf-41cb0f9c7a7d",
+      "id": "a41239c4-ffdb-4292-bbd1-0a408f21551b",
       "type": "istar.AndRefinementLink",
       "source": "a727f984-374d-49f9-bc12-2319e931cc71",
       "target": "69896abb-f4b8-4aad-88fa-72ada9bc9728"
     },
     {
-      "id": "2dd5b27d-2450-4cfe-8e53-9b41d627e6f3",
+      "id": "b47da142-fba6-4a49-8510-4075b4313220",
       "type": "istar.AndRefinementLink",
       "source": "2fbd377c-97d0-408c-bc05-0b09a04a386e",
       "target": "a727f984-374d-49f9-bc12-2319e931cc71"
     },
     {
-      "id": "6a66dabd-2b1f-4b92-9420-8ed43298f5ce",
+      "id": "325ee5d5-3fc3-456d-99cb-6578d360ac25",
       "type": "istar.AndRefinementLink",
       "source": "e376231e-b420-44ae-a19d-67346b49faff",
       "target": "a727f984-374d-49f9-bc12-2319e931cc71"
     },
     {
-      "id": "269f785f-8644-4574-8896-1f7fda721678",
+      "id": "c5b04e63-b1db-43f6-882d-46b79c3b2719",
       "type": "istar.NeededByLink",
       "source": "2ee4d124-900c-45a5-a998-c9edc775181a",
       "target": "e376231e-b420-44ae-a19d-67346b49faff"
     },
     {
-      "id": "4969f43f-f145-4b6f-9adb-17d6d8d8caf6",
+      "id": "0224e7bf-f87e-468e-85b6-8a94d04e94ad",
       "type": "istar.ContributionLink",
       "source": "e376231e-b420-44ae-a19d-67346b49faff",
       "target": "3e99f4d7-4e8f-475b-9b9c-1b9df452512f",
       "label": "help"
     },
     {
-      "id": "df46619b-3554-435a-a2e3-4ebda973a1e5",
+      "id": "e5701987-63c0-4935-8a89-fa99ae060594",
       "type": "istar.OrRefinementLink",
       "source": "c0385a4a-fd4e-437c-b4fe-27fa237d1ca6",
       "target": "68b59742-a86b-47ef-901d-108b3946d38f"
     },
     {
-      "id": "826b19d4-9a23-40d3-83b4-8e5a2d22b7cf",
+      "id": "deb1a4e3-fd70-4ef1-83c2-6a5f37e542d4",
       "type": "istar.OrRefinementLink",
       "source": "b5239aca-d22e-4bd7-940c-dea4019eab86",
       "target": "68b59742-a86b-47ef-901d-108b3946d38f"
     },
     {
-      "id": "849fa5f6-43b9-4ad0-92ff-71564854a96c",
+      "id": "d004c763-5997-4be6-93ca-7074da62bb53",
       "type": "istar.OrRefinementLink",
       "source": "49876162-ad12-4bc5-98f2-bd0099ecd012",
       "target": "68b59742-a86b-47ef-901d-108b3946d38f"
     },
     {
-      "id": "7bdc249a-9010-4d84-a618-12657a7d6d71",
+      "id": "3526eb63-6669-434d-8999-6d1bec8ab23e",
       "type": "istar.OrRefinementLink",
       "source": "52e3f276-71d4-41ab-bba3-d23733fd3e5f",
       "target": "68b59742-a86b-47ef-901d-108b3946d38f"
     },
     {
-      "id": "d3bfa1ab-7a62-4e17-b084-85ad93787cb4",
+      "id": "16b630dd-d163-42a6-88f3-908cfc06794f",
       "type": "istar.OrRefinementLink",
       "source": "f892198f-5deb-4c1a-a00b-46b39176ec4a",
       "target": "ff7b6864-33a0-41c6-98f5-ee6981bf6e0c"
     },
     {
-      "id": "c6b855b5-7029-44a0-be5d-de7d4ec51980",
+      "id": "274eb0ff-b6c8-4cc2-93d7-1e18ea7c645c",
       "type": "istar.OrRefinementLink",
       "source": "99d0d260-9060-4922-b4a2-08e30e6dc07c",
       "target": "ff7b6864-33a0-41c6-98f5-ee6981bf6e0c"
     },
     {
-      "id": "a9e03e47-b6c2-41d1-bae1-2fbb2e4ea390",
+      "id": "09c06dac-7ffb-4c0d-8d4c-3a0eaeefd047",
       "type": "istar.OrRefinementLink",
       "source": "397fa9a9-abd2-491a-97cf-eb8b17341b03",
       "target": "ff7b6864-33a0-41c6-98f5-ee6981bf6e0c"
     },
     {
-      "id": "50b1f7aa-403b-48fc-9454-fa151704cfc8",
+      "id": "6b5a7e6c-75ae-4166-b7fb-e5a472bfcc41",
       "type": "istar.OrRefinementLink",
       "source": "1de70ce8-2499-4d38-8ac3-6dfd7c81da96",
       "target": "3163e84f-dfcd-403f-8875-24676879ec3e"
     },
     {
-      "id": "9256e3c2-55c8-45f3-86b1-102fa856235e",
+      "id": "911c5743-60cb-4c4f-87e3-502ccba1bc15",
       "type": "istar.OrRefinementLink",
       "source": "3df33adb-3fd3-4793-94ba-edf060d1ef47",
       "target": "3163e84f-dfcd-403f-8875-24676879ec3e"
+    },
+    {
+      "id": "317ebd69-1474-4958-b07c-8306146601c1",
+      "type": "istar.DependencyLink",
+      "source": "24e157f0-8f82-43d5-8e72-a86c6f21bb2d",
+      "target": "2524a63f-0719-4181-a79a-9f136e0d1de2"
+    },
+    {
+      "id": "157b3e0b-baee-4bad-947a-e3f54baea8fd",
+      "type": "istar.DependencyLink",
+      "source": "2524a63f-0719-4181-a79a-9f136e0d1de2",
+      "target": "140452dc-0db1-46a9-a3cc-50aa95311368"
     }
   ],
   "display": {
-    "e5316fba-e88a-4724-b3c4-7933286493f9": {
+    "6e3234dc-c7c6-4ac9-af10-13818e70f63e": {
       "vertices": [
         {
-          "x": 1052,
-          "y": 568
+          "x": 1140,
+          "y": 644
         }
       ]
     },
-    "c0af039a-ef16-4708-83b3-5527e0e93e3a": {
+    "0a499e08-ea09-44d1-9edd-8132495c464c": {
       "vertices": [
         {
-          "x": 1054,
-          "y": 476
+          "x": 1142,
+          "y": 552
         },
         {
-          "x": 1085,
-          "y": 411
+          "x": 1173,
+          "y": 487
         },
         {
-          "x": 1119,
+          "x": 1207,
+          "y": 447
+        }
+      ]
+    },
+    "0224e7bf-f87e-468e-85b6-8a94d04e94ad": {
+      "vertices": [
+        {
+          "x": 771,
+          "y": 593
+        },
+        {
+          "x": 990,
+          "y": 432
+        },
+        {
+          "x": 1102,
           "y": 371
         }
       ]
     },
-    "4969f43f-f145-4b6f-9adb-17d6d8d8caf6": {
-      "vertices": [
-        {
-          "x": 683,
-          "y": 517
-        },
-        {
-          "x": 902,
-          "y": 356
-        },
-        {
-          "x": 1014,
-          "y": 295
-        }
-      ]
+    "140452dc-0db1-46a9-a3cc-50aa95311368": {
+      "collapsed": true
     }
   },
   "tool": "pistar.1.2.0",
   "istar": "2.0",
-  "saveDate": "Mon, 14 May 2018 17:52:22 GMT",
+  "saveDate": "Tue, 15 May 2018 18:36:32 GMT",
   "diagram": {
     "width": 1900,
     "height": 1300
