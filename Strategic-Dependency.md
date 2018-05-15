@@ -23,7 +23,7 @@
 
 [![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)
 
-[Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer.png)
+[Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)
 
 
 ## Twitch - Usuário
