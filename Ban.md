@@ -8,3 +8,5 @@
 
 **Impacto:**
 * Impede algumas atitudes desaprovadas pelos [streamers](Streamer) e pela comunidade, e bane quem comete essas infrações pra que essa pessoa não acesse mais aquele conteúdo com aquela conta.
+
+
