@@ -4,253 +4,271 @@
       "id": "9fa354b8-feaa-4f54-b916-0a347d04ec55",
       "text": "Streamer",
       "type": "istar.Role",
-      "x": 93,
-      "y": 37,
+      "x": 543,
+      "y": 240,
       "nodes": [
         {
           "id": "eb8ec193-c948-4bc4-b80f-6b20bf0aa9ec",
           "text": "Stream seja iniciada",
           "type": "istar.Goal",
-          "x": 543,
-          "y": 44
+          "x": 993,
+          "y": 247
         },
         {
           "id": "a3ec9975-2f99-4af2-8705-5588d306f9a6",
           "text": "Conta na Twitch",
           "type": "istar.Resource",
-          "x": 95,
-          "y": 391
+          "x": 545,
+          "y": 594
         },
         {
           "id": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0",
           "text": "Adquirir stream key",
           "type": "istar.Task",
-          "x": 217,
-          "y": 272
+          "x": 667,
+          "y": 475
         },
         {
           "id": "bc81d481-f2e3-4050-822a-282f7e56cac8",
           "text": "Iniciar stream",
           "type": "istar.Task",
-          "x": 287,
-          "y": 144
+          "x": 737,
+          "y": 347
         },
         {
           "id": "0855b7a7-28c2-4a37-95af-24f08e1ab9af",
           "text": "Stream key",
           "type": "istar.Resource",
-          "x": 219,
-          "y": 391
+          "x": 669,
+          "y": 594
         },
         {
           "id": "d91389af-6150-4347-aa43-b4ae351175ec",
           "text": "Possuir conta",
           "type": "istar.Task",
-          "x": 93,
-          "y": 268
+          "x": 543,
+          "y": 471
         },
         {
           "id": "206e8bcb-5262-4dec-ba7d-235321f709a3",
           "text": "Iniciar stream em software de captura",
           "type": "istar.Task",
-          "x": 787,
-          "y": 154
+          "x": 1237,
+          "y": 357
         },
         {
           "id": "58bb93b8-4d85-4f9c-9e35-ba2d9937bfdd",
           "text": "Software de captura",
           "type": "istar.Resource",
-          "x": 794,
-          "y": 428
+          "x": 1244,
+          "y": 631
         },
         {
           "id": "e0220966-9429-4359-aaee-0f200a0957da",
           "text": "Iniciar stream key em captura",
           "type": "istar.Task",
-          "x": 790,
-          "y": 297
+          "x": 1240,
+          "y": 500
         },
         {
           "id": "94c81b2e-d665-4581-9a26-825d6c14442e",
           "text": "Boa qualidade [Imagem]",
           "type": "istar.Quality",
-          "x": 517,
-          "y": 428
+          "x": 967,
+          "y": 631
         },
         {
           "id": "002b7e56-c47b-477b-af37-ea81c318aa28",
           "text": "Anunciar propagandas",
           "type": "istar.Task",
-          "x": 995,
-          "y": 309
+          "x": 1445,
+          "y": 512
         },
         {
           "id": "1e36f3f0-fe16-4c01-b27e-11bbc821c20a",
           "text": "Anúncio seja visualizado",
           "type": "istar.Goal",
-          "x": 999,
-          "y": 94
+          "x": 1449,
+          "y": 297
         },
         {
           "id": "9a4d31a4-c8a5-4de2-a15c-64f8dc5f4ec7",
           "text": "Bom retorno [Financeiro]",
           "type": "istar.Quality",
-          "x": 1188,
-          "y": 308
+          "x": 1638,
+          "y": 511
         },
         {
           "id": "10c5d9bb-e5e9-4016-8e4e-d3a15bd52d42",
           "text": "Aumentar resolução da stream",
           "type": "istar.Task",
-          "x": 606,
-          "y": 275
+          "x": 1056,
+          "y": 478
         },
         {
           "id": "17d51c4d-c2a1-4969-a5e1-13450ffef5d7",
           "text": "Diminuir resolução da stream",
           "type": "istar.Task",
-          "x": 420,
-          "y": 279
+          "x": 870,
+          "y": 482
         },
         {
           "id": "0116fdd0-e827-42c4-8d89-6fd7f75d846a",
           "text": "Grande número [Audiência]",
           "type": "istar.Quality",
-          "x": 814,
-          "y": 51
+          "x": 1264,
+          "y": 254
         }
       ]
+    },
+    {
+      "id": "7291155d-2fc1-42ea-b5a1-e2d99f25625f",
+      "text": "Usuário",
+      "type": "istar.Actor",
+      "x": 131,
+      "y": 85,
+      "nodes": []
     }
   ],
   "dependencies": [],
   "links": [
     {
-      "id": "cc76731b-11f7-4c6a-8891-9e1b7e9031f4",
+      "id": "d82d064d-a0de-4e82-916e-55951025458b",
       "type": "istar.AndRefinementLink",
       "source": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0",
       "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
     },
     {
-      "id": "8bbd9310-0cb4-4f84-a2c8-ee056db47f04",
+      "id": "d4bc7bc1-1e8f-44b4-ae48-584dbb708117",
       "type": "istar.NeededByLink",
       "source": "0855b7a7-28c2-4a37-95af-24f08e1ab9af",
       "target": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0"
     },
     {
-      "id": "df3e28bb-aa07-41e7-9a36-bccc39d208c0",
+      "id": "dcaf5cc9-8ffd-4fd7-9679-9c0553185c99",
       "type": "istar.NeededByLink",
       "source": "a3ec9975-2f99-4af2-8705-5588d306f9a6",
       "target": "d91389af-6150-4347-aa43-b4ae351175ec"
     },
     {
-      "id": "d414927e-1fc3-4e9a-9d45-a24e0befe9eb",
+      "id": "8d2f4228-7d4f-4656-bc2e-27093678e226",
       "type": "istar.AndRefinementLink",
       "source": "d91389af-6150-4347-aa43-b4ae351175ec",
       "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
     },
     {
-      "id": "5ae888de-78bc-411b-8756-2e6a876936af",
+      "id": "28cc0a03-94f4-4849-9a04-c0fc6f757c11",
       "type": "istar.AndRefinementLink",
       "source": "e0220966-9429-4359-aaee-0f200a0957da",
       "target": "206e8bcb-5262-4dec-ba7d-235321f709a3"
     },
     {
-      "id": "585f689d-0d3c-4f0e-8df7-a7736bac59e8",
+      "id": "eacf4bc2-9caf-4fd4-b7f6-8310f04f3f35",
       "type": "istar.NeededByLink",
       "source": "58bb93b8-4d85-4f9c-9e35-ba2d9937bfdd",
       "target": "e0220966-9429-4359-aaee-0f200a0957da"
     },
     {
-      "id": "3abb5a93-8e0c-410d-afe2-700f13893434",
+      "id": "1defd05b-4f93-4532-a5d2-77941a6830d8",
       "type": "istar.AndRefinementLink",
       "source": "002b7e56-c47b-477b-af37-ea81c318aa28",
       "target": "1e36f3f0-fe16-4c01-b27e-11bbc821c20a"
     },
     {
-      "id": "576b5def-fcf6-4dd2-a3ce-0640a59a9709",
+      "id": "23b10654-f54a-4a29-8e91-1cb7fdb6add6",
       "type": "istar.AndRefinementLink",
       "source": "10c5d9bb-e5e9-4016-8e4e-d3a15bd52d42",
       "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
     },
     {
-      "id": "21e4ca8f-1fdc-4dff-b6cd-1a1a7e15fc14",
+      "id": "d3c8a250-1b26-4d29-8391-9caf4096af98",
       "type": "istar.AndRefinementLink",
       "source": "17d51c4d-c2a1-4969-a5e1-13450ffef5d7",
       "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
     },
     {
-      "id": "08d23976-14f6-4d36-95c4-43701ab136e6",
+      "id": "3cf442d2-2e20-4a60-a9fa-f59754426d94",
       "type": "istar.ContributionLink",
       "source": "10c5d9bb-e5e9-4016-8e4e-d3a15bd52d42",
       "target": "94c81b2e-d665-4581-9a26-825d6c14442e",
       "label": "help"
     },
     {
-      "id": "980213b3-f820-43f6-83c9-772b1cd604bb",
+      "id": "43dfc028-1b5d-433e-9b52-373cc2089426",
       "type": "istar.ContributionLink",
       "source": "17d51c4d-c2a1-4969-a5e1-13450ffef5d7",
       "target": "94c81b2e-d665-4581-9a26-825d6c14442e",
       "label": "hurt"
     },
     {
-      "id": "23b97a18-5814-4860-bc13-5902ecfa4991",
+      "id": "dc347359-bf4c-4ea9-98b0-2efeae5f6f00",
       "type": "istar.AndRefinementLink",
       "source": "10c5d9bb-e5e9-4016-8e4e-d3a15bd52d42",
       "target": "206e8bcb-5262-4dec-ba7d-235321f709a3"
     },
     {
-      "id": "3088d9bd-21a8-4e59-8199-cb5c58a9d80c",
+      "id": "d5a4ff95-220a-438b-9bbb-13059103ca89",
       "type": "istar.AndRefinementLink",
       "source": "17d51c4d-c2a1-4969-a5e1-13450ffef5d7",
       "target": "206e8bcb-5262-4dec-ba7d-235321f709a3"
     },
     {
-      "id": "8c3acde2-1782-4b14-8e4e-a5d5b9281de2",
+      "id": "471c7a4e-1f1f-46af-a3ed-e0df67ff76ec",
       "type": "istar.OrRefinementLink",
       "source": "bc81d481-f2e3-4050-822a-282f7e56cac8",
       "target": "eb8ec193-c948-4bc4-b80f-6b20bf0aa9ec"
     },
     {
-      "id": "0fd73b17-f5d3-4730-b2fa-b8af408baee9",
+      "id": "12e0d4d2-bcd1-4968-8ab7-647305c661d9",
       "type": "istar.OrRefinementLink",
       "source": "206e8bcb-5262-4dec-ba7d-235321f709a3",
       "target": "eb8ec193-c948-4bc4-b80f-6b20bf0aa9ec"
     },
     {
-      "id": "48cd82a7-0994-4a38-9f55-3bd803f9bb41",
+      "id": "a1ed9f6f-ca9c-4c73-8041-33f7f9ea036d",
       "type": "istar.ContributionLink",
       "source": "002b7e56-c47b-477b-af37-ea81c318aa28",
       "target": "9a4d31a4-c8a5-4de2-a15c-64f8dc5f4ec7",
       "label": "help"
     },
     {
-      "id": "f4ff5cf3-9c73-4019-85ea-bd0e3a36d750",
+      "id": "192f17c2-8c61-48f3-a83b-bba3ccdb42fb",
       "type": "istar.ContributionLink",
       "source": "002b7e56-c47b-477b-af37-ea81c318aa28",
       "target": "0116fdd0-e827-42c4-8d89-6fd7f75d846a",
       "label": "hurt"
     },
     {
-      "id": "1fcb0c5e-e770-4f19-b7f8-a77ef91e2016",
+      "id": "b4309333-1ad6-4f81-802d-686a48b24c5e",
       "type": "istar.ContributionLink",
       "source": "206e8bcb-5262-4dec-ba7d-235321f709a3",
       "target": "0116fdd0-e827-42c4-8d89-6fd7f75d846a",
       "label": "help"
     },
     {
-      "id": "4cfe482f-abb9-474e-bf4d-f6a0528a4b6f",
+      "id": "0d1fd2d4-6277-4af1-afa0-c9ef181ea193",
       "type": "istar.ContributionLink",
       "source": "bc81d481-f2e3-4050-822a-282f7e56cac8",
       "target": "0116fdd0-e827-42c4-8d89-6fd7f75d846a",
       "label": "help"
+    },
+    {
+      "id": "45ba0d6a-c909-40d3-9b7c-54095c3ce6e4",
+      "type": "istar.ParticipatesInLink",
+      "source": "7291155d-2fc1-42ea-b5a1-e2d99f25625f",
+      "target": "9fa354b8-feaa-4f54-b916-0a347d04ec55"
     }
   ],
-  "display": {},
+  "display": {
+    "7291155d-2fc1-42ea-b5a1-e2d99f25625f": {
+      "collapsed": true
+    }
+  },
   "tool": "pistar.1.2.0",
   "istar": "2.0",
-  "saveDate": "Sun, 13 May 2018 13:49:51 GMT",
+  "saveDate": "Wed, 16 May 2018 17:33:37 GMT",
   "diagram": {
-    "width": 1700,
+    "width": 1787,
     "height": 1300
   }
 }
