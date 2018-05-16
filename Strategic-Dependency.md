@@ -74,5 +74,5 @@
 
 ## Visitante - Twitch
 
-[![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtich-visitante.png)]
-(./images/iStar/strategic-dependecy/Twtich-visitante.png)
+[![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtitch-visitante.png)]
+(./images/iStar/strategic-dependecy/Twtitch-visitante.png)
