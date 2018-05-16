@@ -3,7 +3,7 @@
     {
       "id": "91128870-1949-4a29-8183-7d3262f4f35d",
       "text": "Twitch",
-      "type": "istar.Actor",
+      "type": "istar.Agent",
       "x": 120,
       "y": 654,
       "nodes": []
@@ -11,7 +11,7 @@
     {
       "id": "2b295c7f-c196-4795-ac67-8033f7e87982",
       "text": "Usuário",
-      "type": "istar.Actor",
+      "type": "istar.Agent",
       "x": 1042,
       "y": 669,
       "nodes": []
