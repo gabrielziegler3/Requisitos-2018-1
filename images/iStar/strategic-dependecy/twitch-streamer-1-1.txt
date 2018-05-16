@@ -1,0 +1,144 @@
+{
+  "actors": [
+    {
+      "id": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "text": "Streamer",
+      "type": "istar.Role",
+      "x": 118,
+      "y": 279,
+      "nodes": []
+    },
+    {
+      "id": "b1796216-cd04-4b82-8b8f-b8988b0931fe",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 539,
+      "y": 287,
+      "nodes": []
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "2edbb09b-9c59-46d6-85c3-6d2f28139922",
+      "text": "Streamer seja efetivado Twitch Partner",
+      "type": "istar.Goal",
+      "x": 301,
+      "y": 230,
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "4af2b146-a50d-45e1-b0f2-5fdcfcf71cd9",
+      "text": "Transmitir Regularmente",
+      "type": "istar.Task",
+      "x": 301,
+      "y": 295,
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "660be09e-8f52-467e-a5a2-7d45c2774222",
+      "text": "Trasnmissão seja monetizada",
+      "type": "istar.Goal",
+      "x": 302,
+      "y": 162,
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "9f7e7a07-c05f-403a-ae41-58a3184288d0",
+      "text": "Qualidade na transmissão de stream",
+      "type": "istar.Quality",
+      "x": 302,
+      "y": 366,
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "a09a37cc-d041-43dd-8f25-ca27905a9443",
+      "text": "Controlar transmissão",
+      "type": "istar.Task",
+      "x": 301,
+      "y": 444,
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    }
+  ],
+  "links": [
+    {
+      "id": "08284ef8-0f77-4b45-abbb-03d1d79b0fca",
+      "type": "istar.DependencyLink",
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "2edbb09b-9c59-46d6-85c3-6d2f28139922"
+    },
+    {
+      "id": "babe5ae5-4056-40dd-bc4c-6f6cd2804b71",
+      "type": "istar.DependencyLink",
+      "source": "2edbb09b-9c59-46d6-85c3-6d2f28139922",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "071aed45-94bd-4347-b32c-31557030f836",
+      "type": "istar.DependencyLink",
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "4af2b146-a50d-45e1-b0f2-5fdcfcf71cd9"
+    },
+    {
+      "id": "b0faca06-688d-4a2e-81a0-3b0cf0ef8a5f",
+      "type": "istar.DependencyLink",
+      "source": "4af2b146-a50d-45e1-b0f2-5fdcfcf71cd9",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "aeabd9d6-6000-480b-aee6-8732374050fc",
+      "type": "istar.DependencyLink",
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "660be09e-8f52-467e-a5a2-7d45c2774222"
+    },
+    {
+      "id": "d428875c-ff0a-4d7a-a5bc-7a7f8a816f9c",
+      "type": "istar.DependencyLink",
+      "source": "660be09e-8f52-467e-a5a2-7d45c2774222",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "144e5597-bf2e-4fa1-bb4f-da12545e8aaf",
+      "type": "istar.DependencyLink",
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "9f7e7a07-c05f-403a-ae41-58a3184288d0"
+    },
+    {
+      "id": "95ad8203-4d03-44a3-a15f-3be93e52e4cb",
+      "type": "istar.DependencyLink",
+      "source": "9f7e7a07-c05f-403a-ae41-58a3184288d0",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    },
+    {
+      "id": "3cbaa777-56b2-4ae2-9c2e-b39047e31594",
+      "type": "istar.DependencyLink",
+      "source": "4c89721f-45b3-495f-ba6d-06988eddf183",
+      "target": "a09a37cc-d041-43dd-8f25-ca27905a9443"
+    },
+    {
+      "id": "54143222-7f5f-4013-834f-5ff0957c12c7",
+      "type": "istar.DependencyLink",
+      "source": "a09a37cc-d041-43dd-8f25-ca27905a9443",
+      "target": "b1796216-cd04-4b82-8b8f-b8988b0931fe"
+    }
+  ],
+  "display": {
+    "4c89721f-45b3-495f-ba6d-06988eddf183": {
+      "collapsed": true
+    },
+    "b1796216-cd04-4b82-8b8f-b8988b0931fe": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Wed, 16 May 2018 00:34:45 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
