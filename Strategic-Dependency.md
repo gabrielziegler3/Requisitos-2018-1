@@ -16,10 +16,13 @@
 |15/05/2018|1.3|Adição do diagrama geral 1.3 |Gustavo Carvalho|
 |15/05/2018|1.4|Adição do diagrama 2.0 twitch-usuario e correções pequenas ao modelo twitch-viewer |Thiago Ferreira|
 |15/05/2018|1.4|Adição do diagrama 3.0 Twitch-Usuário e Viewer-Streamer 2.0|Thiago Ferreira|
+|16/05/2018|1.5|Adição do Diagrama Geral 1.5|Gustavo Carvalho|
 
-## Geral 1.3
+## Geral 1.5
 
-![Geral 1.3](./images/iStar/strategic-dependecy/geral-1-3.png)
+![Geral 1.5](./images/iStar/strategic-dependecy/geral-1-5.png)
+
+[Geral 1.5](./images/iStar/strategic-dependecy/geral-1-5.png)
 
 [Geral 1.3](./images/iStar/strategic-dependecy/geral-1-3.png)
 
