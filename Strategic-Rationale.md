@@ -8,6 +8,7 @@
 |13/05/2018|0.6|Adição de SR de Visitante versão 1.0|João Carlos|
 |14/05/2018|0.7|Adição de SR de Usuário versão 1.1|João Carlos|
 |15/05/2018|0.8|Adição de SR de Usuário versão 1.2|João Carlos|
+|15/05/2018|0.9|Adição de SR da Twitch 2.0|Thiago Ferreira|
 
 
 [Ferramenta utilizada para a modelagem i*](http://www.cin.ufpe.br/~jhcp/pistar/)
@@ -28,7 +29,10 @@
 
 ## Twitch
 
-[![Twitch](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/twitch.png)
+[![Twitch](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/twitch2.0.png)
+
+[1.0](./images/iStar/strategic-rationale/twitch.png)<br>
+[2.0](./images/iStar/strategic-rationale/twitch-2.0.png)
 
 ## Visitante
 
