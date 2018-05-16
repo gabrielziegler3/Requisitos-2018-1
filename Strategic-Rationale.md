@@ -18,7 +18,7 @@
 
 ## Usuário
 
-[![Usuario 1.3](./images/iStar/strategic-rationale/usuario1.3.png)](./images/iStar/strategic-rationale/usuario1.3.png)
+[![Usuario 1.3](./images/iStar/strategic-rationale/usuario-1.3.png)](./images/iStar/strategic-rationale/usuario-1.3.png)
 
 [Usuario 1.2](./images/iStar/strategic-rationale/usuario-1.2.png)
 
