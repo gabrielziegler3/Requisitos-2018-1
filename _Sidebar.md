@@ -42,7 +42,6 @@
 * [Sprint Backlog #1](Sprint-Backlog)
 * [NFR](NFR)
 * [Diagramas I*](Diagramas-i*)
-* [Objetivos I*](Objetivos-i*)
 
 ***
 
