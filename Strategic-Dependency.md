@@ -16,6 +16,7 @@
 |15/05/2018|1.3|Adição do diagrama geral 1.3 |Gustavo Carvalho|
 |15/05/2018|1.4|Adição do diagrama 2.0 twitch-usuario e correções pequenas ao modelo twitch-viewer |Thiago Ferreira|
 |15/05/2018|1.4|Adição do diagrama 3.0 Twitch-Usuário e Viewer-Streamer 2.0|Thiago Ferreira|
+|15/05/2018|1.5|Adição do diagrama Twitch-Visitante|João Carlos|
 
 ## Geral 1.3
 
@@ -74,5 +75,4 @@
 
 ## Visitante - Twitch
 
-[![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtitch-visitante.png)]
-(./images/iStar/strategic-dependecy/Twtitch-visitante.png)
+[![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtitch-visitante.png)](./images/iStar/strategic-dependecy/Twtitch-visitante.png)
