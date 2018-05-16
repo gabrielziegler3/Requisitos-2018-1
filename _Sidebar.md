@@ -42,5 +42,6 @@
 * [Sprint Backlog #1](Sprint-Backlog)
 * [NFR](NFR)
 * [Diagramas I*](Diagramas-i*)
+* [Especificação I*](Especificação-i*)
 
 ***
