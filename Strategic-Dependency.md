@@ -72,3 +72,7 @@
 
 [Streamer - Twitch 1.0](./images/iStar/strategic-dependecy/twitch-streamer.png)
 
+## Visitante - Twitch
+
+[![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtich-visitante.png)]
+(./images/iStar/strategic-dependecy/Twtich-visitante.png)
