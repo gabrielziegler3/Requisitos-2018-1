@@ -14,6 +14,7 @@
 |15/05/2018|1.1|Adição do diagrama viewer-twitch 1.1 |Gustavo Carvalho|
 |15/05/2018|1.2|Adição do diagrama twitch-streamer 1.1 |Gustavo Carvalho|
 |15/05/2018|1.3|Adição do diagrama geral 1.3 |Gustavo Carvalho|
+|15/05/2018|1.4|Adição do diagrama 2.0 twitch-usuario e correções pequenas ao modelo twitch-viewer |Thiago Ferreira|
 
 ## Geral 1.3
 
@@ -35,10 +36,12 @@
 [Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)
 
 
-## Twitch - Usuário 1.0
+## Twitch - Usuário 2.0
 
-![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario.png)
+![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)
 
+[1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)
+[2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)
 ## Twitch - Patrocinador 1.0
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
