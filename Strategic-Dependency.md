@@ -15,10 +15,11 @@
 |15/05/2018|1.2|Adição do diagrama twitch-streamer 1.1 |Gustavo Carvalho|
 |15/05/2018|1.3|Adição do diagrama geral 1.3 |Gustavo Carvalho|
 |15/05/2018|1.4|Adição do diagrama 2.0 twitch-usuario e correções pequenas ao modelo twitch-viewer |Thiago Ferreira|
-|15/05/2018|1.4|Adição do diagrama 3.0 Twitch-Usuário e Viewer-Streamer 2.0|Thiago Ferreira|
-|16/05/2018|1.5|Adição do Diagrama Geral 1.5|Gustavo Carvalho|
-|16/05/2018|1.6|Adição do diagrama Twitch-Visitante|João Carlos|
-|16/05/2018|1.7|Adição do Diagrama Geral 1.6|João Carlos|
+|15/05/2018|1.5|Adição do diagrama 3.0 Twitch-Usuário e Viewer-Streamer 2.0|Thiago Ferreira|
+|16/05/2018|1.6|Adição do Diagrama Geral 1.5|Gustavo Carvalho|
+|16/05/2018|1.7|Adição do diagrama Twitch-Visitante|João Carlos|
+|16/05/2018|1.8|Adição do Diagrama Geral 1.6|João Carlos|
+|17/05/2018|1.9|Adição do diagrama 3.1 Twitch-Usuário e Viewer-Streamer 2.1|Thiago Ferreira|
 
 
 ## Geral 1.5
@@ -38,23 +39,25 @@
 [Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
 
 
-## Viewer - Streamer 2.0
+## Viewer - Streamer 2.1
 
-[![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)
+[![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
 
 [Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 [Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
 [Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)
+[Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
 
 
 
-## Twitch - Usuário 2.0
+## Twitch - Usuário 3.1
 
-![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)
+![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)
 
 [Twitch - Usuário 1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)<br>
 [Twitch - Usuário 2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)<br>
 [Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)
+[Twitch - Usuário 3.1](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)
 ## Twitch - Patrocinador 1.0
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
