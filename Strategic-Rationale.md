@@ -34,10 +34,10 @@
 
 ## Twitch
 
-[![Twitch](./images/iStar/strategic-rationale/twitch.png)](./images/iStar/strategic-rationale/twitch2.0.png)
+[![Twitch](./images/iStar/strategic-rationale/twitch-2.0.png)](./images/iStar/strategic-rationale/twitch2.0.png)
 
-[1.0](./images/iStar/strategic-rationale/twitch.png)<br>
-[2.0](./images/iStar/strategic-rationale/twitch-2.0.png)
+[Twitch - 1.0](./images/iStar/strategic-rationale/twitch.png)<br>
+[Twitch - 2.0](./images/iStar/strategic-rationale/twitch-2.0.png)
 
 ## Visitante
 
