@@ -45,3 +45,8 @@
 * [Especificação I*](Especificação-i*)
 
 ***
+
+### Análise
+
+* [Verificação](Verificação)
+* [Checklist](Checklist)
