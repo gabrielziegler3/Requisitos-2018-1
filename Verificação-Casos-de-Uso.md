@@ -10,6 +10,11 @@ Artefatos produzidos durante a etapa de levantamento da especificação suplemen
 * [Especificação Suplementar](Especificação-Suplementar)
 * [Diagramas de Caso de Uso](Diagramas-de-Casos-de-Uso)
 ### Preparação
+* Estabeleceu-se um padrão determinado para os casos de uso e confirmou-se que os membros responsáveis pela inspecção do documento, estivessem apropriadamente aptos a fazer um revisão em tal nível, possuindo conhecimento a respeito da produção desses artefatos e nos casos específicos da documentação a ser revisada.
+* A equipe estabeleceu durante a confecção dos artefatos padrões a serem seguidos, será conferido se os revisores estão cientes desse padrão e se toda a documentação está no padrão apropriado.
+
 ### Reunião da Inspecção
+
 ### Retrabalho
+
 ### Acompanhamento
