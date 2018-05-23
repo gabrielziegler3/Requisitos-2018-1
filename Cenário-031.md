@@ -18,7 +18,7 @@
 * Internet
 
 ## Exceções
-* User não estar conectado à internet.
+* Usuário não estar conectado à internet.
 
 ## Episódios
 * [Streamer](Streamer)  entra na sua conta Twitch.

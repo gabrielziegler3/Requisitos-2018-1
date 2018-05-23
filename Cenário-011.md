@@ -1,10 +1,10 @@
 # Cenário 011 - Configurar pagamento
 
 ## Título
-* User configurando sua forma de pagamento
+* Usuário configurando sua forma de pagamento
 
 ## Objetivo
-* User configurar sua forma de pagamento para não ter que ficar configurando toda vez ao realizar alguma compra
+* Usuário configurar sua forma de pagamento para não ter que ficar configurando toda vez ao realizar alguma compra
 
 ## Contexto
 * Usuário seleciona alguma compra (Twitch Prime, Subscribe)

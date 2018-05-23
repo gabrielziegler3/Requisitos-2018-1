@@ -20,7 +20,7 @@
 * Usuário não consegue achar a funcionalidade
 
 ## Episódios
-* User acessa um canal
-* User seleciona a aba ```Clipes```
-* User seleciona o clipe específico
-* User assiste o clipe da stream
+* Usuário acessa um canal
+* Usuário seleciona a aba ```Clipes```
+* Usuário seleciona o clipe específico
+* Usuário assiste o clipe da stream

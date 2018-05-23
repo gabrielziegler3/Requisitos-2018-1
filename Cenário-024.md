@@ -16,7 +16,7 @@
 * Dispositivo eletrônico com acesso à internet 
 
 ## Exceções
-* User não estar conectado à internet.
+* Usuário não estar conectado à internet.
 
 ## Episódios
 * Usuário clica em ```⏹⏹⏹``` ao lado esquerdo da barra de busca.

@@ -18,8 +18,8 @@
 * Conta na Twitch
 
 ## Exceções
-* User não estar conectado à internet
-* User não logado na Twitch.tv
+* Usuário não estar conectado à internet
+* Usuário não logado na Twitch.tv
 
 ## Episódios
 * Usuário deseja alterar/atualizar seus dados. 

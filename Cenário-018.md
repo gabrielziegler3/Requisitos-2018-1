@@ -19,7 +19,7 @@
 * Encontrar jogo específico sem usar o catálogo.
 
 ## Episódios
-* User deseja encontrar conteúdo específico
-* User clica na parte superior da tela na sessão ```Procurar```
-* User seleciona conteúdo específico
-* User assiste stream desejada
+* Usuário deseja encontrar conteúdo específico
+* Usuário clica na parte superior da tela na sessão ```Procurar```
+* Usuário seleciona conteúdo específico
+* Usuário assiste stream desejada

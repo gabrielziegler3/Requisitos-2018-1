@@ -8,7 +8,7 @@
 * Compartilhar uma [stream](Stream) em redes sociais ou via link para que outras pessoas possam assistir.
 
 ## Contexto
-* User assistindo [stream](Stream)
+* Usuário assistindo [stream](Stream)
 
 ## Ator(es)
 * Usuários
