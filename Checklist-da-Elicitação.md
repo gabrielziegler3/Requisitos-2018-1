@@ -3,16 +3,19 @@
 * Data: 23/05/2018
 
 ### Checklist dos itens de inspeção
-[X] Plano de Elicitação de Requisitos
-[X] Ilustração do Plano de Elicitação
-[X] Personas
+
+- [ ] Plano de Elicitação de Requisitos
+- [ ] Questionário
+- [ ] Storytelling
+- [ ] Análise de Protocolo + Observação Participativa
+- [ ] Introspecção
 
 * Técnicas Utilizadas:
-[X] Observação
-[X]Entrevista
-[X] Questionário
-[X] Observação Participativa
-[X] MoSCoW
+- [ ] Introspecção
+- [ ] Análise de Protocolo
+- [ ] Questionário
+- [ ] Storytelling
+- [ ] Observação Participativa
 
 #### 1. Plano de Elicitação de Requisitos
 |Item de Inspeção|Plano de Elicitação de Requisitos|
