@@ -30,13 +30,12 @@ A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em
 
 ## Realização da inspeção
 
---  Fazendo --
+[Checklist de inspeção dos NFRs](./Checklist-dos-NFRs)
 
 ## Retrabalho
 
---  Fazendo --
+
 
 ## Revisão
 
---  Fazendo --
 
