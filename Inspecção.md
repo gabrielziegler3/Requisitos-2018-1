@@ -23,6 +23,12 @@ Nesta etapa, os participantes são treinados para executarem as funções que lh
 ### Realização da Inspeção
 
  Esta etapa inclui sessões de trabalho, nas quais os participantes analisam o produto ou artefato de software, com o fim de detectar os defeitos existentes nesses produtos.
+Existem várias técnicas de inspeção para encontrar defeitos em artefatos, entre elas
+* Leitura baseada em Checklist (LBCh)
+* Leitura Baseada em Cenário (LBCe)
+* Leitura Baseada em Perspectiva (LBPe)
+
+A equipe optou por utilizar a técnica LBCh. 
 
 ### Retrabalho
 
@@ -42,4 +48,5 @@ Nesta etapa, os participantes são treinados para executarem as funções que lh
 
 # Referências
 
-* [Artigo sobre técnicas de inspeção](http://www.inf.puc-rio.br/~wer/WERpapers/artigos/artigos_WER06/bertini.pdf)
+* [Técnicas de inspeção](http://www.inf.puc-rio.br/~wer/WERpapers/artigos/artigos_WER06/bertini.pdf)
+* [Uma abordagem sobre inspeção de documentos ](http://www.lbd.dcc.ufmg.br/colecoes/sbqs/2006/012.pdf)
