@@ -1,3 +1,7 @@
+* Checklist de Inspeção dos diagramas iStar
+* Inspetor: João Carlos
+* Data: 23/05/2018
+
 |Item de Inspeção|iStar|
 |------|-------|
 Questão 1|Os Atores estão bem definidos ?|

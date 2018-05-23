@@ -16,8 +16,13 @@ Acesso ao [Diagrama iStar](Diagramas-i*)
 ### Preparação 
 A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em Checklist(LBCh). Essa técnica é composta de uma lista de perguntas que ajuda os inspetores a encontrarem uma lista de defeitos no produto durante a inspeção. O final, será desenvolvido um quadro de classificação de defeitos de acordo com o resultado obtido da inspeção.
 
+### Realização da inspeção
+
+[Checklist I*](Checklist-I*)
+
 ### Retrabalho
 * A definir
 
-### Acompanhamento
-[Checklist I*](Checklist-I*)
+### Verificação
+* A definir
+
