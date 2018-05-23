@@ -26,6 +26,7 @@ Defeitos:
 - seja capaz de comunicar externamente.<br />
 - seja capaz de comunicar usuários.<br />
 - seja capaz de ser acessada.<br />
+- seguir usuario.<br />
 
 7 - Os Softgoals tem bons nomes ?<br />
 Resposta: Sim.
@@ -46,5 +47,32 @@ Defeitos:
 - Capital
 
 10 - Todos os links entre elementos internos e externos do rationale são de dependencia.
+
+Resposta: Sim.
+
+
+13 - Todos os links entre Hardgoals e outros elementos estão corretos ?
+
+Resposta: Não.
+Defeitos:
+- Serviço de Add-ons [Mods] seja disponibilizado.
+- Seja capaz de fazer comunicação.
+- Viewer seja prime.
+- Dasboard seja acessado.
+14 - Todos os links entre Softgoals e outros elementos estão corretos ?
+
+Resposta: Não.
+Defeitos:
+- Boa segurança
+- Boa usabilidade
+- Alta Performance
+-
+15 - Todos os links entre Tasks e outros elementos estão corretos ?
+
+Resposta: Sim.
+16 - Todos os links de dependencia estão corretos ?
+
+Resposta: Sim.
+17 - Todos as associações entre atores estão corretas ?
 
 Resposta: Sim.
