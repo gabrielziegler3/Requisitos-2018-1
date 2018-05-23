@@ -1,5 +1,3 @@
-# Verificação Elicitação
-
 ### Planejamento
 O grupo, como um todo, decidiu por dividir temas a cada integrante, visando identificar erros a serem corrigidos, para que fosse possível realizar o método escolhido para aplicação da Inspeção. O documento a ser inspecionado será o de Elicitação juntamente com as técnicas escolhidas para serem aplicadas ao próprio.
 
