@@ -1,7 +1,7 @@
 ### Planejamento
 O grupo, como um todo, decidiu por dividir temas a cada integrante, visando identificar erros a serem corrigidos, para que fosse possível realizar o método escolhido para aplicação da Inspeção. O documento a ser inspecionado será o de Elicitação juntamente com as técnicas escolhidas para serem aplicadas ao próprio.
 
-### Apresentação
+### Visão Geral
 Técnicas aplicadas à Elicitação: 
 * [Questionário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Questionario)
 * [Storytelling](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Storytelling)
@@ -20,12 +20,14 @@ OBS: Todos os artefados de rastreabilidade,
 tais como dados obtidos, foram inseridos à documentação do projeto.
 ```
 
-### Reunião de Inspeção
-* A definir
+### Realização da Inspeção
+
+[Checklist da Elicitação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-da-Elicita%C3%A7%C3%A3o)
 
 ### Retrabalho
 * A definir
 
-### Acompanhamento
+### Verificação
+* A definir
 
-[Checklist da Elicitação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-da-Elicita%C3%A7%C3%A3o)
+
