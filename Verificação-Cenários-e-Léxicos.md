@@ -2,6 +2,7 @@
 |----|------|---------|-----|
 |22/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
 |22/05/2018|0.2|Adição de Cenários|Gabriel Ziegler|
+|23/05/2018|0.3|Estruturação|Filipe Dias|
 
 #### 1. Cenários
 |Item de Inspeção|Cenários|
