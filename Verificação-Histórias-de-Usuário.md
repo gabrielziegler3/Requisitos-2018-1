@@ -2,12 +2,13 @@
 |----|------|---------|-----|
 |23/05/2018|0.1|Criação do Documento.|Gustavo Carvalho|
 |23/05/2018|0.2|Adição de planejamento, apresentação e preparação ao documento.|Gustavo Carvalho|
+|23/05/2018|0.3|Padronização do documento|Gustavo Carvalho|
 
 ### Planejamento
 
 Os membros do grupo optaram por um reparticionamento da inspeção, onde cada indivíduo, com sua devida parte determinada previamente, seria responsável pela revisão e evolução do documento cabível a ele. O artefato em questão a ser inspecionado são as histórias de usuários. 
 
-### Apresentação
+### Visão Geral
 
  * [Product Backlog](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog).
 
@@ -16,15 +17,17 @@ Os membros do grupo optaram por um reparticionamento da inspeção, onde cada in
 * Critérios de aceitação: A definição dos critérios de aceitação foi restrita somente à um épico, com os outros, apresentando a ausência do tópico em questão.
 * Tabela geral: Absência de uma tabela geral contendo todas as US, com subdivisões em épicos. Vulgo "tabelão".
 
-### Reunião de Inspeção
+### Realização da Inspeção
 
-* A definir
+[Checklist da Veriricação de Histórias de Usuário](Checklist-da-US)
 
 ### Retrabalho
 
 * A ser feito
 
-### Acompanhamento
+### Verificação
 
-[Checklist da Veriricação de Histórias de Usuário](Checklist-da-US)
+* A ser feito
+
+
 
