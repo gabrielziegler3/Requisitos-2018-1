@@ -11,5 +11,6 @@
 |As histórias de usuário seguem o padrão de escrita onde o ator vem primeiro?   Ex: ``` Eu, como ator, ... ```    |Sim|Nenhuma|
 |As US estão estruturadas da forma correta?     Ex: ``` As <persona> , I want <what?> so that <why?> ```|Não, Observa-se somente o uso de  ``` As <persona> , I want <what?> ```|Nenhuma|
 |As US tem critérios de aceitação?|Somente algumas apresentam esse tópico|Nenhuma|
+|Existe alguma rastreabilidade descrita no documento de como as US foram levantadas?|Não|Nenhuma|
 
 
