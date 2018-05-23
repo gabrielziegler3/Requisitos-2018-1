@@ -1,53 +1,27 @@
-|Data|Versão|Descrição|Autor|
-|----|------|---------|-----|
-|22/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
-|22/05/2018|0.2|Adição de Cenários|Gabriel Ziegler|
+### Planejamento
+O grupo, como um todo, decidiu por dividir temas a cada integrante, visando identificar erros a serem corrigidos, para que fosse possível realizar o método escolhido para aplicação da Inspeção. O documento a ser inspecionado será o de Elicitação juntamente com as técnicas escolhidas para serem aplicadas ao próprio.
 
-# Cenários
+### Visão Geral
+* [Cenários](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cen%C3%A1rios)
+* [Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/L%C3%A9xico)
 
-1 - Todos os cenários possuem título?
+### Preparação
 
-Resposta: Sim
+* O grupo definiu quais integrantes participariam da elaboração do documento. Após divido, fora aplicado, logo em seguida, as técnicas de Preparação. O grupo falhou ao não ter anexado à documentação do projeto o Plano de Verificação e uma definição clara do que seria tal técnica.
 
-2 - Todos os cenários possuem objetivo?
+```
+OBS: Todos os artefados de rastreabilidade, 
+tais como dados obtidos, foram inseridos à documentação do projeto.
+```
 
-Resposta: Sim
+### Realização da Inspeção
 
-3 - Estão inseridos em um contexto?
+[Checklist de Cenários e Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-Cen%C3%A1rios-e-L%C3%A9xicos)
 
-Resposta: Sim
+### Retrabalho
+* A definir
 
-4 - Todos os atores estão devidamente definidos?
+### Verificação
+* A definir
 
-Resposta: Não
-
-Modificações: O ator do Cenário-013 estava mal definido, visto que definia duplamente o Streamer como ator.
-
-5 - Os cenários se enquadram em todos os fluxos para a execução de uma tarefa?
-
-Resposta: Sim.
-
-6 - Os episódios estão bem definidos?
-
-Resposta: Sim
-
-7 - Existem padrões entre as descrições de cada subtópicos dos cenários?
-
-Resposta: 
-
-8 - Todos os cenários estão linkados com os léxicos?
-
-Resposta: 
-
-9 - Os atores estão linkados com os léxicos?
-
-Resposta:
-
-Modificações: Todos atores foram linkados com léxico. commit
-
-10 - Os links para os léxicos estão funcionando?
-
-Resposta:
-
-# Léxicos
 
