@@ -2,7 +2,7 @@
 
 ## Título
 * Hosteando outra stream
-	
+
 ## Objetivo
 * Transferir [viewers](Viewer) para outro canal
 
@@ -12,9 +12,6 @@
 
 ## Ator(es)
 * [Streamer](L%C3%A9xico-Streamer)
- 1
-* [Streamer](L%C3%A9xico-Streamer)
- 2
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet
