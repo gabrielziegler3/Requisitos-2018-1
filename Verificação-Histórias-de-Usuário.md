@@ -1,6 +1,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
-|23/05/2018|0.1|Criação do Documento|Gustavo Carvalho|
+|23/05/2018|0.1|Criação do Documento.|Gustavo Carvalho|
+|23/05/2018|0.2|Adição de planejamento, apresentação e preparação ao documento.|Gustavo Carvalho|
 
 ### Planejamento
 
