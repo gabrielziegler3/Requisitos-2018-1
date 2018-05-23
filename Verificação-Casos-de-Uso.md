@@ -15,10 +15,14 @@ Artefatos produzidos durante a etapa de levantamento da especificação suplemen
 
 ### Realização da Inspecção
 
+[Checklist Casos de Uso](Checklist-de-Inspecção-dos-Casos-de-Uso)
 
 ### Retrabalho
 
-### Revisão
+* A definir.
 
-### Checklist de Inspecção dos Casos de Uso
-[Checklist](Checklist-de-Inspecção-dos-Casos-de-Uso)
+### Verificação
+
+* A definir.
+
+
