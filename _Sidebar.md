@@ -18,7 +18,7 @@
 * [Questionário](Questionario)
 * [Storytelling](Storytelling)
 * [Análise de Protocolo + Observação Participativa](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))
-* [Introspecção](Introspeccao)
+* [Introspecção](Introspecção)
 * [Apresentação 02/04/18](Apresentação-02-04-2018)
 
 ***
