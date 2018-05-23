@@ -1,6 +1,6 @@
 ## Planejamento
 
-Serão inspecionados os NFRs Framework feitos por cada integrante da equipe. Cada NFR será analisado e verificado afim de se encontrar defeitos e corrigi-los, para que o projeto alcance boa qualidade. Os artefatos analisados serão os seguintes:
+Serão inspecionados os [NFRs Framework](./NFR) feitos por cada integrante da equipe. Cada NFR será analisado e verificado afim de se encontrar defeitos e corrigi-los, para que o projeto alcance boa qualidade. Os artefatos analisados serão os seguintes:
 
 * NFR de Usabilidade
 * NFR de Performance para o Usuário
@@ -37,5 +37,4 @@ A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em
 
 
 ## Revisão
-
 
