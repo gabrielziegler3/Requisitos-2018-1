@@ -16,7 +16,7 @@ tais como dados obtidos, foram inseridos à documentação do projeto.
 
 ### Realização da Inspeção
 
-[Checklist de Cenários e Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Verifica%C3%A7%C3%A3o-Cen%C3%A1rios-e-L%C3%A9xicos)
+[Checklist de Cenários e Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-Cen%C3%A1rios-e-L%C3%A9xicos)
 
 ### Retrabalho
 * A definir
