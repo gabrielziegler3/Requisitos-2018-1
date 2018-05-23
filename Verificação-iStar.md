@@ -29,3 +29,22 @@ Defeitos:
 
 7 - Os Softgoals tem bons nomes ?<br />
 Resposta: Sim.
+
+8 - As tasks tem bons nomes ?<br />
+Resposta: Não.
+Defeitos: 
+- Sincronização automática dos Mods
+- Ser acessada
+- Canal seguido
+- Instalação bem sucedida
+
+
+9 - Os Resources tem bons nomes ?
+
+Resposta: Não.
+Defeitos:
+- Capital
+
+10 - Todos os links entre elementos internos e externos do rationale são de dependencia.
+
+Resposta: Sim.
