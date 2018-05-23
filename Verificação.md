@@ -16,6 +16,7 @@ Resposta: Sim
 
 4 - Todos os atores estão devidamente definidos?
 Resposta: Não
+
 Modificações: O ator do Cenário-013 estava mal definido, visto que definia duplamente o Streamer como ator.
 
 5 - Os cenários se enquadram em todos os fluxos para a execução de uma tarefa?
