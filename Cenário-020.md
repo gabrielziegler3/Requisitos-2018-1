@@ -11,16 +11,16 @@
 * Pessoa busca ver jogadas incríveis ou bem ruins para se distrair.
 
 ## Ator(es)
-* Usuário.
+*[Usuário](User)
 
 ## Recursos
 * Dispositivo conectado a internet.
 
 ## Exceções
-* Usuário não consegue achar a funcionalidade
+*[Usuário](User)não consegue achar a funcionalidade
 
 ## Episódios
-* Usuário acessa um canal
-* Usuário seleciona a aba ```Clipes```
-* Usuário seleciona o clipe específico
-* Usuário assiste o clipe da stream
+*[Usuário](User)acessa um canal
+*[Usuário](User)seleciona a aba ```Clipes```
+*[Usuário](User)seleciona o clipe específico
+*[Usuário](User)assiste o clipe da stream

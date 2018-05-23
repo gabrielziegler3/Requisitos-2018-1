@@ -21,16 +21,16 @@
 * [Viewer](Viewer) não está logado
 
 ## Episódios
-* Usuários está assistindo a uma stream e utilizando o chat da live.
+*[Usuário](User) está assistindo a uma stream e utilizando o chat da live.
 
 * Deseja mandar uma mensagem em privado para um dos [viewers](Viewer) que também está no chat.
 
-* Usuário clica sobre o username que deseja mandar um sussuro.
+*[Usuário](User)clica sobre o username que deseja mandar um sussuro.
 
 * O usuário clica no botão ```sussuro``` que aparece em uma caixa de diálogo.
 
 * Um campo para mensagens será disponibilizado na parte inferior da tela.
 
-* Usuário manda a mensagem.
+*[Usuário](User)manda a mensagem.
 
 

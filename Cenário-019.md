@@ -11,16 +11,16 @@
 * Pessoa busca aprender a respeito de um jogo.
 
 ## Ator(es)
-* Usuário.
+*[Usuário](User)
 
 ## Recursos
 * Dispositivo conectado a internet.
 
 ## Exceções
-* Usuário não consegue achar a funcionalidade
+*[Usuário](User)não consegue achar a funcionalidade
 
 ## Episódios
-* Usuário abre um canal específico da [Twitch.tv](http://www.twitch.tv)
-* Usuário clica em vídeos
-* Usuário seleciona um vídeo específico  
-* Usuário assiste o vídeo
+*[Usuário](User)abre um canal específico da [Twitch.tv](http://www.twitch.tv)
+*[Usuário](User)clica em vídeos
+*[Usuário](User)seleciona um vídeo específico  
+*[Usuário](User)assiste o vídeo

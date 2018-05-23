@@ -10,7 +10,7 @@
 * Na home da Twitch, sem acessar nem um canal.
 
 ## Ator(es)
-* Usuário.
+*[Usuário](User)
 
 ## Recursos
 * Dispositivo conectado a internet.
@@ -19,7 +19,7 @@
 * Encontrar jogo específico sem usar o catálogo.
 
 ## Episódios
-* Usuário deseja encontrar conteúdo específico
-* Usuário clica na parte superior da tela na sessão ```Procurar```
-* Usuário seleciona conteúdo específico
-* Usuário assiste stream desejada
+*[Usuário](User)deseja encontrar conteúdo específico
+*[Usuário](User)clica na parte superior da tela na sessão ```Procurar```
+*[Usuário](User)seleciona conteúdo específico
+*[Usuário](User)assiste stream desejada
