@@ -4,7 +4,7 @@
 * Criar vídeos sob demanda.
 
 ## Objetivo
-* Arquivar um vídeo transmitido anteriormente para que os seguidores do Streamer possa assistir vídeos perdidos.
+* Arquivar um vídeo transmitido anteriormente para que os seguidores do [Streamer](Streamer) possa assistir vídeos perdidos.
 
 ## Contexto
 * O [streamer](Streamer) deseja salvar vídeos para aumentar a popularidade do seu canal.

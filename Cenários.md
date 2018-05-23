@@ -9,7 +9,7 @@
 |11/04/2018|1.6|Adição de cenários Se tornar parceiro Twitch e Criar coleções|Amanda Pires|
 |16/04/2018|1.7|Adição dos cenários 27,28 e 29|Thiago Ferreira|
 |16/04/2018|1.8|Ajustes no artefato e adição do cenário 30|Gabriel Ziegler|
-|18/04/2018|1.9|Adição do cenário Streamer criando video sob demanda|Amanda Pires|
+|18/04/2018|1.9|Adição do cenário [Streamer](Streamer) criando video sob demanda|Amanda Pires|
 |19/04/2018|1.9|Adição do cenário 32|Gabriel Ziegler|
 |21/04/2018|2.0|Revisão geral do artefato|Gabriel Ziegler|
 
