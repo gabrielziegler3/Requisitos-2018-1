@@ -17,6 +17,11 @@ Técnicas aplicadas à Elicitação:
 
 * Técnicas de Elicitação: Alguns dados que foram colhidos para o levantamento de resultados precisos não foram inseridos durante o processo de elaboração dos documentos. Ao se tratar do [Questionário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Questionario); foram levantadas 6 perguntas específicas, com o objetivo de obter o máximo de informações sobre um possível público alvo da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch). Fora realizada também a confecção de uma [Storytelling](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Storytelling), que narrava uma conversa entre amigos, onde um incentivava os outros a baixarem o aplicativo da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch). Ao partir para o artefato [Híbrido](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo--&-Observa%C3%A7%C3%A3o-Participativa)), que consta com uma junção de Análise de Protocolo e Observação Participativa, pôde-se obter informações cruciais a respeito do funcionamento da plataforma de [Streaming](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streaming). Por fim, ao desenvolver a [Introspecção](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Introspec%C3%A7%C3%A3o), fora levantadas pequenas frases que definiam US (Histórias de usuário).
 
+```
+OBS: Todos os artefados de rastreabilidade, 
+tais como dados obtidos, foram inseridos à documentação do projeto.
+```
+
 ### Reunião de Inspeção
 * A definir
 
