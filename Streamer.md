@@ -1,7 +1,10 @@
+## Streamer
 
+**Sinônimos:**
+* nenhum
 
-**Noção:** 
-* Pessoa que faz uma [stream](Streamar), live ou transmissão.
+**Noção:**
+* Indivíduo que realiza uma transmissão de jogo ao vivo na Twitch.
 
 **Impacto:**
-* 	Realiza as tarefas: stream de jogos na twitch para que [espectadores](Viewer) possam assistir, maratonas de jogos.
+* Realiza as tarefas: [streamar](Streamar), [gankar](Raid), [share](Share) e [maratonar](Fazer-Maratona).
