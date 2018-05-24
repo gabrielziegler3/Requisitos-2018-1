@@ -45,7 +45,7 @@ Resposta|Não|
 Modificações|
 Defeito|Capital|
 Questão 10|Todos os links entre elementos internos e externos do rationale são de dependencia|
-Resposta| Sim|
+Resposta| Não|
 Modificações|
 Questão 11|Todos os links entre Hardgoals e outros elementos estão corretos?|
 Resposta|Não|
