@@ -20,7 +20,7 @@
 * Esquecer login ou senha.
 
 ## Episódios
-*[Usuário](User)acessa a Twitch
-*[Usuário](User)efetua login, clicando em ```Fazer login```
-*[Usuário](User)preenche os campos requeridos
-*[Usuário](User)é autenticado
+* [Usuário](User) acessa a Twitch
+* [Usuário](User) efetua login, clicando em ```Fazer login```
+* [Usuário](User) preenche os campos requeridos
+* [Usuário](User) é autenticado

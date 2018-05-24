@@ -24,9 +24,9 @@
 * Dispositivo eletrônico não conectado à internet
 
 ## Episódios
-*[Usuário](User)conecta-se à stream de um [streamer](L%C3%A9xico-Streamer)
+* [Usuário](User) conecta-se à stream de um [streamer](L%C3%A9xico-Streamer)
 
-*[Usuário](User)desce a página e acessa a área de Donate
-*[Usuário](User)preenche os campos requeridos
-*[Usuário](User)seleciona a forma de pagamento
-*[Usuário](User)faz a doação
+* [Usuário](User) desce a página e acessa a área de Donate
+* [Usuário](User) preenche os campos requeridos
+* [Usuário](User) seleciona a forma de pagamento
+* [Usuário](User) faz a doação

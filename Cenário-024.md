@@ -16,10 +16,10 @@
 * Dispositivo eletrônico com acesso à internet 
 
 ## Exceções
-*[Usuário](User)não estar conectado à internet.
+* [Usuário](User) não estar conectado à internet.
 
 ## Episódios
-*[Usuário](User)clica em ```⏹⏹⏹``` ao lado esquerdo da barra de busca.
-*[Usuário](User)seleciona ```idioma``` no dropdown.
-*[Usuário](User)escolhe a língua de desejo
+* [Usuário](User) clica em ```⏹⏹⏹``` ao lado esquerdo da barra de busca.
+* [Usuário](User) seleciona ```idioma``` no dropdown.
+* [Usuário](User) escolhe a língua de desejo
 

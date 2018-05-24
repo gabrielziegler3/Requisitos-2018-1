@@ -16,7 +16,7 @@
 * Token do Streamer
 
 ## Exceções
-* O[Usuário](User)não possui acesso à internet
+* O [Usuário](User) não possui acesso à internet
 * Aquela conta da Twitch já possui uma livestream naquele momento
 
 ## Episódios

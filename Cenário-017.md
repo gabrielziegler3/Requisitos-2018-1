@@ -18,7 +18,7 @@
 
 ## Exceções
 * Não ter anúncios.
-*[Usuário](User) com softwares que bloqueiam anúncios
+* [Usuário](User)  com softwares que bloqueiam anúncios
 
 ## Episódios
 * Autorizar anúncio.
