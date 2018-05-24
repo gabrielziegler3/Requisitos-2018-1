@@ -20,8 +20,7 @@
 |16/05/2018|1.7|Adição do diagrama Twitch-Visitante|João Carlos|
 |16/05/2018|1.8|Adição do Diagrama Geral 1.6|João Carlos|
 |17/05/2018|1.9|Adição do diagrama 3.1 Twitch-Usuário e Viewer-Streamer 2.1|Thiago Ferreira|
-|24/05/2018|1.9|Adição do diagrama 1.0 Amazon-Twitch e correções no artefato|Gabriel Ziegler|
-
+|24/05/2018|2.0|Adição do diagrama 1.0 Amazon-Twitch e correções no artefato|Gabriel Ziegler|
 
 ## Geral 1.6
 
@@ -39,42 +38,37 @@
 
 [Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
 
-
 ## Viewer - Streamer 2.1
 
 [![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
 
-[Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
-[Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
-[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
 [Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
-
-
+[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
+[Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
+[Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 
 ## Twitch - Usuário 3.1
 
 ![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)
 
-[Twitch - Usuário 1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)<br>
-[Twitch - Usuário 2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)<br>
-[Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)<br>
 [Twitch - Usuário 3.1](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)<br>
+[Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)<br>
+[Twitch - Usuário 2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)<br>
+[Twitch - Usuário 1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)<br>
+
 ## Twitch - Patrocinador 1.0
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
-
 
 ## Patrocinador - Streamer 1.0
 
 ![Patrocinador - Streamer](./images/iStar/strategic-dependecy/patrocinador-streamer.png)
 
-
 ## Viewer - Twitch 1.1
 
-![Viewer - Twitch 1.0](./images/iStar/strategic-dependecy/viewer-twitch-1-1.png)
+![Viewer - Twitch 1.1](./images/iStar/strategic-dependecy/viewer-twitch-1-1.png)
 
 [Viewer - Twitch 1.0](./images/iStar/strategic-dependecy/viewer-twitch.png)
-
 
 ## Streamer - Twitch 1.1
 
@@ -88,7 +82,7 @@
 
 [![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtitch-visitante.png)](./images/iStar/strategic-dependecy/Twtitch-visitante.png)
 
-# Amazon - Twitch 
+## Amazon - Twitch 
 
 [![Amazon - Twitch](./images/iStar/strategic-dependecy/amazon-twitch-1.0.png)](./images/iStar/strategic-dependecy/amazon-twitch-1.0.png)
 
