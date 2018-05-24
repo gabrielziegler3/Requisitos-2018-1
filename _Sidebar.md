@@ -48,5 +48,4 @@
 
 ### Análise
 
-* [Verificação](Verificação)
 * [Inspecção](Inspecção)
