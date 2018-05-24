@@ -20,6 +20,7 @@
 |16/05/2018|1.7|Adição do diagrama Twitch-Visitante|João Carlos|
 |16/05/2018|1.8|Adição do Diagrama Geral 1.6|João Carlos|
 |17/05/2018|1.9|Adição do diagrama 3.1 Twitch-Usuário e Viewer-Streamer 2.1|Thiago Ferreira|
+|24/05/2018|1.9|Adição do diagrama 1.0 Amazon-Twitch e correções no artefato|Gabriel Ziegler|
 
 
 ## Geral 1.6
@@ -86,3 +87,8 @@
 ## Visitante - Twitch
 
 [![Visitante - Twitch](./images/iStar/strategic-dependecy/Twtitch-visitante.png)](./images/iStar/strategic-dependecy/Twtitch-visitante.png)
+
+# Amazon - Twitch 
+
+[![Amazon - Twitch](./images/iStar/strategic-dependecy/amazon-twitch-1.0.png)](./images/iStar/strategic-dependecy/amazon-twitch-1.0.png)
+
