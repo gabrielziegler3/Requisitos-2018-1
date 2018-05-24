@@ -22,7 +22,7 @@
 |17/05/2018|1.9|Adição do diagrama 3.1 Twitch-Usuário e Viewer-Streamer 2.1|Thiago Ferreira|
 
 
-## Geral 1.5
+## Geral 1.6
 
 ![Geral 1.6](./images/iStar/strategic-dependecy/geral-1-6.png)
 
@@ -45,8 +45,8 @@
 
 [Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 [Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
-[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)
-[Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
+[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
+[Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
 
 
 
@@ -56,8 +56,8 @@
 
 [Twitch - Usuário 1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)<br>
 [Twitch - Usuário 2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)<br>
-[Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)
-[Twitch - Usuário 3.1](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)
+[Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)<br>
+[Twitch - Usuário 3.1](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)<br>
 ## Twitch - Patrocinador 1.0
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
