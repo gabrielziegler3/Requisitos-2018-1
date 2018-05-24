@@ -47,6 +47,10 @@ Defeito|Capital|
 Questão 10|Todos os links entre elementos internos e externos do rationale são de dependencia|
 Resposta| Não|
 Modificações|
+Defeito|SR-Streamer
+Defeito|Twitch
+Defeito|Visitante
+Defeito|Viewer
 Questão 11|Todos os links entre Hardgoals e outros elementos estão corretos?|
 Resposta|Não|
 Modificações|
