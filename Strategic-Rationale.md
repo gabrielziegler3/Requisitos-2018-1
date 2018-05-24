@@ -34,7 +34,7 @@
 
 ## Twitch
 
-[![Twitch](./images/iStar/strategic-rationale/twitch-2.0.png)](./images/iStar/strategic-rationale/twitch2.0.png)
+[![Twitch](./images/iStar/strategic-rationale/Twitch.png)](./images/iStar/strategic-rationale/Twitch.png)
 
 [Twitch - 1.0](./images/iStar/strategic-rationale/twitch.png)<br>
 [Twitch - 2.0](./images/iStar/strategic-rationale/twitch-2.0.png)
@@ -45,4 +45,4 @@
 
 ## Viewer
 
-[![Viewer](./images/iStar/strategic-rationale/viewer.png)](./images/iStar/strategic-rationale/viewer.png)
+[![Viewer](./images/iStar/strategic-rationale/viewer.png)](./images/iStar/strategic-rationale/viewer.png)$$
