@@ -1,0 +1,144 @@
+{
+  "actors": [
+    {
+      "id": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "text": "Amazon",
+      "type": "istar.Agent",
+      "x": 406,
+      "y": 305,
+      "nodes": []
+    },
+    {
+      "id": "95e44f80-63e4-4251-8be2-b2998d9571d5",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 920,
+      "y": 306,
+      "nodes": []
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "1777b496-dfd2-4010-860c-934cc5b1ecf6",
+      "text": "Plataforma vendas seja disponibillizada",
+      "type": "istar.Goal",
+      "x": 637,
+      "y": 135,
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "8d0fa4b2-cb6d-422a-8c4e-f193097a865c",
+      "text": "Gerenciar pagamentos",
+      "type": "istar.Task",
+      "x": 635,
+      "y": 201,
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "8364ba50-4267-4e92-9138-75914030e9b4",
+      "text": "Oferecer serviços para Twitch Prime",
+      "type": "istar.Task",
+      "x": 636,
+      "y": 339,
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "7a5ec6dd-8574-4b05-863d-4f926c704ae2",
+      "text": "Sincronizar contas Prime",
+      "type": "istar.Task",
+      "x": 634,
+      "y": 276,
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "c8f37472-24bb-4969-a2dd-4b2de3bc8ce2",
+      "text": "Bons serviços[hospedagem]",
+      "type": "istar.Quality",
+      "x": 644,
+      "y": 412,
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    }
+  ],
+  "links": [
+    {
+      "id": "15b55443-edb1-4b9d-b4b1-804ff231174a",
+      "type": "istar.DependencyLink",
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "1777b496-dfd2-4010-860c-934cc5b1ecf6"
+    },
+    {
+      "id": "f9bfd2e9-7181-4139-937d-ec27899a1fcd",
+      "type": "istar.DependencyLink",
+      "source": "1777b496-dfd2-4010-860c-934cc5b1ecf6",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "0a64d8a4-7887-49d3-921f-4879d4a0dbc1",
+      "type": "istar.DependencyLink",
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "8d0fa4b2-cb6d-422a-8c4e-f193097a865c"
+    },
+    {
+      "id": "4fa4f086-66cc-4e1e-b30f-f0eee540105e",
+      "type": "istar.DependencyLink",
+      "source": "8d0fa4b2-cb6d-422a-8c4e-f193097a865c",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "13ff7cfb-24e8-4630-b4ef-d928d10f00e4",
+      "type": "istar.DependencyLink",
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "8364ba50-4267-4e92-9138-75914030e9b4"
+    },
+    {
+      "id": "7bd35a44-e449-4fe9-a3d0-b52e08507f8b",
+      "type": "istar.DependencyLink",
+      "source": "8364ba50-4267-4e92-9138-75914030e9b4",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "9a3b368a-d347-4387-a55e-2a44026d97ed",
+      "type": "istar.DependencyLink",
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "7a5ec6dd-8574-4b05-863d-4f926c704ae2"
+    },
+    {
+      "id": "75e1ff96-872f-43cc-9951-de50ca427be0",
+      "type": "istar.DependencyLink",
+      "source": "7a5ec6dd-8574-4b05-863d-4f926c704ae2",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    },
+    {
+      "id": "38bcc8ed-3b5e-4967-bb99-526ec1359581",
+      "type": "istar.DependencyLink",
+      "source": "bb86fff3-0410-4bab-b28f-39bfa2bcebd0",
+      "target": "c8f37472-24bb-4969-a2dd-4b2de3bc8ce2"
+    },
+    {
+      "id": "cd31daf8-587d-4055-b7b9-423c2bef6ae6",
+      "type": "istar.DependencyLink",
+      "source": "c8f37472-24bb-4969-a2dd-4b2de3bc8ce2",
+      "target": "95e44f80-63e4-4251-8be2-b2998d9571d5"
+    }
+  ],
+  "display": {
+    "bb86fff3-0410-4bab-b28f-39bfa2bcebd0": {
+      "collapsed": true
+    },
+    "95e44f80-63e4-4251-8be2-b2998d9571d5": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Thu, 24 May 2018 01:34:04 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
