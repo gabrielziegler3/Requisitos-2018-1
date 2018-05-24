@@ -19,7 +19,7 @@
 
 * [C002](Cenário-002) - Cadastrar-se na [Twitch](Twitch)
 
-* [C003](Cenário-003) - [Dar follow](Dar-follow) em um [Streamer](L%C3%A9xico-Streamer)
+* [C003](Cenário-003) - [Dar follow](Dar-follow) em um [Streamer](Streamer)
 
 * [C004](Cenário-004) - [Subscrever](Subscribe) em um canal
 

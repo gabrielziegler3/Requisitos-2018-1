@@ -10,7 +10,7 @@
 * Estar acontecendo a stream.
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 .
 
 ## Recursos

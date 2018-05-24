@@ -1,7 +1,7 @@
 # Cenário 006 - Transmitir uma [transmissão](Stream)
 
 ## Título
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  transmitindo seu jogo
 
 ## Objetivo
@@ -13,7 +13,7 @@
 * [Usuário](User) com especificações de máquina de acordo
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 
 
 ## Recursos

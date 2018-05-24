@@ -23,11 +23,11 @@
 * [Usuário](User) não estar conectado à internet.
 
 ## Episódios
-* [Streamer](L%C3%A9xico-Streamer) começa a produzir transmissões ao vivo.
-* [Streamer](L%C3%A9xico-Streamer) produz vídeos com conteúdos de alta relevância.
-* [Streamer](L%C3%A9xico-Streamer) começa a ganhar muitos seguidores e inscrições em seu canal.
-* [Streamer](L%C3%A9xico-Streamer) passa a produzir vídeos com muita frequência.
-* [Streamer](L%C3%A9xico-Streamer) adquire audiência média de espectadores simultâneos.
-* [Streamer](L%C3%A9xico-Streamer) consegue se tornar um parceiro Twich.
+* [Streamer](Streamer) começa a produzir transmissões ao vivo.
+* [Streamer](Streamer) produz vídeos com conteúdos de alta relevância.
+* [Streamer](Streamer) começa a ganhar muitos seguidores e inscrições em seu canal.
+* [Streamer](Streamer) passa a produzir vídeos com muita frequência.
+* [Streamer](Streamer) adquire audiência média de espectadores simultâneos.
+* [Streamer](Streamer) consegue se tornar um parceiro Twich.
 
 Referência: [Parceiro Twitch](https://help.twitch.tv/customer/pt_br/portal/articles/735127-dicas-para-se-inscrever-no-programa-de-parceiros)

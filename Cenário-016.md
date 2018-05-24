@@ -10,7 +10,7 @@
 * Durante uma transmissão.
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 
 * [Viewer](Viewer)
 
@@ -23,11 +23,11 @@
 * Estar banido.
 
 ## Episódios
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  simpatiza com algum viewer
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  clica no nome do viewer
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  seleciona a opção de ```Moderador```
 * [Viewer](Viewer) se torna moderador.
 

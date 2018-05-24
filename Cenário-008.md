@@ -14,7 +14,7 @@
 
 ## Ator(es)
 * [Viewer](Viewer)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 
 
 ## Recursos

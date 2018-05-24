@@ -7,11 +7,11 @@
 * Transferir [viewers](Viewer) para outro canal
 
 ## Contexto
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  desejando ajudar outro canal
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet
@@ -20,9 +20,9 @@
 * Dispositivo eletrônico não conectado à internet
 
 ## Episódios
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  inicia uma stream
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  digita ```/host nomeCanal```
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  começa a dar host em outro canal

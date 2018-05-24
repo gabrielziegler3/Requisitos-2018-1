@@ -1,20 +1,20 @@
 # Cenário 007 - Dar um [ban](Ban) ou permaban
 
 ## Título
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  dando um ban ou permaban
 
 ## Objetivo
 * Retirar usuários indesejados do chat ao vivo
 
 ## Contexto
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  está streamando
 Um [viewer](Viewer) está incomodando o [streamer](L%C3%A9xico-Streamer)
  ou outros [viewers](Viewer) no chat
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 
 * [Viewer](Viewer)
 
@@ -25,12 +25,12 @@ Um [viewer](Viewer) está incomodando o [streamer](L%C3%A9xico-Streamer)
 * Dispositivo eletrônico não conectado à internet
 
 ## Episódios
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  está streamando
 * [Viewer](Viewer) começa a incomodar no chat
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  localiza o [viewer](Viewer) indesejado no chat
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  clica em seu nome
 * Uma modal com as informações públicas do usuário é aberta
 * O [streamer](L%C3%A9xico-Streamer)

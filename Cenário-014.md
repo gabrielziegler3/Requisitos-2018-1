@@ -4,15 +4,15 @@
 * Encerar transmissão
 
 ## Objetivo
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  encerrar a stream.
 	
 ## Contexto
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  streamando.	
 
 ## Ator(es)
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
 .
 
 ## Recursos
@@ -22,10 +22,10 @@
 * Não estiver em transmissão.
 	
 ## Episódios
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  está streamando
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  deseja encerrar sua transmissão
-* [Streamer](L%C3%A9xico-Streamer)
+* [Streamer](Streamer)
  vai para as configurações da transmissão
-* [Streamer](L%C3%A9xico-Streamer) clica na opção ```Parar stream```.
+* [Streamer](Streamer) clica na opção ```Parar stream```.
