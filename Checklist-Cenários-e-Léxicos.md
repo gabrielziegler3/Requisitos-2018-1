@@ -1,9 +1,6 @@
-|Data|Versão|Descrição|Autor|
-|----|------|---------|-----|
-|22/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
-|22/05/2018|0.2|Adição de Cenários|Gabriel Ziegler|
-|23/05/2018|0.3|Estruturação|Filipe Dias|
-|24/05/2018|0.4|Finalização de verificação de cenários|Gabriel Ziegler|
+* Checklist de Inspeção dos Cenários e Léxicos
+* Inspetor: Gabriel Ziegler
+* Data: 23/05/2018
 
 #### 1. Cenários
 |Item de Inspeção|Cenários|
