@@ -94,3 +94,5 @@ Modificações|A definir|
 Questões|3. O método utilizado para se levantar as histórias de usuário está sendo citado?|
 Resposta|Não|
 Modificações|A definir|
+
+[Respostas da Checklist](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Respostas-Checklist-Elicita%C3%A7%C3%A3o)
