@@ -54,22 +54,22 @@ Commit|-|
 |Commit|-|
 |Questões|2 - As noções dos léxicos possuem e seguem uma padronização?|
 |Resposta|Sim|
-|Modificação||
-|Commit||
+|Modificação|Nenhuma|
+|Commit|-|
 |Questões|3 - Os impactos dos léxicos possuem e seguem uma padronização?|
 |Resposta|Sim|
-|Modificação||
-|Commit||
+|Modificação|Nenhuma|
+|Commit|-|
 |Questões|4 - Todos os impactos estão definidos?|
 |Resposta|Sim|
-|Modificação||
-|Commit||
+|Modificação|Nenhuma|
+|Commit|-|
 |Questões|5 - Os léxicos contém sinônimos?|
 |Resposta|Não todos, mas mais de 90%, então não há necessidades de mudanças|
-|Modificação||
-|Commit||
+|Modificação|Nenhuma|
+|Commit|-|
 |Questões|6 - Os links dos léxicos estão funcionando?|
 |Resposta|Não, alguns não estavam linkados(viewer, streamer, stream) outros estavam com links quebrados|
-|Modificação||
-|Commit||
+|Modificação|Links reparados e funcionando corretamente|
+|Commit|718fe4054|
 
