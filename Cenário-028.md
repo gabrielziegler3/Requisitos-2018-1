@@ -1,4 +1,4 @@
-# Mudar o nome de sua Stream
+# Mudar o nome de sua [Stream](Stream)
 
 ## Objetivo:
 * Alterar o nome de exibição de sua livestream
@@ -7,7 +7,7 @@
 * O [Streamer](Streamer) gostaria de modificar o nome de sua transmissão
 
 ## Ator(es):
-* Streamer
+* [Streamer](Streamer)
 
 ## Recursos:
 * Painel de Controle Twitch

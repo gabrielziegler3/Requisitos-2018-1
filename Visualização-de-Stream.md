@@ -1,4 +1,4 @@
-# UC01 - Visualização de Stream
+# UC01 - Visualização de [Stream](Stream)
 
 ### [Diagrama de caso de uso](Diagrama-Visualização-de-Stream)
 
@@ -8,7 +8,7 @@
 
 ## Atores
 
-* Streamer
+* [Streamer](Streamer)
 
 * Telespectador
 

@@ -7,7 +7,7 @@
 * Se tornar um parceiro Twitch para monetizar suas streams.
 
 ## Contexto
-* O [streamer](L%C3%A9xico-Streamer) possui uma audiência média de espectadores simultâneos, muitos seguidores em seu canal ou outras redes sociais e faz transmissão com muita frequência. Com isso, o streamer deseja monetizar suas streams passando comerciais em suas transmissões. 
+* O [streamer](Streamer) possui uma audiência média de espectadores simultâneos, muitos seguidores em seu canal ou outras redes sociais e faz transmissão com muita frequência. Com isso, o streamer deseja monetizar suas streams passando comerciais em suas transmissões. 
 
 ## Ator(es)
 * Streamers, personalidades, ligas, equipes e torneios mais famosos do mundo.

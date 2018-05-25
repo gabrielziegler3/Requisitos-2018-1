@@ -1,5 +1,5 @@
 **Sinônimos:** 
-* Live Stream
+* Live [Stream](Stream)
 * Transmissão ao vivo
 * Live
 

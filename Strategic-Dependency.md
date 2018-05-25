@@ -38,14 +38,14 @@
 
 [Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
 
-## Viewer - Streamer 2.1
+## [Viewer](Viewer) - [Streamer](Streamer) 2.1
 
 [![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
 
-[Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
-[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
-[Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
-[Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
+[Viewer - [Streamer](Streamer) 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
+[Viewer - [Streamer](Streamer) 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
+[Viewer - [Streamer](Streamer) 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
+[Viewer - [Streamer](Streamer) 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 
 ## Twitch - Usuário 3.1
 
@@ -60,17 +60,17 @@
 
 ![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
 
-## Patrocinador - Streamer 1.0
+## Patrocinador - [Streamer](Streamer) 1.0
 
 ![Patrocinador - Streamer](./images/iStar/strategic-dependecy/patrocinador-streamer.png)
 
-## Viewer - Twitch 1.1
+## [Viewer](Viewer) - Twitch 1.1
 
 ![Viewer - Twitch 1.1](./images/iStar/strategic-dependecy/viewer-twitch-1-1.png)
 
 [Viewer - Twitch 1.0](./images/iStar/strategic-dependecy/viewer-twitch.png)
 
-## Streamer - Twitch 1.1
+## [Streamer](Streamer) - Twitch 1.1
 
 ![Streamer - Twitch](./images/iStar/strategic-dependecy/twitch-streamer-1-1.png)
 

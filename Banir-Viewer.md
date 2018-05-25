@@ -4,7 +4,7 @@
 * Esse caso de uso descreve o processo de banimento de um Viewer.
 
 ## Atores
-* Streamer
+* [Streamer](Streamer)
 * Viewer
 
 ## Pré-condições

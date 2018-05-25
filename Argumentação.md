@@ -22,8 +22,8 @@ capacidade de acessar as funcionalidades do site.
 ### Subscribe 1.0.0
 Subscribe: Opção do usuário para se inscrever em um canal de um
 Streamer ​ pagando uma mensalidade para receber conteúdos exclusivos e
-maior interatividade com o ​ Streamer . ​
-* i(p1): Incentivo financeiro ao ​ Streamer
+maior interatividade com o ​ [Streamer](Streamer) . ​
+* i(p1): Incentivo financeiro ao ​ [Streamer](Streamer)
 * i(p2): Benefícios exclusivos ao inscrito(​ subscriber ​ )
 * i(p3): Pouco diferencial de ​ subscribers ​ para ​ followers
 * i(p4): Estimula os ​ Streamers a produzir mais conteúdos exclusivos e

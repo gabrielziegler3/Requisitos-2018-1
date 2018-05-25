@@ -13,7 +13,7 @@ O acrônimo MoSCoW se refere à:
 * WOULD: Incluir este requisito no caso de futuramente existir tempo sobrando (ou em futuros desenvolvimentos).
 ### Conta
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowconta.png)
-### Stream
+### [Stream](Stream)
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowstream.png)
 ### Chat
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowchat.png)
