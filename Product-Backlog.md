@@ -90,32 +90,32 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela Twitch para usufruir de maiores funcionalidades em determinados jogos
 
-|Tipo|História|Descrição|Prioridade|
-|----|------|----------|----|
-|RF|US31|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.|Alta|
-|RF|US32|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.|Alta|
-|RF|US33|Eu, como usuário, gostaria de instalar novos add-ons.|Alta|
-|RF|US34|Eu, como usuário, gostaria de deletar add-ons.|Alta|
-|RNF|US35|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.|Alta|
-|RNF|US36|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.|Alta|
+|Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
+|----|------|----------|----|----|
+|RF|US31|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.| - |Alta|
+|RF|US32|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.| - |Alta|
+|RF|US33|Eu, como usuário, gostaria de instalar novos add-ons.| - |Alta|
+|RF|US34|Eu, como usuário, gostaria de deletar add-ons.| - |Alta|
+|RNF|US35|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.| - |Alta|
+|RNF|US36|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.| - |Alta|
 
 #### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 
-|Tipo|História|Descrição|Prioridade|
-|----|----|---------|-|
-|RF|US37|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|Baixa|
-|RF|US38|Eu, como usuário, gostaria de poder filtrar quem entrar na chamada.|Baixa|
-|RF|US39|Eu, como usuário, desejo fazer uma vídeo conferência.|Baixa|
-|RF|US40|Eu, como usuário, desejo fazer uso de uma video  conferência em um servidor.|Baixa|
-|RF|US41|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|Baixa|
+|Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
+|----|----|---------|-|-|
+|RF|US37|Eu, como usuário, gostaria de poder criar uma nova chamada de voz.|Limitação de até 5 pessoas.|Baixa|
+|RF|US38|Eu, como usuário, gostaria de poder filtrar quem entrar na chamada.|Usuários só poderão entrar em uma chamada por meio de um link, ou se convidados.|Baixa|
+|RF|US39|Eu, como usuário, desejo fazer uma vídeo conferência.|Limitação de até 5 pessoas. <br> Resolução HD|Baixa|
+|RF|US40|Eu, como usuário, desejo fazer uso de uma video  conferência em um servidor.| - |Baixa|
+|RF|US41|Eu, como usuário, desejo criar um grupo para chamadas, permanente.|Possibilidade de gerenciar grupos (deletar, editar, criar).|Baixa|
 
 #### EP07 - Eu, como usuário, desejo poder contribuir financeiramente com canais e com a Twitch, para incentivar e/ou recompensar pelo entretenimento fornecido
 
-|Tipo|História|Descrição|Prioridade|
-|----|----|---------|--|
-|RNF|US42|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|Alta|
-|RF|US43|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|Alta|
-|RF|US44|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|Alta|
-|RNF|US45|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|Alta|
-|RF|US46|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|Alta|
-|RF|US47|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|Alta|
+|Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
+|----|----|---------|--|---|
+|RNF|US42|Eu como usuário, gostaria de opções de planos mensais para realizar a inscrição em um canal, para escolher o valor e as vantagens que mais me agrada.|Oferecer opções mensais, trimestrais e semestrais. <br> Possibilidade de pagar com cartão de crédito, transferência bancaria ou dinheiro.|Alta|
+|RF|US43|Eu como usuário, desejo me inscrever em um canal, para poder ter mais vantagens nesse canal.|Opção de se inscrever devem estar visíveis junto a stream. <br> Ter a possibilidade de uma avaliação gratuita ao se inscrever.|Alta|
+|RF|US44|Eu como usuário, desejo comprar bits, para poder doar aos streamers.|Oferecer pacotes de bits, e não a venda unitária.|Alta|
+|RNF|US45|Eu como usuário, desejo me assinar o serviço twitch prime, para receber uma série de vantagens em todo o site.|Assinantes da Amazon Prime poderão ter acesso a Twtich Prime por meio de uma validação de login da Amazon|Alta|
+|RF|US46|Eu como viewer, desejo doar bits para um streamer, para incentivar a continuar com a stream.|Poder escolher a quantidade de bits|Alta|
+|RF|US47|Eu como usuário, desejo aderir ao twitch turbo, para receber mais recursos na Twitch.|Anuncios não poderão aparecer para aqueles que aderirem ao Twitch Turbo. <br> |Alta|
