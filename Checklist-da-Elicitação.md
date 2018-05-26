@@ -50,7 +50,7 @@ Resposta|Sim|
 Modificações|Nenhuma|
 
 #### 3. Storytelling
-|Item de Inspeção|Entrevista|
+|Item de Inspeção|Storytelling|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?|
 Resposta|Não|
@@ -83,7 +83,7 @@ Modificações|Nenhuma|
 
 
 #### 5. Introspecção
-|Item de Inspeção|Questionário|
+|Item de Inspeção|Introspecção|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?
 Resposta|Não|
