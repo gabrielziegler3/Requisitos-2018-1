@@ -69,7 +69,7 @@ Resposta Amanda|Sim|
 
 
 #### 5. Introspecção
-|Item de Inspeção|Questionário|
+|Item de Inspeção|Introspecção|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?
 Resposta Filipe|Não|
