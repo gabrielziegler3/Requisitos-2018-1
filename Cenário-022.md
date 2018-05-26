@@ -12,7 +12,7 @@
 
 ## Ator(es)
 * [Viewer](Viewer).
-* [Streamer](Léxico-Streamer).
+* [Streamer](Streamer).
 
 ## Recursos
 * Dispositivo eletrônico conectado à internet

@@ -34,7 +34,7 @@ Termos e palavras cobertos por esta técnica:
   * [Twitch Prime](Twitch-Prime)
   * [Usuário Prime](Usuário-Prime)
   * [Follower](Follower)
-  * [Emote](Emotes)
+  * [Emotes](Emotes)
   * [Mods](Mods)
   * [Creative](Creative)
 
@@ -51,7 +51,7 @@ Termos e palavras cobertos por esta técnica:
   * [Ban](Ban)
   * [Reagir](Reagir)
   * [Criar Conta](Criar-Conta)
-  * [Criar video sob demanda](Criar-videos-sob-demanda)
+  * [Criar videos sob demanda](Criar-videos-sob-demanda)
 
 * Estado
   * [Modo host está sendo usado](Modo-host-está-sendo-usado)
