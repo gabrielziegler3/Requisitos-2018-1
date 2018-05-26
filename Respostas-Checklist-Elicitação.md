@@ -36,7 +36,7 @@ Resposta Filipe|Sim|
 Resposta Amanda|Sim|
 
 #### 3. Storytelling
-|Item de Inspeção|Entrevista|
+|Item de Inspeção|Storytelling|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?|
 Resposta Filipe|Não|
