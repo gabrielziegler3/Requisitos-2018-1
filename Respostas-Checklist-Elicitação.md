@@ -10,10 +10,10 @@ Questões|1. O documento está anexado ao projeto?|
 Resposta Filipe|Não|
 Resposta Amanda|Não|
 Questões|2. O plano informa as técnicas que serão utilizadas no projeto?|
-Resposta Filipe||
+Resposta Filipe|Não|
 Resposta Amanda|Não|	
 Questões|3. Existe uma breve explicação do que é cada técnica?
-Resposta Filipe||
+Resposta Filipe|Não|
 Resposta Amanda|Não|
 
 #### 2. Questionário
