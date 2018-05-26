@@ -1,6 +1,6 @@
 * Checklist de Inspeção da Checklist de Elicitação
 * Inspetor: Filipe Dias
-* Data: 23/05/2018
+* Data: 26/05/2018
 
 ### Checklist dos itens de inspeção
 
@@ -21,14 +21,14 @@
 |Item de Inspeção|Plano de Elicitação de Requisitos|
 |------|-------|
 Questões|1. O documento está anexado ao projeto?|
-Resposta|   Não|
-Modificações| A definir|
+Resposta|Sim|
+Modificações|Inserção do Documento|
 Questões|2. O plano informa as técnicas que serão utilizadas no projeto?|
-Resposta||	
-Modificações||
+Resposta|Sim|	
+Modificações|Nenhuma|
 Questões|3. Existe uma breve explicação do que é cada técnica?
-Resposta||
-Modificações||
+Resposta|Não|
+Modificações|A definir|
 
 #### 2. Questionário
 |Item de Inspeção|Questionário|
@@ -40,8 +40,8 @@ Questões|2. Todas as perguntas levantadas no questionário foram inseridas no d
 Resposta|Sim|
 Modificações|Nenhuma|
 Questões|3. A ferramenta utilizada para realizar o questionário está sendo citada no documento?
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção da ferramente utilizada|
 Questões|4. O questionário possui clareza nas suas questões?|
 Resposta|Sim|
 Modificações|Nenhuma|
