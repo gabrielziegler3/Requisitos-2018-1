@@ -39,8 +39,8 @@
           "id": "a20922f3-7227-4b71-adac-32c268664386",
           "text": "Alta performance [transmissão]",
           "type": "istar.Quality",
-          "x": 331,
-          "y": 129
+          "x": 276,
+          "y": 158
         },
         {
           "id": "d9ede660-7995-4e04-ac5e-6cc1c838ee47",
@@ -116,8 +116,8 @@
           "id": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
           "text": "Boa usabilidade [DashBoard]",
           "type": "istar.Quality",
-          "x": 716,
-          "y": 157
+          "x": 741,
+          "y": 406
         },
         {
           "id": "4b13f7fe-325f-4672-a3c4-8a7a669527be",
@@ -153,106 +153,116 @@
   "dependencies": [],
   "links": [
     {
-      "id": "4577ae9a-8b58-4e57-9fff-2af0f01ac4c6",
+      "id": "d5e7329c-72cc-4b18-8ab3-16d7c622b5f3",
       "type": "istar.OrRefinementLink",
       "source": "f7aec691-af09-4c11-b4a4-9e8284a931c5",
       "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
     },
     {
-      "id": "93dcead1-8b1b-44b1-a3f7-d5ba155535f4",
+      "id": "b162e1c8-32a3-4f2e-9700-9a58f620ed14",
       "type": "istar.OrRefinementLink",
       "source": "b768a0cc-f920-411d-aa0d-0e13b28a7a63",
       "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
     },
     {
-      "id": "c252196b-a043-4c32-ad8e-5b462eb60632",
+      "id": "146395ac-201c-49b9-a489-8828c67c02c4",
       "type": "istar.OrRefinementLink",
       "source": "c21cd4c5-4eec-4d99-abae-3e9e889a9fdd",
       "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
     },
     {
-      "id": "652a5a3c-1f1e-4e02-89e2-4d745e38b72b",
+      "id": "f84107ed-0841-4d3a-b8d0-6b187cbcd547",
       "type": "istar.AndRefinementLink",
       "source": "4044881b-3278-46b7-bb37-f86b20f974ef",
       "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
     },
     {
-      "id": "021b75ea-97ae-48aa-a9be-977ea65593c7",
+      "id": "0c7e1741-00dc-4f74-972c-6e052a982c39",
       "type": "istar.AndRefinementLink",
       "source": "4e691e95-dc18-4910-87d2-a10bfc82e24d",
       "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
     },
     {
-      "id": "32c1caf4-e206-4c14-868c-54a6c1ec89b4",
+      "id": "f4f4e6fe-5a6d-468d-a63d-ddde913290c2",
       "type": "istar.AndRefinementLink",
       "source": "19eede65-70f3-4885-bb49-299263cc1dd0",
       "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
     },
     {
-      "id": "3c7bbabe-fdc6-49e3-904a-ea9756ecb1c0",
-      "type": "istar.QualificationLink",
-      "source": "f564239f-05aa-4bf0-ad65-697499630c9d",
-      "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
-    },
-    {
-      "id": "553c2b4a-b62a-400f-a777-232cc49f711c",
+      "id": "1c04e17a-80f8-44c0-aca5-17b6fb55655b",
       "type": "istar.OrRefinementLink",
       "source": "6cd22f51-e583-46a3-80c8-e02571ef3831",
       "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
     },
     {
-      "id": "349f68b9-23cf-4d6c-839c-151d10e995b1",
+      "id": "4cf3dff7-14c2-4241-8e3e-d4b7fa10eeac",
       "type": "istar.OrRefinementLink",
       "source": "c3e3d1bf-608c-4687-a768-384eca650807",
       "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
     },
     {
-      "id": "af598041-c99d-47fa-9334-358e7de635cd",
+      "id": "c2c0c58c-639c-4a11-94fa-5b6255f0b057",
       "type": "istar.OrRefinementLink",
       "source": "538d8865-7d5f-484b-9d40-7aebd07ef018",
       "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
     },
     {
-      "id": "e3616c25-2747-47d0-933d-16df98b6d9f4",
+      "id": "dd1a936a-6ddb-4223-90cd-54dbd4ebfd97",
       "type": "istar.OrRefinementLink",
       "source": "63e5ee9a-0fde-4f77-8963-5c02cd691125",
       "target": "6cd22f51-e583-46a3-80c8-e02571ef3831"
     },
     {
-      "id": "d183f405-0b62-4e02-9e64-4a3c34592ab1",
-      "type": "istar.QualificationLink",
-      "source": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
-      "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
-    },
-    {
-      "id": "656e5ea2-969e-4e3b-aa1c-0be5f9ce08b8",
-      "type": "istar.QualificationLink",
-      "source": "f564239f-05aa-4bf0-ad65-697499630c9d",
-      "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
-    },
-    {
-      "id": "aca7eba9-2398-410e-a7bb-93509d4200bd",
+      "id": "5cf3746a-dcf6-4cac-9ba9-2cbc951356f3",
       "type": "istar.OrRefinementLink",
       "source": "3dddce2c-7350-43fa-b723-b154089ab370",
       "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
     },
     {
-      "id": "042fbded-41b5-40b4-8ba7-f29f408508d7",
+      "id": "742e48dd-f3b0-4b24-aa9d-63c10af0957b",
       "type": "istar.OrRefinementLink",
       "source": "6a7043eb-be0b-4641-a2de-db5adde90caa",
       "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
     },
     {
-      "id": "856a2900-e66d-495e-b858-b36cf5b95b1e",
+      "id": "eb2ac47a-62b1-41b0-8721-f7c0c2216d72",
       "type": "istar.OrRefinementLink",
       "source": "e315a943-4337-423a-b6bd-e7677d9a09ce",
       "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
+    },
+    {
+      "id": "1cb4cbad-97b8-4142-8a8b-678a342a4158",
+      "type": "istar.ContributionLink",
+      "source": "6a7043eb-be0b-4641-a2de-db5adde90caa",
+      "target": "f564239f-05aa-4bf0-ad65-697499630c9d",
+      "label": "help"
+    },
+    {
+      "id": "d0ad17c6-134f-479b-a845-3b75036b2698",
+      "type": "istar.ContributionLink",
+      "source": "f7aec691-af09-4c11-b4a4-9e8284a931c5",
+      "target": "a20922f3-7227-4b71-adac-32c268664386",
+      "label": "make"
+    },
+    {
+      "id": "2ef55468-5504-4e66-aa34-abb92590fc9c",
+      "type": "istar.ContributionLink",
+      "source": "c3e3d1bf-608c-4687-a768-384eca650807",
+      "target": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
+      "label": "help"
+    },
+    {
+      "id": "e09f376f-f2f4-4c78-b61f-09b19675f01a",
+      "type": "istar.ContributionLink",
+      "source": "63e5ee9a-0fde-4f77-8963-5c02cd691125",
+      "target": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
+      "label": "help"
     }
   ],
   "display": {},
   "tool": "pistar.1.2.0",
   "istar": "2.0",
-  "saveDate": "Wed, 16 May 2018 17:53:01 GMT",
+  "saveDate": "Wed, 23 May 2018 23:26:57 GMT",
   "diagram": {
     "width": 1700,
     "height": 1300
