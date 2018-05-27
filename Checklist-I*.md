@@ -11,7 +11,7 @@ Questão 2|Os Hardgoals estão bem definidos ?|
 Resposta| Sim|
 Modificações|
 Questão 3|Os Softgoals estão bem definidos ?|
-Resposta| Não|
+Resposta| Sim|
 Modificações|Existem poucos softgoals|
 Questão 4|As tasks estão bem definidos ?|
 Resposta| Sim|
