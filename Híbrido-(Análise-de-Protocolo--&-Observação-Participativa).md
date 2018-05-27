@@ -2,6 +2,7 @@
 |----|------|---------|-----|
 |01/04/2018|1.0|Criação e Desenvolvimento do Documento|Filipe Dias| 
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
+|27/05/2018|1.2|Evolução do Documento|Filipe Dias| 
 
 ### O que é Análise de Protocolo & Observação Participativa?
 
@@ -104,9 +105,9 @@ Autores:
 
 * [João Carlos Porto dos Reis](https://github.com/joao4018)
 
-#### Data: 01/04/2018
+#### Data: 27/05/2018
 
-#### Versão 1.0.1 
+#### Versão 1.2 
 
 #### Técnica: Híbrido (Análise de protocolo + Observação participativa).
 </p>
