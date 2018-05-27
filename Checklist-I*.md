@@ -35,9 +35,8 @@ Resposta| Sim|
 Modificações|
 Questão 8|As tasks tem bons nomes?|
 Resposta| Não|
-Modificações|
+Modificações|Commit [2c389f8](_compare/2c389f8),[39b003d](_compare/39b003d)
 Defeito|Sincronização automática dos Mods|
-Defeito|Ser acessada|
 Defeito|Canal seguido|
 Defeito|Instalação bem sucedida|
 Questão 9|Os Resources tem bons nomes?|

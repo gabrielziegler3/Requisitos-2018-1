@@ -1,0 +1,197 @@
+{
+  "actors": [
+    {
+      "id": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "text": "Twitch",
+      "type": "istar.Actor",
+      "x": 71,
+      "y": 327,
+      "nodes": []
+    },
+    {
+      "id": "46964639-b480-4fc9-b01d-44cf3740be71",
+      "text": "Patrocinador",
+      "type": "istar.Actor",
+      "x": 583,
+      "y": 319,
+      "nodes": []
+    },
+    {
+      "id": "c4b4230e-2e26-4c61-9961-e6a03bf6718e",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 71,
+      "y": 327,
+      "nodes": []
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "99183065-26a5-491b-af5e-0aafdc1c855a",
+      "text": "Stream seja monetizada",
+      "type": "istar.Goal",
+      "x": 303,
+      "y": 114,
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "6731576f-571d-4672-8d18-5b66ddeb4bc6",
+      "text": "Inserir publicidade em stream",
+      "type": "istar.Task",
+      "x": 300,
+      "y": 194,
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "1c3bb0d6-cf58-41c4-8e55-ba9aad450498",
+      "text": "Anúncios na stream",
+      "type": "istar.Resource",
+      "x": 298,
+      "y": 269,
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "62f05c1b-0984-4d1c-a8cd-4f71c2fd2389",
+      "text": "Visualizações na stream",
+      "type": "istar.Resource",
+      "x": 295,
+      "y": 349,
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "aac3c1a2-31ef-4bb6-88ae-a9a81145f9c3",
+      "text": "Receber capital pela publicidade",
+      "type": "istar.Task",
+      "x": 291,
+      "y": 424,
+      "source": "46964639-b480-4fc9-b01d-44cf3740be71",
+      "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
+    },
+    {
+      "id": "d0afacfe-1905-45ea-8167-04fa4c171382",
+      "text": "Dinheiro",
+      "type": "istar.Resource",
+      "x": 296,
+      "y": 512,
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "1fa5901d-d3f4-4572-a29b-0ee81653549c",
+      "text": "Destacar stream",
+      "type": "istar.Task",
+      "x": 289,
+      "y": 600,
+      "source": "46964639-b480-4fc9-b01d-44cf3740be71",
+      "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
+    }
+  ],
+  "links": [
+    {
+      "id": "84a6bae9-4add-400e-a099-1e0d9c2498ba",
+      "type": "istar.DependencyLink",
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "99183065-26a5-491b-af5e-0aafdc1c855a"
+    },
+    {
+      "id": "d703ca08-b60e-4a23-9142-91478c0d5b38",
+      "type": "istar.DependencyLink",
+      "source": "99183065-26a5-491b-af5e-0aafdc1c855a",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "17acb81b-f7c0-4d3d-9c28-15a8a7aa7462",
+      "type": "istar.DependencyLink",
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "6731576f-571d-4672-8d18-5b66ddeb4bc6"
+    },
+    {
+      "id": "e97988d5-ddef-4d60-b0a4-763537bbc9df",
+      "type": "istar.DependencyLink",
+      "source": "6731576f-571d-4672-8d18-5b66ddeb4bc6",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "05da2234-727a-4d81-9078-383da040fbee",
+      "type": "istar.DependencyLink",
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "1c3bb0d6-cf58-41c4-8e55-ba9aad450498"
+    },
+    {
+      "id": "bca3d8d9-95bc-4769-80b5-37d29d90b5cc",
+      "type": "istar.DependencyLink",
+      "source": "1c3bb0d6-cf58-41c4-8e55-ba9aad450498",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "5e20085f-e9f4-4ee2-8347-9ed090fb05c9",
+      "type": "istar.DependencyLink",
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "62f05c1b-0984-4d1c-a8cd-4f71c2fd2389"
+    },
+    {
+      "id": "7e15dbdc-3959-418c-9b91-d1b0aa6c5a4b",
+      "type": "istar.DependencyLink",
+      "source": "62f05c1b-0984-4d1c-a8cd-4f71c2fd2389",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "788d72b5-bb6f-401a-be98-e24846adb770",
+      "type": "istar.DependencyLink",
+      "source": "46964639-b480-4fc9-b01d-44cf3740be71",
+      "target": "aac3c1a2-31ef-4bb6-88ae-a9a81145f9c3"
+    },
+    {
+      "id": "6eb69fb3-d9c4-4853-92b4-8268e25e83a4",
+      "type": "istar.DependencyLink",
+      "source": "aac3c1a2-31ef-4bb6-88ae-a9a81145f9c3",
+      "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
+    },
+    {
+      "id": "2abfc787-fc9d-41d7-bcee-791f53449c23",
+      "type": "istar.DependencyLink",
+      "source": "d1d948d2-33e6-4d6e-9cdb-5a6485383684",
+      "target": "d0afacfe-1905-45ea-8167-04fa4c171382"
+    },
+    {
+      "id": "eb2ea4cc-da9f-450a-a528-2ea5ccc01ed7",
+      "type": "istar.DependencyLink",
+      "source": "d0afacfe-1905-45ea-8167-04fa4c171382",
+      "target": "46964639-b480-4fc9-b01d-44cf3740be71"
+    },
+    {
+      "id": "439504fc-1926-4e71-b11e-39fe5f5294de",
+      "type": "istar.DependencyLink",
+      "source": "46964639-b480-4fc9-b01d-44cf3740be71",
+      "target": "1fa5901d-d3f4-4572-a29b-0ee81653549c"
+    },
+    {
+      "id": "a21b33e3-55b9-4268-833b-7cd0631523c9",
+      "type": "istar.DependencyLink",
+      "source": "1fa5901d-d3f4-4572-a29b-0ee81653549c",
+      "target": "d1d948d2-33e6-4d6e-9cdb-5a6485383684"
+    }
+  ],
+  "display": {
+    "d1d948d2-33e6-4d6e-9cdb-5a6485383684": {
+      "collapsed": true
+    },
+    "46964639-b480-4fc9-b01d-44cf3740be71": {
+      "collapsed": true
+    },
+    "c4b4230e-2e26-4c61-9961-e6a03bf6718e": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sun, 27 May 2018 21:46:40 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}

@@ -43,6 +43,6 @@
 
 [![Visitante](./images/iStar/strategic-rationale/visitante.png)](./images/iStar/strategic-rationale/visitante.png)
 
-## (Viewer)[Viewer]
+## Viewer
 
 [![Viewer](./images/iStar/strategic-rationale/viewer.png)](./images/iStar/strategic-rationale/viewer.png)
