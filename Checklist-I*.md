@@ -12,7 +12,7 @@ Resposta| Sim|
 Modificações|
 Questão 3|Os Softgoals estão bem definidos ?|
 Resposta| Sim|
-Modificações|Existem poucos softgoals|
+Modificações|
 Questão 4|As tasks estão bem definidos ?|
 Resposta| Sim|
 Modificações|
