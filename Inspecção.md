@@ -1,7 +1,8 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |22/05/2018|0.1|Criação do Documento|Thiago Ferreira|
-|23/05/2018|0.2|Adicionando descrições e referências|Amanda Pires|
+|23/05/2018|0.2|Adição de descrições e referências|Amanda Pires|
+|23/05/2018|0.2|Adição descrições do processo semi-automatizado|Gabriel Ziegler|
 
 # Inspecção
 A inspeção é um método que contribui para garantir a qualidade do produto de software. Todas as etapas do processo de desenvolvimento de software são suscetíveis à incorporação de defeitos, que podem ser detectados pela inspeção e posteriormente removidos.Logo, revisaremos os documentos de elicitação, os cenários e léxicos, os Casos de Usos produzidos, as histórias de usuário levantas, os diagramas NFR e os diagramas iStar.
@@ -28,7 +29,9 @@ Existem várias técnicas de inspeção para encontrar defeitos em artefatos, en
 * Leitura Baseada em Cenário (LBCe)
 * Leitura Baseada em Perspectiva (LBPe)
 
-A equipe optou por utilizar a técnica LBCh. 
+A equipe optou por utilizar a técnica LBCh.
+
+Alguns processos das inspeções foram feitas utilizando-se de scripts que ou automatizavam a correção de erros, ou melhorava a forma com que o inspetor analisava as questões levantadas nos questionários. Esses processos foram documentados na [inspeção semi automatizada](Inspeção-Semi-Automatizada).
 
 ### Retrabalho
 
