@@ -1,6 +1,6 @@
 * Checklist de Inspeção da Checklist de Elicitação
 * Inspetor: Filipe Dias
-* Data: 26/05/2018
+* Data: 27/05/2018
 
 ### Checklist dos itens de inspeção
 
@@ -53,11 +53,11 @@ Modificações|Nenhuma|
 |Item de Inspeção|Storytelling|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção da explicação da técnica|
 Questões|2. O objetivo deixa claro o que é almejado alcançar com a técnica?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção do objetivo|
 Questões|3. A história contada condiz com a realidade?
 Resposta|Sim|
 Modificações|Nenhum|
