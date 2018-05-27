@@ -5,7 +5,7 @@ Serão inspecionados os [NFRs Framework](./NFR) feitos por cada integrante da eq
 * NFR de Usabilidade
 * NFR de Performance para o Usuário
 * NFR de Segurança
-* NFR de Performance para Streaming
+* NFR de Performance para [Streaming](Streaming)
 * NFR de Portabilidade
 * NFR de Disponibilidade
 

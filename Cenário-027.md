@@ -5,19 +5,19 @@
 ## Contexto:
 * O administrador gostaria de impedir que alguém fale e veja sua stream.
 ## Ator(es)
-* Viewer 
-* Streamer
+* [Viewer](Viewer) 
+* [Streamer](Streamer)
 * Moderador
 ## Recursos
-* Funções Administradoras do Chat
+* Funções Administradoras do (Chat)[Group-Chat]
 * Acesso ao chat da stream
 ## Exceções
-* Moderador quebrando regras ou sendo inconveniente no chat
+* Moderador quebrando regras ou sendo inconveniente no (chat)[Group-Chat]
 * Moderador tendo que banir outro moderador
 ## Episódios
-* [Usuário](User) Viewer está quebrando as regras do chat
+* [Usuário](User) [Viewer](Viewer) está quebrando as regras do (chat)[Group-Chat]
 * Streamer/Moderador bane este
-* Viewer é impedido de usar o Chat e visualizar a Stream.
+* [Viewer](Viewer) é impedido de usar o Chat e visualizar a Stream.
 -------
 * [Usuário](User) está sendo inconveniente e irritante
 * Streamer, mesmo o viewer não estando, necessariamente, quebrando as regras, bane o viewer da stream.

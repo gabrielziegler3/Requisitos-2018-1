@@ -7,13 +7,13 @@
 * O usuário está em sua área de trabalho e quer iniciar sua stream na Twitch
 
 ## Ator(es)
-* Streamer
+* [Streamer](Streamer)
 
 ## Recursos
 * Software de Captura
 * Dispositivo a ser capturado
 * Conta na Twitch
-* Token do Streamer
+* Token do [Streamer](Streamer)
 
 ## Exceções
 * O [Usuário](User) não possui acesso à internet

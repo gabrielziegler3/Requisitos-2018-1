@@ -1,11 +1,11 @@
-# UC16 - Banir Viewer
+# UC16 - Banir (Viewer)[Viewer]
 
 ## Descrição
 * Esse caso de uso descreve o processo de banimento de um Viewer.
 
 ## Atores
-* Streamer
-* Viewer
+* [Streamer](Streamer)
+* (Viewer)[Viewer]
 
 ## Pré-condições
 * O usuário deverá ter acesso à internet
@@ -15,7 +15,7 @@
 ### Fluxo Principal
 * 1. O streamer abre o stream
 * 2. O streamer localiza no seu chat, um viewer indesejado [FE01]
-* 3. O streamer clica no nome do viewer
+* 3. O streamer clica no nome do (viewer)[Viewer]
 * 4. O streamer seleciona 🕒 
 * 5. O streamer bane o viewer do seu chat pelo tempo desejado
 
@@ -25,7 +25,7 @@
 
 ### Fluxo de Exceção
 
-#### FE01 - Falha na localização do viewer
+#### FE01 - Falha na localização do (viewer)[Viewer]
 * 1. O chat ao vivo estará passando muitas mensagens, e não será possível localizar o viewer.
 
 ## Pós-condição

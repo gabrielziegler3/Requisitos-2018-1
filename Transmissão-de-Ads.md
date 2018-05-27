@@ -4,7 +4,7 @@
 * Esse caso de uso descreve como transmitir anúncios durante uma stream
 
 ## Atores
-* Streamer
+* [Streamer](Streamer)
 
 ## Pré-condições
 * O streamer deve ter acesso à internet

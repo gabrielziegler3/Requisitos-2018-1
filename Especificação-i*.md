@@ -10,30 +10,30 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 ## Especificação Textual i*
 ### Atores
 * Agente Usuário 
-    - Papel Viewer
-    - Papel Streamer
+    - Papel (Viewer)[Viewer]
+    - Papel [Streamer](Streamer)
 * Agente Patrocinador
     - Posição Patrocinador Twitch
-    - Posição Patrocinador Streamer
+    - Posição Patrocinador [Streamer](Streamer)
 * Agente Plataforma Twitch
     - Desenvolvimento
     - Financeiro
     - Marketing 
 ### Relações 
-* Viewer e Streamer
-* Patrocinador e Streamer
-* Patrocinador e Viewer
+* [Viewer](Viewer) e [Streamer](Streamer)
+* Patrocinador e [Streamer](Streamer)
+* Patrocinador e (Viewer)[Viewer]
 * Patrocinador e Twitch
 * Twitch e Usuário
-* Twitch e Streamer
+* Twitch e [Streamer](Streamer)
 ### Hardgoals, Tasks, Softgoals e Resources
-#### Hardgoals Viewer e Streamer
+#### Hardgoals [Viewer](Viewer) e [Streamer](Streamer)
 * Stream seja visualizada
     - Buscar stream
-    - Selecionar Stream
+    - Selecionar [Stream](Stream)
 * Doar Bits
     - Seja possível enviar bits ao longo de uma stream
-    - [Condição] O Streamer precisa ser parceiro da Twitcht
+    - [Condição] O [Streamer](Streamer) precisa ser parceiro da Twitcht
 * Ocorra Comunicação entre as partes
     - Seja possível enviar mensagens privadas
     - Seja possível se comunicar através de mensagens de doação
@@ -42,8 +42,8 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Seguir Canal
     - Se inscrever em canal
 
-#### Hardgoals Patrocinador e Streamer
-* Streamer Seja Patrocinado
+#### Hardgoals Patrocinador e [Streamer](Streamer)
+* [Streamer](Streamer) Seja Patrocinado
    - O patrocinado receba exclusividades
    - O patrocinado receba divulgação
    - Patrocinador seja divulgado
@@ -52,7 +52,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 * Stream seja monetizada pela publicidade
 * [Recurso]Capital
 
-#### Hardgoals Patrocinador e Viewer
+#### Hardgoals Patrocinador e (Viewer)[Viewer]
 * Anúncios sejam transmitidos nas transmissões 
     - Espectador assiste anúncios e transmissor recebe com a audiência nos anúncios 
 
@@ -63,7 +63,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Receber capital por publicar anúncios
     - [Recurso]Capital
 
-#### Hardgoals Twitch e Viewer
+#### Hardgoals Twitch e (Viewer)[Viewer]
 * Usuário seja cadastrado
 * Dashboard seja disponibilizado
     - Ter acesso a lives
@@ -103,15 +103,15 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 * Bits sejam obtidos
     - Seja possível comprar um determinado número de bits
 
-#### Hardgoals Twitch -- Streamer
-* Streamer seja efetuado como Twitch Partner
+#### Hardgoals Twitch -- [Streamer](Streamer)
+* [Streamer](Streamer) seja efetuado como Twitch Partner
     - O usuário seja regular, transmitindo ao menos 3x por semana
     - O usuário aplicante tenha um Público e chat crescente
     - Conteúdo transmitido seja adequado às regras de conduta, Termos de serviço e Diretrizes DMCA da Twitch
-* Plataforma supra as necessidades de streaming
+* Plataforma supra as necessidades de (streaming)[Streaming]
     - A twitch consiga transmitir conteúdo multimídia em tempo real
-    - A twitch disponibilize um meio de interação para o streamer
-    - A twitch disponibilize alguma forma de monetização para o streamer
+    - A twitch disponibilize um meio de interação para o (streamer)[Streamer]
+    - A twitch disponibilize alguma forma de monetização para o (streamer)[Streamer]
     - A twitch disponibilize controle sobre a transmissão para o usuário, em tempo real
 ### Strategic Rationale
 #### Usúario[Geral]
@@ -126,16 +126,16 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Atualizar faixa do perfil
     - Atualizar denifinições do perfil
     - Cancelar conta
-#### Streamer
+#### [Streamer](Streamer)
 * Stream seja inicializada
     - Iniciar uma stream
 * Stream key seja adquirida
-    - Usuário Streamer possua conta ativa na twitch
+    - Usuário [Streamer](Streamer) possua conta ativa na twitch
     - Stream key seja inicializada em software de captura
     - Usuário possua software de captura ou qualquer outro método de upload para a twitch em seu dispositivo o qual será realizada a captura
-#### Viewer
-* Viewer participe ativamente da stream
-   - Viewer participe do chat
+#### (Viewer)[Viewer]
+* [Viewer](Viewer) participe ativamente da stream
+   - [Viewer](Viewer) participe do (chat)[Group-Chat]
 #### Twitch
 * Seja capaz de hospedar stream
     - Hospedar stream

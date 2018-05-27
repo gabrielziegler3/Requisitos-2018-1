@@ -25,5 +25,5 @@
 ## Episódios
 * [Viewer](Viewer) gosta de uma stream 
 * [Viewer](Viewer) clica em ```Inscrever-se```
-* Notificação na tela comprovando que ele está seguindo o [streamer](L%C3%A9xico-Streamer)
+* Notificação na tela comprovando que ele está seguindo o [streamer](Streamer)
 

@@ -27,7 +27,7 @@ Alguns dos acrônimos, definições e abreviações usados neste documento são:
 
 * Viewer: Espectador
 * Streamer: Transmissor
-* Donate: Doação feita à um streamer
+* Donate: Doação feita à um (streamer)[Streamer]
 * Bits: Forma específica de doação
 * UX: User Experience, refere-se à experiência do usuário ao usar a aplicação.
 

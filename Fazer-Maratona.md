@@ -3,7 +3,7 @@
 * Maratonar
 
 **Noção:**
-* Tarefa realizada por um [streamer](L%C3%A9xico-Streamer) ou por um conjunto do mesmo.
+* Tarefa realizada por um [streamer](Streamer) ou por um conjunto do mesmo.
 * Consiste em fazer [streams](stream) que duram horas, ou até mesmo dias.
 
 **Impacto:**

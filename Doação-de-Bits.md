@@ -7,7 +7,7 @@
 
 ## Atores
 * Usuário
-* Streamer
+* [Streamer](Streamer)
 
 ## Pré-condições
 * O usuário deve possuir bits associados à sua conta

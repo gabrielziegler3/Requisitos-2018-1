@@ -7,7 +7,7 @@
 * Criar coleções para qualquer conjunto de vídeos que deseja destacar no canal, como uma introdução geral, um show recorrente, jogos transmitidos por um [Streamer](Streamer).
 
 ## Contexto
-* O [streamer](L%C3%A9xico-Streamer) deseja criar uma lista de reprodução para mostrar os seus melhores trabalhos.
+* O [streamer](Streamer) deseja criar uma lista de reprodução para mostrar os seus melhores trabalhos.
 
 ## Ator(es)
 * Streamers.

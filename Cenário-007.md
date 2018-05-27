@@ -10,8 +10,8 @@
 ## Contexto
 * [Streamer](Streamer)
  está streamando
-Um [viewer](Viewer) está incomodando o [streamer](L%C3%A9xico-Streamer)
- ou outros [viewers](Viewer) no chat
+Um [viewer](Viewer) está incomodando o [streamer](Streamer)
+ ou outros [viewers](Viewer) no (chat)[Group-Chat]
 
 ## Ator(es)
 * [Streamer](Streamer)
@@ -27,12 +27,12 @@ Um [viewer](Viewer) está incomodando o [streamer](L%C3%A9xico-Streamer)
 ## Episódios
 * [Streamer](Streamer)
  está streamando
-* [Viewer](Viewer) começa a incomodar no chat
+* [Viewer](Viewer) começa a incomodar no (chat)[Group-Chat]
 * [Streamer](Streamer)
- localiza o [viewer](Viewer) indesejado no chat
+ localiza o [viewer](Viewer) indesejado no (chat)[Group-Chat]
 * [Streamer](Streamer)
  clica em seu nome
 * Uma modal com as informações públicas do usuário é aberta
-* O [streamer](L%C3%A9xico-Streamer)
+* O [streamer](Streamer)
  escolhe se dá um ban (temporário) ou um permaban (permanente) no [viewer](Viewer)
 * O [viewer](Viewer) é banido

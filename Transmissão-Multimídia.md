@@ -6,7 +6,7 @@
 * O Usuário capturará dados e os enviará por streaming e esse conteúdo será transmitido no player da Twitch.
 
 ## Atores
-* Streamer
+* [Streamer](Streamer)
 
 ## Pré-condições
 * O usuário deverá ter acesso à internet

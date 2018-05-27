@@ -1,14 +1,14 @@
 # Cenário 008 - Fazer [Donate](Donate)
 
 ## Título
-* [Viewer](Viewer) fazendo donate
+* [Viewer](Viewer) fazendo (donate)[Donate]
 
 ## Objetivo
-* [Viewer](Viewer) doar dinheiro ao [streamer](L%C3%A9xico-Streamer)
+* [Viewer](Viewer) doar dinheiro ao [streamer](Streamer)
 
 
 ## Contexto
-* [Viewer](Viewer) assistindo uma [stream](L%C3%A9xico-Streamer)
+* [Viewer](Viewer) assistindo uma [stream](Streamer)
 
 * [Viewer](Viewer) desejando doar dinheiro	
 
@@ -24,9 +24,9 @@
 * Dispositivo eletrônico não conectado à internet
 
 ## Episódios
-* [Usuário](User) conecta-se à stream de um [streamer](L%C3%A9xico-Streamer)
+* [Usuário](User) conecta-se à stream de um [streamer](Streamer)
 
-* [Usuário](User) desce a página e acessa a área de Donate
+* [Usuário](User) desce a página e acessa a área de (Donate)[Donate]
 * [Usuário](User) preenche os campos requeridos
 * [Usuário](User) seleciona a forma de pagamento
 * [Usuário](User) faz a doação

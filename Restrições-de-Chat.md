@@ -1,8 +1,8 @@
-# UC09 - Restrições de Chat
+# UC09 - Restrições de (Chat)[Group-Chat]
 ### [Diagrama de caso de uso](Diagrama-Restrições-de-Chat)
 
 ## Descrição
-* Usuário aplica filtro de acesso ao chat
+* Usuário aplica filtro de acesso ao (chat)[Group-Chat]
 
 ## Atores
 * Usuário 
@@ -16,7 +16,7 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O usuário está no canal da transmissão. [FA02]
-* 2. O usuário abre as configurações do chat da stream no canto inferior esquerdo do chat
+* 2. O usuário abre as configurações do chat da stream no canto inferior esquerdo do (chat)[Group-Chat]
 * 3. O usuário seleciona a opção ```Chat Somente seguidores```[FA02]
 * 4. O caso de uso é encerrado
 

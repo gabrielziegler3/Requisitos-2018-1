@@ -18,7 +18,7 @@ Resposta|Sim|
 Modificações|Nenhuma|
 Commit|-|
 Questões|4 - Todos os atores estão devidamente definidos?|
-Resposta|Não, o ator do Cenário-013 estava mal definido, visto que definia duplamente o Streamer como ator|
+Resposta|Não, o ator do Cenário-013 estava mal definido, visto que definia duplamente o [Streamer](Streamer) como ator|
 Modificações|Um único ator foi mantido|
 Commit|[6711c3](_compare/6711c3)|
 Questões|5 - Os cenários se enquadram em todos os fluxos para a execução de uma tarefa?|
@@ -36,7 +36,7 @@ Resposta|Não, os cenários que envolviam [Streamer](Streamer) possuiam dois lé
 Modificações|O léxico correto foi mantido e os *hyperlinks* dos léxicos foram consertados|
 Commit|ef44e3b|
 Questões|9 - Os atores estão linkados com os léxicos?
-Resposta|Não, Usuários não possuiam léxicos, Streamer e Viewer possuiam algumas menções sem representação de seus léxicos|
+Resposta|Não, Usuários não possuiam léxicos, [Streamer](Streamer) e [Viewer](Viewer) possuiam algumas menções sem representação de seus léxicos|
 Modificações|Todos atores foram linkados com seus respectivos léxicos. O léxico de Usuário teve de ser criado para adequar aos padrões|
 Commit|[e9343e0](_compare/e9343e0),[a626ec](_compare/a626ec)|
 Questões|10 - Os links para os léxicos estão funcionando?

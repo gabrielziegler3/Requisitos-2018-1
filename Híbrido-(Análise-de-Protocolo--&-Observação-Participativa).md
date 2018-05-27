@@ -16,7 +16,7 @@ A técnica híbrida consiste em levantamento de perguntas (seguindo um modelo de
 O objetivo ao usar tal técnica é entender o ponto de vista desses atores e entender o funcionamento da plataforma como um todo.
 </p>
 
-# Viewer 
+# [Viewer](Viewer) 
 
 ![](https://png.icons8.com/color/1600/person-male.png)
 
@@ -46,7 +46,7 @@ O objetivo ao usar tal técnica é entender o ponto de vista desses atores e ent
 
 ------------------------------------
 
-# Streamer 
+# [Streamer](Streamer) 
 
 ![](https://cdn0.iconfinder.com/data/icons/user-pictures/100/supportmale-2-512.png)
 
