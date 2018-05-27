@@ -21,7 +21,7 @@ Resposta| Sim|
 Modificações|
 Questão 6|Os Hardgoals tem bons nomes ?|
 Resposta| Não|
-Modificações|[7a30ff8](_compare/7a30ff8)|
+Modificações|Commit [7a30ff8](_compare/7a30ff8)|
 Defeito| seja capaz de hospedar stream|
 Defeito|seja capaz de enviar notificações|
 Defeito|seja capaz de ser acessada|
@@ -60,7 +60,7 @@ Defeito|Viewer seja prime|
 Defeito|Dasboard seja acessado|
 Questão 12|Todos os links entre Softgoals e outros elementos estão corretos?|
 Resposta|Não|
-Modificações|
+Modificações|Commit [4a473d4](_compare/4a473d4)
 Defeito|Boa segurança|
 Defeito|Boa usabilidade|
 Defeito|Alta Performance|
