@@ -38,9 +38,9 @@
 
 [Geral 1.0](./images/iStar/strategic-dependecy/geral-1-0.png)
 
-## Viewer - Streamer 2.1
+## Viewer - Streamer 2.2
 
-[![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)
+[![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer2.2.png)](./images/iStar/strategic-dependecy/viewer-streamer2.2.png)
 
 [Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
 [Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
