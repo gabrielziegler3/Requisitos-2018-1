@@ -34,7 +34,11 @@ A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em
 
 ## Retrabalho
 
-
+* Foram criadas legendas a todos os [NFRs Framework](./NFR).
+* O ducumento dos [NFRs Framework](./NFR) teve os tópicos da introdução refeitos, para melhor entendimento do leitor.
+* Como o NFR de Portabiliade já mencionava a reusabilidade do software, foi necessário fazer apenas o NFR de Confiabilidade.
 
 ## Revisão
+
+![Revisão NFR](./images/revisao-nfr.png)
 

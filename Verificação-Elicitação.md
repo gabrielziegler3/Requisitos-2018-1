@@ -25,9 +25,11 @@ tais como dados obtidos, foram inseridos à documentação do projeto.
 [Checklist da Elicitação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-da-Elicita%C3%A7%C3%A3o)
 
 ### Retrabalho
-* A definir
+* Os membros do grupo identificaram os erros e a correção foi realizada e revisada.
 
-### Verificação
-* A definir
+### Acompanhamento
+* Todos os erros encontrados foram corrigidos.
+
+
 
 
