@@ -45,4 +45,4 @@
 
 ## Viewer
 
-[![Viewer](./images/iStar/strategic-rationale/viewer.png)](./images/iStar/strategic-rationale/viewer.png)$$
+[![Viewer](./images/iStar/strategic-rationale/viewer.png)](./images/iStar/strategic-rationale/viewer.png)
