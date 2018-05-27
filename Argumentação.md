@@ -15,7 +15,7 @@ capacidade de acessar as funcionalidades do site.
 * i(p3): usuário pode dar follow subscribe
 * i(p4): usuário receber notificações de conteúdo
 * i(p5): usuário não se cadastra
-* i(p6): usuário pode acompanhar chat
+* i(p6): usuário pode acompanhar (chat)[Group-Chat]
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/cadastro-1.1.0.png" width=500px>
 
@@ -25,7 +25,7 @@ Streamer ​ pagando uma mensalidade para receber conteúdos exclusivos e
 maior interatividade com o ​ [Streamer](Streamer) . ​
 * i(p1): Incentivo financeiro ao ​ [Streamer](Streamer)
 * i(p2): Benefícios exclusivos ao inscrito(​ subscriber ​ )
-* i(p3): Pouco diferencial de ​ subscribers ​ para ​ followers
+* i(p3): Pouco diferencial de ​ subscribers ​ para ​ (followers)[Follower]
 * i(p4): Estimula os ​ Streamers a produzir mais conteúdos exclusivos e
 menos abertos a todos espectadores
 

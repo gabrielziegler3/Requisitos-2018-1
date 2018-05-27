@@ -1,4 +1,4 @@
-## Streamar
+## (Streamar)[Streamar]
 
 **Sinônimos:** 
 * Transmitir 

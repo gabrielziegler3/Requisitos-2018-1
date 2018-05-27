@@ -11,7 +11,7 @@
 * [Streamer](Streamer)
  está streamando
 Um [viewer](Viewer) está incomodando o [streamer](Streamer)
- ou outros [viewers](Viewer) no chat
+ ou outros [viewers](Viewer) no (chat)[Group-Chat]
 
 ## Ator(es)
 * [Streamer](Streamer)
@@ -27,9 +27,9 @@ Um [viewer](Viewer) está incomodando o [streamer](Streamer)
 ## Episódios
 * [Streamer](Streamer)
  está streamando
-* [Viewer](Viewer) começa a incomodar no chat
+* [Viewer](Viewer) começa a incomodar no (chat)[Group-Chat]
 * [Streamer](Streamer)
- localiza o [viewer](Viewer) indesejado no chat
+ localiza o [viewer](Viewer) indesejado no (chat)[Group-Chat]
 * [Streamer](Streamer)
  clica em seu nome
 * Uma modal com as informações públicas do usuário é aberta

@@ -10,7 +10,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 ## Especificação Textual i*
 ### Atores
 * Agente Usuário 
-    - Papel Viewer
+    - Papel (Viewer)[Viewer]
     - Papel [Streamer](Streamer)
 * Agente Patrocinador
     - Posição Patrocinador Twitch
@@ -22,7 +22,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 ### Relações 
 * [Viewer](Viewer) e [Streamer](Streamer)
 * Patrocinador e [Streamer](Streamer)
-* Patrocinador e Viewer
+* Patrocinador e (Viewer)[Viewer]
 * Patrocinador e Twitch
 * Twitch e Usuário
 * Twitch e [Streamer](Streamer)
@@ -52,7 +52,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 * Stream seja monetizada pela publicidade
 * [Recurso]Capital
 
-#### Hardgoals Patrocinador e Viewer
+#### Hardgoals Patrocinador e (Viewer)[Viewer]
 * Anúncios sejam transmitidos nas transmissões 
     - Espectador assiste anúncios e transmissor recebe com a audiência nos anúncios 
 
@@ -63,7 +63,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Receber capital por publicar anúncios
     - [Recurso]Capital
 
-#### Hardgoals Twitch e Viewer
+#### Hardgoals Twitch e (Viewer)[Viewer]
 * Usuário seja cadastrado
 * Dashboard seja disponibilizado
     - Ter acesso a lives
@@ -108,10 +108,10 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - O usuário seja regular, transmitindo ao menos 3x por semana
     - O usuário aplicante tenha um Público e chat crescente
     - Conteúdo transmitido seja adequado às regras de conduta, Termos de serviço e Diretrizes DMCA da Twitch
-* Plataforma supra as necessidades de streaming
+* Plataforma supra as necessidades de (streaming)[Streaming]
     - A twitch consiga transmitir conteúdo multimídia em tempo real
-    - A twitch disponibilize um meio de interação para o streamer
-    - A twitch disponibilize alguma forma de monetização para o streamer
+    - A twitch disponibilize um meio de interação para o (streamer)[Streamer]
+    - A twitch disponibilize alguma forma de monetização para o (streamer)[Streamer]
     - A twitch disponibilize controle sobre a transmissão para o usuário, em tempo real
 ### Strategic Rationale
 #### Usúario[Geral]
@@ -133,9 +133,9 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Usuário [Streamer](Streamer) possua conta ativa na twitch
     - Stream key seja inicializada em software de captura
     - Usuário possua software de captura ou qualquer outro método de upload para a twitch em seu dispositivo o qual será realizada a captura
-#### Viewer
+#### (Viewer)[Viewer]
 * [Viewer](Viewer) participe ativamente da stream
-   - [Viewer](Viewer) participe do chat
+   - [Viewer](Viewer) participe do (chat)[Group-Chat]
 #### Twitch
 * Seja capaz de hospedar stream
     - Hospedar stream

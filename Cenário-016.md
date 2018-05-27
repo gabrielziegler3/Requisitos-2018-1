@@ -1,7 +1,7 @@
 # Cenário 016 - Selecionar [moderadores](Mods)
  
 ## Título	
-* Moderadores de chat
+* Moderadores de (chat)[Group-Chat]
 
 ## Objetivo
 * Fazer um usuário possuir privilégios administrativos no chat.
@@ -24,9 +24,9 @@
 
 ## Episódios
 * [Streamer](Streamer)
- simpatiza com algum viewer
+ simpatiza com algum (viewer)[Viewer]
 * [Streamer](Streamer)
- clica no nome do viewer
+ clica no nome do (viewer)[Viewer]
 * [Streamer](Streamer)
  seleciona a opção de ```Moderador```
 * [Viewer](Viewer) se torna moderador.

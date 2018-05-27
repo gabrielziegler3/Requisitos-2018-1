@@ -6,7 +6,7 @@
 * Este caso de uso descreve o sistema de hospedagem de stream em outros canais
  
 ## Atores
-* Usuário - Streamers
+* Usuário - (Streamers)[Streamer]
 
 ## Pré-condições
 * O usuário não deve ter uma stream ativa
