@@ -54,21 +54,21 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US07|Eu, como usuário, gostaria poder [compartilhar uma stream](Cen%C3%A1rio-030) que estou assistindo para que meus amigos possam assistir também.|Um botão "compartilhar" deve estar embaixo de todas as streams, onde o usuário, poderá escolher a plataforma de compartilhamento, ou simplesmente copiar o link da stream.|Alta|
 |RF|US08|Eu, como usuário, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|Ao seguir um streamer, o contador de seguidores do mesmo, deverá ser atualizado, assim como a lista de "canais seguidos" do viewer.|Média|
 |RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|Alguns chats devem ter limitações para não seguidores.|Baixa|
-|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream|Poder colocar limitação de tempo em relação a participação de usuários.|Baixa|
-|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream|Pessoas indesejadas pelo streamer não poderão participar do chat de uma live específica, ou de uma canal.|Baixa|
-|RF|US12|Eu, como streamer, gostaria de alterar o jogo que estou jogando na minha stream sem que seja necessário começar outra stream| - |Média|
-|RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|Usuários não logados não poderão enviar mensagens.|Baixa|
+|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream, para que assim, eu possa ter maior controle sobre meu ambiente de transmissão.|Poder colocar limitação de tempo em relação a participação de usuários.|Baixa|
+|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream, para evitar que pessoas tumultuem minha transmissão.|Pessoas indesejadas pelo streamer não poderão participar do chat de uma live específica, ou de uma canal.|Baixa|
+|RF|US12|Eu, como streamer, gostaria de alterar o jogo que estou jogando na minha stream sem que seja necessário começar outra stream, para que assim minha stream tenha maior fluidez. | - |Média|
+|RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado, para que eu possa saber o que está sendo comentado|Usuários não logados não poderão enviar mensagens.|Baixa|
 
 #### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 
 
-|Tipo|História|Descrição|Prioridade|
-|-----|----|---------|---|
-|RF|US14|Eu, como usuário, desejo subir um vídeo na plataforma.|Alta|
-|RF|US15|Eu, como usuário, gostaria de deletar um vídeo que eu subi na plataforma.|Alta|
-|RF|US16|Eu, como usuário, gostaria de programar uma premiere para meu vídeo.|Média|
-|RF|US17|Eu, como usuário gostaria de gravar uma transmissão anterior em vídeo.|Baixa|
-|RF|US18|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.|Baixa|
+|Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
+|-----|----|---------|---|---|
+|RF|US14|Eu, como usuário, desejo subir um vídeo na plataforma, para que assim eu possa divulgar minhas streams. |Arquivos corrompidos devem ser negados. <br> Vídeos para 'upload' devem ser comprimidos ou otimizados para facilitar seu armazenamento.|Alta|
+|RF|US15|Eu, como usuário, gostaria de deletar um vídeo que eu subi na plataforma, para que eu possa ter maior controle sobre meu conteúdo.|Uma verificação de dois passos é necessária, para que exclusões acidentais não ocorra.|Alta|
+|RF|US16|Eu, como usuário, gostaria de programar uma premiere para meu vídeo, para que eu possa divulgar meu trabalho.| - |Média|
+|RF|US17|Eu, como usuário, gostaria de gravar uma transmissão anterior em vídeo, para que assim eu possa compartilha-la mais tarde.| - |Baixa|
+|RF|US18|Eu, como usuário gostaria de destacar um vídeo para este ter maior visualização.| - |Baixa|
 
 #### EP04 - Eu, como usuário, desejo me comunicar com outros usuários
 
@@ -81,11 +81,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US23|Eu, como usuário, desejo poder mandar emoticons em conversas, para poder aumentar a interatividade.| Um conjunto de caracteres, ou somente um, deve corresponder a um emoticon.|Média|
 |RF|US24|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa evitar usuários indesejados.| Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Alta|
 |RF|US25|Eu, como usuário, desejo poder buscar outros usuários, para que eu possa achar possíveis amigos.| Poder buscar tanto com caixa alta ou não. Informar quando não achar um usuário correspondente a busca.|Baixa|
-|RF|US26|Eu, como usuário, desejo poder adicionar como amigo outros usuários.|Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Baixa|
-|RF|US27|Eu, como usuário, desejo poder mandar mensagens de texto privadas.| Poder selecionar o usuário de destino.|Baixa|
-|RF|US28|Eu, como viewer, desejo poder participar de chats durante as streams.| Se uma transmissão acabar o chat deve acabar também. |Baixa|
-|RF|US29|Eu, como usuário, desejo poder mandar emoticons em conversas.| Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|Baixa|
-|RF|US30|Eu, como usuário, desejo bloquear alguém em uma conversa.|Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Baixa|
+|RF|US26|Eu, como usuário, desejo poder adicionar como amigo outros usuários, para que assim eu possa comunicar com eles.|Poder somente enviar pedidos de amizades para pessoas que não me bloquearam|Baixa|
+|RF|US27|Eu, como usuário, desejo poder mandar mensagens de texto privadas, pare que eu possa ter maior privacidade.| Poder selecionar o usuário de destino.|Baixa|
+|RF|US28|Eu, como viewer, desejo poder participar de chats durante as streams, para que assim eu possa comentar sobre o jogo.| Se uma transmissão acabar o chat deve acabar também. |Baixa|
+|RF|US29|Eu, como usuário, desejo poder mandar emoticons em conversas, para que assim as conversas fiquem mais divertidas.| Um conjunto, ou somente um, caractere deve corresponder a um emoticon.|Baixa|
+|RF|US30|Eu, como usuário, desejo bloquear alguém em uma conversa, para que eu possa ter mais controle sobre as mensagem que eu recebo.|Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Baixa|
 
 
 #### EP05 - Eu, como usuário, desejo gerenciar add-ons pela Twitch para usufruir de maiores funcionalidades em determinados jogos
