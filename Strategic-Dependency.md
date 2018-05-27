@@ -21,6 +21,8 @@
 |16/05/2018|1.8|Adição do Diagrama Geral 1.6|João Carlos|
 |17/05/2018|1.9|Adição do diagrama 3.1 Twitch-Usuário e Viewer-Streamer 2.1|Thiago Ferreira|
 |24/05/2018|2.0|Adição do diagrama 1.0 Amazon-Twitch e correções no artefato|Gabriel Ziegler|
+|27/05/2018|2.1|Revisão|João Carlos|
+
 
 ## Geral 1.6
 
