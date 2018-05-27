@@ -47,9 +47,9 @@
 [Viewer - [Streamer](Streamer) 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
 [Viewer - [Streamer](Streamer) 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 
-## Twitch - Usuário 3.1
+## Twitch - Usuário 3.2
 
-![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)
+![Twitch - Usuário](./images/iStar/strategic-dependecy/twitch-usuario3.2.png)
 
 [Twitch - Usuário 3.1](./images/iStar/strategic-dependecy/twitch-usuario-3.1.png)<br>
 [Twitch - Usuário 3.0](./images/iStar/strategic-dependecy/twitch-usuario-3.0.png)<br>
