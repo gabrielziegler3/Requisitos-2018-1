@@ -110,9 +110,9 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 
 |Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
 |----|----|---------|--|---|
-|RNF|US36|Eu como usuário, gostaria de opções de planos mensais de inscrições em um canal para que eu possa escolher o valor e as vantagens que mais me agrada.|Oferecer opções mensais, trimestrais e semestrais. <br> Possibilidade de pagar com cartão de crédito, transferência bancaria ou dinheiro.|Alta|
-|RF|US37|Eu como usuário, desejo me inscrever em um canal para poder ter mais vantagens nesse canal.|Opção de se inscrever devem estar visíveis junto a stream. <br> Ter a possibilidade de uma avaliação gratuita ao se inscrever.|Alta|
-|RF|US38|Eu como usuário, desejo comprar bits para poder doar aos streamers.|Oferecer pacotes de bits, e não a venda unitária.|Alta|
+|RNF|US36|Eu como viewer, gostaria de opções de planos mensais de inscrições em um canal para que eu possa escolher o valor e as vantagens que mais me agrada.|Oferecer opções mensais, trimestrais e semestrais. <br> Possibilidade de pagar com cartão de crédito, transferência bancaria ou dinheiro.|Alta|
+|RF|US37|Eu como viewer, desejo me inscrever em um canal para poder ter mais vantagens nesse canal.|Opção de se inscrever devem estar visíveis junto a stream. <br> Ter a possibilidade de uma avaliação gratuita ao se inscrever.|Alta|
+|RF|US38|Eu como viewer, desejo comprar bits para poder doar aos streamers.|Oferecer pacotes de bits, e não a venda unitária.|Alta|
 |RNF|US39|Eu como usuário, desejo assinar o serviço twitch prime para receber uma série de vantagens em todo o site.|Assinantes da Amazon Prime poderão ter acesso a Twtich Prime por meio de uma validação de login da Amazon|Alta|
 |RF|US40|Eu como viewer, desejo doar bits para um streamer para poder incentivar o seu trabalho.|Poder escolher a quantidade de bits|Alta|
 |RF|US41|Eu como usuário, desejo aderir ao twitch turbo para receber mais recursos na Twitch.|Anuncios não poderão aparecer para aqueles que aderirem ao Twitch Turbo. <br>  |Alta|
