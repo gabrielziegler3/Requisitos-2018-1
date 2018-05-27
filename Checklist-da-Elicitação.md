@@ -4,10 +4,10 @@
 
 ### Checklist dos itens de inspeção
 
-- [ ] Plano de Elicitação de Requisitos
-- [ ] Questionário
-- [ ] Storytelling
-- [ ] Análise de Protocolo + Observação Participativa
+- [X] Plano de Elicitação de Requisitos
+- [X] Questionário
+- [X] Storytelling
+- [X] Análise de Protocolo + Observação Participativa
 - [ ] Introspecção
 
 * Técnicas Utilizadas:
@@ -69,11 +69,11 @@ Modificações|Nenhuma|
 |Item de Inspeção|Observação Participativa|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção de uma breve explicação da técnica|
 Questões|2. O objetivo deixa claro o que é almejado alcançar com a técnica?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção do objetivo|
 Questões|3. O documento abrange todo o público alvo da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)?
 Resposta|Sim|
 Modificações|Nenhuma|
