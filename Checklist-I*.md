@@ -21,7 +21,7 @@ Resposta| Sim|
 Modificações|
 Questão 6|Os Hardgoals tem bons nomes ?|
 Resposta| Não|
-Modificações|7a30ff8|
+Modificações|[7a30ff8](../_compare/7a30ff8)|
 Defeito| seja capaz de hospedar stream|
 Defeito|seja capaz de enviar notificações|
 Defeito|seja capaz de ser acessada|
