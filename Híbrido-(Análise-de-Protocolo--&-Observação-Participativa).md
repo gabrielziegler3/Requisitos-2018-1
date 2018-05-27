@@ -3,7 +3,17 @@
 |01/04/2018|1.0|Criação e Desenvolvimento do Documento|Filipe Dias| 
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
 
+### O que é Análise de Protocolo & Observação Participativa?
 
+<p align=justify>
+A técnica híbrida consiste em levantamento de perguntas (seguindo um modelo de tutorial) para entender o funcionamento da plataforma <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a> a partir da perspectiva de 3 tipos diferentes de atores: O Viewer, o Streamer e a própria <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a>.
+</p>
+
+### Objetivo
+
+<p align=justify>
+O objetivo ao usar tal técnica é entender o ponto de vista desses atores e entender o funcionamento da plataforma como um todo.
+</p>
 
 # Viewer 
 
