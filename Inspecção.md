@@ -28,7 +28,9 @@ Existem várias técnicas de inspeção para encontrar defeitos em artefatos, en
 * Leitura Baseada em Cenário (LBCe)
 * Leitura Baseada em Perspectiva (LBPe)
 
-A equipe optou por utilizar a técnica LBCh. 
+A equipe optou por utilizar a técnica LBCh.
+
+Alguns processos das inspeções foram feitas utilizando-se de scripts que ou automatizavam a correção de erros, ou melhorava a forma com que o inspetor analisava as questões levantadas nos questionários. Esses processos foram documentados na [inspeção semi automatizada](Inspeção-Semi-Automatizada).
 
 ### Retrabalho
 
