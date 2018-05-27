@@ -21,8 +21,8 @@ A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em
 [Checklist I*](Checklist-I*)
 
 ### Retrabalho
-* A definir
+Os membros do grupo identificaram os erros e a correção foi realizada e revisada.
 
 ### Verificação
-* A definir
+Todos os erros encontrados foram corrigidos.
 
