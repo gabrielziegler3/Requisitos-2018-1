@@ -56,9 +56,10 @@
 [Twitch - Usuário 2.0](./images/iStar/strategic-dependecy/twitch-usuario-2.0.png)<br>
 [Twitch - Usuário 1.0](./images/iStar/strategic-dependecy/twitch-usuario.png)<br>
 
-## Twitch - Patrocinador 1.0
+## Twitch - Patrocinador 1.1
 
-![Twitch - Patrocinador](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
+![Twitch - Patrocinador](./images/iStar/strategic-dependecy/Twitch-patrocinador1.1.png)
+[Twitch - Patrocinador 1.0](./images/iStar/strategic-dependecy/twitch-patrocinador.png)
 
 ## Patrocinador - [Streamer](Streamer) 1.0
 
