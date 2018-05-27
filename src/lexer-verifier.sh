@@ -4,9 +4,6 @@ read -p "Enter Lexico.md dir: " dir
 
 file="Léxico.md"
 
-CYAN='\033[0;36m'
-RED='\033[0;31m'
-
 lexer_files=$(grep -E -o "\[(.+?)\]" $dir$file | sed 's/\[\|\]//g' | sed 's/$/.md/g' | sed 's/ /-/g')
 
 echo -e "Checking Lexicos...\n"
