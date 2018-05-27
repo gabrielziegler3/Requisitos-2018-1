@@ -1,7 +1,8 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |22/05/2018|0.1|Criação do Documento|Thiago Ferreira|
-|23/05/2018|0.2|Adicionando descrições e referências|Amanda Pires|
+|23/05/2018|0.2|Adição de descrições e referências|Amanda Pires|
+|23/05/2018|0.2|Adição descrições do processo semi-automatizado|Gabriel Ziegler|
 
 # Inspecção
 A inspeção é um método que contribui para garantir a qualidade do produto de software. Todas as etapas do processo de desenvolvimento de software são suscetíveis à incorporação de defeitos, que podem ser detectados pela inspeção e posteriormente removidos.Logo, revisaremos os documentos de elicitação, os cenários e léxicos, os Casos de Usos produzidos, as histórias de usuário levantas, os diagramas NFR e os diagramas iStar.
