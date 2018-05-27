@@ -38,7 +38,7 @@ Commit|ef44e3b|
 Questões|9 - Os atores estão linkados com os léxicos?
 Resposta|Não, Usuários não possuiam léxicos, Streamer e Viewer possuiam algumas menções sem representação de seus léxicos|
 Modificações|Todos atores foram linkados com seus respectivos léxicos. O léxico de Usuário teve de ser criado para adequar aos padrões|
-Commit|(e9343e0)[_compare/e9343e0],(a626ec)[_compare/a626ec]|
+Commit|[e9343e0](_compare/e9343e0),[a626ec](_compare/a626ec)|
 Questões|10 - Os links para os léxicos estão funcionando?
 Resposta|Sim|
 Modificações|Nenhuma|
@@ -71,5 +71,5 @@ Commit|-|
 |Questões|6 - Os links dos léxicos estão funcionando?|
 |Resposta|Não, alguns não estavam linkados(viewer, streamer, stream) outros estavam com links quebrados|
 |Modificação|Links reparados e funcionando corretamente|
-|Commit|(718fe4054)[_compare/718fe4054|
+|Commit|[718fe4054](_compare/718fe4054)|
 
