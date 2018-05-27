@@ -40,4 +40,5 @@ A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em
 
 ## Revisão
 
+![Revisão NFR](./images/revisao-nfr.png)
 
