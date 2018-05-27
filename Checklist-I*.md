@@ -1,5 +1,5 @@
 * Checklist de Inspeção dos diagramas iStar
-* Inspetor: João Carlos
+* Inspetores: João Carlos, Gabriel Ziegler
 * Data: 23/05/2018
 
 |Item de Inspeção|iStar|
