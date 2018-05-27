@@ -45,7 +45,7 @@ Modificações|Commit [b5408f4](_compare)|
 Defeito|Capital|
 Questão 10|Todos os links entre elementos internos e externos do rationale são de dependencia|
 Resposta| Não|
-Modificações|
+Modificações|Commit [7a30ff8](_compare/7a30ff8)|
 Defeito|SR-Streamer
 Defeito|Twitch
 Defeito|Visitante
