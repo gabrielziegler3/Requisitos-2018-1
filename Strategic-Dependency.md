@@ -42,10 +42,10 @@
 
 [![Viewer - Streamer](./images/iStar/strategic-dependecy/viewer-streamer2.2.png)](./images/iStar/strategic-dependecy/viewer-streamer2.2.png)
 
-[Viewer - [Streamer](Streamer) 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
-[Viewer - [Streamer](Streamer) 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
-[Viewer - [Streamer](Streamer) 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
-[Viewer - [Streamer](Streamer) 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
+[Viewer - Streamer 2.1](./images/iStar/strategic-dependecy/viewer-streamer-2.1.png)<br>
+[Viewer - Streamer 2.0](./images/iStar/strategic-dependecy/viewer-streamer-2.0.png)<br>
+[Viewer - Streamer 1.1](./images/iStar/strategic-dependecy/viewer-streamer1.1.png)<br>
+[Viewer - Streamer 1.0](./images/iStar/strategic-dependecy/viewer-streamer.png)<br>
 
 ## Twitch - Usuário 3.2
 
