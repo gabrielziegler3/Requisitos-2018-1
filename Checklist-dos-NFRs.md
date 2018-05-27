@@ -8,7 +8,7 @@
 
 |Questão| Amanda| Filipe| Resposta| Modificações|
 |------|-------|-----|-------|-----|
-|1.Foram feitos NFR de requisitos não funcionais como usabilidade, manutenibilidade, confiabilidade, desempenho, portabilidade, reusabilidade, segurança?|   Não, faltaram confiabilidade, reusabilidade e manutenibilidade|Não|Não|Concluir os omitidos.|
+|1.Foram feitos NFR de requisitos não funcionais como usabilidade, manutenibilidade, confiabilidade, desempenho, portabilidade, reusabilidade, segurança?|   Não, faltaram confiabilidade e reusabilidade.|Não|Não| Fazer o NFR confiabilidade.|
 |2.Dos NRF que foram criados, eles ficaram bem definidos?|Sim|Sim|Sim|Nenhuma|
 |3.As propagações de impactos ficaram corretamente atendidas?|Sim|Sim|Sim|Nenhuma|
 |4.Existem operacionalizações para os softgoals definidos?|Sim|Sim|Sim|Nenhuma|

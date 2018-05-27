@@ -13,7 +13,7 @@
 |07/05/2018|1.9|Adição de versão 1.1 do NFR US51|Thiago Ferreira|
 |07/05/2018|2.0|Adição de versão 1.1 do NFR US50|Gustavo Carvalho|
 |27/05/2018|2.1|Adição de legendas aos NRFs e alterando definição e escopo|Amanda Pires
-
+|27/05/2018|2.2|Adição do NFR US54|Amanda Pires
 
 <h1>Introdução</h1>
 
@@ -40,9 +40,9 @@ Nessa conjuntura, serão construídos NFRs dos seguintes requisitos não funcion
 
 ### US48 - Usabilidade
 
-[NFR Usabilidade 1.0](images/NFR_US48.png)
+[NFR Usabilidade 1.0](images/nfr/NFR_US48.png)
 
-![NFR Usabilidade 1.1](images/NFR-Usabilidade-1.1.png)
+![NFR Usabilidade 1.1](images/nfr/NFR-Usabilidade-1.1.png)
 
 ### `Legenda`
 
@@ -93,3 +93,11 @@ Nessa conjuntura, serão construídos NFRs dos seguintes requisitos não funcion
 ### `Legenda`
 
 ![legenda-usabilidade](images/legenda-nfr/legenda-disponibilidade.png)
+
+### US54 - Confiabilidade
+
+![NFR Confiabilidade 1.1](images/nfr/confiabilidade.png)
+
+### `Legenda`
+
+![legenda-usabilidade](images/legenda-nfr/legenda-confiabilidade.png)
