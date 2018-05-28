@@ -3,6 +3,7 @@
 |23/05/2018|0.1|Criação do Documento.|Gustavo Carvalho|
 |23/05/2018|0.2|Adição de planejamento, apresentação e preparação ao documento.|Gustavo Carvalho|
 |23/05/2018|0.3|Padronização do documento|Gustavo Carvalho|
+|27/05/2018|0.4|Finalização do documento|Gustavo Carvalho|
 
 ### Planejamento
 
@@ -14,8 +15,9 @@ Os membros do grupo optaram por um reparticionamento da inspeção, onde cada in
 
 ### Preparação
 
-* Critérios de aceitação: A definição dos critérios de aceitação foi restrita somente à um épico, com os outros, apresentando a ausência do tópico em questão.
-* Tabela geral: Absência de uma tabela geral contendo todas as US, com subdivisões em épicos. Vulgo "tabelão".
+Para a verificação do documento em questão, será feita uma Leitura Baseada em Checklist(LBCh), onde através de um levantamento de itens a serem checados, será verificado se o mesmo contém algum tipo de inconsistência.
+
+
 
 ### Realização da Inspeção
 
@@ -23,11 +25,15 @@ Os membros do grupo optaram por um reparticionamento da inspeção, onde cada in
 
 ### Retrabalho
 
-* A ser feito
+
+* Foram adcionados critérios de aceitação as US que não continham esse tipo de informação
+* Uma tabela geral foi criada, para fazer o agrupamentos de todas as US em uma só imagem.
+* Foi feita a reestruturação de algumas frases escritas na US para obdecer o padrão correto.
+
 
 ### Verificação
 
-* A ser feito
+* Até o dia 27/05/2018, todos os erros encontrados foram corrigidos.
 
 
 
