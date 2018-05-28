@@ -13,9 +13,15 @@
 |01/05/2018|1.9|Atualizando prioridades|Filipe Dias|
 |26/05/2018|2.0|Adcionando critérios de aceitação nas US|Gustavo Carvalho|
 |27/05/2018|2.1|Colocando as US no formato:  ``` As <persona> , I want <what?> so that <why?> ```|Gustavo Carvalho|
-
+|27/05/2018|2.2|Adição tabela geral|Gustavo Carvalho|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
+
+## Tabela Geral
+
+[Link tabela em alta definição](https://raw.githubusercontent.com/wiki/gabrielziegler3/Requisitos-2018-1/images/Tabela_Geral_Product_Backlog.jpg)
+![Tabela Geral Product Backlog](./images/Tabela_Geral_Product_Backlog.jpg)
+
 
 ## Temas
 * 1. Cadastro = [EP01](#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch)
