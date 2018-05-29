@@ -3,6 +3,7 @@
 |23/05/2018|0.1|Criação do Documento|Thiago Ferreira|
 |24/05/2018|0.2|Adição de tópicos para as respostas e numeração para as perguntas|Thiago Ferreira|
 |28/05/2018|0.3|Adição dos resultados da inspecção dos itens 1-8|Thiago Ferreira|
+|29/05/2018|0.4|Adição dos resultados da inspecção dos itens 9-16|Thiago Ferreira|
 
 * Checklist de Inspeção dos Casos de Uso
 * Inspetor: Thiago Ferreira
@@ -39,25 +40,22 @@ Resposta|Não|
 Modificações|Adicionar caso de uso completado como passo final nas UC17 e UC18, Adicionar passo de validação dos dados inseridos na UC03, mesclar FA01 ao Fluxo Principal e adicionar passo de seleção de pagamento à UC06, Adicionar tópico de validação dos dados inseridos na UC03.|
 |10|Os fluxos alternativos descritos são corretamente representados?|
 Resposta|Não|
-Modificações|UC06 possui um fluxo alternativo que deveria estar no fluxo principal.|
+ Modificações|UC06 possui um fluxo alternativo que deveria estar no fluxo principal.|
 |11|Os fluxos alternativos adentram o fluxo principal corretamente?|
-Resposta||
-Modificações|
+Resposta|Não|
+Modificações|FA01 da UC03 possui um fluxo alternativo que não segue a linha do fluxo principal nem retorna a ele. FA da UC13 não adentra o fluxo principal.|
 |12|Os passos descritos no fluxo alternativo possibilitam a completude correta do fluxo?|
-Resposta||
-Modificações|
-|13|Os fluxos alternativos são representados com as marcações no fluxo principal?|
-Resposta||
-Modificações|
-|14|Os fluxos de exceção são corretamente descritos?|
-Resposta||
-Modificações|
-|15|Os fluxos de exceção são representados corretamente do fluxo principal?|
+Resposta|Não|
+Modificações|FA01 da UC03 possui estado independente e os fluxos alternativos da UC13 não completam adequadamente o fluxo.|
+|13|Os fluxos de exceção são corretamente descritos?|
+Resposta|Não|
+Modificações|UC13, UC16 e UC06 são descritos incorretamente|
+|14|Os fluxos de exceção são representados corretamente do fluxo principal?|
 Resposta|Não|
 Modificações|FE01 inserido ao passo 4 da UC01, FE01 inserido tag ao passo 3 da UC02, FE01 adicionado ao passo 7 do Fluxo Principal, Adicionar tag do FE01 ao passo iv da UC06, adicionar tag FE02 ao passo 5 da UC08 e adicionar tags dos FE da UC13 após a correção.  |
-|16|Os erros descritos no fluxo de exceção ocorre de fato?|
+|15|Os erros descritos no fluxo de exceção ocorre de fato?|
 Resposta|Não|
 Modificações|UC06 possui um fluxo de exceção que é um fluxo alternativo e o UC13 possui um fluxo de exceção escrito de maneira inadequada.|
-|17|A Pós-condição é corretamente cumprida e descrita?|
+|16|A Pós-condição é corretamente cumprida e descrita?|
 Resposta|Sim|
 Modificações|Alteração gramática na UC05, Alteração para descrição mais sucinta da UC13, remoção de numeração em frente a UC14, UC15 e UC19|
