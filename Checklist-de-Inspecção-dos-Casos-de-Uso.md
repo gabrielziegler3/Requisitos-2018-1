@@ -35,11 +35,11 @@ Modificações|UC13, adequação à ordem correta da realização das tarefas, U
 Resposta|Não|
 Modificações|Alteração nas tags de fluxo alternativo nas UC09, UC13, UC15, UC18|
 |9|Ao seguir os passos, a tarefa é corretamente concluída?|
-Resposta||
-Modificações|
+Resposta|Não|
+Modificações|Adicionar caso de uso completado como passo final nas UC17 e UC18, Adicionar passo de validação dos dados inseridos na UC03, mesclar FA01 ao Fluxo Principal e adicionar passo de seleção de pagamento à UC06, Adicionar tópico de validação dos dados inseridos na UC03.|
 |10|Os fluxos alternativos descritos são corretamente representados?|
-Resposta||
-Modificações||
+Resposta|Não|
+Modificações|UC06 possui um fluxo alternativo que deveria estar no fluxo principal.|
 |11|Os fluxos alternativos adentram o fluxo principal corretamente?|
 Resposta||
 Modificações|
@@ -53,11 +53,11 @@ Modificações|
 Resposta||
 Modificações|
 |15|Os fluxos de exceção são representados corretamente do fluxo principal?|
-Resposta||
-Modificações|
+Resposta|Não|
+Modificações|FE01 inserido ao passo 4 da UC01, FE01 inserido tag ao passo 3 da UC02, FE01 adicionado ao passo 7 do Fluxo Principal, Adicionar tag do FE01 ao passo iv da UC06, adicionar tag FE02 ao passo 5 da UC08 e adicionar tags dos FE da UC13 após a correção.  |
 |16|Os erros descritos no fluxo de exceção ocorre de fato?|
-Resposta||
-Modificações|
+Resposta|Não|
+Modificações|UC06 possui um fluxo de exceção que é um fluxo alternativo e o UC13 possui um fluxo de exceção escrito de maneira inadequada.|
 |17|A Pós-condição é corretamente cumprida e descrita?|
-Resposta||
-Modificações|
+Resposta|Sim|
+Modificações|Alteração gramática na UC05, Alteração para descrição mais sucinta da UC13, remoção de numeração em frente a UC14, UC15 e UC19|
