@@ -8,9 +8,7 @@
 
 ## Atores
 
-* [Streamer](Streamer)
-
-* Telespectador
+* Usuário
 
 ## Pré-condições
 

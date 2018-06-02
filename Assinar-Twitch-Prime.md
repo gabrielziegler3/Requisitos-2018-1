@@ -6,7 +6,7 @@
 * Este caso de uso descreve a assinatura no Twitch Prime.
 
 ## Atores
-* Usuário Twitch
+* Usuário
 
 ## Pré-condições
 * O usuário deve ter acesso à internet
