@@ -3,7 +3,7 @@
 ### [Diagrama de caso de uso](Diagrama-Adição-de-Add-ons-em-Jogos)
 
 ## Descrição
-* Uso do aplicativo desktop para adição de add-ons em jogos
+* Este caso de uso descreve o uso do aplicativo desktop para adição de add-ons/mods em jogos
 
 ## Atores
 * Usuário

@@ -3,7 +3,7 @@
 ### [Diagrama de caso de uso](Diagrama-transmitir-multimídia)
 
 ## Descrição
-* O Usuário capturará dados e os enviará por streaming e esse conteúdo será transmitido no player da Twitch.
+* Este caso de uso descreve como o usuário capturará dados e os enviará por streaming e esse conteúdo será transmitido no player da Twitch.
 
 ## Atores
 * [Streamer](Streamer)

@@ -2,7 +2,7 @@
 ### [Diagrama de caso de uso](Diagrama-Restrições-de-Chat)
 
 ## Descrição
-* Usuário aplica filtro de acesso ao (chat)[Group-Chat]
+* Este caso de uso decreve como o usuário aplica um filtro de acesso ao (chat)[Group-Chat]
 
 ## Atores
 * Usuário 

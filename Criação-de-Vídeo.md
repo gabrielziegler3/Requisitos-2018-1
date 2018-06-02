@@ -3,7 +3,7 @@
 * [Diagrama de Caso de Uso](Diagrama-Criar-Video)
 
 ## Descrição
-* Descrição do caso de uso para criação de vídeos na plataforma.
+* Este caso de uso descreve como criar vídeos na plataforma.
 ## Atores
 * Usuário
 
