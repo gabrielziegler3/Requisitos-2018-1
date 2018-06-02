@@ -15,7 +15,7 @@
 
 ## Fluxo de Eventos
 ### Fluxo Principal
-* 1. O usuário está no canal da transmissão. [FA02]
+* 1. O usuário está no canal da transmissão. [FA01]
 * 2. O usuário abre as configurações do chat da stream no canto inferior esquerdo do (chat)[Group-Chat]
 * 3. O usuário seleciona a opção ```Chat Somente seguidores```[FA02]
 * 4. O caso de uso é encerrado
