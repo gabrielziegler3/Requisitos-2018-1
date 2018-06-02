@@ -18,17 +18,22 @@
 
 ## Fluxo Principal
 
-1. O usuário assiste uma transmissão.
-2. clica no botão de compartilhar a transmissão.[FA01]
-3. Seleciona a rede social que deseja compartilhar a transmissão.
-4. Finaliza o processo de compartilhamento ao clicar em compartilhar.
+* 1. O usuário está assistindo uma transmissão.
+* 2. O usuário clica no botão de compartilhar a transmissão
+* 3. Seleciona a rede social que deseja compartilhar a transmissão [FE01]
+* 4. Finaliza o processo de compartilhamento ao clicar em compartilhar
+* 5. O caso de uso é encerrado
 
 ## Fluxo Alternativo
+* Não se aplica
 
-### FA01 - O Usuário desiste de compartilhar a transmissão
+## Fluxo de Exceção
 
-1. O usuário clica fora da caixa de selecao de redes sociais para sair.
+* [FE01] O Usuário desiste de compartilhar a transmissão
+    * 1. O usuário desiste de compartilhar a transmissão
+    * 2. O usuário clica fora da caixa de selecao de redes sociais
+    * 3. O usuário não compartilha a transmissão
+    * 4. O caso de uso se encerra incompleto
 
 ## Pós-condição
-
-1. Transmissão compartilhada na rede social escolhida.
+* A transmissão é compartilhada
