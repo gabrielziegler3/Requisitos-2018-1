@@ -25,7 +25,7 @@
 
 * 3. O Usuário seleciona algum canal disponível
 
-* 4. O Usuário assiste a stream
+* 4. O Usuário assiste a stream [FE01]
 
 * 5. O caso de uso se encerra
 

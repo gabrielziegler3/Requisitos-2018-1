@@ -16,7 +16,7 @@
 * 2. O usuário digita o nome do usuário a qual deseja enviar uma mensagem privada[FE01]
 * 3. O usuário clica no nome do usuário encontrado desejado
 * 4. Um mini chat é aberto na parte inferior da tela
-* 5. O usuário envia a mensagem para o usuário desejado
+* 5. O usuário envia a mensagem para o usuário desejado[FE02]
 * 6. O caso se encerra
 
 

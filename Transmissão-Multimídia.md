@@ -20,7 +20,7 @@
 ### Fluxo Principal
 * 1. O usuário abre o software de captura [FA01][FA02]
 * 2. O usuário configura o ambiente de captura
-* 3. A Chave de Transmissão é sincronizada
+* 3. A Chave de Transmissão é sincronizada [FE01]
 * 4. O usuário inicia a stream
 * 5. A stream é transmitida no canal do usuário da Twitch
 * 6. O caso de uso é encerrado

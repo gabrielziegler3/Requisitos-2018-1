@@ -37,4 +37,4 @@
     * 5. O fluxo de exceção se encerra
 
 ## Pós-condição
-* O usuário que alvo da doação ganha o dinheiro associado à quantidade de bits recebidos
+* Os bits do cheer são recebidos pelo destinatário

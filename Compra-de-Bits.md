@@ -17,9 +17,10 @@
 * 1. O usuário abre uma stream desejada
 * 2. O usuário seleciona a opção ```Adquira Bits``` na parte superior da tela
 * 3. O usuário seleciona a quantidade de bits desejada
-* 4. O usuário é seleciona a forma de pagamento
-* 4. O usuário finaliza a compra
-* 5. O caso se encerra
+* 4. O usuário é seleciona a forma de pagamento [FE01]
+* 5. O usuário preenche as informações de pagamento
+* 6. O usuário finaliza a compra
+* 7. O caso se encerra
 
 ### Fluxos Alternativos
 * Não se Aplica

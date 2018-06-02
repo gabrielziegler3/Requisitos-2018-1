@@ -14,19 +14,16 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O streamer abre o stream
-* 2. O streamer localiza no seu chat, um viewer indesejado [FE01]
+* 2. O streamer localiza no seu chat, um viewer indesejado
 * 3. O streamer clica no nome do [viewer](Viewer)
 * 4. O streamer seleciona 🕒 
 * 5. O streamer bane o viewer do seu chat pelo tempo desejado
 
-
 ### Fluxos Alternativos
-*
+* Não se aplica
 
 ### Fluxo de Exceção
-
-#### FE01 - Falha na localização do (viewer)[Viewer]
-* 1. O chat ao vivo estará passando muitas mensagens, e não será possível localizar o viewer.
+* Não se aplica
 
 ## Pós-condição
 * O viewer que foi banido não poderá mais participar do chat do streamer que o baniu.

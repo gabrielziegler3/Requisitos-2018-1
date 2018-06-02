@@ -25,4 +25,4 @@
     * 3. O usuário retorna ao item 3 do fluxo principal
 
 ## Pós-condição
-* 1. O nome da transmissão é alterado
+* O nome da transmissão é alterado
