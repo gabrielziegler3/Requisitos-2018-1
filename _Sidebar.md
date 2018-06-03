@@ -49,3 +49,4 @@
 ### Análise
 
 * [Inspecção](Inspecção)
+* [Inspeção Semi Automatizada](Inspeção-Semi-Automatizada)
