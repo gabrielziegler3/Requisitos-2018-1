@@ -5,7 +5,7 @@ Data|Versão|Descrição|Autor
 18/04/2018|1.2|Adição da especificação do caso de uso 13|Amanda Pires|
 19/04/2018|1.3|Adição dos UC 01,02,04,09,10 e 11 e algumas outras alterações aos UC feitos por outros membros|Thiago Ferreira
 20/04/2018|1.4|Revisão|João Carlos|
-
+01/05/2018|2.0|Modificações e retrabalho realizado após inspecção de todos os casos de uso|Thiago Ferreira|
 ## Objetivo do Documento
 O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
 Este documento contém os casos de uso levantados pela equipe para a plataforma Twitch, em prol da disciplina de requisitos de software.
