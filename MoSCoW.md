@@ -15,7 +15,7 @@ O acrônimo MoSCoW se refere à:
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowconta.png)
 ### [Stream](Stream)
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowstream.png)
-### (Chat)[Group-Chat]
+### [Chat](Group-Chat)
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowchat.png)
 ### Seguir e Doações
 ![](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_MoSCoW/Neo-moscow/moscowfollow.png)
