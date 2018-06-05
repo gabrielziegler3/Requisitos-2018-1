@@ -5,3 +5,7 @@
 # Pós rastreabilidade
 
 ## Matriz de Rastreabilidade
+
+
+|RichPicture|Questionário|Storytelling|Análise de Protocolo|Introspecção|First things first|Moscow|Cenário|Especificação de Casos de Uso|Product Backlog|NFR|Artefato de desenho|												
+|------|------|------|------|------|------|------|------|------|------|------|-----------|	
