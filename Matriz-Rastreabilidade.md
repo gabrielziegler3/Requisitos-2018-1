@@ -2,8 +2,8 @@
 |----|------|---------|-----|
 |05/06/2018|1.0|Criação do Documento|Amanda Pires|
 |05/06/2018|1.1|Edição do Documento|Filipe Dias|
-|05/06/2018|1.2|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo, Amanda, Thiago, Gabriel|
-|06/06/2018|1.3|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo, Amanda, Thiago, Gabriel|
+|05/06/2018|1.2|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
+|06/06/2018|1.3|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
 
 # Pós rastreabilidade
 
