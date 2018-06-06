@@ -1,6 +1,9 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |23/05/2018|0.1|Criação do Documento e Desenvolvimento Parcial|Thiago Ferreira|
+|28/05/2018|0.2|Inspecção com base na checklist de caso de uso|Thiago Ferreira|
+|01/05/2018|0.3|Modificações solicitadas pela checklist de caso de uso|Thiago Ferreira|
+
 
 ### Planejamento
 A Priori, o grupo decidiu dividir as verificações de inspecções por membro, onde, em primeira instância, cada membro faria a verificação de um tópico de documentação, a ideia a posteriori é que a verificação seja verificada também, para difundir melhor qualidade através da documentação produzida. Neste documento, está representado a verificação realizada para os artefatos de caso de uso produzidos, tanto a especificação destes, os diagramas, quanto a especificação suplementar.
@@ -19,10 +22,9 @@ Artefatos produzidos durante a etapa de levantamento da especificação suplemen
 
 ### Retrabalho
 
-* A definir.
+* Nos Casos de Uso, foi realizado um retrabalho em diversos aspectos, todos estes listados na checklist de inspecção de caso de uso. Sendo que, com as modificações realizadas, os casos de uso passaram a ser verificados.
 
 ### Verificação
 
-* A definir.
-
+* Todos os erros encontrados foram corrigidos após a verificação
 

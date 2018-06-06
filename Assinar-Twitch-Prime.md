@@ -7,48 +7,49 @@
 
 ## Atores
 * Usuário
+* Sistema
 
 ## Pré-condições
 * O usuário deve ter acesso à internet
 * O usuário deve estar logado no sistema
+* O usuário não deve possuir uma assinatura ativa
+* O caso de uso é iniciado na página principa da Twitch
 
 ## Fluxo de Eventos
 ### Fluxo Principal
-* 1. O usuário acessa o site da Twitch
-* 2. O usuário clica em iniciar um teste gratuito.
-* 3. O usuário conecta sua conta do Twitch a sua conta na Amazon.
-* 4. O usuário automaticamente terá o Twitch Prime.
+* 1. O usuário clica em Twitch Prime.
+* 2. O usuário faz login em sua conta da Amazon
+* 3. O usuário preenche os dados da fatura [FE01]
+* 4. O usuário seleciona ```Comece a assistir agora```
+* 5. O usuário conecta sua conta da Twitch
+* 6. O sistema sincroniza valida a conta Prime Vídeo
+* 7. O sistema fornece o serviço twitch prime[FA01]
+* 8. O caso de uso se encerra
 
 ### Fluxos Alternativos
-#### FA01 - O usuário é um Turbo Twitch
-* 1. O usuário vai até a aba "Turbo" em configurações.
-* 2. O clica na opção "Não renovar" no centro da página, ao lado do cronograma de cobrança.
-* 3. Na próxima página, o usuário confirma que deseja cancelar ao clicar no botão "Não renovar".
-* 4. O usuário volta ao passo 2 do fluxo principal.
+#### [FA01] O usuário deseja fazer um teste de 7 diais
+* 1. O usuário se direciona às opções do Prime Vídeo
+* 2. O usuário vai até a parte de pagamento
+* 3. O usuário cancela o pagamento
+* 4. O usuário possui 7 dias gratuitos de avaliação da Twitch Prime e Prime Vídeo
+* 5. O usuário retorna ao item 8 do fluxo principal
 
-#### FA02 - Não é umusuário Turbo nem membro do Amazon Prime, e nem reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
-
-* 1. O usuário cria uma conta na Amazon.
-* 2. O usuário conecta a conta na Amazon a conta no Twitch.
-* 3. O usuário é um Twitch Prime.
-
-#### FA03 - Usuário atual membro do Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
-
-* 1. O usuário cria uma conta na Amazon.
-* 2. O usuário acessa o Twitch Prime e clica em "Comece a sua avaliação gratuita" a para conectar a conta do Prime Video com a da Twitch.
-* 3. Depois de conectado, é um Twich Prime.
-
-#### FA04 - Usuário  não é membro do Amazon Prime nem membro do Amazon Prime Video, e não reside nos Estados Unidos, México, Canadá, Itália, França, Alemanha, Bélgica, Áustria, Espanha, Japão, Singapura, Holanda ou Reino Unido.
-
-* 1. O usuário cria uma conta na Amazon Prime Video.
-* 2. O usuário faz login na conta da Amazon.
-* 3. O usuário faz login na conta do Twitch.
-* 4. O usuário conecta a conta da Amazon a da Twitch.
-
+#### [FA02] O usuário Já possui o serviço Prime Vídeo e quer obter o Twitch Prime
+* 1. O usuário se encontra no site da prime vídeo
+* 2. O usuário vai até opções
+* 3. O usuário seleciona a opção de vincular uma conta twitch
+* 4. O usuário realiza os procedimentos de validação do vínculo
+* 5. As contas agora estão sincronizadas
+* 6. O usuário seleciona a opção de ativar gratuitamente o serviço Twitch Prime
+* 7. O usuário agora é um usuário prime da Twitch
+* 8. O caso de uso se encerra.
+ 
 ### Fluxo de Exceção
-* 1. O Usuário digita algum dado do cartão inválido na hora de cadastrar na Amazon (Erro de negócio - deve ser tratado).
-* 2. O usuário insere o login ou senha errados na hora do login (Erro de negócio).
-* 3. O Usuário perde conexão com a internet.
+#### [FE01] O usuário não deseja preencher as informações de pagamento
+* 1. O usuário está na página de pagamento
+* 2. O usuário não quer utilizar seu cartão de crédito
+* 3. O usuário desiste de obter o Twitch Prime
+* 4. O caso de uso é encerrado incompleto
 
 ## Pós-condição
-* Após o usuário assinar o Twitch Prime, ele terá acesso a jogos e conteúdos de jogos, inscrição de canal a cada 30 dias sem custo adicional, que pode ser usada em qualquer canal de Parceiro ou Afiliado, visualização sem anúncios na Twitch, emotes exclusivos e distintivo de bate-papo.
+* O usuário agora possui uma conta Prime na Twitch e na Amazon Vídeo

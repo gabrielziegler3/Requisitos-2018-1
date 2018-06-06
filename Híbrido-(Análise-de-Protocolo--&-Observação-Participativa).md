@@ -2,7 +2,7 @@
 |----|------|---------|-----|
 |01/04/2018|1.0|Criação e Desenvolvimento do Documento|Filipe Dias| 
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
-|27/05/2018|1.2|Evolução do Documento|Filipe Dias| 
+|27/05/2018|1.2|Evolução do Documento|Filipe Dias,João Carlos Porto| 
 
 ### O que é Análise de Protocolo & Observação Participativa?
 
