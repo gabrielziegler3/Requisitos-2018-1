@@ -8,9 +8,12 @@ O grupo, como um todo, decidiu por dividir temas em duplas, visando identificar 
 
 ## Visão Geral
 **Rich Picture** - É um desenho que ilustra de modo informal e que permite analisar problemas e expressar ideias e que pode ser construído colaborativamente com o cliente.
+Acesso ao [Rich Picture](RichPicture)
 
 **Argumentação** - A argumentação é uma forma vital de cognição humana em que pessoas são confrontadas com informações conflitantes e forçadas a lidar com situações inconsistentes(Besnard; Hunter, 2008).
 E para representar a argumentação em trabalhos de requisitos é possível utilizar da _framework_ ACE que consiste de uma linguagem para representar informações obtidas a partir de uma discussão. 
+Acesso a [Argumentação](Argumentação)
+
 ### Preparação 
 A técnica utilizada para a inspeção dos documentos será a Leitura Baseada em Checklist(LBCh). Essa técnica é composta de uma lista de perguntas que ajuda os inspetores a encontrarem uma lista de defeitos no produto durante a inspeção. O final, será desenvolvido um quadro de classificação de defeitos de acordo com o resultado obtido da inspeção.
 
