@@ -15,6 +15,7 @@
 
 ### [Elicitação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Plano-de-Elicitação)
 
+* [Plano de Elicitação](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Plano-de-Elicita%C3%A7%C3%A3o)
 * [Questionário](Questionario)
 * [Storytelling](Storytelling)
 * [Análise de Protocolo + Observação Participativa](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))
