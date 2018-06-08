@@ -21,7 +21,6 @@ A segunda etapa fora composta ao todo de duas técnicas: A <a href="https://gith
 <p align = jusitfy>
 Na terceira etapa o uso de Questionário, Storytelling e Introspecção são os pontos cruciais. O objetivo é obter dados de forma clara e direta para que se possa trabalhar sobre. Além disso, outro objetivo é a resolução de conflitos que alguns requisitos possam apresentar durante o envolvimento dos Stakeholders. Tais técnicas implicam em um maior entendimento dos Stakeholders e do domínio.
 
-
 _________
 
 <!-- 1.1 Técnicas Utilizadas
@@ -33,3 +32,10 @@ Questionário
 Introspecção
 Observação Participativa
 MoSCoW -->
+
+_________
+
+## Personas
+
+<img src="./images/Personas/ViewerPersona.png">
+<img src="./images/Personas/StreamerPersona.png">
