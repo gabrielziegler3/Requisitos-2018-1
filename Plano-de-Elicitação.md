@@ -36,6 +36,8 @@ MoSCoW -->
 _________
 
 ## Personas
+* Ferramenta utilizada: [Gerador de Personas](https://geradordepersonas.com.br/)
+
 
 <img src="./images/Personas/StreamerPersona.png">
 <img src="./images/Personas/ViewerPersona.png">
