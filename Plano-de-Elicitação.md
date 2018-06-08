@@ -23,21 +23,16 @@ Na terceira etapa o uso de Questionário, Storytelling e Introspecção são os 
 
 _________
 
-<!-- 1.1 Técnicas Utilizadas
-Etnografia
-Observação
-Brainstorming
-Entrevista
-Questionário
-Introspecção
-Observação Participativa
-MoSCoW -->
-
+### 1.1 Técnicas Utilizadas
+[Questionário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Questionario)
+[Introspecção](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Introspec%C3%A7%C3%A3o)
+[Observação Participativa](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo--&-Observa%C3%A7%C3%A3o-Participativa))
+[MoSCoW](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/MoSCoW)
+[Análise de Protocolo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo--&-Observa%C3%A7%C3%A3o-Participativa))
 _________
 
 ## Personas
 * Ferramenta utilizada: [Gerador de Personas](https://geradordepersonas.com.br/)
-
 
 <img src="./images/Personas/StreamerPersona.png">
 <img src="./images/Personas/ViewerPersona.png">
