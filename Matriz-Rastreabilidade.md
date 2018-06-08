@@ -15,14 +15,14 @@
 ______________________
 
 ## Matriz de Rastreabilidade - Backward From
-|Requisito|Descrição|NFR|Product Backlog|Esp. Casos de Uso|Cenário|Moscow|First Things First|Introspecção|Análise de Protocolo/Observação Participativa|Storytelling|Questionário|RichPicture|Argumentação|Léxico|I*|
-|---------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-|RF1|Cadastrar usuário|-|[US01](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-|[Criar Conta](Criar-Conta)|[Twitch - Usuário 3.2](Strategic-Dependency)|
-|RNF2|Logar via Facebook|-|[US02](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[MoSCoW](MoSCoW)|-|-|-|-|
-|RF3|Editar perfil|-|[US03](Product-Backlog)|-|[Cenário 023](Cenário-023)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-|-|[Twitch - Usuário 3.2](Strategic-Dependency)
-|RF4|Desabilitar conta|-|[US04](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|[Usuário 1.3 ](Strategic-Rationale)
-|RF5|Tornar-se Twitch Prime|-|[US05](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|[Argumentação](Argumentação)|[Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)|[Twitch - Usuário 3.2](Strategic-Dependency)
-|RF6|Tornar-se parceiro [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|-|[US06](Product-Backlog)|-|-|-|-|-|-|-|
+|Requisito|Descrição|NFR|Product Backlog|Esp. Casos de Uso|Cenário|Moscow|First Things First|Introspecção|Análise de Protocolo/Observação Participativa|Storytelling|Questionário|RichPicture|Argumentação|Léxico|
+|---------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+|RF1|Cadastrar usuário|-|[US01](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-|[Criar Conta](Criar-Conta)|
+|RNF2|Logar via Facebook|-|[US02](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[MoSCoW](MoSCoW)|-|-|-|
+|RF3|Editar perfil|-|[US03](Product-Backlog)|-|[Cenário 023](Cenário-023)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-|-|
+|RF4|Desabilitar conta|-|[US04](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RF5|Tornar-se Twitch Prime|-|[US05](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|[Argumentação](Argumentação)|[Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)|
+|RF6|Tornar-se parceiro [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|-|[US06](Product-Backlog)|-|-|-|-|-|-|
 |RF7|Compartilhar uma [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|-|[US07](Product-Backlog)|[UC18 - Compartilhar uma transmissão]()|-|-|-|-|-|-|-|[RichPicture](RichPicture)
 |RF8|Seguir um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)|-|[US08](Product-Backlog)|[UC15 - Seguir Canal]()|-|-|-|-|-|-|
 |RF9|Acessar os chats|-|[US09](Product-Backlog)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|
