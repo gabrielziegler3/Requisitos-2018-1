@@ -3,9 +3,10 @@
 |23/05/2018|0.1|Criação do Documento|João Carlos|
 |23/05/2018|0.2|Adição Questionário|João Carlos|
 |23/05/2018|0.3|Atualização do documento|João Carlos|
+|08/06/2018|0.4|Revisão|João Carlos|
 
 ### Planejamento
-O grupo, como um todo, decidiu por dividir temas a cada integrante, visando identificar erros a serem corrigidos, para que fosse possível realizar o método escolhido para aplicação da Inspeção. O documento a ser inspecionado será o iStar.
+O grupo, como um todo, decidiu por dividir temas em duplas, visando identificar erros a serem corrigidos, para que fosse possível realizar o método escolhido para aplicação da Inspeção. O documento a ser inspecionado será o iStar.
 
 ## Visão Geral
 O Framework i*, fundamentalmente, é orientado à diagramas, onde, estes possuem duas divisões, os diagramas Strategic Dependency (SD) e Strategic Rationale (SR), onde o primeiro possui uma abordagem interativa entre os atores determinados e o segundo, possui uma visão mais focalizado nos atores e seus papeis individuais.
