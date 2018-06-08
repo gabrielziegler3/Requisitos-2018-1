@@ -43,6 +43,7 @@ Alguns processos das inspeções foram feitas utilizando-se de scripts que ou au
 
 # Verificações
 * [Elicitação](Verificação-Elicitação)
+* [Pré Rastreabilidade](Pre-Rastreabilidade)
 * [Cenários e Léxicos](Verificação-Cenários-e-Léxicos)
 * [Casos de Uso](Verificação-Casos-de-Uso)
 * [Histórias de Usuário](Verificação-Histórias-de-Usuário)
