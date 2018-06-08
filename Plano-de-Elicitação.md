@@ -37,5 +37,5 @@ _________
 
 ## Personas
 
-<img src="./images/Personas/ViewerPersona.png">
 <img src="./images/Personas/StreamerPersona.png">
+<img src="./images/Personas/ViewerPersona.png">
