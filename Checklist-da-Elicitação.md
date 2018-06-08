@@ -1,6 +1,6 @@
 * Checklist de Inspeção da Checklist de Elicitação
 * Inspetor: Filipe Dias
-* Data: 27/05/2018
+* Data: 08/05/2018
 
 ### Checklist dos itens de inspeção
 
@@ -8,7 +8,7 @@
 - [X] Questionário
 - [X] Storytelling
 - [X] Análise de Protocolo + Observação Participativa
-- [ ] Introspecção
+- [X] Introspecção
 
 * Técnicas Utilizadas:
 - [ ] Introspecção
@@ -86,13 +86,13 @@ Modificações|Nenhuma|
 |Item de Inspeção|Introspecção|
 |------|-------|
 Questões|1. Existe uma breve explicação da técnica?
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção de uma breve explicação|
 Questões|2. O objetivo deixa claro o que é almejado alcançar com a técnica?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção do objetivo|
 Questões|3. O método utilizado para se levantar as histórias de usuário está sendo citado?|
-Resposta|Não|
-Modificações|A definir|
+Resposta|Sim|
+Modificações|Inserção do método|
 
 [Respostas da Checklist](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Respostas-Checklist-Elicita%C3%A7%C3%A3o)
