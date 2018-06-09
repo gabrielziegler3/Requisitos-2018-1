@@ -13,7 +13,7 @@
 |10/04/2018|1.10|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
 |16/04/2018|2.0|Adição do léxico Creative e organização do artefato|Gabriel Ziegler|
 |18/04/2018|2.1|Adição dos léxicos Criar conta, Criar video sob demanda e Modo host está sendo usado|Amanda Pires|
-
+|09/06/2018|2.2|Remoção de léxico inadequado, alteração de nomes |Thiago Ferreira|
 ## Léxico
 Termos e palavras cobertos por esta técnica:
 * Objeto
@@ -39,21 +39,19 @@ Termos e palavras cobertos por esta técnica:
   * [Creative](Creative)
 
 * Verbo
-  * [Dar Follow](Dar-Follow)
+  * [Follow](Dar-Follow)
+  * [Host](Host)
   * [Streamar](Streamar)
   * [Whisper](Whisper)
   * [Subscribe](Subscribe)
   * [Share](Share)
-  * [Fazer Maratona](Fazer-Maratona)
+  * [Maratonar](Fazer-Maratona)
   * [Raid](Raid)
   * [Cheer](Cheer)
   * [Donate](Donate)
   * [Ban](Ban)
   * [Reagir](Reagir)
   * [Criar Conta](Criar-Conta)
-  * [Criar videos sob demanda](Criar-videos-sob-demanda)
 
-* Estado
-  * [Modo host está sendo usado](Modo-host-está-sendo-usado)
 
 
