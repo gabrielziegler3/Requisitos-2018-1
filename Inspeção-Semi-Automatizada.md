@@ -1,3 +1,9 @@
+|Data|Versão|Descrição|Autor|
+|----|------|---------|-----|
+|27/05/2018|0.1|Criação do Documento|Gabriel Ziegler|
+|29/05/2018|0.2|Adição de processo de verificação dos Léxicos|Gabriel Ziegler|
+|04/06/2018|0.3|Adição de processo de verificação dos Cenários|Gabriel Ziegler|
+
 # Inspeção de cenários e léxicos
 
 As inspeções de cenários e léxicos foram feitas de forma semi-automatizada, como é explicado a seguir.
@@ -40,6 +46,6 @@ O passo a passo do processo de verificação dos léxicos pode ser analisado aba
 
 ## Scripts utilizados
 
-[lexer-verifier.sh](https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/src/lexer-verifier.sh) script em `bash` escrito por [Gabriel Ziegler](https://github.com/gabrielziegler3) em 27/05/18
+[lexer-verifier.sh](https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/src/lexer-verifier.sh) script em escrito `bash` por [Gabriel Ziegler](https://github.com/gabrielziegler3) em 27/05/18
 
-[lexer_linker.py](https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/src/lexer_linker.py) script em `python` escrito por [Gabriel Ziegler](https://github.com/gabrielziegler3) em 27/05/18
+[lexer_linker.py](https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/src/lexer_linker.py) script em escrito `python` por [Gabriel Ziegler](https://github.com/gabrielziegler3) em 27/05/18
