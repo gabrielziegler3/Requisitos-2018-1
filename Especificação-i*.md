@@ -133,7 +133,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Usuário [Streamer](Streamer) possua conta ativa na twitch
     - Stream key seja inicializada em software de captura
     - Usuário possua software de captura ou qualquer outro método de upload para a twitch em seu dispositivo o qual será realizada a captura
-#### (Viewer)[Viewer]
+#### [Viewer](Viewer)
 * [Viewer](Viewer) participe ativamente da stream
    - [Viewer](Viewer) participe do (chat)[Group-Chat]
 #### Twitch
