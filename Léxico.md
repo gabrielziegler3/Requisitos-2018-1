@@ -39,6 +39,7 @@ Termos e palavras cobertos por esta técnica:
   * [Emotes](Emotes)
   * [Mods](Mods)
   * [Creative](Creative)
+  * [User](User)
 
 * Verbo
   * [Follow](Dar-Follow)
