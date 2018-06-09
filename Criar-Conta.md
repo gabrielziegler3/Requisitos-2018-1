@@ -7,4 +7,4 @@
 
 **Impacto:**
 * O visitante agora é um usuário.
-* O novo usuário agora possui acesso às funcionalidades gratuítas da Twitch.
+* O novo usuário agora possui acesso às funcionalidades gratuítas da [Twitch](Twitch).
