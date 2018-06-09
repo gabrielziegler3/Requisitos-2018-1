@@ -10,10 +10,12 @@
 |10/04/2018|1.7|Adição de léxico Subscriber|João Carlos|
 |10/04/2018|1.8|Adição de Páginação para as tabelas Canais em Destaque, Loot Prime, Go Live Notification e Group Chat, assim como o Hyperlinking destas. Criação do Léxico para Ban|Thiago Ferreira|
 |10/04/2018|1.9|Criação de Bot, Reagir, Emote, Fazer Maratona e Moderador|Gustavo Carvalho|
-|10/04/2018|1.10|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
-|16/04/2018|2.0|Adição do léxico Creative e organização do artefato|Gabriel Ziegler|
-|18/04/2018|2.1|Adição dos léxicos Criar conta, Criar video sob demanda e Modo host está sendo usado|Amanda Pires|
-|09/06/2018|2.2|Remoção de léxico inadequado, alteração de nomes |Thiago Ferreira|
+|10/04/2018|2.0|Adição dos léxicos para: Twitch, Stream, Twitch Prime, Usuário Prime, Follower e Mods. Páginação e Hyperlinkamento dos mesmos, assim como algumas alterações em léxicos já existentes. |Thiago Ferreira|
+|16/04/2018|2.1|Adição do léxico Creative e organização do artefato|Gabriel Ziegler|
+|18/04/2018|2.2|Adição dos léxicos Criar conta, Criar video sob demanda e Modo host está sendo usado|Amanda Pires|
+|09/06/2018|2.3|Remoção de léxico inadequado, alteração de nomes |Thiago Ferreira|
+|09/06/2018|2.4|Adição de léxico User|João Carlos|
+
 ## Léxico
 Termos e palavras cobertos por esta técnica:
 * Objeto
@@ -37,6 +39,7 @@ Termos e palavras cobertos por esta técnica:
   * [Emotes](Emotes)
   * [Mods](Mods)
   * [Creative](Creative)
+  * [User](User)
 
 * Verbo
   * [Follow](Dar-Follow)
