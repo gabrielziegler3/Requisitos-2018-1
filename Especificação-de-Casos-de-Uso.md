@@ -22,7 +22,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC08 - Enviar Mensagens Privadas](Mensagens-Privadas)
 * [UC09 - Restringir Chat](Restrições-de-Chat)
 * [UC10 - Adicionar Add-ons em Jogos](Adição-de-Add-ons-em-Jogos)
-* [UC11 - Enviar Chat de Voz](Chat-de-Voz)
+* [UC11 - Comunicar por Chat de Voz](Chat-de-Voz)
 * [UC12 - Transmitir Ads](Transmissão-de-Ads)
 * [UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)
 * [UC14 - Alterar Nome da Stream](Alterar-Nome-da-Stream)
@@ -31,5 +31,5 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC17 - Adicionar Amigo](Adição-de-Amigo)
 * [UC18 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
 * [UC19 - Criar Vídeo](Criação-de-Vídeo)
-* [UC20 - Efetuar Hosting](Hosting)
+* [UC20 - Hospedagem](Hosting)
 
