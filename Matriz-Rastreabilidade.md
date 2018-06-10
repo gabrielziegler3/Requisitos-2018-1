@@ -3,16 +3,56 @@
 |05/06/2018|1.0|Criação do Documento|Amanda Pires|
 |05/06/2018|1.1|Edição do Documento|Filipe Dias|
 |05/06/2018|1.2|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
-|06/06/2018|1.3|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
+|06/06/2018|1.3|Adição de conteúdo na tabela Backward From|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
+|10/06/2018|1.4|Adição de conteúdo na tabela Forward From|Gabriel Ziegler|
 
 # Pós rastreabilidade
 
 ## Matriz de Rastreabilidade - Forward From
 
 |Requisito|Descrição|NFR|I*|Artefato de Desenho|
-|---|---|---|---|---|
-|-|-|-|-|-|
-
+|---------|------|------|-------|------|
+|RF1|Cadastrar usuário|-|-|-|
+|RNF2|Logar via Facebook|-|-|-|
+|RF3|Editar perfil|-|-|-|
+|RF4|Desabilitar conta|-|-|-|
+|RF5|Tornar-se Twitch Prime|-|-|-|
+|RF6|Tornar-se parceiro [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|-|-|-|
+|RF7|Compartilhar uma [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|-|-|-|
+|RF8|Seguir um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)|-|-|-|
+|RF9|Acessar os chats|-|-|-|
+|RF10|Filtrar quem digita no chat|-|-|-|
+|RF11|Banir alguém do chat|-|-|-|
+|RF12|Alterar conteúdo da [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|-|-|-|
+|RF13|Visualizar chat de [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|-|-|-|
+|RF14|Subir um vídeo na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|-|-|-|
+|RF15|Deletar um vídeo|-|-|-|
+|RF16|Programar uma premiere|-|-|-|
+|RF17|Gravar uma transmissão|-|-|-|
+|RF18|Destacar um vídeo|-|-|-|
+|RF19|Buscar outros usuários|-|-|-|
+|RF20|Adicionar outro usuário como amigo|-|-|-|
+|RF21|Mandar mensagens privadas|-|-|-|
+|RF22|Participar de chats|-|-|-|
+|RF23|Mandar emoticons|-|-|-|
+|RF24|Bloquear alguém em uma conversa|-|-|-|
+|RF25|Sincronizar add-ons|-|-|-|
+|RF26|Filtrar os add-ons vistos|-|-|-|
+|RF27|Instalar novos add-ons|-|-|-|
+|RF28|Deletar add-ons|-|-|-|
+|RF29|Disponibilizar novos add-ons|-|-|-|
+|RF30|Atualizar os add-ons de forma automatizada|-|-|-|
+|RF31|Criar uma nova chamada de voz|-|-|-|
+|RF32|Filtrar usuários que entrarem na chamada|-|-|-|
+|RF33|Realizar uma vídeo conferência|-|-|-|
+|RF34|Usar uma video conferência em um servidor|-|-|-|
+|RF35|Criar um grupo para chamadas permanentes|-|-|-|
+|RNF36|Opções de planos de inscrições|-|-|-|
+|RF37|Inscrever-se em um canal|-|-|-|
+|RF38|Comprar bits|-|-|-|
+|RNF39|Assinar o serviço Twitch Prime|-|-|-|
+|RF40|Doar bits|-|-|-|
+|RF41|Aderir Twitch Turbo|-|-|-|
 
 ______________________
 
