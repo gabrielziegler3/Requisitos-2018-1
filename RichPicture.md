@@ -6,12 +6,15 @@
 
 ## Rich Picture
 
-### [Streamer](Streamer) 1.0.0
+### [Streamer](Streamer) 1.1
 <img src="./images/rich-picture/rich-picture-streamer-1.0.jpg" width=400px>
 
-### User 1.0.0
+[Streamer 1.0](./images/rich-picture/streamer.jpeg)
+
+### User 1.0
 <img src="./images/rich-picture/rich-picture-user-1.0.jpg" width=400px>
 
-### Geral 
+### Geral 1.1
 <img src="./images/rich-picture/RichPictureTwitchGeral-1.0.png" width=400px>
 
+[Geral 1.0](./images/rich-picture/Twitch.jpeg)
