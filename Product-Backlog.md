@@ -55,6 +55,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US04|Eu, como usuário, desejo desabilitar minha conta da Twitch para não ter acesso as funcionalidade de um usuário Twitch.|Senha deve ser digitada novamente para que a conta seja desativida|3|Alta|
 |RF|US05|Eu, como usuário, desejo me tornar um usuário da [Twitch Prime](Assinar-Twitch-Prime) para ter acesso a funcionalidades diferenciadas do Twitch.|O usuário deve ter a opção de pagar usando algum meio de pagamento, ou simplesmente utilizar da Twitch Prime como meio.|13|Alta|
 |RF|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|Streamers devem ter "x" quantidade de vizualições.|20|Alta|
+|RF|US42|Eu, como usuário, desejo poder recuperar minha senha e nome de usuário caso eu tenha esquecido, para que assim eu possa acessar a plataforma.|Para redefinição de senha cobrar email e nome de usuário. Para recuperação do nome de usuário, deverá ser informado email.| - |Alta|
 
 #### EP02 - Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv
 
@@ -65,8 +66,16 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|Alguns chats devem ter limitações para não seguidores.|Baixa|
 |RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream, para que eu possa ter maior controle sobre meu ambiente de transmissão.|Poder colocar limitação de tempo em relação a participação de usuários.|Baixa|
 |RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream, para evitar que pessoas tumultuem minha transmissão.|Pessoas indesejadas pelo streamer não poderão participar do chat de uma live específica, ou de uma canal.|Baixa|
-|RF|US12|Eu, como streamer, gostaria de alterar o jogo que estou jogando na minha stream, sem que seja necessário começar outra transmissão, para minha stream ter maior fluidez. | - |Média|
+|RF|US12|Eu, como streamer, gostaria de alterar o jogo que estou jogando na minha stream, sem que seja necessário começar outra transmissão, para minha stream ter maior fluidez. | A transmissão não devera ser afetada durante o processo. Conexão dos viewers a stream deverá permanecer estável durante o processo. |Média|
 |RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado|Usuários não logados não poderão enviar mensagens.|Baixa|
+|RF|US43|Eu, como usuário, desejo poder assistir uma stream sem estar logado, para que assim eu não perca tempo me cadastrando.|Funcionalidades como enviar mensagens em chats, seguir, comentar, se inscrever em canais e sussuros deverão estar indisponíveis para usuários não logados. Limitando somente a funcionalidades básicas de um viewer. |Baixa|
+|RF|US44|Eu, como usuário, desejo criar criar clipes das streams, para que eu possa compartilhar com meus amigos ou redes sociais.|Clipes não deverão passar de 60s de extensão. Tempo mínimo de um clip deverá ser de 5s. Será obrigatório colocar um titúlo no clip para salva-lo.|Baixa|
+|RNF|US45|Eu, como usuário, desejo que a twitch tenha uma boa usabilidade, para que assim fique mais fácil e intuitivo navegar pela plataforma e assistir streams.|Interface deverá obdercer uma regra estrita de design, tais como: palhetas de cores padrão, caixas de diálogo não invasivas, funcionalidades importantes e de maior usabilidade deverão estar de fácil de acesso.|Média|
+|RFN|US50|Eu, como usuário, desejo que a Twitch esteja sempre no ar(24h/7), para que assim eu possa acessa-la a qualquer hora.|Sistema deverá estar no ar 24h por dia, sem nenhuma janela de intervalo.|Alta|.
+|RFN|US51|Eu, como usuário, desejo que a Twitch seja portável, para que eu tenha maior flexibilidade para acessar a plataforma de múltiplos meios.|Site deverá ter responsividade para que seja possível acessa-lo pelo navegador do celular/tablet. Apps para mobile e desktop.|Alta|
+|RF|US52|Eu, como usuário, desejo poder escolher o idioma no site da twitch, para que eu possa usar a interface caso não saiba falar inglês.|Idiomas: Inglês, espanhol, português, russo, alemão, japonês, chines, coreâno, tailandês.|Alta|
+
+
 
 #### EP03 - Eu, como usuário, desejo gerenciar um vídeo na twitch.tv para visualização da comunidade
 
@@ -76,8 +85,11 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US14|Eu, como streamer, desejo subir um vídeo na plataforma, para que eu possa divulgar minhas streams. |Arquivos corrompidos devem ser negados. <br> Vídeos para 'upload' devem ser comprimidos ou otimizados para facilitar seu armazenamento.|Alta|
 |RF|US15|Eu, como streamer, gostaria de deletar um vídeo que eu subi na plataforma para que eu possa ter maior controle sobre meu conteúdo.|Uma verificação de dois passos é necessária, para que exclusões acidentais não ocorra.|Alta|
 |RF|US16|Eu, como streamer, gostaria de programar uma premiere para meu vídeo para que eu possa divulgar meu trabalho.| - |Média|
-|RF|US17|Eu, como streamer, gostaria de gravar uma transmissão anterior em vídeo para que eu possa compartilha-la mais tarde.| - |Baixa|
-|RF|US18|Eu, como streamer gostaria de destacar um vídeo para este ter maior visualização.| - |Baixa|
+|RF|US17|Eu, como streamer, gostaria de gravar uma transmissão anterior em vídeo para que eu possa compartilha-la mais tarde.| Um catálago com as gravações deverá ser fornecida na página do streamer. |Baixa|
+|RF|US18|Eu, como streamer gostaria de destacar um vídeo para este ter maior visualização.| Vídeo deverá aparecer em lugar de destaque para que os viewers possam ver |Baixa|
+|RNF|US46|Eu, como streamer, desejo que a twitch consiga suportar um grande número de visitas, para que assim a plataforma consiga lidar com o grande número de viewers que eu possa ter.|Sistema deverá ser capaz de lidar com visitas na faixa dos 800 milhões.|Alta|
+|RNF|US49|Eu, como viewer, desejo que a transmissão tenha fluídez, para que assim ela não fique travando.|Transmições não poderão apresentar atrasos significativos que atrapalhem o acompanhamento de alguma stream.|Alta|
+
 
 #### EP04 - Eu, como usuário, desejo me comunicar com outros usuários
 
@@ -122,3 +134,5 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RNF|US39|Eu como usuário, desejo assinar o serviço twitch prime para receber uma série de vantagens em todo o site.|Assinantes da Amazon Prime poderão ter acesso a Twtich Prime por meio de uma validação de login da Amazon|Alta|
 |RF|US40|Eu como viewer, desejo doar bits para um streamer para poder incentivar o seu trabalho.|Poder escolher a quantidade de bits|Alta|
 |RF|US41|Eu como usuário, desejo aderir ao twitch turbo para receber mais recursos na Twitch.|Anuncios não poderão aparecer para aqueles que aderirem ao Twitch Turbo. <br>  |Alta|
+|RNF|US47|Eu, como usuário, desejo que a twitch sejaum ambiente seguro para transações financeiras, para que assim eu possa incentivar financeiramente a comunidade da plataforma.|Validação de pagamentos, segurança em conta de usuários, banco de dados integro e seguro, encriptação de informações dos meios de pagamentos.|Alta|
+|RNF|US48|Eu, como usário, desejo que a twitch tenha um bom sistema de login, para que ninguém consiga hackear minha conta.|Uso de captchas para evitar tentativas de loggins autonômos.|Alta|
