@@ -4,7 +4,7 @@
 |01/04/2018|1.1|Desenvolvimento dos RichPictures|João Carlos, Filipe Dias|
 |01/04/2018|1.2|Referenciação de links dos RichPictures|Gustavo Carvalho|
 |10/06/2018|1.3|Adição Geral 1.1 & Streamer 1.1|João Carlos|
-|10/06/2018|1.4|Adição Geral 1.3 e Estruturando documento|Amanda Pires|
+|10/06/2018|1.4|Adicionando Rich Picture e Estruturando documento|Amanda Pires|
 
 ## Rich Picture
 
