@@ -4,7 +4,7 @@
 |01/04/2018|1.1|Desenvolvimento dos RichPictures|João Carlos, Filipe Dias|
 |01/04/2018|1.2|Referenciação de links dos RichPictures|Gustavo Carvalho|
 |10/06/2018|1.3|Adição Geral 1.1 & Streamer 1.1|João Carlos|
-
+|10/06/2018|1.4|Adição Geral 1.3 e Estruturando documento|Amanda Pires|
 
 ## Rich Picture
 
@@ -14,11 +14,11 @@
 
 Rich Picture é uma técnica simples de modelagem com o objetivo de analisar problemas e expressar ideias. Das vantagens de se utilizar essa técnica, algumas serão citadas abaixo:
 
-	* Rápida identificação de requisitos
-	* Rápida identificacão de atores
-	* Auxilia na análise de processos
-	* Estabele relacionamentos entre atores
-	* Fácil de modelar e pode ser feito com o cliente
+	* Rápida identificação de requisitos.
+	* Rápida identificacão de atores.
+	* Auxilia na análise de processos.
+	* Estabele relacionamentos entre atores.
+	* Fácil de modelar e pode ser feito com o cliente.
 
 ### 1.2. Escopo
 
@@ -29,22 +29,22 @@ Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se 
 
 ### 1.3. Apresentação
 
-
 ### 1.3.1. [Twitch](Twitch)
 
 [Geral 1.0](./images/rich-picture/Twitch-1.0.jpeg)
 
-[Geral 1.1](.//images/rich-picture/Twitch-1.1.png)
+[Geral 1.1](./images/rich-picture/Twitch-1.1.png)
 
-[Geral 1.2](.//images/rich-picture/Twitch-1.2.jpg)
+[Geral 1.2](./images/rich-picture/Twitch-1.2.jpg)
 
-<img src="./images/rich-picture/Twitch-1.3.png" width=400px>
+![Geral 1.3](./images/rich-picture/Twitch-1.3.png)
+
 
 ### 1.3.2. [User](User)
 
 [User 1.0](./images/rich-picture/User-1.0.jpg)
 
-<img src="./images/rich-picture/User-1.1.jpg" width=400px>
+![User 1.1](./images/rich-picture/User-1.1.jpg)
 
 
 ### 1.3.3. [Streamer](Streamer)
@@ -55,8 +55,7 @@ Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se 
 
 [Streamer 1.2](./images/rich-picture/Streamer-1.2.jpeg)
 
-
-<img src="./images/rich-picture/Streamer-1.3.jpg" width=400px>
+![Streamer 1.3](./images/rich-picture/Streamer-1.3.jpg)
 
 
 
