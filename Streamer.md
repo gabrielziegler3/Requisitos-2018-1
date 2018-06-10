@@ -1,10 +1,12 @@
 ## [Streamer](Streamer)
 
 **Sinônimos:**
-* nenhum
+* Transmissor
 
 **Noção:**
-* Indivíduo que realiza uma transmissão de jogo ao vivo na Twitch.
+* [Usuário](User) que realiza uma transmissão de jogo ao vivo na [Twitch](Twitch).
 
 **Impacto:**
-* Realiza as tarefas: [streamar](Streamar), [gankar](Raid), [share](Share) e [maratonar](Fazer-Maratona).
+* O streamer abriu a [transmissão](Stream)
+* Eu gosto desse Streamer
+* Eu vou usar a [Twitch](Twitch) para me tornar um streamer
