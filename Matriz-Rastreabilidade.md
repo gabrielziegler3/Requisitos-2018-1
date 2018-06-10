@@ -53,6 +53,17 @@
 |RNF39|Assinar o serviço Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
 |RF40|Doar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
 |RF41|Aderir Twitch Turbo|-|-|-|
+RF42|Recuperar senha e usuário|-|-|-|
+RF43|Assistir stream sem estar logado|-|-|-|
+RF44|Criar clips|-|-|-|
+RNF45|Boa usabilidade|-|-|-|
+RNF46|Suportar muitos acessos/visitas|-|-|-|
+RNF47|Segurança em transações financeiras|-|-|-|
+RNF48|Sistema de login robusto|-|-|-|
+RNF49|Fluidez em transmissões|-|-|-|
+RNF50|Funcionamento 24h/7|-|-|-|
+RNF51|Portabilidade|-|-|-|
+RF52|Tradução|-|-|-|
 
 ______________________
 
@@ -100,3 +111,15 @@ RF38|Comprar bits|[US38](Product-Backlog)|[UC06 - Comprar Bits]()|-||-|-|-|-|-|-
 RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-||-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 RF40|Doar bits|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
 RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-||-|-|-|-|-|||
+RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RF44|Criar clips|[US44](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF49|Fluidez em transmissões[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+
