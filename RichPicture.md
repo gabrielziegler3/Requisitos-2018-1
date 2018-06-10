@@ -57,6 +57,6 @@ Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se 
 
 ![Streamer 1.3](./images/rich-picture/Streamer-1.3.jpg)
 
+### 1.3.4. [Patrocinador](Patrocinador)
 
-
-
+![Patrocinador 1.0](./images/rich-picture/Patrocinador-1.0.png)
