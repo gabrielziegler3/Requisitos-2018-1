@@ -20,12 +20,6 @@
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
-## Tabela Geral
-
-[Link tabela em alta definição](https://raw.githubusercontent.com/wiki/gabrielziegler3/Requisitos-2018-1/images/Tabela_Geral_Product_Backlog.jpg)
-![Tabela Geral Product Backlog](./images/Tabela_Geral_Product_Backlog.jpg)
-
-
 ## Temas
 * 1. Cadastro = [EP01](#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch)
 * 2. Stream = [EP02](#ep02---eu-como-usu%C3%A1rio-desejo-usufruir-servi%C3%A7os-relacionados-a-streaming-na-twitchtv) e & [EP03](#ep03---eu-como-usu%C3%A1rio-desejo-gerenciar-um-v%C3%ADdeo-na-twitchtv-para-visualiza%C3%A7%C3%A3o-da-comunidade)
