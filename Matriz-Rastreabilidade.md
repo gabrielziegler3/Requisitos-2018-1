@@ -20,9 +20,9 @@
 |RF1|Cadastrar usuário|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|[Tela de cadastro usuário](./images/artefato-de-desenho/RF1.png)|
 |RNF2|Logar via Facebook|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|[Tela login via facebook](./images/artefato-de-desenho/RNF2.png)|
 |RF3|Editar perfil|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de editar perfil](./images/artefato-de-desenho/RF3.png)|
-|RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
-|RF5|Tornar-se Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
-|RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|-|
+|RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de desabilitar conta](./images/artefato-de-desenho/RF6.png)|
+|RF5|Tornar-se Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de cadastro Twitch Prime](./images/artefato-de-desenho/RF5.png)|
+|RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|[Tela de cadastro parceiro Twitch](./images/artefato-de-desenho/RF6.png)|
 |RF7|Compartilhar uma [Stream](Stream)|-|-|-|
 |RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|-|
 |RF9|Acessar os chats|-|-|-|
