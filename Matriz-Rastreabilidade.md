@@ -8,6 +8,8 @@
 |10/06/2018|1.5|Adição US42 a 52|Gustavo Carvalho|
 |10/06/2018|1.6|Inserção de rastreabilidade de artefato de desenho|Gustavo Carvalho|
 |10/06/2018|1.7|Adição de conteúdo na tabela Forward From e correção no artefato|Gabriel Ziegler|
+|10/06/2018|1.8|Adição de conteúdo na tabela Forward From|João Carlos|
+
 
 # Pós rastreabilidade
 
@@ -15,9 +17,9 @@
 
 |Requisito|Descrição|NFR|I*|Artefato de Desenho|
 |:---------:|:------|:------:|:-------:|:------:|
-|RF1|Cadastrar usuário|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|-|
-|RNF2|Logar via Facebook|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|-|
-|RF3|Editar perfil|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
+|RF1|Cadastrar usuário|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|[Tela de cadastro usuário](./images/artefato-de-desenho/RF1.png)|
+|RNF2|Logar via Facebook|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|[Tela login via facebook](./images/artefato-de-desenho/RNF2.png)|
+|RF3|Editar perfil|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de editar perfil](./images/artefato-de-desenho/RF3.png)|
 |RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
 |RF5|Tornar-se Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
 |RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|-|
