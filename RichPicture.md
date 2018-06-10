@@ -51,7 +51,7 @@ Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se 
 
 [Streamer 1.0](./images/rich-picture/Streamer-1.0.jpeg)
 
-[Streamer 1.1](./images/rich-picture/Streamer-1.1.jpeg)
+[Streamer 1.1](./images/rich-picture/Streamer-1.1.jpg)
 
 [Streamer 1.2](./images/rich-picture/Streamer-1.2.jpeg)
 
