@@ -22,7 +22,10 @@ Rich Picture é uma técnica simples de modelagem com o objetivo de analisar pro
 
 ### 1.2. Escopo
 
-Para ter uma visão geral sobre a plataforma [Twitch](https://www.twitch.tv), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais funcionalidades e seus atores.
+Para ter uma visão geral sobre a plataforma [Twitch](https://www.twitch.tv), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais 
+funcionalidades e seus atores.
+
+Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se especializar em 3 outros atores, sendo eles visitante, viewer e streamer.
 
 ### 1.3. Apresentação
 
@@ -33,14 +36,28 @@ Para ter uma visão geral sobre a plataforma [Twitch](https://www.twitch.tv), in
 
 [Geral 1.1](.//images/rich-picture/Twitch-1.1.png)
 
-<img src="./images/rich-picture/Twitch-1.2.png" width=400px>
+[Geral 1.2](.//images/rich-picture/Twitch-1.2.jpg)
 
-### [Streamer](Streamer)
-[Streamer 1.0](./images/rich-picture/streamer.jpeg)
+<img src="./images/rich-picture/Twitch-1.3.png" width=400px>
 
-<img src="./images/rich-picture/Streamer-1.0.jpg" width=400px>
+### 1.3.2. [User](User)
 
-### User 1.0
-<img src="./images/rich-picture/rich-picture-user-1.0.jpg" width=400px>
+[User 1.0](./images/rich-picture/User-1.0.jpg)
+
+<img src="./images/rich-picture/User-1.1.jpg" width=400px>
+
+
+### 1.3.3. [Streamer](Streamer)
+
+[Streamer 1.0](./images/rich-picture/Streamer-1.0.jpeg)
+
+[Streamer 1.1](./images/rich-picture/Streamer-1.1.jpeg)
+
+[Streamer 1.2](./images/rich-picture/Streamer-1.2.jpeg)
+
+
+<img src="./images/rich-picture/Streamer-1.3.jpg" width=400px>
+
+
 
 
