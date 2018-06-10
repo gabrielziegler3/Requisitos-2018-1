@@ -14,6 +14,7 @@
 |26/05/2018|2.0|Adcionando critérios de aceitação nas US|Gustavo Carvalho|
 |27/05/2018|2.1|Colocando as US no formato:  ``` As <persona> , I want <what?> so that <why?> ```|Gustavo Carvalho|
 |27/05/2018|2.2|Adição tabela geral|Gustavo Carvalho|
+|29/05/2018|2.3|Critérios de Aceitação EP#05 |Thiago Ferreira|
 
 Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo divididos em histórias de usuário que compõe cada épico.
 
@@ -91,16 +92,16 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |RF|US24|Eu, como usuário, desejo bloquear alguém em uma conversa para que eu possa evitar usuários indesejados.| Um usuário bloqueado não pode ter mais a capacidade de achar o bloqueador.|Alta|
 
 
-#### EP05 - Eu, como usuário, desejo gerenciar add-ons pela Twitch para usufruir de maiores funcionalidades em determinados jogos
+#### EP05 - Eu, como usuário, desejo gerenciar add-ons/mods pela Twitch para usufruir de maiores funcionalidades em determinados jogos
 
 |Tipo|História|Descrição|Critérios de Aceitação|Prioridade|
 |----|------|----------|----|----|
-|RF|US25|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.| - |Alta|
-|RF|US26|Eu, como usuário, gostaria de de filtrar o tipo de add-on que eu vejo.| - |Alta|
-|RF|US27|Eu, como usuário, gostaria de instalar novos add-ons.| - |Alta|
-|RF|US28|Eu, como usuário, gostaria de deletar add-ons.| - |Alta|
-|RNF|US29|Eu, como usuário, gostaria de disponibilizar novos add-ons para a comunidade.| - |Alta|
-|RNF|US30|Eu, como usuário, gostaria de atualizar os add-ons de forma automatizada.| - |Alta|
+|RF|US25|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.| A plataforma disponibiliza a opção de sincronizar os mods baixados com o jogo em questão |Alta|
+|RF|US26|Eu, como usuário, gostaria de de filtrar o tipo de mod que eu vejo.| A plataforma de pesquisa permite aplicar um filtro categórico sobre os mods exibidos |Média|
+|RF|US27|Eu, como usuário, gostaria de instalar novos mods.| A plataforma disponibiliza o download de mods |Alta|
+|RF|US28|Eu, como usuário, gostaria de deletar mods.| A plataforma permite a exclusão de mods já instalados |Alta|
+|RNF|US29|Eu, como usuário, gostaria de disponibilizar novos mods para a comunidade.| O usuário comum possa subir um mod de sua autoria à plataforma para download dos demais usuários |Alta|
+|RNF|US30|Eu, como usuário, gostaria de atualizar os mods de forma automatizada.| Quando existem atualizações disponíveis a plataforma deve atualizar automaticamente os jogos quando aberta ou disponibilizar a opção de atualizar todos os mods |Média|
 
 #### EP06 - Eu, como usuário, desejo poder fazer uso de conferências de voz para me comunicar com outras pessoas
 
