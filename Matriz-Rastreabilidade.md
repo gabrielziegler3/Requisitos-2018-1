@@ -39,12 +39,12 @@
 |RF22|Participar de chats|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
 |RF23|Mandar emoticons|-|-|[Tela mandar emoctions](./images/artefato-de-desenho/RF23.png)|
 |RF24|Bloquear alguém em uma conversa|-|-|[Tela bloquear usuário](./images/artefato-de-desenho/RF24.png)|
-|RF25|Sincronizar add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF26|Filtrar os add-ons vistos|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF27|Instalar novos add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF28|Deletar add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF29|Disponibilizar novos add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF30|Atualizar os add-ons de forma automatizada|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF25|Sincronizar [add-ons](Mods)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF26|Filtrar os [add-ons](Mods) vistos|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF27|Instalar novos [add-ons](Mods)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF28|Deletar [add-ons](Mods)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF29|Disponibilizar novos [add-ons](Mods)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RF30|Atualizar os [add-ons](Mods) de forma automatizada|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF31|Criar uma nova chamada de voz|-|-|[Tela criar nova chamada de voz](./images/artefato-de-desenho/RF31.png)|
 |RF32|Filtrar usuários que entrarem na chamada|-|-|-|
 |RF33|Realizar uma vídeo conferência|-|-|-|
@@ -52,19 +52,19 @@
 |RF35|Criar um grupo para chamadas permanentes|-|-|-|
 |RNF36|Opções de planos de inscrições|-||[Tela de opções de inscrições](./images/artefato-de-desenho/RNF36.png)|
 |RF37|Inscrever-se em um canal|-|-|[Tela de se inscrever em canal](./images/artefato-de-desenho/RF37.png)|
-|RF38|Comprar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de comprar bits](./images/artefato-de-desenho/RF38.png)|
+|RF38|Comprar [bits](Bits)|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de comprar bits](./images/artefato-de-desenho/RF38.png)|
 |RNF39|Assinar o serviço Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela para assinar Twitch Prime](./images/artefato-de-desenho/RNF39.png)|
-|RF40|Doar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de doar bits](./images/artefato-de-desenho/RF40.png)|
+|RF40|Doar [bits](Bits)|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de doar bits](./images/artefato-de-desenho/RF40.png)|
 |RF41|Aderir Twitch Turbo|-|-|[Tela para aderir a Twtich Turbo](./images/artefato-de-desenho/RF41.png)|
 |RF42|Recuperar senha e usuário|-|-|[Tela de recuperação de senha e usuário](./images/artefato-de-desenho/RF42.png)|
 |RF43|Assistir stream sem estar logado|-|-|[Tela de stream sem login](./images/artefato-de-desenho/RF43.png)|
-|RF44|Criar clips|-|-|[Tela de criar clips](./images/artefato-de-desenho/RF44.png)|
-|RNF45|Boa usabilidade|-|-|-|
-|RNF46|Suportar muitos acessos/visitas|-|-|-|
-|RNF47|Segurança em transações financeiras|-|-|-|
-|RNF48|Sistema de login robusto|-|-|-|
-|RNF49|Fluidez em transmissões|-|-|-|
-|RNF50|Funcionamento 24h/7|-|-|-|
+|RF44|Criar [clips](Clipes)|-|-|[Tela de criar clips](./images/artefato-de-desenho/RF44.png)|
+|RNF45|Boa usabilidade|[Usabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us48---usabilidade)|-|-|
+|RNF46|Suportar muitos acessos/visitas|[Perfomance para Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us49---performance-para-o-usu%C3%A1rio)|-|-|
+|RNF47|Segurança em transações financeiras|[Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
+|RNF48|Sistema de login robusto|[Confiabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us54---confiabilidade), [Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
+|RNF49|Fluidez em transmissões|[Performance](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us51--performance-para-a-stream)|-|-|
+|RNF50|Funcionamento 24h/7|[Disponibilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us53---disponibilidade)|-|-|
 |RNF51|Portabilidade|-|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
 |RF52|Tradução|-|-|[Tela de opções de idiomas](./images/artefato-de-desenho/RF52.png)|
 
@@ -97,12 +97,12 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF22|Participar de chats|[US22](Product-Backlog)|-|-||-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|||
 |RF23|Mandar emoticons|[US23](Product-Backlog)|-|-||-|-|-|-|-|||
 |RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-||-|-|-|-|-|||
-|RF25|Sincronizar add-ons|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF26|Filtrar os add-ons vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF27|Instalar novos add-ons|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF28|Deletar add-ons|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF29|Disponibilizar novos add-ons|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF30|Atualizar os add-ons de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
+|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
 |RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-||-|-|-|-|-|||
 |RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-||-|-|-|-|-|||
 |RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-||-|-|-|-|-|||
@@ -110,13 +110,13 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF35|Criar um grupo para chamadas permanentes|[US35](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-||-|-|-|-|-|||
 |RNF36|Opções de planos de inscrições|[US36](Product-Backlog)|[UC04 - Inscrever em canal]()|-||-|-|-|-|-|||
 |RF37|Inscrever-se em um canal|[US37](Product-Backlog)|[UC04 - Inscrever em canal]()|-||-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
-|RF38|Comprar bits|[US38](Product-Backlog)|[UC06 - Comprar Bits]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RF38|Comprar [bits](Bits)|[US38](Product-Backlog)|[UC06 - Comprar Bits]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-||-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
-|RF40|Doar bits|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-||-|-|-|-|-|||
 |RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF44|Criar clips|[US44](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
