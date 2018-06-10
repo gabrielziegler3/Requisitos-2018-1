@@ -3,12 +3,12 @@
 |29/04/2018|0.1|Criação do Documento |Gabriel Ziegler|
 |29/04/2018|0.2|Inserção de User Stories |Gabriel Ziegler|
 |06/05/2018|1.0|Inserção prioridades e revisão do artefato |Gabriel Ziegler|
-|10/06/2018|1.1|Inserção das US42 a US52 e link da geral 0.3|Gabriel Ziegler|
+|10/06/2018|1.1|Inserção das US42 a US52 e link da geral 0.3|Gustavo Carvalho|
 
 # Product Backlog - Geral 1.1
 
 |Tipo|História|Descrição|Prioridade|
-|----|----|---------|-------|-----|-----|
+|----|----|---------|-------|
 |RF|US01|Eu, como usuário, desejo [criar uma conta](Cen%C3%A1rio-002) na Twitch para desfrutar dos serviços de streaming.|Must|
 |RNF|US02|Eu, como usuário, desejo utilizar a Twitch me conectando pelo facebook para acessar mais rápido os serviços de streaming.|Could|
 |RF|US03|Eu, como usuário, desejo [editar meu perfil](Cen%C3%A1rio-023) na Twitch para manter meus dados atualizados.|Should|

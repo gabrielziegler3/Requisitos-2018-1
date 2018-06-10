@@ -5,6 +5,8 @@
 |05/06/2018|1.2|Adição de conteúdo ao Documento|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
 |06/06/2018|1.3|Adição de conteúdo na tabela Backward From|Filipe Dias, João Carlos, Gustavo Carvalho, Amanda Pires, Thiago Ferreira, Gabriel Ziegler|
 |10/06/2018|1.4|Adição de conteúdo na tabela Forward From|Gabriel Ziegler|
+|10/06/2018|1.5|Adição US42 a 52|Gustavo Carvalho|
+|10/06/2018|1.6|Inserção de rastriabilidade de artefato de desenho|Gustavo Carvalho|
 
 # Pós rastreabilidade
 
@@ -32,38 +34,38 @@
 |RF18|Destacar um vídeo|-|-|-|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
 |RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
-|RF21|Mandar mensagens privadas|-|-|-|
-|RF22|Participar de chats|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF23|Mandar emoticons|-|-|-|
-|RF24|Bloquear alguém em uma conversa|-|-|-|
+|RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
+|RF22|Participar de chats|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
+|RF23|Mandar emoticons|-|-|[Tela mandar emoctions](./images/artefato-de-desenho/RF23.png)|
+|RF24|Bloquear alguém em uma conversa|-|-|[Tela bloquear usuário](./images/artefato-de-desenho/RF24.png)|
 |RF25|Sincronizar add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF26|Filtrar os add-ons vistos|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF27|Instalar novos add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF28|Deletar add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF29|Disponibilizar novos add-ons|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF30|Atualizar os add-ons de forma automatizada|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF31|Criar uma nova chamada de voz|-|-|-|
+|RF31|Criar uma nova chamada de voz|-|-|[Tela criar nova chamada de voz](./images/artefato-de-desenho/RF31.png)|
 |RF32|Filtrar usuários que entrarem na chamada|-|-|-|
 |RF33|Realizar uma vídeo conferência|-|-|-|
 |RF34|Usar uma video conferência em um servidor|-|-|-|
 |RF35|Criar um grupo para chamadas permanentes|-|-|-|
-|RNF36|Opções de planos de inscrições|-||-|
-|RF37|Inscrever-se em um canal|-|-|-|
-|RF38|Comprar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
-|RNF39|Assinar o serviço Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
-|RF40|Doar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|-|
-|RF41|Aderir Twitch Turbo|-|-|-|
-RF42|Recuperar senha e usuário|-|-|-|
-RF43|Assistir stream sem estar logado|-|-|-|
-RF44|Criar clips|-|-|-|
+|RNF36|Opções de planos de inscrições|-||[Tela de opções de inscrições](./images/artefato-de-desenho/RNF36.png)|
+|RF37|Inscrever-se em um canal|-|-|[Tela de se inscrever em canal](./images/artefato-de-desenho/RF37.png)|
+|RF38|Comprar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de comprar bits](./images/artefato-de-desenho/RF38.png)|
+|RNF39|Assinar o serviço Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela para assinar Twitch Prime](./images/artefato-de-desenho/RNF39.png)|
+|RF40|Doar bits|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de doar bits](./images/artefato-de-desenho/RF40.png)|
+|RF41|Aderir Twitch Turbo|-|-|[Tela para aderir a Twtich Turbo](./images/artefato-de-desenho/RF41.png)|
+RF42|Recuperar senha e usuário|-|-|[Tela de recuperação de senha e usuário](./images/artefato-de-desenho/RF42.png)|
+RF43|Assistir stream sem estar logado|-|-|[Tela de stream sem login](./images/artefato-de-desenho/RF43.png)|
+RF44|Criar clips|-|-|[Tela de criar clips](./images/artefato-de-desenho/RF44.png)|
 RNF45|Boa usabilidade|-|-|-|
 RNF46|Suportar muitos acessos/visitas|-|-|-|
 RNF47|Segurança em transações financeiras|-|-|-|
 RNF48|Sistema de login robusto|-|-|-|
 RNF49|Fluidez em transmissões|-|-|-|
 RNF50|Funcionamento 24h/7|-|-|-|
-RNF51|Portabilidade|-|-|-|
-RF52|Tradução|-|-|-|
+RNF51|Portabilidade|-|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
+RF52|Tradução|-|-|[Tela de opções de idiomas](./images/artefato-de-desenho/RF52.png)|
 
 ______________________
 
@@ -118,7 +120,7 @@ RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-RNF49|Fluidez em transmissões[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
