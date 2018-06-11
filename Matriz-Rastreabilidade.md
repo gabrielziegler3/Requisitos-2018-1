@@ -100,12 +100,12 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF22|Participar de [chats](Group-Chat)|[US22](Product-Backlog)|-|[Cenário-027](Cenário-027)|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF23|Mandar emoticons|[US23](Product-Backlog)|-|-|[Emotes](Emotes)|-|-|-|-|-|-|-|
 |RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas](Mensagens-Privadas)|-|-|-|-|-|-|-|-|-|
-|RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
-|RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
-|RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
-|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
-|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
-|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|[Introspecção](Introspecção)|-|-|-|-|[Argumentação](Argumentação)|
+|RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
+|RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
+|RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
+|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
+|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
+|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](Adição-de-Add-ons-em-Jogos)|-|[add-ons](Mods)|[MoSCoW](MoSCoW)|-|[Introspecção](Introspecção)|-|-|-|[Argumentação](Argumentação)|
 |RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar Chat de Voz](Chat-de-Voz)|-|-|-|-|-|-|-|-|[Argumentação](Argumentação)|
 |RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar Chat de Voz](Chat-de-Voz)|-|-|-|-|-|-|-|-|[Argumentação](Argumentação)|
 |RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar Chat de Voz](Chat-de-Voz)|-|-|-|-|-|-|-|-|[Argumentação](Argumentação)|
