@@ -32,7 +32,7 @@
 |RF13|Visualizar chat de [Stream](Stream)|-|-|-|
 |RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
 |RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
-|RF16|Programar uma premiere|-|-|[Tela de programar uma premiera](./images/artefato-de-desenho/ProgramarPremiere.png)|
+|RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
 |RF17|Gravar uma transmissão|-|-|-|
 |RF18|Destacar um vídeo|-|-|-|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
