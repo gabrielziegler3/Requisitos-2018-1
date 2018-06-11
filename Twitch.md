@@ -7,4 +7,5 @@
 
 **Impacto:**
 
-* Local de hospedagem de live[streams](Stream) de jogos, oferecendo suporte para [viewers](Viewer) e [streamers](Streamer) interagirem e subirem conteúdo, assim como plataforma instalável de [add-ons](Add-ons) para jogos taís como World of Warcraft e também a funcionalidade de voice chat.
+* A [Twitch](Twitch) é uma plataforma de [Streaming](Streaming)
+* [Usuário](Usuário) acessa a Twitch para assistir [Streams](Stream)

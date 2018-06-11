@@ -7,4 +7,5 @@
 * Ação realizada pelo usuário para compartilhar um conteúdo.
 
 **Impacto:**
-* Share é a função utilizada pelo usuário para compartilhar uma [*stream*](Stream) em uma rede social para que outras pessoas possam acompanhar.
+* [Usuário](User) compartilhou uma stream em sua rede social.
+* [Streamer](Streamer) fez um sorteio com os [Viewers] que compartilhassem sua [stream](Stream).

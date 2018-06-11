@@ -1,8 +1,9 @@
 **Sinônimos:**
 * Brinde
-
+* Loot
 **Noção:**
 * Recompensas dadas aos assinantes da [Twitch Prime](Twitch-Prime)
 
 **Impacto:**
-* Incentiva aos usuários à adquirirem o serviço de assinatura [Twitch Prime](Twitch-Prime).
+* Ao assinar o [Twitch Prime](Twitch-Prime) o [usuário](User) pode resgatar seus brindes.
+* Assinante [Twitch-Prime](Twitch-Prime) ganhou skins no jogo.

@@ -8,4 +8,5 @@
 * Ato de selecionar um [emote](Emotes) para demonstrar sua opnião/sentimento sobre uma postagem de um [streamer](Streamer).
 
 **Impacto:**
-* Permite ao [streamer](Streamer) saber a reação dos seus [espectadores](Viewer) sobre as suas postagens.
+* Os [espectadores](Viewer) reagiram mal à atitude do [Streamer].
+* [Espectadores](Viewer) reagiram por meio de [emotes](Emotes).

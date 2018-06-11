@@ -7,5 +7,5 @@
 * Ocorre quando o streamer hospeda outro canal.
 
 **Impacto:**
-* Os espectadores são notificados do conteúdo hospedado.
-* Quando a [transmissão](Streamar) que está sendo hospedada acaba, o modo host deixa de ser usado.
+* [Streamer](Streamer) hospeda o canal de outro [Streamer](Streamer).
+* Ao ativar uma [stream](Stream), a hospedagem é encerrada.

@@ -6,6 +6,6 @@
 * Serviço de [usuário premium](usuario-Prime) da [Twitch](Twitch).
 
 **Impacto:**
-* Fornece aos usuários mais funcionalidades e exclusividades dentro da plataforma.
-* Permite uma [inscrição](subscribe) por mês gratuita em conjunto com o serviço [twitch prime](Twitch-Prime).
+* O Twitch Prime é uma funcionalidade paga da [Twitch].
+* Com o serviço [twitch prime](Twitch-Prime) o [usuário](User) tem uma [inscrição](subscribe) gratuita por mês. 
 * Dá acesso a [prêmios exclusivos](Loot-Prime) de usuários [Twitch Prime](Twitch-Prime).

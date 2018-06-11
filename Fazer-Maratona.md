@@ -7,4 +7,4 @@
 * Consiste em fazer [streams](stream) que duram horas, ou até mesmo dias.
 
 **Impacto:**
-* Atraem um grande número de [viewers](Viewer) e colaboram para parcerias entre canais, uma vez que normalmente envolve mais de um [streamer](Streamer).
+* [Streamer] fez uma maratona de 2 dias seguidos em sua [Stream](Stream).

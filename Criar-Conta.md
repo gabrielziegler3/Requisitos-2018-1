@@ -3,8 +3,7 @@
 * Criar usuário
 
 **Noção:**
-* Tarefa realizada por um usuário visitante que não possua conta ou deseja criar uma nova para criar uma nova conta na plataforma.
+* Tarefa realizada por um [usuário](User) visitante que não possua conta ou deseja criar uma nova para criar uma nova conta na plataforma.
 
 **Impacto:**
-* O visitante agora é um usuário.
-* O novo usuário agora possui acesso às funcionalidades gratuítas da [Twitch](Twitch).
+* O visitante, ao criar uma conta, se tornou um [Usuário](User).

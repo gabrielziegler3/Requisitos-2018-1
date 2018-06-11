@@ -8,4 +8,5 @@ Follower
 * Pessoa que acompanha algum [streamer](Streamer) através da funcionalidade integrada da twitch de [Dar Follow](Dar-follow)
 
 **Impacto:**
-* Gera notificações para o seguidor, de quando o [streamer](Streamer) está online.
+* O seguidor recebeu uma [notificação](Live-Notification) do canal que ele [segue](Dar-Follow).
+* O [Usuário](User) que seguiu um canal agora é  um Follower

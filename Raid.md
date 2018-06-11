@@ -9,4 +9,5 @@
 * Um [streamer](Streamer) direcionar seu público à [stream](Stream) de outro [streamer](Streamer).
 
 **Impacto:**
-* Ocorre um compartilhamento de audiência, podendo resultar em [follows](Dar-Follow) e [subscribe](Subscribe) para o [streamer](Streamer) de destino.
+* [Streamer](Streamer) fez uma raid em seu [Streamer](Streamer) amigo, trazendo a ele mais [Viewers].
+* Os [Viewers](Viewer) raidaram uma [Stream](Stream).   

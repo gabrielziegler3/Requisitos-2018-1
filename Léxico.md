@@ -29,7 +29,7 @@ Termos e palavras cobertos por esta técnica:
   * [Subscriber](Subscriber)
   * [Canais em Destaque](Canais-em-Destaque)
   * [Loot Prime](Loot-Prime)
-  * [Live Notification](Live_Notification)
+  * [Live Notification](Live-Notification)
   * [Group Chat](Group-Chat)
   * [Twitch](Twitch)
   * [Stream](Stream)

@@ -7,4 +7,5 @@
 * Captura de vídeo transmitida ao vivo por um usuário
 
 **Impacto:**
-* As streams são a funcionalidade mais demandada pelos usuários da Twitch, tendo, a platforma, em total, mais de 2 milhões de streamers. Essa grandíssima variedade de conteúdo torna o nicho da twitch cada vez mais atrativo e abrangente.
+* [Streamer](Streamer) hospeda uma [Stream](Stream).
+* A [Twitch](Twitch) é uma plataforma aonde as pessoas assistem e hospedam [Streams](Stream).
