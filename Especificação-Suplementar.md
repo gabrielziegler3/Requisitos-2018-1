@@ -4,6 +4,7 @@ Data|Versão|Descrição|Autor
 18/04/2018|1.1|Inclusão de conteúdo|Filipe Dias|
 18/04/2018|1.2|Inclusão de conteúdo de Qualidade de Software|Gabriel Ziegler|
 11/06/2018|1.3|Revisão|João Carlos|
+11/06/2018|1.4|Revisão do Documento e inserção de Resultados|Filipe Dias|
 
 
 <h2> 1. Introdução </h2>
