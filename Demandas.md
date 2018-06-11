@@ -8,4 +8,4 @@
 |22/04/2018|Diagrama Geral + Diagramas [16](Diagrama-Banir-Viewer)/[18](Diagrama-Adição-de-Jogo-ao-Catálogo)|Gustavo|Concluido|
 |24/04/2018|Product Backlog|Amanda, Filipe, Gabriel Ziegler, Gustavo, João, Thiago|Concluído|
 |25/04/2018|Sprint Planning|Amanda, Filipe, Gabriel Ziegler, Gustavo, João, Thiago|Concluído|
-|06/05/2018|[NFR](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR)|Amanda, Filipe, Gabriel Ziegler, Gustavo, João, Thiago|Concluido|
+|06/05/2018|[NFR](NFR)|Amanda, Filipe, Gabriel Ziegler, Gustavo, João, Thiago|Concluido|
