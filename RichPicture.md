@@ -6,6 +6,7 @@
 |10/06/2018|1.3|Adição Geral 1.1 & Streamer 1.1|João Carlos|
 |10/06/2018|1.4|Adicionando Rich Picture's e Estruturando documento|Amanda Pires|
 |11/06/2018|1.5|Adicionando Resultados e Conclusão|Filipe Dias|
+|11/06/2018|1.6|Adicionando requisitos levantados|Amanda Pires|
 
 ## Rich Picture
 
@@ -23,7 +24,7 @@ Rich Picture é uma técnica simples de modelagem com o objetivo de analisar pro
 
 ### 1.2. Escopo
 
-Para ter uma visão geral sobre a plataforma [Twitch](Twitch), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais 
+Para ter uma visão geral sobre a plataforma [Twitch](Twitch), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais
 funcionalidades e seus atores.
 
 Um usuário é o ator mais geral da [Twitch](Twitch), podendo se especializar em 3 outros atores, sendo eles visitante, [viewer](Viewer) e [streamer](Streamer).
@@ -62,8 +63,34 @@ Um usuário é o ator mais geral da [Twitch](Twitch), podendo se especializar em
 
 ![Patrocinador 1.0](./images/rich-picture/Patrocinador-1.0.png)
 
-### 2. Resultados
-* Ao todo foram elaborados 11 RichPicutres, cujo foco estão nos três atores principais que atuam na plataforma [Twitch](Twitch) como um todo.
 
-### 3. Conclusão
-* Através do RichPicture pode-se compreender melhor o domínio da [Twitch](Twitch), como um todo, no qual serão levantados os requisitos e funcionalidades que vem sido destacadas desde a Pré Rastreabilidade. O artefato consegue mostrar, apesar da sua simplicidade, determinado contexto em um domínio específico de forma simples e eficaz.
+### 2. Requisitos Levantados
+
+|Requisito|Descrição|
+|---|---------|
+|RF1| Cadastrar na [Twitch](Twitch)|
+|RF2| Conectar ao Facebook|
+|RF3| Assistir lives na [Twitch](Twitch)|
+|RF4| Divulgar anúncios em lives|
+|RNF5| Ter disponibilidade 24 horas|
+|RF6| Monetizar [stream](Stream)|
+|RF7| Inscrever em canal|
+|RF8| Interagir com jogadores através do chat|
+|RF10| Tornar usuário prime|
+|RNF11| Ter portabilidade (multi-plataforma)|
+|RNF12| Ter boa acessibilidade|
+|RF13| Manter cadastro|
+|RF14| Ser parceiro da [Twitch](Twitch)|
+|RF15| Compartilhar lives no Facebook|
+|RF16| Clipar uma jogada|
+|RF17| Seguir um usuário|
+|RF18| Realizar pagamento|
+|RF19| Competir com outros jogadores|
+|RF20| Receber [notificações](Live-Notification)|
+
+
+### 3. Resultados
+* Ao todo foram elaborados 11 RichPicutres, cujo foco estão nos três atores principais que atuam na plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) como um todo.
+
+### 4. Conclusão
+* Através do RichPicture pode-se compreender melhor o domínio da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), como um todo, no qual serão levantados os requisitos e funcionalidades que vem sido destacadas desde a Pré Rastreabilidade. O artefato consegue mostrar, apesar da sua simplicidade, determinado contexto em um domínio específico de forma simples e eficaz.
