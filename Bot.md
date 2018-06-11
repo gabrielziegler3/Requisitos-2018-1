@@ -1,8 +1,8 @@
 ## Bot
 
 **Sinônimos:**
-* Robô
-**Noção:** 
+* Robô<br>
+##### Noção 
 * Mecanismo de envio de mensagem automáticas criada pelo [streamer](Streamer) para atuar no chat.
 
 **Impacto:**
