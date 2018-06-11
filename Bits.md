@@ -3,4 +3,4 @@
 
 **Impacto:**
 * [Usuário](User) compra bits para [doar](Cheer) ao [streamer](Streamer).
-* [Usuário] ganhou [emotes](Emotes) ao doar bits.
+* [Usuário](User) ganhou [emotes](Emotes) ao doar bits.
