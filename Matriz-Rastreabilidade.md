@@ -117,15 +117,15 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 |RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
-|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
-|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
+|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|[Cenário 015](Cenário-015)|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
+|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|[Cenário 001](Cenário-001)|-|-|-|[First Things First](First-Things-First)|-| [Análise de protocolo ](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|[C020](Cenário-020),[C005](Cenário-005)|-|[Léxico Clip](Clipes)|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|[Cenário 008](Cenário-008)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|[Cenário 015](Cenário-015)|-|-|-|-|-|-|-|-|-|
 |RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
-|RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
+|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|[Introspecção](Introspecção)|[Storytelling](Storytelling)|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
+|RF52|Tradução|[US52](Product-Backlog)|-|[Cenário-024](Cenário-024)|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
 
