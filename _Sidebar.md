@@ -49,7 +49,7 @@
 
 ### Análise
 
-* [Inspecção](Inspecção)
+* [Inspeção](Inspecção)
 * [Inspeção Semi Automatizada](Inspeção-Semi-Automatizada)
 
 ### Pós-Rastreabilidade
