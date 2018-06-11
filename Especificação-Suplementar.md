@@ -153,5 +153,5 @@ que é utilizada na maior parte dos produtos de software desenvolvidos com boa q
 |Portabilidade|Não funcional|
 |Segurança|Não funcional|
 |Confiabilidade|Não funcional|
-|Interface|Não funcional|
+|Usabilidade|Não funcional|
 |Desempenho|Não funcional|

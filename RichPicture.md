@@ -90,7 +90,7 @@ Um usuário é o ator mais geral da [Twitch](Twitch), podendo se especializar em
 
 
 ### 3. Resultados
-* Ao todo foram elaborados 11 RichPicutres, cujo foco estão nos três atores principais que atuam na plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) como um todo.
+* Ao todo foram elaborados 11 RichPicutres, cujo foco estão nos três atores principais que atuam na plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) como um todo e 20 requisitos foram levantados, entre funcionais e não funcionais.
 
 ### 4. Conclusão
 * Através do RichPicture pode-se compreender melhor o domínio da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), como um todo, no qual serão levantados os requisitos e funcionalidades que vem sido destacadas desde a Pré Rastreabilidade. O artefato consegue mostrar, apesar da sua simplicidade, determinado contexto em um domínio específico de forma simples e eficaz.

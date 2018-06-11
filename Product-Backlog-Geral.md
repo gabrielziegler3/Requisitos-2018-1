@@ -4,6 +4,7 @@
 |29/04/2018|0.2|Inserção de User Stories |Gabriel Ziegler|
 |06/05/2018|1.0|Inserção prioridades e revisão do artefato |Gabriel Ziegler|
 |10/06/2018|1.1|Inserção das US42 a US52 e link da geral 0.3|Gustavo Carvalho|
+|11/06/2018|1.2|Adicionando casos de uso|Amanda Pires|
 
 # Product Backlog - Geral 1.1
 
