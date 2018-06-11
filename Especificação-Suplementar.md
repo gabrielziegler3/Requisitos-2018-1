@@ -3,6 +3,8 @@ Data|Versão|Descrição|Autor
 17/04/2018|1.0|Criação do documento|Thiago Ferreira|
 18/04/2018|1.1|Inclusão de conteúdo|Filipe Dias|
 18/04/2018|1.2|Inclusão de conteúdo de Qualidade de Software|Gabriel Ziegler|
+11/06/2018|1.3|Revisão|João Carlos|
+
 
 <h1> 1. Introdução </h1>
 
@@ -27,7 +29,7 @@ Alguns dos acrônimos, definições e abreviações usados neste documento são:
 
 * Viewer: Espectador
 * Streamer: Transmissor
-* Donate: Doação feita à um (streamer)[Streamer]
+* Donate: Doação feita à um [streamer](Streamer)
 * Bits: Forma específica de doação
 * UX: User Experience, refere-se à experiência do usuário ao usar a aplicação.
 
