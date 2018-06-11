@@ -64,7 +64,9 @@ O objetivo ao usar tal técnica é entender o ponto de vista desses atores e ent
 
 ------------------------------------
 
-# Twitch ![](https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2016/twitch-logo-topic.png)
+# [Twitch ](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
+
+![](https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2016/twitch-logo-topic.png)
 ### O que vou ganhar ao fornecer a plataforma de stream?
 
 <p align="justify">
