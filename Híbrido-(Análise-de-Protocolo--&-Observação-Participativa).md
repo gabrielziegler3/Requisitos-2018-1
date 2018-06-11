@@ -4,7 +4,7 @@
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
 |27/05/2018|1.2|Evolução do Documento|Filipe Dias,João Carlos Porto| 
 |11/06/2018|1.3|Hyperlinks de léxicos|Filipe Dias| 
-|26/06/2018|1.3|Hyperlinks de léxicos|Filipe Dias| 
+|11/06/2018|1.4|Adição de Resultados e cenários|Filipe Dias| 
 
 
 ### 1. O que é Análise de Protocolo & Observação Participativa?
