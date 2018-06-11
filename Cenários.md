@@ -13,6 +13,7 @@
 |19/04/2018|1.9|Adição do cenário 32|Gabriel Ziegler|
 |21/04/2018|2.0|Revisão geral do artefato|Gabriel Ziegler|
 |11/06/2018|2.1|Revisão do documento e inserção de Introdução, Objetivo e Metodologia|Filipe Dias|
+|11/06/2018|2.2| Adicionando cenário de notificação| Amanda Pires|
 
 ### 1. Introdução
 #### 1.1. Propósito
@@ -92,6 +93,8 @@
 * [C031](Cenário-031) - Criar vídeos sob demanda.
 
 * [C032](Cenário-032) - Adicionar amigos.
+
+* [C033](Cenário-033) - Receber [notificação](Live-Notification).
 
 
 ___________
