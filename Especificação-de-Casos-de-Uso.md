@@ -40,6 +40,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC18 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
 * [UC19 - Criar Vídeo](Criação-de-Vídeo)
 * [UC20 - Hospedagem](Hosting)
+* [UC - Receber Notificação](Notificacao)
 
 ### 4. Resultado
 * A partir do levantamento dos casos de uso, pode-se levantar os seguintes requisitos, listados abaixo:
