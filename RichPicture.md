@@ -5,6 +5,7 @@
 |01/04/2018|1.2|Referenciação de links dos RichPictures|Gustavo Carvalho|
 |10/06/2018|1.3|Adição Geral 1.1 & Streamer 1.1|João Carlos|
 |10/06/2018|1.4|Adicionando Rich Picture's e Estruturando documento|Amanda Pires|
+|11/06/2018|1.5|Adicionando Resultados e Conclusão|Filipe Dias|
 
 ## Rich Picture
 
