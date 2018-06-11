@@ -9,7 +9,7 @@
 |10/06/2018|1.6|Inserção de rastreabilidade de artefato de desenho|Gustavo Carvalho|
 |10/06/2018|1.7|Adição de conteúdo na tabela Forward From e correção no artefato|Gabriel Ziegler|
 |10/06/2018|1.8|Adição de conteúdo na tabela Forward From|João Carlos|
-
+|10/06/2018|1.9|Adição de conteúdo na tabela Backward From|Gustavo Carvalho|
 
 # Pós rastreabilidade
 
@@ -67,7 +67,7 @@
 |RNF48|Sistema de login robusto|[Confiabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us54---confiabilidade), [Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
 |RNF49|Fluidez em transmissões|[Performance](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us51--performance-para-a-stream)|-|-|
 |RNF50|Funcionamento 24h/7|[Disponibilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us53---disponibilidade)|-|-|
-|RNF51|Portabilidade|-|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
+|RNF51|Portabilidade|[Portabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us52---portabilidade)|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
 |RF52|Tradução|-|-|[Tela de opções de idiomas](./images/artefato-de-desenho/RF52.png)|
 
 ______________________
@@ -116,15 +116,15 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 |RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
+|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
+|RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
 
