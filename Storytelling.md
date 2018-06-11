@@ -14,6 +14,10 @@ Storytelling é uma palavra em inglês, que está relacionada com uma narrativa 
 O objetivo ao narrar a experiência de Jonas é de entender como pessoas podem ter conhecimento a respeito da plataforma <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a> e para que ela serve. No caso, pode-se entender que o objetivo principal da plataforma é a <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">Stream</a>.
 </p>
 
+### Ferramenta utilizada
+
+* [Storytelling Creator](https://www.storyboardthat.com/storyboard-creator)
+
 A partir da experiência de Jonas com seus amigos, é possível levantar os seguintes possíveis requisitos:
 
 * **Funcional**: o aplicativo da Twitch nas plataformas mobile e web deve conter a opção de cortar parte da stream para seja produzido um clipe que pode ser assistido e/ou compartilhado.

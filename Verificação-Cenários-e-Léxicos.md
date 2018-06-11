@@ -19,9 +19,9 @@ tais como dados obtidos, foram inseridos à documentação do projeto.
 [Checklist de Cenários e Léxicos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Checklist-Cen%C3%A1rios-e-L%C3%A9xicos)
 
 ### Retrabalho
-* A definir
+Os membros do grupo identificaram os erros e a correção foi realizada e revisada.
 
 ### Verificação
-* A definir
+Todos os erros encontrados foram corrigidos.
 
 
