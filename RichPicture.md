@@ -22,10 +22,10 @@ Rich Picture é uma técnica simples de modelagem com o objetivo de analisar pro
 
 ### 1.2. Escopo
 
-Para ter uma visão geral sobre a plataforma [Twitch](https://www.twitch.tv), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais 
+Para ter uma visão geral sobre a plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), inicialmente será apresentado um Rich Picture geral que aborda algumas das principais modalidades do site. Em seguida, serão apresentados os Rich Pictures para cada ator, para que seja possível detalhar as principais 
 funcionalidades e seus atores.
 
-Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se especializar em 3 outros atores, sendo eles visitante, viewer e streamer.
+Um usuário é o ator mais geral da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), podendo se especializar em 3 outros atores, sendo eles visitante, [viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer) e [streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer).
 
 ### 1.3. Apresentação
 
@@ -60,3 +60,9 @@ Um usuário é o ator mais geral da [Twitch](https://www.twitch.tv), podendo se 
 ### 1.3.4. [Patrocinador](Patrocinador)
 
 ![Patrocinador 1.0](./images/rich-picture/Patrocinador-1.0.png)
+
+### 2. Resultados
+* Ao todo foram elaborados 11 RichPicutres, cujo foco estão nos três atores principais que atuam na plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) como um todo.
+
+### 3. Conclusão
+* Através do RichPicture pode-se compreender melhor o domínio da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), como um todo, no qual serão levantados os requisitos e funcionalidades que vem sido destacadas desde a Pré Rastreabilidade. O artefato consegue mostrar, apesar da sua simplicidade, determinado contexto em um domínio específico de forma simples e eficaz.
