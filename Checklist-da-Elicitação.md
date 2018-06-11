@@ -1,6 +1,6 @@
 * Checklist de Inspeção da Checklist de Elicitação
 * Inspetor: Filipe Dias
-* Data: 08/05/2018
+* Data: 10/05/2018
 
 ### Checklist dos itens de inspeção
 
@@ -64,6 +64,9 @@ Modificações|Nenhum|
 Questões|4. É possível elicitar requisitos baseados na história contada?|
 Resposta|Sim|
 Modificações|Nenhuma|
+Questões|5. A ferramenta utilizada está sendo citada?|
+Resposta|Sim|
+Modificações|Inserção da ferramenta|
 
 #### 4. Análise Protocolo + Observação Participativa
 |Item de Inspeção|Observação Participativa|

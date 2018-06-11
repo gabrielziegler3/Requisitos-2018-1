@@ -42,8 +42,8 @@ Alguns processos das inspeções foram feitas utilizando-se de scripts que ou au
  Nesta etapa, o autor confere o produto revisado, juntamente com a equipe de inspeção, para assegurar-se de que todas as correções necessárias foram realizadas e que nenhum defeito novo foi introduzido.
 
 # Verificações
-* [Elicitação](Verificação-Elicitação)
 * [Pré Rastreabilidade](Verificação-Pre-Rastreabilidade)
+* [Elicitação](Verificação-Elicitação)
 * [Cenários e Léxicos](Verificação-Cenários-e-Léxicos)
 * [Casos de Uso](Verificação-Casos-de-Uso)
 * [Histórias de Usuário](Verificação-Histórias-de-Usuário)
