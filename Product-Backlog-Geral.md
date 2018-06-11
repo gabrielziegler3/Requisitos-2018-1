@@ -17,11 +17,11 @@
 |RF|US06|Eu, como usuário, desejo me tornar um parceiro da Twitch para monetizar minhas streams.|Must|
 |RF|US07|Eu, como viewer, gostaria poder [compartilhar uma stream](Cen%C3%A1rio-030) que estou assistindo para que meus amigos possam assistir também.|Must|
 |RF|US08|Eu, como viewer, gostaria de seguir um streamer para que eu possa ser notificado de seus suas atualizações na Twitch.|Should|
-|RF|US09|Eu, como usuário, gostaria de acessar os chats para participar das discussões.|Could|
-|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no chat da minha stream, para que eu possa ter maior controle sobre meu ambiente de transmissão.|Could|
-|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do chat de minha stream, para evitar que pessoas tumultuem minha transmissão.|Could|
+|RF|US09|Eu, como usuário, gostaria de acessar os [chats](Group-Chat) para participar das discussões.|Could|
+|RF|US10|Eu, como streamer, desejo ter a opção de filtrar quem digita no [chat](Group-Chat) da minha stream, para que eu possa ter maior controle sobre meu ambiente de transmissão.|Could|
+|RF|US11|Eu, como streamer, gostaria de ter a possibilidade de [banir alguém](Cen%C3%A1rio-027) do [chat](Group-Chat) de minha stream, para evitar que pessoas tumultuem minha transmissão.|Could|
 |RF|US12|Eu, como streamer, gostaria de alterar o jogo que estou jogando na minha stream, sem que seja necessário começar outra transmissão, para minha stream ter maior fluidez.|Should|
-|RF|US13|Eu, como usuário, gostaria de visualizar chats de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado.|Could|
+|RF|US13|Eu, como usuário, gostaria de visualizar [chats](Group-Chat) de uma stream sem precisar estar logado para que eu possa saber o que está sendo comentado.|Could|
 |RF|US14|Eu, como streamer, desejo subir um vídeo na plataforma, para que eu possa divulgar minhas streams.|Must|
 |RF|US15|Eu, como streamer, gostaria de deletar um vídeo que eu subi na plataforma para que eu possa ter maior controle sobre meu conteúdo.|Must|
 |RF|US16|Eu, como streamer, gostaria de programar uma premiere para meu vídeo para que eu possa divulgar meu trabalho.|Should|
@@ -30,7 +30,7 @@
 |RF|US19|Eu, como usuário, desejo poder buscar outros usuários para que eu possa achar possíveis amigos.|Could|
 |RF|US20|Eu, como usuário, desejo poder adicionar como amigo outros usuários para que eu possa aumentar a minha interatividade com a comunidade.|Could|
 |RF|US21|Eu, como usuário, desejo poder mandar [mensagens de texto privadas](Mensagens-Privadas) para poder me comunicar com outros usuários.|Could|
-|RF|US22|Eu, como viewer, desejo poder participar de chats durante as streams para poder comentar cenas da transmissão.|Could|
+|RF|US22|Eu, como viewer, desejo poder participar de [chats](Group-Chat) durante as streams para poder comentar cenas da transmissão.|Could|
 |RF|US23|Eu, como usuário, desejo poder mandar emoticons em conversas para poder aumentar a interatividade.|Should|
 |RF|US24|Eu, como usuário, desejo bloquear alguém em uma conversa para que eu possa evitar usuários indesejados.|Must|
 |RF|US25|Eu, como usuário, gostaria de [sincronizar os add-ons](Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos) com meus jogos.|Must|

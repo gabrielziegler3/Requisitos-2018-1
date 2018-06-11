@@ -21,7 +21,7 @@
 * [Viewer](Viewer) não está logado
 
 ## Episódios
-* [Usuário](User)  está assistindo a uma stream e utilizando o chat da live.
+* [Usuário](User)  está assistindo a uma stream e utilizando o [chat](Group-Chat) da live.
 
 * Deseja mandar uma mensagem em privado para um dos [viewers](Viewer) que também está no chat.
 

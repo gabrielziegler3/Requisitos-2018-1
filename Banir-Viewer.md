@@ -17,7 +17,7 @@
 * 2. O streamer localiza no seu chat, um viewer indesejado
 * 3. O streamer clica no nome do [viewer](Viewer)
 * 4. O streamer seleciona 🕒 
-* 5. O streamer bane o viewer do seu chat pelo tempo desejado
+* 5. O streamer bane o viewer do seu [chat](Group-Chat) pelo tempo desejado
 
 ### Fluxos Alternativos
 * Não se aplica
@@ -26,4 +26,4 @@
 * Não se aplica
 
 ## Pós-condição
-* O viewer que foi banido não poderá mais participar do chat do streamer que o baniu.
+* O viewer que foi banido não poderá mais participar do [chat](Group-Chat) do streamer que o baniu.

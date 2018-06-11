@@ -46,7 +46,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 * Ocorra Comunicação entre as partes
     - Seja possível enviar mensagens privadas
     - Seja possível se comunicar através de mensagens de doação
-    - Seja possível se comunicar através do chat do canal
+    - Seja possível se comunicar através do [chat](Group-Chat) do canal
 * Acompanhar canal
     - Seguir Canal
     - Se inscrever em canal
@@ -120,7 +120,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 
 * [Streamer](Streamer) seja efetuado como Twitch Partner
     - O usuário seja regular, transmitindo ao menos 3x por semana
-    - O usuário aplicante tenha um Público e chat crescente
+    - O usuário aplicante tenha um Público e [chat](Group-Chat) crescente
     - Conteúdo transmitido seja adequado às regras de conduta, Termos de serviço e Diretrizes DMCA da Twitch
 * Plataforma supra as necessidades de [streaming](Streaming)
     - A twitch consiga transmitir conteúdo multimídia em tempo real
@@ -172,7 +172,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Enviar notificações de publicações
 * Seja capaz de estabelecer comunicação entre usuários
     - Estabelecer comunicação entre usuários
-* Criar um chat de voz
+* Criar um [chat](Group-Chat) de voz
     - Enviar mensagens
 * Possuir capacidade de até 10 milhões de acessos simultâneos [Softgoal]
 * [SoftGoal]Lidar com grande número de requisicoes
@@ -186,7 +186,7 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - Seja possível filtrar add-ons mostrados pela plataforma
     - Seja possível sincronizar add-ons automaticamente pela plataforma
 
-* Serviço de Chat de Voz seja disponibilizado
+* Serviço de [Chat](Group-Chat) de Voz seja disponibilizado
     - Seja possível iniciar uma sala de chamada
     - Seja possível criar um servidor de chamada
     - Seja possível alterar a chamada de voz para vídeo chamada

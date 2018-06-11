@@ -16,7 +16,7 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O usuário está no canal da transmissão. [FA01]
-* 2. O usuário abre as configurações do chat da stream no canto inferior esquerdo do (chat)[Group-Chat]
+* 2. O usuário abre as configurações do [chat](Group-Chat) da stream no canto inferior esquerdo do (chat)[Group-Chat]
 * 3. O usuário seleciona a opção ```Chat Somente seguidores```[FA02]
 * 4. O caso de uso é encerrado
 
@@ -25,7 +25,7 @@
 * 1. O usuário está no painel de controle
 * 2. O usuário retorna ao passo 2 do fluxo principal
 
-#### FA02 - O usuário seleciona a opção Chat somente para inscritos
+#### FA02 - O usuário seleciona a opção [Chat](Group-Chat) somente para inscritos
 * 1. O usuário seleciona a opção de ```Chat somente para inscritos```.
 * 2. O usuário retorna ao passo 4 do fluxo principal.
 
@@ -33,4 +33,4 @@
 * Não se Aplica
 
 ## Pós-condição
-* O chat agora possui restrições de acesso.
+* O [chat](Group-Chat) agora possui restrições de acesso.

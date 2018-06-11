@@ -10,14 +10,14 @@
 * Moderador
 ## Recursos
 * Funções Administradoras do (Chat)[Group-Chat]
-* Acesso ao chat da stream
+* Acesso ao [chat](Group-Chat) da stream
 ## Exceções
 * Moderador quebrando regras ou sendo inconveniente no (chat)[Group-Chat]
 * Moderador tendo que banir outro moderador
 ## Episódios
 * [Usuário](User) [Viewer](Viewer) está quebrando as regras do (chat)[Group-Chat]
 * Streamer/Moderador bane este
-* [Viewer](Viewer) é impedido de usar o Chat e visualizar a Stream.
+* [Viewer](Viewer) é impedido de usar o [Chat](Group-Chat) e visualizar a Stream.
 -------
 * [Usuário](User) está sendo inconveniente e irritante
 * Streamer, mesmo o viewer não estando, necessariamente, quebrando as regras, bane o viewer da stream.

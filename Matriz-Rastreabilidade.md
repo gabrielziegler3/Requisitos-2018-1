@@ -30,7 +30,7 @@
 |RF10|Filtrar quem digita no chat|-|-|-|
 |RF11|Banir alguém do chat|-|-|[Tela de banir no chat](./images/artefato-de-desenho/BanirAlguemDoChat.png)|
 |RF12|Alterar conteúdo da [Stream](Stream)|-|-|[Tela de Mudar Conteudo da Stream](./images/artefato-de-desenho/MudarConteudoStream.png)|
-|RF13|Visualizar chat de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
+|RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
 |RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
 |RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
 |RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
@@ -106,11 +106,11 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
 |RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
 |RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
-|RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF34|Usar uma video conferência em um servidor|[US34](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF35|Criar um grupo para chamadas permanentes|[US35](Product-Backlog)|[UC11 - Enviar Chat de Voz]()|-|-|-|-|-|-|-|-|-|
+|RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
+|RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
+|RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
+|RF34|Usar uma video conferência em um servidor|[US34](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
+|RF35|Criar um grupo para chamadas permanentes|[US35](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
 |RNF36|Opções de planos de inscrições|[US36](Product-Backlog)|[UC04 - Inscrever em canal]()|-|-|-|-|-|-|-|-|-|
 |RF37|Inscrever-se em um canal|[US37](Product-Backlog)|[UC04 - Inscrever em canal]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 |RF38|Comprar [bits](Bits)|[US38](Product-Backlog)|[UC06 - Comprar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
