@@ -9,7 +9,7 @@
 |10/06/2018|1.6|Inserção de rastreabilidade de artefato de desenho|Gustavo Carvalho|
 |10/06/2018|1.7|Adição de conteúdo na tabela Forward From e correção no artefato|Gabriel Ziegler|
 |10/06/2018|1.8|Adição de conteúdo na tabela Forward From|João Carlos|
-
+|10/06/2018|1.9|Adição de conteúdo na tabela Backward From|Gustavo Carvalho|
 
 # Pós rastreabilidade
 
@@ -23,20 +23,20 @@
 |RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de desabilitar conta](./images/artefato-de-desenho/RF6.png)|
 |RF5|Tornar-se [Twitch Prime](Twitch-Prime)|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de cadastro Twitch Prime](./images/artefato-de-desenho/RF5.png)|
 |RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|[Tela de cadastro parceiro Twitch](./images/artefato-de-desenho/RF6.png)|
-|RF7|Compartilhar uma [Stream](Stream)|-|-|-|
-|RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|-|
-|RF9|Acessar os [chats](Group-Chat)|-|-|-|
-|RF10|Filtrar quem digita no [chat](Group-Chat)|-|-|-|
-|RF11|Banir alguém do [chat](Group-Chat)|-|-|-|
-|RF12|Alterar conteúdo da [Stream](Stream)|-|-|-|
-|RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|-|-|-|
-|RF14|Subir um vídeo na [Twitch](Twitch)|-|-|-|
-|RF15|Deletar um vídeo|-|-|-|
-|RF16|Programar uma premiere|-|-|-|
-|RF17|Gravar uma transmissão|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
-|RF18|Destacar um vídeo|-|-|-|
+|RF7|Compartilhar uma [Stream](Stream)|-|-|[Tela de Compartilhar uma Stream](./images/artefato-de-desenho/CompartilharStream.png)|
+|RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|[Tela de Seguir Streamer](./images/artefato-de-desenho/SeguirStreamer.png)|
+|RF9|Acessar os chats|-|-|[Tela de Acessar o Chat](./images/artefato-de-desenho/AcessarChat.png)|
+|RF10|Filtrar quem digita no chat|-|-|-|
+|RF11|Banir alguém do chat|-|-|[Tela de banir no chat](./images/artefato-de-desenho/BanirAlguemDoChat.png)|
+|RF12|Alterar conteúdo da [Stream](Stream)|-|-|[Tela de Mudar Conteudo da Stream](./images/artefato-de-desenho/MudarConteudoStream.png)|
+|RF13|Visualizar chat de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
+|RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
+|RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
+|RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
+|RF17|Gravar uma transmissão|-|-|-|
+|RF18|Destacar um vídeo|-|-|[Tela de destacar um vídeo](./images/artefato-de-desenho/Clipar.png)|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
-|RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
+|RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de adicionar amigo](./images/artefato-de-desenho/AdicionarAmigos.png)|
 |RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
 |RF22|Participar de [chats](Group-Chat)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
 |RF23|Mandar emoticons|-|-|[Tela mandar emoctions](./images/artefato-de-desenho/RF23.png)|
@@ -67,7 +67,7 @@
 |RNF48|Sistema de login robusto|[Confiabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us54---confiabilidade), [Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
 |RNF49|Fluidez em transmissões|[Performance](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us51--performance-para-a-stream)|[SR Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#streamer), [SR Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#viewer)|-|
 |RNF50|Funcionamento 24h/7|[Disponibilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us53---disponibilidade)|-|-|
-|RNF51|Portabilidade|-|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
+|RNF51|Portabilidade|[Portabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us52---portabilidade)|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
 |RF52|Tradução|-|-|[Tela de opções de idiomas](./images/artefato-de-desenho/RF52.png)|
 
 ______________________
@@ -116,15 +116,15 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 |RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
+|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|-|-|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
+|RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
+|RF52|Tradução|[US52](Product-Backlog)|-|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
 
