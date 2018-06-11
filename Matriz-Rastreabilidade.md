@@ -34,7 +34,7 @@
 |RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
 |RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
 |RF17|Gravar uma transmissão|-|-|-|
-|RF18|Destacar um vídeo|-|-|-|
+|RF18|Destacar um vídeo|-|-|[Tela de destacar um vídeo](./images/artefato-de-desenho/Clipar.png)|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
 |RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de adicionar amigo](./images/artefato-de-desenho/AdicionarAmigos.png)|
 |RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
