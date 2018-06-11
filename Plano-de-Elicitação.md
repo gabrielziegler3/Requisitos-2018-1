@@ -19,7 +19,7 @@ Na primeira etapa do Plano de Elicitação fora consultada fontes de informaçõ
 A segunda etapa fora composta ao todo de duas técnicas: A <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/H%C3%ADbrido-(An%C3%A1lise-de-Protocolo--&-Observa%C3%A7%C3%A3o-Participativa)">Análise de Protocolo e Observação Participativa</a> através de uma mistura entre as duas, ocasionando numa técnica Híbrida. O objetivo principal era de entender como a plataforma funcionava como um todo e manter registrado todas as ideias e experiências que tenham a ver com a aplicação. A partir disso, será possível desenvolver ainda mais a compreensão do domínio. 
 
 <p align = jusitfy>
-Na terceira etapa o uso de Questionário, Storytelling e Introspecção são os pontos cruciais. O objetivo é obter dados de forma clara e direta para que se possa trabalhar sobre. Além disso, outro objetivo é a resolução de conflitos que alguns requisitos possam apresentar durante o envolvimento dos Stakeholders. Tais técnicas implicam em um maior entendimento dos Stakeholders e do domínio.
+Na terceira etapa o uso de [Questionário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Questionario), [Storytelling](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Storytelling) e [Introspecção](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Introspec%C3%A7%C3%A3o) são os pontos cruciais. O objetivo é obter dados de forma clara e direta para que se possa trabalhar sobre. Além disso, outro objetivo é a resolução de conflitos que alguns requisitos possam apresentar durante o envolvimento dos Stakeholders. Tais técnicas implicam em um maior entendimento dos Stakeholders e do domínio.
 
 _________
 
