@@ -15,6 +15,7 @@
 |18/04/2018|2.2|Adição dos léxicos Criar conta, Criar video sob demanda e Modo host está sendo usado|Amanda Pires|
 |09/06/2018|2.3|Remoção de léxico inadequado, alteração de nomes |Thiago Ferreira|
 |09/06/2018|2.4|Adição de léxico User|João Carlos|
+|11/06/2018|2.5|Revisionamento e reescrita do impacto de todos os léxicos e outras mudanças menores|Thiago Ferreira|
 
 ## Léxico
 Termos e palavras cobertos por esta técnica:
