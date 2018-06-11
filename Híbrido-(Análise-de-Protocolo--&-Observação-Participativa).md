@@ -3,11 +3,12 @@
 |01/04/2018|1.0|Criação e Desenvolvimento do Documento|Filipe Dias| 
 |02/04/2018|1.1|Adicionado imagens explicativas|João Carlos Porto|
 |27/05/2018|1.2|Evolução do Documento|Filipe Dias,João Carlos Porto| 
+|11/06/2018|1.3|Hyperlinks de léxicos|Filipe Dias| 
 
 ### O que é Análise de Protocolo & Observação Participativa?
 
 <p align=justify>
-A técnica híbrida consiste em levantamento de perguntas (seguindo um modelo de tutorial) para entender o funcionamento da plataforma <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a> a partir da perspectiva de 3 tipos diferentes de atores: O Viewer, o Streamer e a própria <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a>.
+A técnica híbrida consiste em levantamento de perguntas (seguindo um modelo de tutorial) para entender o funcionamento da plataforma <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a> a partir da perspectiva de 3 tipos diferentes de atores: O <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer">Viewer</a>, o <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer">Streamer</a> e a própria <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a>.
 </p>
 
 ### Objetivo
@@ -23,18 +24,18 @@ O objetivo ao usar tal técnica é entender o ponto de vista desses atores e ent
 ### Como você faz para assistir uma stream?
 
 <p align="justify">
-* Vou no meu navegador e acesso pela twitch.tv. Entro na página principal e busco pelo catálogo de jogos o jogo que eu estou afim de assistir. Caso eu queira participar do chat preciso ou me registrar e entrar com meus dados ou, caso eu já tenha cadastro, posso fazer login (visto que as únicas coisas que posso fazer sem login é assistir as streams). Após efetuar o login, eu posso realizar doações para o streamer, dar follow no canal dele e/ou dar subcribe para ter mais participação na stream. Caso eu queira ter mais destaques em mensagens enviadas para o chat, posso utilizar meus bits que eu compro na própria Twitch; que além de ajudar meu streamer favorito, favorecem em uma maior visibilidade do stream na minha mensagem.
+* Vou no meu navegador e acesso o site da <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a>. Entro na página principal e busco pelo catálogo de jogos o jogo que eu estou afim de assistir. Caso eu queira participar do <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat">chat</a> preciso ou me registrar e entrar com meus dados ou, caso eu já tenha cadastro, posso fazer login (visto que as únicas coisas que posso fazer sem login é assistir as streams). Após efetuar o login, eu posso realizar doações para o <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer">streamer</a>, dar follow no canal dele e/ou dar subcribe para ter mais participação na <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a>. Caso eu queira ter mais destaques em mensagens enviadas para o <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat">chat</a>, posso utilizar meus <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits">bits</a> que eu compro na própria <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a>; que além de ajudar meu <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer">streamer</a> favorito, favorecem em uma maior visibilidade da minha mensagem na <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a>.
 
 </p>
 
 ### Tem muitos anúncios rolando na stream. Como eu faço para parar de assistí-los?
 
 <p align="justify">
-* Posso pagar para a Twitch e me tornar um Twitch primer, que além de remover os anúncios para mim,  me concede prêmios relacionados ao meu jogo preferido. Ou posso dar subscribe no canal do meu streamer, que fará com que eu pare de ver anúncios somente na stream dele.
+* Posso pagar para a <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">Twitch</a> e me tornar um <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime">Twitch Prime</a>, que além de remover os anúncios para mim,  me concede prêmios relacionados ao meu jogo preferido. Ou posso dar <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe">subscribe</a> no canal do meu <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer">streamer</a>, que fará com que eu pare de ver anúncios somente na <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a> dele.
 </p>
 
 
-### Vi uma jogada incrível durante uma stream, como fazer um clip dessa parte?
+### Vi uma jogada incrível durante uma <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a>, como fazer um <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes">clip</a> dessa parte?
 
 <p align="justify">
 * Em uma transmissão gravada ou em uma live basta usar um atalho no teclado (ALT + x), após esse procedimento você será redirecionado para uma nova aba no seu navegador, e nessa aba vai ter ferramentas de edições para que possa ser feito o corte apenas da parte em interesse.
@@ -53,13 +54,13 @@ O objetivo ao usar tal técnica é entender o ponto de vista desses atores e ent
 ### Estou jogando por muito tempo. Como eu faço para arrecadar dinheiro jogando?
 
 <p align="justify">
-* Eu posso me cadastrar numa plataforma de jogos (Twitch.tv), baixar um software externo de transmissão ao vivo e ganhar a visibilidade de viwers. Com isso, posso passar anúncios em minhas transimissôes e permitir doações de dinheiro por parte de externos. Assim poderei ganhar um dinheiro.
+* Eu posso me cadastrar numa plataforma de jogos <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch">(Twitch)</a>, baixar um software externo de transmissão ao vivo e ganhar a visibilidade de <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer">viwers</a>. Com isso, posso passar anúncios em minhas transimissôes e permitir doações de dinheiro por parte de externos. Assim poderei ganhar um dinheiro.
 </p>
 
-### Que benefícios trarei aos meus viewers para ‘prendê-los’ em minha stream?
+### Que benefícios trarei aos meus <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer">viewers</a> para ‘prendê-los’ em minha <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a>?
 
 <p align="justify">
-* Caso um viewer goste de minha stream, e queira ficar por mais tempo, ele pode se inscrever no meu canal (subscribe) e assim ele não terá que ver anúncios e terá mais visibilidade no meu chat. Assim, poderei interagir mais com ele e ele gostará ainda mais de me assistir jogando.
+* Caso um <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Viewer">viewer</a> goste de minha <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream">stream</a>, e queira ficar por mais tempo, ele pode se inscrever no meu canal (<a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe">subscribe</a>) e assim ele não terá que ver anúncios e terá mais visibilidade no meu <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Group-Chat">chat</a>. Assim, poderei interagir mais com ele e ele gostará ainda mais de me assistir jogando.
 </p>
 
 ------------------------------------
@@ -67,19 +68,20 @@ O objetivo ao usar tal técnica é entender o ponto de vista desses atores e ent
 # [Twitch ](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)
 
 ![](https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2016/twitch-logo-topic.png)
-### O que vou ganhar ao fornecer a plataforma de stream?
+
+### O que vou ganhar ao fornecer a plataforma de [stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)?
 
 <p align="justify">
-* Empresas poderão pagar para você para colocarem anúncios no meio de transmissões de streamers. Parte do dinheiro vai para você e outra parte para eles. 
+* Empresas poderão pagar para você para colocarem anúncios no meio de transmissões de <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer">streamers</a>. Parte do dinheiro vai para você e outra parte para eles. 
 </p>
 
-### O que posso oferecer para os meus usuários para preferirem usar minha plataforma?
+### O que posso oferecer para os meus [usuários](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/User) para preferirem usar minha plataforma?
 
 <p align="justify">
-* Você pode oferecer um serviço 'Prime' que faz com que seus usuários recebam benefícios ao assiná-lo. Você ganha dinheiro, e eles ganham prêmios. Assim, todos poderão ganhar nessa troca.
+* Você pode oferecer um serviço <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime">'Prime'</a> que faz com que seus <a href="https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/User">usuários</a> recebam benefícios ao assiná-lo. Você ganha dinheiro, e eles ganham prêmios. Assim, todos poderão ganhar nessa troca.
 </p>
 
-### Não estou gostando do tema original da Twitch, como eu troco para o tema dark mode?
+### Não estou gostando do tema original da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), como eu troco para o tema dark mode?
 
 <p align="justify">
 * Após logado, basta clicar no seu nick no canto superior direito e vai aparecer algumas opções onde tem uma chamada dark mode e clicar na mesma.
