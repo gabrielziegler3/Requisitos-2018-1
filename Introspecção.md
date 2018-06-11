@@ -17,7 +17,7 @@
 
 ### Método utilizado
 
-* Historias de usuário
+* Histórias de usuário
 _____________________________
 
 ## US's: 
