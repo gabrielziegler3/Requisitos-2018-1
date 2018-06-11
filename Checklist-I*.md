@@ -53,7 +53,7 @@ Defeito|Viewer
 Questão 11|Todos os links entre Hardgoals e outros elementos estão corretos?|
 Resposta|Não|
 Modificações|Commit [7a30ff8](_compare/7a30ff8),[4a473d4](_compare/4a473d4)|
-Defeito|Serviço de Add-ons [Mods] seja disponibilizado|
+Defeito|Serviço de [Add-ons](Mods) [Mods] seja disponibilizado|
 Defeito|Seja capaz de fazer comunicação|
 Defeito|Viewer seja prime|
 Defeito|Dasboard seja acessado|

@@ -59,11 +59,11 @@ usuário
 
 ###  1.5. [Twitch](Twitch) Desktop App
 * i(p1): Deveria, eu, como usuário, usar a [Twitch](Twitch) diretamente no browser ou baixar o aplicativo para desktop da mesma?
-* i(p2): O aplicativo baixável da [Twitch](Twitch) disponibiliza inicialização com o computador, [chat](Group-Chat) de voz e texto integrado, suporte para streaming e add-ons para diversos outros jogos, funções, estas últimas duas, que outrora foram proporcionadas pela plataforma Curse, hoje, integrada à [Twitch](Twitch).
+* i(p2): O aplicativo baixável da [Twitch](Twitch) disponibiliza inicialização com o computador, [chat](Group-Chat) de voz e texto integrado, suporte para streaming e [add-ons](Mods) para diversos outros jogos, funções, estas últimas duas, que outrora foram proporcionadas pela plataforma Curse, hoje, integrada à [Twitch](Twitch).
 * i(p3): Entretanto, acessar por browser proporciona economia de memória, tanto RAM (quando não se quer utilizar a plataforma e ela está aberta) quanto de armazenamento, tempo de inicialização e não necessita de download algum.
 * i(p4): Caso o usuário goste muito de assistir [streams](Stream), é uma alternativa bem mais prática, que fará o mesmo, acessar de forma mais constante a plataforma.
-* i(p5): O Usuário de Add-ons que são muitíssimos, estes que anteriormente utilizavam a plataforma apenas para isto (World of Warcraft add-ons), podem passar a assistir [streams](Stream) por impulso, devido à disponibilização integrada da plataforma.
-* i(p6): Se o usuário não possui interesse em add-ons e o serviço de [chat](Group-Chat) da [Twitch](Twitch), não existem nenhum diferenciais indispensáveis que o levem a baixar a plataforma.
+* i(p5): O Usuário de [Add-ons](Mods) que são muitíssimos, estes que anteriormente utilizavam a plataforma apenas para isto (World of Warcraft add-ons), podem passar a assistir [streams](Stream) por impulso, devido à disponibilização integrada da plataforma.
+* i(p6): Se o usuário não possui interesse em [add-ons](Mods) e o serviço de [chat](Group-Chat) da [Twitch](Twitch), não existem nenhum diferenciais indispensáveis que o levem a baixar a plataforma.
 
 * P1: A Praticidade envolvida no processo e as features adicionais, por mais que dispensáveis, ainda assim, podem se mostrar úteis e verdadeiros "game-changers" pros usuários, dito isso, temos P1(i(p2) & i(p4) , i(p3))
 * P2: Entretanto, como uma grande parte do público frequentador da [Twitch](Twitch) vê vantagem nos serviços extra-stream que a plataforma oferece, assim como a praticidade pra quem vê exclusivamente streaming no app, o Aplicativo de Desktop continua sendo uma opção favorável e viável.

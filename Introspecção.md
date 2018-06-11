@@ -27,7 +27,7 @@ _____________________________
 
 * Eu, como viewer, gostaria de acessar a twitch em outras plataformas de jogos que não sejam especificamente no computador.
 
-* Eu, como jogador, gostaria de adicionar add-ons à meus jogos.
+* Eu, como jogador, gostaria de adicionar [add-ons](Mods) à meus jogos.
 
 * Eu, como usuário, gostaria de salvar trechos marcantes de uma stream em um clipe.
 

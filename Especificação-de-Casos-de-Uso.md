@@ -14,7 +14,7 @@ Data|Versão|Descrição|Autor
 #### 1.2. Escopo
 * O presente documento indica os diagramas e especificações de caso de uso existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), tais quais tem o objetivi de mostrar detalhadamente a descrição, atores, pré-condições, pós-condições e os fluxos de eventos que podem ser divididos em principal, alternativo e de exceção.
 
-### 2. Objetivo 
+### 2. Objetivo
 * O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
 Este documento contém os casos de uso levantados pela equipe para a plataforma Twitch, em prol da disciplina de requisitos de software.
 
@@ -41,7 +41,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC19 - Criar Vídeo](Criação-de-Vídeo)
 * [UC20 - Hospedagem](Hosting)
 
-### 4. Resultado 
+### 4. Resultado
 * A partir do levantamento dos casos de uso, pode-se levantar os seguintes requisitos, listados abaixo:
 
 |Requisito|Tipo|

@@ -178,13 +178,13 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
 * [SoftGoal]Lidar com grande número de requisicoes
 * [SoftGoal]Ter segurança
 
-* Serviço de Add-ons seja disponibilizado
-    - Seja possível adicionar add-ons à plataforma
-    - Seja possível remover add-ons da plataforma
-    - Seja possível baixar add-ons da plataforma
-    - Seja possível instalar add-ons diretamente pela plataforma
-    - Seja possível filtrar add-ons mostrados pela plataforma
-    - Seja possível sincronizar add-ons automaticamente pela plataforma
+* Serviço de [Add-ons](Mods) seja disponibilizado
+    - Seja possível adicionar [add-ons](Mods) à plataforma
+    - Seja possível remover [add-ons](Mods) da plataforma
+    - Seja possível baixar [add-ons](Mods) da plataforma
+    - Seja possível instalar [add-ons](Mods) diretamente pela plataforma
+    - Seja possível filtrar [add-ons](Mods) mostrados pela plataforma
+    - Seja possível sincronizar [add-ons](Mods) automaticamente pela plataforma
 
 * Serviço de [Chat](Group-Chat) de Voz seja disponibilizado
     - Seja possível iniciar uma sala de chamada
