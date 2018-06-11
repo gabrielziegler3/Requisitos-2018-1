@@ -21,24 +21,24 @@
 |RNF2|Logar via Facebook|-|[SR Visitante](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#visitante)|[Tela login via facebook](./images/artefato-de-desenho/RNF2.png)|
 |RF3|Editar perfil|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de editar perfil](./images/artefato-de-desenho/RF3.png)|
 |RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de desabilitar conta](./images/artefato-de-desenho/RF6.png)|
-|RF5|Tornar-se Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de cadastro Twitch Prime](./images/artefato-de-desenho/RF5.png)|
+|RF5|Tornar-se [Twitch Prime](Twitch-Prime)|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de cadastro Twitch Prime](./images/artefato-de-desenho/RF5.png)|
 |RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|[Tela de cadastro parceiro Twitch](./images/artefato-de-desenho/RF6.png)|
 |RF7|Compartilhar uma [Stream](Stream)|-|-|-|
 |RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|-|
-|RF9|Acessar os chats|-|-|-|
-|RF10|Filtrar quem digita no chat|-|-|-|
-|RF11|Banir alguém do chat|-|-|-|
+|RF9|Acessar os [chats](Group-Chat)|-|-|-|
+|RF10|Filtrar quem digita no [chat](Group-Chat)|-|-|-|
+|RF11|Banir alguém do [chat](Group-Chat)|-|-|-|
 |RF12|Alterar conteúdo da [Stream](Stream)|-|-|-|
-|RF13|Visualizar chat de [Stream](Stream)|-|-|-|
+|RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|-|-|-|
 |RF14|Subir um vídeo na [Twitch](Twitch)|-|-|-|
 |RF15|Deletar um vídeo|-|-|-|
 |RF16|Programar uma premiere|-|-|-|
-|RF17|Gravar uma transmissão|-|-|-|
+|RF17|Gravar uma transmissão|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
 |RF18|Destacar um vídeo|-|-|-|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
 |RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
 |RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
-|RF22|Participar de chats|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
+|RF22|Participar de [chats](Group-Chat)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
 |RF23|Mandar emoticons|-|-|[Tela mandar emoctions](./images/artefato-de-desenho/RF23.png)|
 |RF24|Bloquear alguém em uma conversa|-|-|[Tela bloquear usuário](./images/artefato-de-desenho/RF24.png)|
 |RF25|Sincronizar [add-ons](Mods)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
@@ -61,11 +61,11 @@
 |RF42|Recuperar senha e usuário|-|-|[Tela de recuperação de senha e usuário](./images/artefato-de-desenho/RF42.png)|
 |RF43|Assistir stream sem estar logado|-|-|[Tela de stream sem login](./images/artefato-de-desenho/RF43.png)|
 |RF44|Criar [clips](Clipes)|-|-|[Tela de criar clips](./images/artefato-de-desenho/RF44.png)|
-|RNF45|Boa usabilidade|[Usabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us48---usabilidade)|-|-|
-|RNF46|Suportar muitos acessos/visitas|[Perfomance para Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us49---performance-para-o-usu%C3%A1rio)|-|-|
-|RNF47|Segurança em transações financeiras|[Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
+|RNF45|Boa usabilidade|[Usabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us48---usabilidade)|[SR Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#viewer)|-|
+|RNF46|Suportar muitos acessos/visitas|[Perfomance para Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us49---performance-para-o-usu%C3%A1rio)|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|-|
+|RNF47|Segurança em transações financeiras|[Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch), [SR Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#viewer)|-|
 |RNF48|Sistema de login robusto|[Confiabilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us54---confiabilidade), [Segurança](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us50---seguran%C3%A7a)|-|-|
-|RNF49|Fluidez em transmissões|[Performance](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us51--performance-para-a-stream)|-|-|
+|RNF49|Fluidez em transmissões|[Performance](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us51--performance-para-a-stream)|[SR Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#streamer), [SR Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#viewer)|-|
 |RNF50|Funcionamento 24h/7|[Disponibilidade](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/NFR#us53---disponibilidade)|-|-|
 |RNF51|Portabilidade|-|-|[Tela do app para desktop](./images/artefato-de-desenho/RNF51.png)|
 |RF52|Tradução|-|-|[Tela de opções de idiomas](./images/artefato-de-desenho/RF52.png)|
@@ -83,11 +83,11 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF6|Tornar-se parceiro [Twitch](Twitch)|[US06](Product-Backlog)|-|-||-|-|-|-|-|-|-|
 |RF7|Compartilhar uma [Stream](Stream)|[US07](Product-Backlog)|[UC18 - Compartilhar uma transmissão]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF8|Seguir um [Streamer](Streamer)|[US08](Product-Backlog)|[UC15 - Seguir Canal]()|-|-|-|-|-|-|-|-|-|
-|RF9|Acessar os chats|[US09](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RF10|Filtrar quem digita no chat|[US010](Product-Backlog)|[UC09 - Restringir Chat]()|-||-|-|-|-|-|-|-|
-|RF11|Banir alguém do chat|[US011](Product-Backlog)|[UC16 - Banir Viewer]()|-|-|-|-|-|-|-|-|-|
+|RF9|Acessar os [chats](Group-Chat)|[US09](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF10|Filtrar quem digita no [chat](Group-Chat)|[US010](Product-Backlog)|[UC09 - Restringir Chat]()|-||-|-|-|-|-|-|-|
+|RF11|Banir alguém do [chat](Group-Chat)|[US011](Product-Backlog)|[UC16 - Banir Viewer]()|-|-|-|-|-|-|-|-|-|
 |RF12|Alterar conteúdo da [Stream](Stream)|[US012](Product-Backlog)|-|-|-|[MoSCoW](MoSCoW)|-|-|-|-|-|-|
-|RF13|Visualizar chat de [Stream](Stream)|[US013](Product-Backlog)|-|-||[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|[US013](Product-Backlog)|-|-||[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF14|Subir um vídeo na [Twitch](Twitch)|[US014](Product-Backlog)|[UC19 - Criar Vídeo]()|-||-|-|-|-|-|-|-|
 |RF15|Deletar um vídeo|[US015](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
 |RF16|Programar uma premiere|[US016](Product-Backlog)|[UC19 - Criar Vídeo]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
@@ -96,7 +96,7 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF19|Buscar outros usuários|[US019](Product-Backlog)|[UC17 - Adicionar Amigo]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF20|Adicionar outro usuário como amigo|[US20](Product-Backlog)|[UC17 - Adicionar Amigo]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF21|Mandar mensagens privadas|[US21](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-|-|-|-|-|-|-|-|-|
-|RF22|Participar de chats|[US22](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF22|Participar de [chats](Group-Chat)|[US22](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF23|Mandar emoticons|[US23](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
 |RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-|-|-|-|-|-|-|-|-|
 |RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
