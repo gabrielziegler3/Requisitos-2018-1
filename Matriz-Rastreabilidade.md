@@ -30,7 +30,7 @@
 |RF10|Filtrar quem digita no chat|-|-|-|
 |RF11|Banir alguém do chat|-|-|[Tela de banir no chat](./images/artefato-de-desenho/BanirAlguemDoChat.png)|
 |RF12|Alterar conteúdo da [Stream](Stream)|-|-|[Tela de Mudar Conteudo da Stream](./images/artefato-de-desenho/MudarConteudoStream.png)|
-|RF13|Visualizar chat de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
+|RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
 |RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
 |RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
 |RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
@@ -76,8 +76,8 @@ ______________________
 ## Matriz de Rastreabilidade - Backward From
 Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|First Things First|Introspecção|Análise de Protocolo/Observação Participativa|Storytelling|Questionário|RichPicture|Argumentação
 ---------|------|------|------|------|------|------|------|------|------|------|------|------|------
-|RF1|Cadastrar usuário|[US01](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[Criar Conta](Criar-Conta)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
-|RNF2|Logar via Facebook|[US02](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)||[MoSCoW](MoSCoW)|-|-|-|-|-|-|
+|RF1|Cadastrar usuário|[US01](Product-Backlog)|[UC03 - Criar de Conta](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-Conta)|[Cenário 002](Cenário-002)|[Criar Conta](Criar-Conta)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
+|RNF2|Logar via Facebook|[US02](Product-Backlog)|[UC03 - Criar de Conta](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-Conta)|[Cenário 002](Cenário-002)||[MoSCoW](MoSCoW)|-|-|-|-|-|-|
 |RF3|Editar perfil|[US03](Product-Backlog)|-|[Cenário 023](Cenário-023)|-|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
 |RF4|Desabilitar conta|[US04](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-
 |RF5|Tornar-se Twitch Prime|[US05](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|-|[Twitch Prime](Twitch-Prime)|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|[Argumentação](Argumentação)
@@ -117,13 +117,13 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|-|[twitch prime](Twitch-Prime)|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
 |RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits](Doação-de-Bits)|-|[Donate](Donate)|-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|[Cenário 015](Cenário-015)|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
-|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|[Cenário 001](Cenário-001)|-|-|-|[First Things First](First-Things-First)|-| [Análise de protocolo ](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|-|
-|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|[C020](Cenário-020),[C005](Cenário-005)|-|[Léxico Clip](Clipes)|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
+|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|[Cenário 015](Cenário-015)|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
+|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|[Cenário 001](Cenário-001)|-|-|[First Things First](First-Things-First)|-| [Análise de protocolo ](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|[C020](Cenário-020),[C005](Cenário-005)|[Léxico Clip](Clipes)|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|[Cenário 008](Cenário-008)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|[Cenário 015](Cenário-015)|-|-|-|-|-|-|-|-|-|
+|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|[UC13 - Assinar Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime)|[Cenário 008](Cenário-008)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RNF48|Sistema de login robusto|[US48](Prodeat-Backlog)|-|[Cenário 015](Cenário-015)|-|-|-|-|-|-|-|-|-|
 |RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|[Introspecção](Introspecção)|[Storytelling](Storytelling)|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|

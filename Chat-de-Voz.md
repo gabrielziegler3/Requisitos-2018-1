@@ -1,4 +1,4 @@
-# UC11 - Chat de Voz e Video
+# UC11 - [Chat](Group-Chat) de Voz e Video
 ### [Diagrama de caso de uso](Diagrama-Chat-de-Voz)
 ## Descrição
 * Este caso de uso descreve a funcionalidade da plataforma desktop de video conferência
@@ -11,8 +11,8 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O usuário acessa a plataforma desktop
-* 2. Seleciona a opção de chat de voz
-* 3. O usuário convida um amigo para o chat de voz[FA01]
+* 2. Seleciona a opção de [chat](Group-Chat) de voz
+* 3. O usuário convida um amigo para o [chat](Group-Chat) de voz[FA01]
 * 4. O usuário convidado aceita o convite
 * 5. O caso de uso se encerra
 ### Fluxos Alternativos

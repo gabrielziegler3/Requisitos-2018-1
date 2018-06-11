@@ -11,7 +11,7 @@ Os membros do grupo optaram por um reparticionamento da inspeção, onde cada in
 
 ### Visão Geral
 
- * [Product Backlog](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Product-Backlog).
+ * [Product Backlog](Product-Backlog).
 
 ### Preparação
 

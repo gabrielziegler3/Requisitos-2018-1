@@ -3,7 +3,7 @@
 
 **Noção:** 
 
-* Plataforma de [streaming](Streaming), in-game add-ons e voice chat da [Amazon](Amazon)
+* Plataforma de [streaming](Streaming), in-game add-ons e voice [chat](Group-Chat) da [Amazon](Amazon)
 
 **Impacto:**
 

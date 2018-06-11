@@ -1,4 +1,4 @@
-## (Raid)[Raid]
+## [Raid](Raid)
 
 **Sinônimos:**
 * Gank

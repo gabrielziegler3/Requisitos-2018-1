@@ -5,7 +5,7 @@
  dando um ban ou permaban
 
 ## Objetivo
-* Retirar usuários indesejados do chat ao vivo
+* Retirar usuários indesejados do [chat](Group-Chat) ao vivo
 
 ## Contexto
 * [Streamer](Streamer)

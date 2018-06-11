@@ -77,7 +77,7 @@ Modificações|Inserção de uma breve explicação da técnica|
 Questões|2. O objetivo deixa claro o que é almejado alcançar com a técnica?|
 Resposta|Sim|
 Modificações|Inserção do objetivo|
-Questões|3. O documento abrange todo o público alvo da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)?
+Questões|3. O documento abrange todo o público alvo da [Twitch](Twitch)?
 Resposta|Sim|
 Modificações|Nenhuma|
 Questões|4. O documento levou a um maior entendimento do funcionamento da plataforma?|
@@ -98,4 +98,4 @@ Questões|3. O método utilizado para se levantar as histórias de usuário est�
 Resposta|Sim|
 Modificações|Inserção do método|
 
-[Respostas da Checklist](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Respostas-Checklist-Elicita%C3%A7%C3%A3o)
+[Respostas da Checklist](Respostas-Checklist-Elicita%C3%A7%C3%A3o)

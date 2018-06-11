@@ -60,7 +60,7 @@ Resposta Amanda|Não|
 Questões|2. O objetivo deixa claro o que é almejado alcançar com a técnica?|
 Resposta Filipe|Não|
 Resposta Amanda|Sim|
-Questões|3. O documento abrange todo o público alvo da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)?
+Questões|3. O documento abrange todo o público alvo da [Twitch](Twitch)?
 Resposta Filipe|Sim|
 Resposta Amanda|Sim|
 Questões|4. O documento levou a um maior entendimento do funcionamento da plataforma?|
