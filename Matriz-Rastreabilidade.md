@@ -9,7 +9,8 @@
 |10/06/2018|1.6|Inserção de rastreabilidade de artefato de desenho|Gustavo Carvalho|
 |10/06/2018|1.7|Adição de conteúdo na tabela Forward From e correção no artefato|Gabriel Ziegler|
 |10/06/2018|1.8|Adição de conteúdo na tabela Forward From|João Carlos|
-|10/06/2018|1.9|Adição de conteúdo na tabela Backward From|Gustavo Carvalho|
+|10/06/2018|1.9|Adição de conteúdo na tabela Backward From|João Carlos,Gustavo Carvalho|
+|11/06/2018|2.0|Adição de conteúdo na tabela Forward From|João Carlos|
 
 # Pós rastreabilidade
 
