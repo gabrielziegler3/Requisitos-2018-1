@@ -9,4 +9,4 @@ Follower
 
 **Impacto:**
 * O seguidor recebeu uma [notificação](Live-Notification) do canal que ele [segue](Dar-Follow).
-* O [Usuário](User) que seguiu um canal agora é  um Follower
+* O [Usuário](User) que seguiu um canal agora é  um [Follower](Follower)

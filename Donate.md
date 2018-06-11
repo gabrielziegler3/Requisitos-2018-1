@@ -1,4 +1,4 @@
-## (Donate)[Donate]
+## [Donate](Donate)
 
 **Sinônimos:**
 * Doar

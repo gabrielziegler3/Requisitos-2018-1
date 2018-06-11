@@ -4,7 +4,7 @@
 * Este caso de uso descreve a alteração do título/nome de uma stream
 
 ## Atores
-* Streamer
+* [Streamer](Streamer)
 
 ## Pré-condições
 * O usuário deve ter acesso à internet

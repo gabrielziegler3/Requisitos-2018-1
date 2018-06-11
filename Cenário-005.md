@@ -24,5 +24,5 @@
 * [Viewer](Viewer) gostou de um momento específico da stream
 * [Viewer](Viewer) aperta no botão ```Clip```
 * [Viewer](Viewer) aperta Alt + X
-* [Viewer](Viewer) é redirecionado para uma página de pré-visualização do (clipe)[Clipe]
+* [Viewer](Viewer) é redirecionado para uma página de pré-visualização do [clipe](Clipe)
 * [Viewer](Viewer) publica o ```Clip```

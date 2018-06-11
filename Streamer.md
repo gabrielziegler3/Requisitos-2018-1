@@ -8,5 +8,5 @@
 
 **Impacto:**
 * O streamer abriu a [transmissão](Stream)
-* Eu gosto desse Streamer
-* Eu vou usar a [Twitch](Twitch) para me tornar um streamer
+* Eu gosto desse [Streamer](Streamer)
+* Eu vou usar a [Twitch](Twitch) para me tornar um [streamer](Streamer)

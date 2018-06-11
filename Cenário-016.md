@@ -24,9 +24,9 @@
 
 ## Episódios
 * [Streamer](Streamer)
- simpatiza com algum (viewer)[Viewer]
+ simpatiza com algum [viewer](Viewer)
 * [Streamer](Streamer)
- clica no nome do (viewer)[Viewer]
+ clica no nome do [viewer](Viewer)
 * [Streamer](Streamer)
  seleciona a opção de ```Moderador```
 * [Viewer](Viewer) se torna moderador.

@@ -122,10 +122,10 @@ Este artefato conta com a especificação textual dos goals, hardgoals, tasks e 
     - O usuário seja regular, transmitindo ao menos 3x por semana
     - O usuário aplicante tenha um Público e chat crescente
     - Conteúdo transmitido seja adequado às regras de conduta, Termos de serviço e Diretrizes DMCA da Twitch
-* Plataforma supra as necessidades de (streaming)[Streaming]
+* Plataforma supra as necessidades de [streaming](Streaming)
     - A twitch consiga transmitir conteúdo multimídia em tempo real
-    - A twitch disponibilize um meio de interação para o (streamer)[Streamer]
-    - A twitch disponibilize alguma forma de monetização para o (streamer)[Streamer]
+    - A twitch disponibilize um meio de interação para o [streamer](Streamer)
+    - A twitch disponibilize alguma forma de monetização para o [streamer](Streamer)
     - A twitch disponibilize controle sobre a transmissão para o usuário, em tempo real
 
 ### Strategic Rationale
