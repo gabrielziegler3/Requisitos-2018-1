@@ -76,54 +76,54 @@ ______________________
 ## Matriz de Rastreabilidade - Backward From
 Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|First Things First|Introspecção|Análise de Protocolo/Observação Participativa|Storytelling|Questionário|RichPicture|Argumentação
 ---------|------|------|------|------|------|------|------|------|------|------|------|------|------
-|RF1|Cadastrar usuário|[US01](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)|[Criar Conta](Criar-Conta)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
-|RNF2|Logar via Facebook|[US02](Product-Backlog)|[UC03 - Criar de Conta](Criação-de-Conta)|[Cenário 002](Cenário-002)||[MoSCoW](MoSCoW)|-|-|-|-|-|-|
+|RF1|Cadastrar usuário|[US01](Product-Backlog)|[UC03 - Criar de Conta](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-Conta)|[Cenário 002](Cenário-002)|[Criar Conta](Criar-Conta)|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
+|RNF2|Logar via Facebook|[US02](Product-Backlog)|[UC03 - Criar de Conta](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-Conta)|[Cenário 002](Cenário-002)||[MoSCoW](MoSCoW)|-|-|-|-|-|-|
 |RF3|Editar perfil|[US03](Product-Backlog)|-|[Cenário 023](Cenário-023)|-|[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|-|-|-|-|-
 |RF4|Desabilitar conta|[US04](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-
-|RF5|Tornar-se Twitch Prime|[US05](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|-|[Twitch Prime](Twitch-Prime)|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|[Argumentação](Argumentação)
+|RF5|Tornar-se Twitch Prime|[US05](Product-Backlog)|[UC13 - Assinar Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime)|-|[Twitch Prime](Twitch-Prime)|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|[Argumentação](Argumentação)
 |RF6|Tornar-se parceiro [Twitch](Twitch)|[US06](Product-Backlog)|-|-||-|-|-|-|-|-|-|
-|RF7|Compartilhar uma [Stream](Stream)|[US07](Product-Backlog)|[UC18 - Compartilhar uma transmissão]()|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
-|RF8|Seguir um [Streamer](Streamer)|[US08](Product-Backlog)|[UC15 - Seguir Canal]()|-|-|-|-|-|-|-|-|-|
+|RF7|Compartilhar uma [Stream](Stream)|[US07](Product-Backlog)|[UC18 - Compartilhar uma transmissão](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Compartilhar-uma-Transmiss%C3%A3o)|-||-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RF8|Seguir um [Streamer](Streamer)|[US08](Product-Backlog)|[UC15 - Seguir Canal](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Seguir-Canal)|-|-|-|-|-|-|-|-|-|
 |RF9|Acessar os [chats](Group-Chat)|[US09](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RF10|Filtrar quem digita no [chat](Group-Chat)|[US010](Product-Backlog)|[UC09 - Restringir Chat]()|-||-|-|-|-|-|-|-|
-|RF11|Banir alguém do [chat](Group-Chat)|[US011](Product-Backlog)|[UC16 - Banir Viewer]()|-|-|-|-|-|-|-|-|-|
+|RF10|Filtrar quem digita no [chat](Group-Chat)|[US010](Product-Backlog)|[UC09 - Restringir Chat](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Restri%C3%A7%C3%B5es-de-Chat)|-||-|-|-|-|-|-|-|
+|RF11|Banir alguém do [chat](Group-Chat)|[US011](Product-Backlog)|[UC16 - Banir Viewer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Banir-Viewer)|-|-|-|-|-|-|-|-|-|
 |RF12|Alterar conteúdo da [Stream](Stream)|[US012](Product-Backlog)|-|-|-|[MoSCoW](MoSCoW)|-|-|-|-|-|-|
 |RF13|Visualizar [chat](Group-Chat) de [Stream](Stream)|[US013](Product-Backlog)|-|-||[MoSCoW](MoSCoW)|[First Things First](First-Things-First)|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RF14|Subir um vídeo na [Twitch](Twitch)|[US014](Product-Backlog)|[UC19 - Criar Vídeo]()|-||-|-|-|-|-|-|-|
+|RF14|Subir um vídeo na [Twitch](Twitch)|[US014](Product-Backlog)|[UC19 - Criar Vídeo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-V%C3%ADdeo)|-||-|-|-|-|-|-|-|
 |RF15|Deletar um vídeo|[US015](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF16|Programar uma premiere|[US016](Product-Backlog)|[UC19 - Criar Vídeo]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
-|RF17|Gravar uma transmissão|[US017](Product-Backlog)|[UC02 - Transmitir Multimídia]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF16|Programar uma premiere|[US016](Product-Backlog)|[UC19 - Criar Vídeo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Cria%C3%A7%C3%A3o-de-V%C3%ADdeo)|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RF17|Gravar uma transmissão|[US017](Product-Backlog)|[UC02 - Transmitir Multimídia](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Transmiss%C3%A3o-Multim%C3%ADdia)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF18|Destacar um vídeo|[US018](Product-Backlog)|-|[Cenário 005](Cenário-005)|-|[MoSCoW](MoSCoW)|-|-|-|-|-|-|
-|RF19|Buscar outros usuários|[US019](Product-Backlog)|[UC17 - Adicionar Amigo]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RF20|Adicionar outro usuário como amigo|[US20](Product-Backlog)|[UC17 - Adicionar Amigo]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RF21|Mandar mensagens privadas|[US21](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-|-|-|-|-|-|-|-|-|
+|RF19|Buscar outros usuários|[US019](Product-Backlog)|[UC17 - Adicionar Amigo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Amigo)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF20|Adicionar outro usuário como amigo|[US20](Product-Backlog)|[UC17 - Adicionar Amigo](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Amigo)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RF21|Mandar mensagens privadas|[US21](Product-Backlog)|[UC08 - Enviar Mensagens Privadas](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Mensagens-Privadas)|-|-|-|-|-|-|-|-|-|
 |RF22|Participar de [chats](Group-Chat)|[US22](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF23|Mandar emoticons|[US23](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-|-|-|-|-|-|-|-|-|
+|RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Mensagens-Privadas)|-|-|-|-|-|-|-|-|-|
 |RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
 |RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
 |RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
-|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
-|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
-|RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF34|Usar uma video conferência em um servidor|[US34](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
-|RF35|Criar um grupo para chamadas permanentes|[US35](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
-|RNF36|Opções de planos de inscrições|[US36](Product-Backlog)|[UC04 - Inscrever em canal]()|-|-|-|-|-|-|-|-|-|
-|RF37|Inscrever-se em um canal|[US37](Product-Backlog)|[UC04 - Inscrever em canal]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
-|RF38|Comprar [bits](Bits)|[US38](Product-Backlog)|[UC06 - Comprar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
-|RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime]()|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
-|RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits]()|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos)|-||-|-|-|-|-|||
+|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos)|-||-|-|-|-|-|-|-|
+|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Adi%C3%A7%C3%A3o-de-Add-ons-em-Jogos)|-|-|-|-|-|-|-|-|-|
+|RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Comunicar por de Voz](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Chat-de-Voz)|-|-|-|-|-|-|-|-|-|
+|RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Comunicar por de Voz](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Chat-de-Voz)|-|-|-|-|-|-|-|-|-|
+|RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Comunicar por Chat de Voz](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Chat-de-Voz)|-|-|-|-|-|-|-|-|-|
+|RF34|Usar uma video conferência em um servidor|[US34](Product-Backlog)|[UC11 - Comunicar por Chat de Voz](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Chat-de-Voz)|-|-|-|-|-|-|-|-|-|
+|RF35|Criar um grupo para chamadas permanentes|[US35](Product-Backlog)|[UC11 - Comunicar por Chat de Voz](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Chat-de-Voz)|-|-|-|-|-|-|-|-|-|
+|RNF36|Opções de planos de inscrições|[US36](Product-Backlog)|[UC04 - Inscrever em canal](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Inscri%C3%A7%C3%A3o-em-Canal)|-|-|-|-|-|-|-|-|-|
+|RF37|Inscrever-se em um canal|[US37](Product-Backlog)|[UC04 - Inscrever em canal](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Inscri%C3%A7%C3%A3o-em-Canal)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
+|RF38|Comprar [bits](Bits)|[US38](Product-Backlog)|[UC06 - Comprar Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Compra-de-Bits)|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
+|RNF39|Assinar o serviço Twitch Prime|[US39](Product-Backlog)|[UC13 - Assinar Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|[RichPicture](RichPicture)|
+|RF40|Doar [bits](Bits)|[US40](Product-Backlog)|[UC05 - Doar Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Doa%C3%A7%C3%A3o-de-Bits)|-|-|-|-|-|-|-|-|[RichPicture](RichPicture)|
 |RF41|Aderir Twitch Turbo|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
-|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|[Cenário 015](Cenário-015)|-|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
-|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|[Cenário 001](Cenário-001)|-|-|-|[First Things First](First-Things-First)|-| [Análise de protocolo ](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|-|
-|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|[C020](Cenário-020),[C005](Cenário-005)|-|[Léxico Clip](Clipes)|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
+|RF42|Recuperar senha e usuário|[US42](Product-Backlog)|-|[Cenário 015](Cenário-015)|-|-|[First Things First](First-Things-First)|-|-|-|-|-|[Cadastro 1.1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#cadastro-110)|
+|RF43|Assistir stream sem estar logado|[US43](Product-Backlog)|-|[Cenário 001](Cenário-001)|-|-|[First Things First](First-Things-First)|-| [Análise de protocolo ](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|-|
+|RF44|Criar [clips](Clipes)|[US44](Product-Backlog)|-|[C020](Cenário-020),[C005](Cenário-005)|[Léxico Clip](Clipes)|[MoSCoW](MoSCoW)|-|-|-|[Storytelling](Storytelling)|-|-|-|
 |RNF45|Boa usabilidade|[US45](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF46|Suportar muitos acessos/visitas|[US46](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
-|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|[UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)|[Cenário 008](Cenário-008)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
-|RNF48|Sistema de login robusto|[US48](Product-Backlog)|-|[Cenário 015](Cenário-015)|-|-|-|-|-|-|-|-|-|
+|RNF47|Segurança em transações financeiras|[US47](Product-Backlog)|[UC13 - Assinar Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Assinar-Twitch-Prime)|[Cenário 008](Cenário-008)|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
+|RNF48|Sistema de login robusto|[US48](Prodeat-Backlog)|-|[Cenário 015](Cenário-015)|-|-|-|-|-|-|-|-|-|
 |RNF49|Fluidez em transmissões|[US49](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|[Introspecção](Introspecção)|[Storytelling](Storytelling)|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
