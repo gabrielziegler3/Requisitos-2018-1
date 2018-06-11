@@ -12,8 +12,22 @@
 |18/04/2018|1.9|Adição do cenário [Streamer](Streamer) criando video sob demanda|Amanda Pires|
 |19/04/2018|1.9|Adição do cenário 32|Gabriel Ziegler|
 |21/04/2018|2.0|Revisão geral do artefato|Gabriel Ziegler|
+|11/06/2018|2.1|Revisão do documento e inserção de Introdução, Objetivo e Metodologia|Filipe Dias|
 
-## Cenários
+### 1. Introdução
+#### 1.1. Propósito
+* O documento a seguir possui a finalidade de apresentar uma visão sobre os cenários existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch).
+
+#### 1.2. Escopo
+* Tal documento apresenta os cenários existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), tais quais definem detalhadamente os contextos, atores, recursos, pré-condições, pós-condições e os episódios da aplicação.
+
+#### 2. Objetivo
+* O objetivo a ser alcançado com a produção do artefato é de representar comportamentos do software para poder elicitar seu fluxo e sua dinâmica.
+
+#### 3. Metodologia
+* Para a elaboração deste documento, fora discutido e pensando a respeito de cada possível cenário da aplicação.
+
+#### 4. Cenários
 
 * [C001](Cenário-001) - Assistir uma [transmissão](Stream)
 
@@ -25,7 +39,7 @@
 
 * [C005](Cenário-005) - [Clipar](Clipes) uma jogada
 
-* [C006](Cenário-006) - Transmitir uma [transmissão](Stream)
+* [C006](Cenário-006) - Realizar uma [transmissão](Stream)
 
 * [C007](Cenário-007) - Dar um ban ou permaban
 
@@ -79,9 +93,41 @@
 
 * [C032](Cenário-032) - Adicionar amigos.
 
+
+___________
+
+#### 5. Resultados
+* A partir da análise desses 32 cenários, pode-se obter os seguintes requisitos listados abaixo:
+
+|Requisito|Tipo|
+|---|---|
+|Assistir [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Cadastrar na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|Funcional|
+|Dar follow em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)|Funcional|
+|Dar [subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe) em um canal|Funcional|
+|Clipar parte da [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Realizar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Banir alguém do chat|Funcional|
+|Realizar [doações](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Donate)|Funcional|
+|Adicionar Amigos|Funcional|
+|Configurar forma de pagamento|Funciuonal|
+|Denunciar canal|Funcional|
+|Fazer host de uma [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Fechar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Fazer login|Funcional|
+|Fazer login pelo Facebook|Funcional|
+|Anunciar na [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Acessar catálogo de jogos|Funcional|
+|Acessar vídeos de um canal|Funcional|
+|Acessar [clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes)|Funcional|
+|[Sussurar](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Whisper)|Funcional|
+|Mudar idioma da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|Funcional|
+|Tornar-se Twitch Partner|Não funcional|
+|Compartilhar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+
 ***
 
-### Palavras chave 🔑:
+#### 6. Palavras chave 🔑:
 * Dispositivo eletrônico = Computador, celular ou similar
 * Periféricos = Mouse, teclado, tela touch ou similar
 * Transmissão de imagem = Monitor ou similar

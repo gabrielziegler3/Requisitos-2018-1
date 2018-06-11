@@ -16,46 +16,61 @@
 |09/06/2018|2.3|Remoção de léxico inadequado, alteração de nomes |Thiago Ferreira|
 |09/06/2018|2.4|Adição de léxico User|João Carlos|
 |11/06/2018|2.5|Revisionamento e reescrita do impacto de todos os léxicos e outras mudanças menores|Thiago Ferreira|
+|11/06/2018|2.6|Revisão do documento e inserção de Introdução, Objetivo e Resultados|Filipe Dias|
 
-## Léxico
+### 1. Introdução
+#### 1.1 Propósito
+* O propósito almejado com a elaboração deste artefato é poder aplicar modelagem de requisitos, além de conectar o trabalho como um todo.
+
+#### 1.2 Escopo
+* O presente documento indica os léxicos existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), de forma a apresentar sinônimos, noções e impactos sobre aplicação.
+
+### 2. Objetivo
+* O objetivo ao produzir esse documento é de apresentar a linguagem do domínio da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) levando em consideração o seu contexto.
+
+### 3. Divisão
+* O léxico está dividido em Objeto & Verbo
+
+### 4. Léxico
 Termos e palavras cobertos por esta técnica:
-* Objeto
-  * [Moderador](Moderador)
-  * [Streamer](Streamer)
-  * [Viewer](Viewer)
-  * [Bits](Bits)
-  * [Bot](Bot)
-  * [Clipes](Clipes)
-  * [Streaming](Streaming)
-  * [Subscriber](Subscriber)
-  * [Canais em Destaque](Canais-em-Destaque)
-  * [Loot Prime](Loot-Prime)
-  * [Live Notification](Live-Notification)
-  * [Group Chat](Group-Chat)
-  * [Twitch](Twitch)
-  * [Stream](Stream)
-  * [Twitch Prime](Twitch-Prime)
-  * [Usuário Prime](Usuário-Prime)
-  * [Follower](Follower)
-  * [Emotes](Emotes)
-  * [Mods](Mods)
-  * [Creative](Creative)
-  * [User](User)
+#####  4.1 Objeto
+  * [L01 - Moderador](Moderador)
+  * [L02 - Streamer](Streamer)
+  * [L03 - Viewer](Viewer)
+  * [L04 - Bits](Bits)
+  * [L05 - Bot](Bot)
+  * [L06 - Clipes](Clipes)
+  * [L07 - Streaming](Streaming)
+  * [L08 - Subscriber](Subscriber)
+  * [L09 - Canais em Destaque](Canais-em-Destaque)
+  * [L10 - Loot Prime](Loot-Prime)
+  * [L11 - Live Notification](Live-Notification)
+  * [L12 - Group Chat](Group-Chat)
+  * [L13 - Twitch](Twitch)
+  * [L14 - Stream](Stream)
+  * [L15 - Twitch Prime](Twitch-Prime)
+  * [L16 - Usuário Prime](Usuário-Prime)
+  * [L17 - Follower](Follower)
+  * [L18 - Emotes](Emotes)
+  * [L19 - Mods](Mods)
+  * [L20 - Creative](Creative)
+  * [L21 - User](User)
 
-* Verbo
-  * [Follow](Dar-Follow)
-  * [Host](Host)
-  * [Streamar](Streamar)
-  * [Whisper](Whisper)
-  * [Subscribe](Subscribe)
-  * [Share](Share)
-  * [Maratonar](Fazer-Maratona)
-  * [Raid](Raid)
-  * [Cheer](Cheer)
-  * [Donate](Donate)
-  * [Ban](Ban)
-  * [Reagir](Reagir)
-  * [Criar Conta](Criar-Conta)
+#####  4.2 Verbo
+  * [L22 - Follow](Dar-Follow)
+  * [L23 - Host](Host)
+  * [L24 - Streamar](Streamar)
+  * [L25 - Whisper](Whisper)
+  * [L26 - Subscribe](Subscribe)
+  * [L27 - Share](Share)
+  * [L28 - Maratonar](Fazer-Maratona)
+  * [L29 - Raid](Raid)
+  * [L30 - Cheer](Cheer)
+  * [L31 - Donate](Donate)
+  * [L32 - Ban](Ban)
+  * [L33 - Reagir](Reagir)
+  * [L34 - Criar Conta](Criar-Conta)
 
 
-
+### 5. Resultados
+* Com o estudo realizado, pode-se levantar ao todo 34 simbologias. A partir disso, fora levantados seus significados e aplicados(linkados) em seus determinados contextos.
