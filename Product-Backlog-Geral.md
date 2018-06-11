@@ -61,9 +61,9 @@
 |RFN|US50|Eu, como usuário, desejo que a [Twitch](Twitch) esteja sempre no ar(24h/7), para que assim eu possa acessa-la a qualquer hora.|Must|.
 |RFN|US51|Eu, como usuário, desejo que a [Twitch](Twitch) seja portável, para que eu tenha maior flexibilidade para acessar a plataforma de múltiplos meios.|Must|
 |RF|US52|Eu, como usuário, desejo poder escolher o idioma no site da [Twitch](Twitch), para que eu possa usar a interface caso não saiba falar inglês.|Must|
-|RF|US53|Eu, como usuário, desejo receber [notificações](Live_Notification) da minha conta para que eu possa ficar alertado sobre as coisas mais importantes que acontecem.|
-|RF|US54|Eu, como empresa, desejo divulgar anúncios para que os usuários da [Twitch](Twitch) possam ver os meus produtos.|
-|RF|US55|Eu, como usário, desejo ter acesso a meio de pagamentos online para desfrutar de funcionalidades pagas.|
+|RF|US53|Eu, como usuário, desejo receber [notificações](Live_Notification) da minha conta para que eu possa ficar alertado sobre as coisas mais importantes que acontecem.|Must|
+|RF|US54|Eu, como empresa, desejo divulgar anúncios para que os usuários da [Twitch](Twitch) possam ver os meus produtos.|Could|
+|RF|US55|Eu, como usário, desejo ter acesso a meio de pagamentos online para desfrutar de funcionalidades pagas.|Must|
 
 
 ## Product Backlog - Geral 0.3 (Versão anterior)
