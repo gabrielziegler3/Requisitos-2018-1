@@ -14,7 +14,7 @@
 ## Fluxo de Eventos
 ### Fluxo Principal
 * 1. O streamer abre o stream
-* 2. O streamer localiza no seu chat, um viewer indesejado
+* 2. O streamer localiza no seu [chat](Group-Chat), um viewer indesejado
 * 3. O streamer clica no nome do [viewer](Viewer)
 * 4. O streamer seleciona 🕒 
 * 5. O streamer bane o viewer do seu [chat](Group-Chat) pelo tempo desejado
