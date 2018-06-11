@@ -35,7 +35,7 @@
 |RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
 |RF17|Gravar uma transmissão|-|-|-|
 |RF18|Destacar um vídeo|-|-|[Tela de destacar um vídeo](./images/artefato-de-desenho/Clipar.png)|
-|RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
+|RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de busca de amigos](./images/artefato-de-desenho/RF19.png)|
 |RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de adicionar amigo](./images/artefato-de-desenho/AdicionarAmigos.png)|
 |RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
 |RF22|Participar de [chats](Group-Chat)|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
