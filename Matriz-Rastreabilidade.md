@@ -23,20 +23,20 @@
 |RF4|Desabilitar conta|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de desabilitar conta](./images/artefato-de-desenho/RF6.png)|
 |RF5|Tornar-se Twitch Prime|-|[SD Twitch - Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#twitch---usu%C3%A1rio-32)|[Tela de cadastro Twitch Prime](./images/artefato-de-desenho/RF5.png)|
 |RF6|Tornar-se parceiro [Twitch](Twitch)|-|-|[Tela de cadastro parceiro Twitch](./images/artefato-de-desenho/RF6.png)|
-|RF7|Compartilhar uma [Stream](Stream)|-|-|-|
-|RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|-|
-|RF9|Acessar os chats|-|-|-|
+|RF7|Compartilhar uma [Stream](Stream)|-|-|[Tela de Compartilhar uma Stream](./images/artefato-de-desenho/CompartilharStream.png)|
+|RF8|Seguir um [Streamer](Streamer)|-|[SD Viewer - Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Dependency#viewer---streamer-22)|[Tela de Seguir Streamer](./images/artefato-de-desenho/SeguirStreamer.png)|
+|RF9|Acessar os chats|-|-|[Tela de Acessar o Chat](./images/artefato-de-desenho/AcessarChat.png)|
 |RF10|Filtrar quem digita no chat|-|-|-|
-|RF11|Banir alguém do chat|-|-|-|
-|RF12|Alterar conteúdo da [Stream](Stream)|-|-|-|
-|RF13|Visualizar chat de [Stream](Stream)|-|-|-|
-|RF14|Subir um vídeo na [Twitch](Twitch)|-|-|-|
-|RF15|Deletar um vídeo|-|-|-|
-|RF16|Programar uma premiere|-|-|-|
+|RF11|Banir alguém do chat|-|-|[Tela de banir no chat](./images/artefato-de-desenho/BanirAlguemDoChat.png)|
+|RF12|Alterar conteúdo da [Stream](Stream)|-|-|[Tela de Mudar Conteudo da Stream](./images/artefato-de-desenho/MudarConteudoStream.png)|
+|RF13|Visualizar chat de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
+|RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
+|RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
+|RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
 |RF17|Gravar uma transmissão|-|-|-|
 |RF18|Destacar um vídeo|-|-|-|
 |RF19|Buscar outros usuários|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
-|RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|-|
+|RF20|Adicionar outro usuário como amigo|-|[SR Usuário](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#usu%C3%A1rio)|[Tela de adicionar amigo](./images/artefato-de-desenho/AdicionarAmigos.png)|
 |RF21|Mandar mensagens privadas|-|-|[Tela mandar mensagem privada](./images/artefato-de-desenho/RF21.png)|
 |RF22|Participar de chats|-|[SR Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Strategic-Rationale#twitch)|[Tela participar de chat](./images/artefato-de-desenho/RF22.png)|
 |RF23|Mandar emoticons|-|-|[Tela mandar emoctions](./images/artefato-de-desenho/RF23.png)|
