@@ -14,7 +14,7 @@ Data|Versão|Descrição|Autor
 #### 1.2. Escopo
 * O presente documento indica os diagramas e especificações de caso de uso existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), tais quais tem o objetivi de mostrar detalhadamente a descrição, atores, pré-condições, pós-condições e os fluxos de eventos que podem ser divididos em principal, alternativo e de exceção.
 
-### 2. Objetivo 
+### 2. Objetivo
 * O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
 Este documento contém os casos de uso levantados pela equipe para a plataforma Twitch, em prol da disciplina de requisitos de software.
 
@@ -29,8 +29,8 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC07 - Gerar Token do Streamer](Geração-de-Token-do-Streamer)
 * [UC08 - Enviar Mensagens Privadas](Mensagens-Privadas)
 * [UC09 - Restringir Chat](Restrições-de-Chat)
-* [UC10 - Adicionar [Add-ons](Mods) em Jogos](Adição-de-Add-ons-em-Jogos)
-* [UC11 - Comunicar por [Chat](Group-Chat) de Voz](Chat-de-Voz)
+* [UC10 - Adicionar Add-ons em Jogos](Adição-de-Add-ons-em-Jogos)
+* [UC11 - Comunicar por Chat de Voz](Chat-de-Voz)
 * [UC12 - Transmitir Ads](Transmissão-de-Ads)
 * [UC13 - Assinar Twitch Prime](Assinar-Twitch-Prime)
 * [UC14 - Alterar Nome da Stream](Alterar-Nome-da-Stream)
@@ -41,7 +41,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC19 - Criar Vídeo](Criação-de-Vídeo)
 * [UC20 - Hospedagem](Hosting)
 
-### 4. Resultado 
+### 4. Resultado
 * A partir do levantamento dos casos de uso, pode-se levantar os seguintes requisitos, listados abaixo:
 
 |Requisito|Tipo|
@@ -49,7 +49,7 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 |Assistir [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
 |Realizar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
 |Criar Conta|Funcional|
-|Inscrever-se em Canal ([Subscribe](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe))|Funcional|
+|[Inscrever-se em Canal](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)|Funcional|
 |Doar [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)|Funcional|
 |Comprar [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)|Funcional|
 |Gerar Token|Funcional|
