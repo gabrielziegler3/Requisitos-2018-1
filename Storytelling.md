@@ -2,6 +2,10 @@
 
 ![Storytelling](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Storytelling/storytelling-jonas.png)
 
+_____
+
+![Storytelling-portabilidade](./images/storytelling/storytelling-portabilidade.png)
+
 ### O que é Storytelling?
 
 <p align=justify>
