@@ -3,10 +3,11 @@
 |01/04/2018|1.0|Criação do Documento|Gustavo Carvalho|
 |01/04/2018|1.1|Referenciação de links de imagens dos argumentos|Gustavo Carvalho|
 |01/04/2018|1.2|Descrição dos argumentos |Amanda Pires, Filipe Dias, Gustavo Carvalho, Gabriel Ziegler, João Carlos, Thiago Ferreira|
+|11/06/2018|1.3|Adicionando requisitos levantados| Amanda Pires|
 
-## Argumentação
+## 1. Argumentação
 
-### Cadastro 1.1.0
+###  1.1. Cadastro
 Argumentação - Cadastro
 Cadastro: Possibilidade de um indivíduo se cadastrar no site com email e nome de usuário, e a
 capacidade de acessar as funcionalidades do site.
@@ -19,7 +20,7 @@ capacidade de acessar as funcionalidades do site.
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/cadastro-1.1.0.png" width=500px>
 
-### Subscribe 1.0.0
+### 1.2. Subscribe
 Subscribe: Opção do usuário para se inscrever em um canal de um
 Streamer ​ pagando uma mensalidade para receber conteúdos exclusivos e
 maior interatividade com o ​ [Streamer](Streamer) . ​
@@ -31,7 +32,7 @@ menos abertos a todos espectadores
 
 <img src="https://github.com/gabrielziegler3/Requisitos-2018-1/blob/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/subscribe-1.0.0.png" width=500px>
 
-### Twitch-Partner 1.0.0
+###  1.3. Twitch-Partner
 Um Twitch Partner é o usuário que possui um grande número de [subcribers](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe) e foi aceito para tal
 personagem, e com isso, pode arrecadar mais dinheiro com a divulgação de anúcios, em que metade
 fica para a [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) e a outra metade para o usuário.
@@ -44,7 +45,7 @@ seu tempo se dedicando ao site para ganhar pouco dinheiro.
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/twitch-partner-1.0.0.png" width=500px>
 
-### [Twitch-Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime) 1.0.0
+###  1.4. [Twitch-Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)
 Opção de assinatura ​ premium ​ ao usuário, trazendo
 benefícios como: conteúdos exclusivos dentro de jogos, uma subscrição
 grátis por mês, sem anúncios, entre outros.
@@ -56,7 +57,7 @@ usuário
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/twitch-prime-1.0.0.png" width=500px>
 
-### [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) Desktop App 1.0.0
+###  1.5. [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) Desktop App
 * i(p1): Deveria, eu, como usuário, usar a [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) diretamente no browser ou baixar o aplicativo para desktop da mesma?
 * i(p2): O aplicativo baixável da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch) disponibiliza inicialização com o computador, chat de voz e texto integrado, suporte para streaming e add-ons para diversos outros jogos, funções, estas últimas duas, que outrora foram proporcionadas pela plataforma Curse, hoje, integrada à [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch).
 * i(p3): Entretanto, acessar por browser proporciona economia de memória, tanto RAM (quando não se quer utilizar a plataforma e ela está aberta) quanto de armazenamento, tempo de inicialização e não necessita de download algum.
@@ -69,5 +70,18 @@ usuário
 
 <img src="https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Imagens_Argumenta%C3%A7%C3%A3o/twitch-desktop-app-1.0.0.png" width=500px>
 
-### Conclusão
+### 2. Requisitos Levantados
+
+|Requisito|Descrição|
+|------|------|
+|RF1| Cadastrar na [Twitch](Twitch)|
+|RF2| Assitir stream|
+|RF3| Se inscrever em canal|
+|RF4| Receber [notificações](Live_Notification)|
+|RF5| Participar de [chat](Group-Chat)|
+|RF6| Monetizar [stream](Stream)|
+|RF7|Tornar-se prime|
+|RNF8| Ter portabilidade|
+
+### 3. Conclusão
 * A argumentação é uma técnica bastante útil quando se trata de conflitos de pensamentos a respeito de um determinado contexto, inserido em um domínio específico. Ao utilizar da técnica, ficou mais claro como as coisas acontecem dentro da plataforma [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch).
