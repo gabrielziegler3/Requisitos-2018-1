@@ -100,12 +100,12 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RF22|Participar de [chats](Group-Chat)|[US22](Product-Backlog)|-|-|-|-|-|-|[Análise de Protocolo](Híbrido-(Análise-de-Protocolo--&-Observação-Participativa))|-|-|-|
 |RF23|Mandar emoticons|[US23](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|
 |RF24|Bloquear alguém em uma conversa|[US24](Product-Backlog)|[UC08 - Enviar Mensagens Privadas]()|-|-|-|-|-|-|-|-|-|
-|RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
-|RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
-|RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
-|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|||
-|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-||-|-|-|-|-|-|-|
-|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar Add-ons em jogos]()|-|-|-|-|-|-|-|-|-|
+|RF25|Sincronizar [add-ons](Mods)|[US25](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-|-|-|-|-|-|-|-|-|
+|RF26|Filtrar os [add-ons](Mods) vistos|[US26](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-||-|-|-|-|-|-|-|
+|RF27|Instalar novos [add-ons](Mods)|[US27](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-||-|-|-|-|-|-|-|
+|RF28|Deletar [add-ons](Mods)|[US28](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-||-|-|-|-|-|||
+|RF29|Disponibilizar novos [add-ons](Mods)|[US29](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-||-|-|-|-|-|-|-|
+|RF30|Atualizar os [add-ons](Mods) de forma automatizada|[US30](Product-Backlog)|[UC10 - Adicionar [Add-ons](Mods) em jogos]()|-|-|-|-|-|-|-|-|-|
 |RF31|Criar uma nova chamada de voz|[US31](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
 |RF32|Filtrar usuários que entrarem na chamada|[US32](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|
 |RF33|Realizar uma vídeo conferência|[US33](Product-Backlog)|[UC11 - Enviar [Chat](Group-Chat) de Voz]()|-|-|-|-|-|-|-|-|-|

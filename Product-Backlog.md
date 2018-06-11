@@ -24,7 +24,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 * 1. Cadastro = [EP01](#ep01---eu-como-usu%C3%A1rio-desejo-gerenciar-meu-cadastro-na-twitch)
 * 2. Stream = [EP02](#ep02---eu-como-usu%C3%A1rio-desejo-usufruir-servi%C3%A7os-relacionados-a-streaming-na-twitchtv) e & [EP03](#ep03---eu-como-usu%C3%A1rio-desejo-gerenciar-um-v%C3%ADdeo-na-twitchtv-para-visualiza%C3%A7%C3%A3o-da-comunidade)
 * 3. Comunicação = [EP06](#ep06---eu-como-usu%C3%A1rio-desejo-poder-fazer-uso-de-confer%C3%AAncias-de-voz-para-me-comunicar-com-outras-pessoas) e [EP04](#ep04---eu-como-usuário-desejo-me-comunicar-com-outros-usuários)
-* 4. Add-ons [EP05](#ep05---eu-como-usu%C3%A1rio-desejo-gerenciar-add-ons-pela-twitch-para-usufruir-de-maiores-funcionalidades-em-determinados-jogos)
+* 4. [Add-ons](Mods) [EP05](#ep05---eu-como-usu%C3%A1rio-desejo-gerenciar-add-ons-pela-twitch-para-usufruir-de-maiores-funcionalidades-em-determinados-jogos)
 * 5. Finanças = [EP07](#ep07---eu-como-usu%C3%A1rio-desejo-poder-contribuir-financeiramente-com-canais-e-com-a-twitch-para-incentivar-eou-recompensar-pelo-entretenimento-fornecido)
 
 ## Épicos
@@ -35,7 +35,7 @@ Este Artefato será composto pelos Épicos do projeto da Twitch, estes sendo div
 |EP02|Eu, como usuário, desejo usufruir serviços relacionados a streaming na twitch.tv|Eu tenha a melhor experiência com streams|
 |EP03|Eu, como usuário, desejo gerenciar um vídeo na twitch.tv| Tenha um maior controle do conteúdo postado.|
 |EP04|Eu, como usuário, desejo me comunicar com outros usuários |Haja maior interatividade entre os usuários.|
-|EP05|Eu, como usuário, desejo gerenciar add-ons pela twitch|Eu possa usufruir de maiores funcionalidades em determinados jogos|
+|EP05|Eu, como usuário, desejo gerenciar [add-ons](Mods) pela twitch|Eu possa usufruir de maiores funcionalidades em determinados jogos|
 |EP06|Eu, como usuário, desejo poder fazer uso de conferências de voz|seja possível se comunicar com outras pessoas|
 |EP07|Eu, como usuário, desejo poder contribuir financeiramente com canais e com a twitch|Eu possa incentivar e/ou recompensar pelo entretenimento fornecido.|
 
