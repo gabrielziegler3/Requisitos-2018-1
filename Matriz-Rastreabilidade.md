@@ -29,7 +29,7 @@
 |RF10|Filtrar quem digita no chat|-|-|-|
 |RF11|Banir alguém do chat|-|-|[Tela de banir no chat](./images/artefato-de-desenho/BanirAlguemDoChat.png)|
 |RF12|Alterar conteúdo da [Stream](Stream)|-|-|[Tela de Mudar Conteudo da Stream](./images/artefato-de-desenho/MudarConteudoStream.png)|
-|RF13|Visualizar chat de [Stream](Stream)|-|-|-|
+|RF13|Visualizar chat de [Stream](Stream)|-|-|[Tela de visualizar chat](./images/artefato-de-desenho/AcessarChat.png)|
 |RF14|Subir um vídeo na [Twitch](Twitch)|-|-|[Tela de subir um vídeo](./images/artefato-de-desenho/UploadVideos.png)|
 |RF15|Deletar um vídeo|-|-|[Tela de Deletar um vídeo](./images/artefato-de-desenho/DeletarVideo.png)|
 |RF16|Programar uma premiere|-|-|[Tela de programar uma premier](./images/artefato-de-desenho/ProgramarPremiere.png)|
