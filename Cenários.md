@@ -21,13 +21,13 @@
 #### 1.2. Escopo
 * Tal documento apresenta os cenários existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), tais quais definem detalhadamente os contextos, atores, recursos, pré-condições, pós-condições e os episódios da aplicação.
 
-#### 2. Objetivo
+### 2. Objetivo
 * O objetivo a ser alcançado com a produção do artefato é de representar comportamentos do software para poder elicitar seu fluxo e sua dinâmica.
 
-#### 3. Metodologia
+### 3. Metodologia
 * Para a elaboração deste documento, fora discutido e pensando a respeito de cada possível cenário da aplicação.
 
-#### 4. Cenários
+### 4. Cenários
 
 * [C001](Cenário-001) - Assistir uma [transmissão](Stream)
 
