@@ -2,7 +2,9 @@
 |--|--|--|--|
 |27/05/2018|1.0|Criação e desenvolvimento do documento|Gabriel Ziegler|
 |11/06/2018|1.1|Revisão do documento|Filipe Dias|
-|11/06/2018|1.2|Adição storyboard|Gustavo Carvalho|
+|11/06/2018|1.2|Adição storyboard|Gustavo Carvalho, João Carlos|
+|11/06/2018|1.3|Edição do documento|Filipe Dias|
+
 # Storytelling
 
 ![Storytelling](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Storytelling/storytelling-jonas.png)
@@ -18,6 +20,11 @@ _____
 _____
 
 ![Storytelling-notificacao](./images/storytelling/storytelling-bit.png)
+
+_____
+
+![Storytelling-chat](./images/storytelling/storytelling-chat.jpg)
+
 
 ### 1. O que é Storytelling?
 
@@ -47,6 +54,8 @@ O objetivo ao narrar a experiência de Jonas é de entender como pessoas podem t
 |Quantidade de [Clipes](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Clipes) ilimitadas|Não Funcional|
 |Portabilidade Mobile|Não funcional|
 |Download pelo app do celular|Não Funcional|
+|Receber notificações|Funcional|
+|Conversar em um chat privado|Funcional|
 
 
 ### 5. Fontes:
