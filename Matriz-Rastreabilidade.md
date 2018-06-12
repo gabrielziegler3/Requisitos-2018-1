@@ -11,6 +11,7 @@
 |10/06/2018|1.8|Adição de conteúdo na tabela Forward From|João Carlos|
 |10/06/2018|1.9|Adição de conteúdo na tabela Backward From|João Carlos,Gustavo Carvalho|
 |11/06/2018|2.0|Adição de conteúdo na tabela Forward From|João Carlos|
+|11/06/2018|2.1|Adição de links na tabela backward|Gustavo Carvalho|
 
 # Pós rastreabilidade
 

@@ -2,7 +2,7 @@
 |--|--|--|--|
 |27/05/2018|1.0|Criação e desenvolvimento do documento|Gabriel Ziegler|
 |11/06/2018|1.1|Revisão do documento|Filipe Dias|
-
+|11/06/2018|1.2|Adição storyboard|Gustavo Carvalho|
 # Storytelling
 
 ![Storytelling](https://raw.githubusercontent.com/gabrielziegler3/Requisitos-2018-1/master/imagens/Storytelling/storytelling-jonas.png)
@@ -10,6 +10,10 @@
 _____
 
 ![Storytelling-portabilidade](./images/storytelling/storytelling-portabilidade.png)
+
+_____
+
+![Storytelling-notificações](./images/storytelling/storytelling-notificações.png)
 
 ### 1. O que é Storytelling?
 
