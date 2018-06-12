@@ -13,7 +13,7 @@ Data|Versão|Descrição|Autor
 * O documento presente tem o propósito de apresentar os diagramas e as especificações de caso de uso essenciais paraå modelar requisitos, com foco em requisitos funcionais.
 
 #### 1.2. Escopo
-* O presente documento indica os diagramas e especificações de caso de uso existentes na [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch), tais quais tem o objetivi de mostrar detalhadamente a descrição, atores, pré-condições, pós-condições e os fluxos de eventos que podem ser divididos em principal, alternativo e de exceção.
+* O presente documento indica os diagramas e especificações de caso de uso existentes na [Twitch](Twitch), tais quais tem o objetivi de mostrar detalhadamente a descrição, atores, pré-condições, pós-condições e os fluxos de eventos que podem ser divididos em principal, alternativo e de exceção.
 
 ### 2. Objetivo
 * O Diagrama de Casos de Uso tem o objetivo de auxiliar a comunicação entre os analistas e o cliente. Um diagrama de Caso de Uso descreve um cenário que mostra as funcionalidades do sistema do ponto de vista do usuário, através do uso de atores, cenários e a interação entre estes elementos.
@@ -48,19 +48,19 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 
 |Requisito|Tipo|
 |---|---|
-|Assistir [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
-|Realizar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Assistir [Stream](Stream)|Funcional|
+|Realizar [Stream](Stream)|Funcional|
 |Criar Conta|Funcional|
-|[Inscrever-se em Canal](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Subscribe)|Funcional|
-|Doar [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)|Funcional|
-|Comprar [Bits](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Bits)|Funcional|
+|[Inscrever-se em Canal](Subscribe)|Funcional|
+|Doar [Bits](Bits)|Funcional|
+|Comprar [Bits](Bits)|Funcional|
 |Gerar Token|Funcional|
 |Enviar mensagens privadas|Funcional|
-|Restringir Chat|Funcional|
+|Restringir [Chat](Group-Chat)|Funcional|
 |Transmitir anúncios|Funcional|
-|Assinar [Twitch Prime](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch-Prime)|Funcional|
-|Alterar nome da [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
-|[Dar Follow](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Dar-follow) em um [Streamer](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Streamer)|Funcional|
+|Assinar [Twitch Prime](Twitch-Prime)|Funcional|
+|Alterar nome da [Stream](Stream)|Funcional|
+|[Dar Follow](Dar-follow) em um [Streamer](Streamer)|Funcional|
 |Adicionar amigo|Funcional|
 
 ### 5. Conclusão
