@@ -132,6 +132,6 @@ Requisito|Descrição|Product Backlog|Esp. Casos de Uso|Cenário|Léxico|Moscow|
 |RNF50|Funcionamento 24h/7|[US50](Product-Backlog)|-|-|-|-|-|-|-|-|-|-|-|
 |RNF51|Portabilidade|[US51](Product-Backlog)|-|-|-|-|-|-|[Introspecção](Introspecção)|[Storytelling](Storytelling)|-|-|[Twitch Desktop App 1.0](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Argumenta%C3%A7%C3%A3o#twitch-desktop-app-100)|
 |RF52|Tradução|[US52](Product-Backlog)|-|[Cenário-024](Cenário-024)|-|-|[First Things First](First-Things-First)|-|-|-|-|-|-|
-|RF53|Receber [notificações](Live_Notification).|[US08](Product-Backlog-Geral#product-backlog---geral-11)|[UC21 - Receber notificacao](Notificacao)|[Cenário 33](Cenário-033)| [Notificação](Live-Notification)|-|-|-|-|-|-|-|[Argumentação](Argumentação#1-argumentação)|
+|RF53|Receber [notificações](Live_Notification).|[US08](Product-Backlog-Geral#product-backlog---geral-11)|-|[Cenário 33](Cenário-033)| [Notificação](Live-Notification)|-|-|-|-|-|-|-|[Argumentação](Argumentação#1-argumentação)|
 |RF54|Divulgar anúncios nas lives da [Twitch](Twitch).|[US41](Product-Backlog)|-|-|-|-|-|-|-|-|-|[RichPicture](RichPicture#134-patrocinador)|-|
 |RF55|Ter acesso a meio de pagamentos online.|[US05](Product-Backlog)|-|[Cenario 11](Cenário-011)|-|-|-|-|[Introspecção](Introspecção)|-|-|[Rich Picture](RichPicture#133-streamer)|-|
