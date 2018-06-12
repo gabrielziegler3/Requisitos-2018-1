@@ -2,7 +2,8 @@
 |----|------|---------|-----|
 |22/05/2018|0.1|Criação do Documento|Thiago Ferreira|
 |23/05/2018|0.2|Adição de descrições e referências|Amanda Pires|
-|23/05/2018|0.2|Adição descrições do processo semi-automatizado|Gabriel Ziegler|
+|23/05/2018|0.3|Adição descrições do processo semi-automatizado|Gabriel Ziegler|
+|11/06/2018|0.4|Revisão e correção|Gabriel Ziegler|
 
 # Inspecção
 A inspeção é um método que contribui para garantir a qualidade do produto de software. Todas as etapas do processo de desenvolvimento de software são suscetíveis à incorporação de defeitos, que podem ser detectados pela inspeção e posteriormente removidos.Logo, revisaremos os documentos de elicitação, os cenários e léxicos, os Casos de Usos produzidos, as histórias de usuário levantas, os diagramas NFR e os diagramas iStar.
@@ -49,6 +50,10 @@ Alguns processos das inspeções foram feitas utilizando-se de scripts que ou au
 * [Histórias de Usuário](Verificação-Histórias-de-Usuário)
 * [NFR](Verificação-NFR)
 * [iStar](Verificação-iStar)
+
+# Validação
+
+Como a validação é uma técnica realizada em junta ao cliente, o time de engenharia de requisitos decidiu que não seria adequado a aplicação dessa técnica no momento atual, já que o time está fazendo um estudo em cima de uma plataforma já desenvolvida e não desenvolvendo um sistema novo.
 
 # Referências
 
