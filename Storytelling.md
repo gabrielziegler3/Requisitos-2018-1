@@ -13,7 +13,11 @@ _____
 
 _____
 
-![Storytelling-notificações](./images/storytelling/storytelling-notificações.png)
+![Storytelling-notificacao](./images/storytelling/storytelling-notificacao.png)
+
+_____
+
+![Storytelling-notificacao](./images/storytelling/storytelling-bit.png)
 
 ### 1. O que é Storytelling?
 
