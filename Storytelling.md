@@ -3,6 +3,7 @@
 |27/05/2018|1.0|Criação e desenvolvimento do documento|Gabriel Ziegler|
 |11/06/2018|1.1|Revisão do documento|Filipe Dias|
 |11/06/2018|1.2|Adição storyboard|Gustavo Carvalho|
+|11/06/2018|1.3|Edição do documento|Filipe Dias|
 
 # Storytelling
 
