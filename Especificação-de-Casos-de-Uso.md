@@ -6,7 +6,6 @@ Data|Versão|Descrição|Autor
 19/04/2018|1.3|Adição dos UC 01,02,04,09,10 e 11 e algumas outras alterações aos UC feitos por outros membros|Thiago Ferreira
 20/04/2018|1.4|Revisão|João Carlos|
 01/05/2018|1.5|Modificações e retrabalho realizado após inspecção de todos os casos de uso|Thiago Ferreira|
-11/06/2018|1.6|Adicionando UC 21|Amanda Pires|
 
 ### 1. Introdução
 #### 1.1 Propósito
@@ -41,7 +40,6 @@ Este documento contém os casos de uso levantados pela equipe para a plataforma 
 * [UC18 - Compartilhar uma Transmissão](Compartilhar-uma-Transmissão)
 * [UC19 - Criar Vídeo](Criação-de-Vídeo)
 * [UC20 - Hospedagem](Hosting)
-* [UC21 - Receber Notificação](Notificacao)
 
 ### 4. Resultado
 * A partir do levantamento dos casos de uso, pode-se levantar os seguintes requisitos, listados abaixo:
