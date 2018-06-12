@@ -127,6 +127,7 @@ ___________
 |Mudar idioma da [Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Twitch)|Funcional|
 |Tornar-se Twitch Partner|Não funcional|
 |Compartilhar [Stream](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Stream)|Funcional|
+|Receber [Notificação](Live-Notification)|Funcional|
 
 ***
 
