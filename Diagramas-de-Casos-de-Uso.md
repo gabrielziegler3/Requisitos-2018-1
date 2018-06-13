@@ -6,7 +6,7 @@ Data|Versão|Descrição|Autor
 20/04/2018|1.3|Revisão|João Carlos|
 22/04/2018|1.4|Adição de Casos de Uso 02, 03, 04, 05 e 06|Amanda Pires|
 22/04/2018|1.5|Adição de Casos 16,17 e geral|Gustavo Carvalho|
-
+22/04/2018|1.6|Adição diagramas casos de uso 19 e 20| Thiago Ferreira
 * [UC Geral](Diagrama-Geral)
 * [UC01 - Visualizar Stream](Diagrama-Visualização-de-Stream)
 * [UC02 - Transmitir Multimídia](Diagrama-transmitir-multimídia)
