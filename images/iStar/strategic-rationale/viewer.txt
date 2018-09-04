@@ -1,0 +1,270 @@
+{
+  "actors": [
+    {
+      "id": "82b1d097-3ab6-410b-b30b-8e74c6682b16",
+      "text": "Viewer",
+      "type": "istar.Role",
+      "x": 59,
+      "y": 129,
+      "nodes": [
+        {
+          "id": "d4920317-41c6-43d2-80ce-e4f2661bf124",
+          "text": "Stream seja acompanhada",
+          "type": "istar.Goal",
+          "x": 354,
+          "y": 199
+        },
+        {
+          "id": "f7aec691-af09-4c11-b4a4-9e8284a931c5",
+          "text": "Assistir stream",
+          "type": "istar.Task",
+          "x": 284,
+          "y": 276
+        },
+        {
+          "id": "b768a0cc-f920-411d-aa0d-0e13b28a7a63",
+          "text": "Fazer clip da stream",
+          "type": "istar.Task",
+          "x": 398,
+          "y": 278
+        },
+        {
+          "id": "c21cd4c5-4eec-4d99-abae-3e9e889a9fdd",
+          "text": "Doar cheer",
+          "type": "istar.Task",
+          "x": 478,
+          "y": 211
+        },
+        {
+          "id": "a20922f3-7227-4b71-adac-32c268664386",
+          "text": "Alta performance [transmissão]",
+          "type": "istar.Quality",
+          "x": 276,
+          "y": 158
+        },
+        {
+          "id": "d9ede660-7995-4e04-ac5e-6cc1c838ee47",
+          "text": "Seguir usuário",
+          "type": "istar.Goal",
+          "x": 359,
+          "y": 338
+        },
+        {
+          "id": "4044881b-3278-46b7-bb37-f86b20f974ef",
+          "text": "Fazer inscrição",
+          "type": "istar.Task",
+          "x": 252,
+          "y": 416
+        },
+        {
+          "id": "4e691e95-dc18-4910-87d2-a10bfc82e24d",
+          "text": "Escolher forma de pagamento",
+          "type": "istar.Task",
+          "x": 378,
+          "y": 438
+        },
+        {
+          "id": "19eede65-70f3-4885-bb49-299263cc1dd0",
+          "text": "Realizar pagamento",
+          "type": "istar.Task",
+          "x": 475,
+          "y": 386
+        },
+        {
+          "id": "f564239f-05aa-4bf0-ad65-697499630c9d",
+          "text": "Boa segurança [transações]",
+          "type": "istar.Quality",
+          "x": 232,
+          "y": 340
+        },
+        {
+          "id": "27d7ec95-9424-4748-a1a3-896edd7378ed",
+          "text": "DashBoard seja acessado",
+          "type": "istar.Goal",
+          "x": 629,
+          "y": 218
+        },
+        {
+          "id": "6cd22f51-e583-46a3-80c8-e02571ef3831",
+          "text": "Adicionar evento",
+          "type": "istar.Task",
+          "x": 585,
+          "y": 319
+        },
+        {
+          "id": "538d8865-7d5f-484b-9d40-7aebd07ef018",
+          "text": "Instalar extensão",
+          "type": "istar.Task",
+          "x": 766,
+          "y": 228
+        },
+        {
+          "id": "c3e3d1bf-608c-4687-a768-384eca650807",
+          "text": "Acessar lives",
+          "type": "istar.Task",
+          "x": 724,
+          "y": 318
+        },
+        {
+          "id": "63e5ee9a-0fde-4f77-8963-5c02cd691125",
+          "text": "Inserir dados do evento",
+          "type": "istar.Task",
+          "x": 603,
+          "y": 424
+        },
+        {
+          "id": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
+          "text": "Boa usabilidade [DashBoard]",
+          "type": "istar.Quality",
+          "x": 741,
+          "y": 406
+        },
+        {
+          "id": "4b13f7fe-325f-4672-a3c4-8a7a669527be",
+          "text": "Viewer seja Prime",
+          "type": "istar.Goal",
+          "x": 146,
+          "y": 251
+        },
+        {
+          "id": "3dddce2c-7350-43fa-b723-b154089ab370",
+          "text": "Experimentar 7 dias grátis",
+          "type": "istar.Task",
+          "x": 59,
+          "y": 345
+        },
+        {
+          "id": "6a7043eb-be0b-4641-a2de-db5adde90caa",
+          "text": "Assinar twitch Prime",
+          "type": "istar.Task",
+          "x": 133,
+          "y": 410
+        },
+        {
+          "id": "e315a943-4337-423a-b6bd-e7677d9a09ce",
+          "text": "Inscrever na Amazon",
+          "type": "istar.Task",
+          "x": 155,
+          "y": 153
+        }
+      ]
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "61a07d7a-a1af-4227-8d8e-7a9ba39e17c4",
+      "type": "istar.OrRefinementLink",
+      "source": "f7aec691-af09-4c11-b4a4-9e8284a931c5",
+      "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
+    },
+    {
+      "id": "3b688284-dbef-4137-8386-37b5d8c63ba7",
+      "type": "istar.OrRefinementLink",
+      "source": "b768a0cc-f920-411d-aa0d-0e13b28a7a63",
+      "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
+    },
+    {
+      "id": "a4d6f2f3-a3b5-43e2-b3dd-301d7865f466",
+      "type": "istar.OrRefinementLink",
+      "source": "c21cd4c5-4eec-4d99-abae-3e9e889a9fdd",
+      "target": "d4920317-41c6-43d2-80ce-e4f2661bf124"
+    },
+    {
+      "id": "23d2deb1-7b09-47c8-8c64-14ab058c73cd",
+      "type": "istar.AndRefinementLink",
+      "source": "4044881b-3278-46b7-bb37-f86b20f974ef",
+      "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
+    },
+    {
+      "id": "1864fc6a-83b0-4a5d-8a00-5969512b208e",
+      "type": "istar.AndRefinementLink",
+      "source": "4e691e95-dc18-4910-87d2-a10bfc82e24d",
+      "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
+    },
+    {
+      "id": "084c565e-426d-4c44-8a12-a3351cff2cd6",
+      "type": "istar.AndRefinementLink",
+      "source": "19eede65-70f3-4885-bb49-299263cc1dd0",
+      "target": "d9ede660-7995-4e04-ac5e-6cc1c838ee47"
+    },
+    {
+      "id": "32197632-8a73-4903-a1bd-13fedb8eabe4",
+      "type": "istar.OrRefinementLink",
+      "source": "6cd22f51-e583-46a3-80c8-e02571ef3831",
+      "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
+    },
+    {
+      "id": "01ec8cb5-8574-4c11-abc8-e067d8facdef",
+      "type": "istar.OrRefinementLink",
+      "source": "c3e3d1bf-608c-4687-a768-384eca650807",
+      "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
+    },
+    {
+      "id": "82ec0e83-b7f9-4e48-94d1-cdf252af2033",
+      "type": "istar.OrRefinementLink",
+      "source": "538d8865-7d5f-484b-9d40-7aebd07ef018",
+      "target": "27d7ec95-9424-4748-a1a3-896edd7378ed"
+    },
+    {
+      "id": "c66a5f42-29bc-41fc-82a8-68abee5c75ae",
+      "type": "istar.OrRefinementLink",
+      "source": "63e5ee9a-0fde-4f77-8963-5c02cd691125",
+      "target": "6cd22f51-e583-46a3-80c8-e02571ef3831"
+    },
+    {
+      "id": "a00f09c4-0055-486a-9a40-f1b1a7d68dd9",
+      "type": "istar.OrRefinementLink",
+      "source": "3dddce2c-7350-43fa-b723-b154089ab370",
+      "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
+    },
+    {
+      "id": "9119ea03-53d3-4a9a-a9ad-42265a1883d9",
+      "type": "istar.OrRefinementLink",
+      "source": "6a7043eb-be0b-4641-a2de-db5adde90caa",
+      "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
+    },
+    {
+      "id": "90baab2e-f184-41d3-a8ab-a85f9541a0b3",
+      "type": "istar.OrRefinementLink",
+      "source": "e315a943-4337-423a-b6bd-e7677d9a09ce",
+      "target": "4b13f7fe-325f-4672-a3c4-8a7a669527be"
+    },
+    {
+      "id": "e3509445-9990-4887-ab62-bc0cbdc817ed",
+      "type": "istar.ContributionLink",
+      "source": "6a7043eb-be0b-4641-a2de-db5adde90caa",
+      "target": "f564239f-05aa-4bf0-ad65-697499630c9d",
+      "label": "help"
+    },
+    {
+      "id": "47a91c24-cb91-4399-9c29-f29e8c453016",
+      "type": "istar.ContributionLink",
+      "source": "f7aec691-af09-4c11-b4a4-9e8284a931c5",
+      "target": "a20922f3-7227-4b71-adac-32c268664386",
+      "label": "make"
+    },
+    {
+      "id": "a269b2c9-ea1f-4567-95d1-00cdfee9f91c",
+      "type": "istar.ContributionLink",
+      "source": "c3e3d1bf-608c-4687-a768-384eca650807",
+      "target": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
+      "label": "help"
+    },
+    {
+      "id": "2d709ce9-3d09-4356-9697-df8cdf4c8d93",
+      "type": "istar.ContributionLink",
+      "source": "63e5ee9a-0fde-4f77-8963-5c02cd691125",
+      "target": "99688c4d-d45d-4d76-affa-6c3c7e4f42cf",
+      "label": "help"
+    }
+  ],
+  "display": {},
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sun, 27 May 2018 21:57:33 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}

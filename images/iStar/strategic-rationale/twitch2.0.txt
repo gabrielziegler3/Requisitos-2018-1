@@ -1,0 +1,464 @@
+{
+  "actors": [
+    {
+      "id": "3589ee55-603d-41ee-8bf1-2b2a54498def",
+      "text": "Twitch",
+      "type": "istar.Actor",
+      "x": 17,
+      "y": 146,
+      "nodes": [
+        {
+          "id": "b277c23e-0447-40bf-9174-7e8b3aedde99",
+          "text": "Hospedar stream",
+          "type": "istar.Task",
+          "x": 735,
+          "y": 235
+        },
+        {
+          "id": "c3c2db95-4c57-4087-8048-d56467c5a146",
+          "text": "Notificar mensagens",
+          "type": "istar.Task",
+          "x": 1019,
+          "y": 391
+        },
+        {
+          "id": "30c9cbe6-7365-4266-9ab5-73dc85164ef4",
+          "text": "Seja capaz de hospedar stream",
+          "type": "istar.Goal",
+          "x": 738,
+          "y": 159
+        },
+        {
+          "id": "344bf5cb-84ec-4cd1-9226-9ef39a0d92cc",
+          "text": "Transmitir vídeos ao vivo",
+          "type": "istar.Task",
+          "x": 661,
+          "y": 322
+        },
+        {
+          "id": "b4f99103-3d81-47b5-a9e2-2f61351eb891",
+          "text": "Criar coleções de stream",
+          "type": "istar.Task",
+          "x": 790,
+          "y": 321
+        },
+        {
+          "id": "2035e241-fd1a-496f-b607-96f32f0c4019",
+          "text": "Seja capaz de enviar notificações",
+          "type": "istar.Goal",
+          "x": 957,
+          "y": 163
+        },
+        {
+          "id": "e0864e5a-0722-4db2-baf7-bcf161fcb840",
+          "text": "Enviar notificações aos usuários",
+          "type": "istar.Task",
+          "x": 955,
+          "y": 238
+        },
+        {
+          "id": "4d7aa09a-c2f5-4ff8-89ee-c7bfc979e529",
+          "text": "Notificar solicitação de amizade",
+          "type": "istar.Task",
+          "x": 918,
+          "y": 323
+        },
+        {
+          "id": "00b4d057-cb51-4665-a390-0e383091a111",
+          "text": "Notificar sussurro",
+          "type": "istar.Task",
+          "x": 1095,
+          "y": 235
+        },
+        {
+          "id": "833d94f6-97df-4e64-9e2d-76f5acff32b7",
+          "text": "Notificar publicações",
+          "type": "istar.Task",
+          "x": 1092,
+          "y": 324
+        },
+        {
+          "id": "591b4335-d2b0-40a3-958a-2c4acfb28dfc",
+          "text": "Seja capaz de fazer comunicação",
+          "type": "istar.Goal",
+          "x": 773,
+          "y": 405
+        },
+        {
+          "id": "8d9a95a9-c2a0-4bc1-81f8-d328b6f53b6a",
+          "text": "Criar um chat de voz",
+          "type": "istar.Task",
+          "x": 764,
+          "y": 628
+        },
+        {
+          "id": "9fa29cf0-fa05-4df1-b77a-1e7e8df34576",
+          "text": "Estabelecer comunicação entre usuários",
+          "type": "istar.Task",
+          "x": 836,
+          "y": 554
+        },
+        {
+          "id": "e50bfa9c-7293-466b-9987-c6ac87618a4b",
+          "text": "Enviar mensagens",
+          "type": "istar.Task",
+          "x": 880,
+          "y": 629
+        },
+        {
+          "id": "1a70b5ff-9932-406c-a705-f417401c1bce",
+          "text": "Seja capaz de ser acessada",
+          "type": "istar.Goal",
+          "x": 1075,
+          "y": 462
+        },
+        {
+          "id": "27ad3074-1c47-474b-9e97-7675c300bac0",
+          "text": "Ser acessada",
+          "type": "istar.Task",
+          "x": 1072,
+          "y": 532
+        },
+        {
+          "id": "efcc1b3f-aaf9-4501-afd9-416b630d37b6",
+          "text": "Lidar com milhões de acessos",
+          "type": "istar.Task",
+          "x": 1106,
+          "y": 615
+        },
+        {
+          "id": "2bdddff2-b1cc-4c77-a0bc-175f4edfba71",
+          "text": "Alta performance",
+          "type": "istar.Quality",
+          "x": 958,
+          "y": 550
+        },
+        {
+          "id": "dca6c951-74fc-473f-bb79-61283c1aa0b4",
+          "text": "Boa Segurança",
+          "type": "istar.Quality",
+          "x": 610,
+          "y": 406
+        },
+        {
+          "id": "74b48094-e9e6-4ea3-930e-4848e64d9216",
+          "text": "Comunicar com a Amazon",
+          "type": "istar.Task",
+          "x": 659,
+          "y": 630
+        },
+        {
+          "id": "6704b8c0-4dc8-489e-9bfd-3b171f9231f8",
+          "text": "Comunicar com o facebook",
+          "type": "istar.Task",
+          "x": 555,
+          "y": 471
+        },
+        {
+          "id": "6d20db04-df41-4c23-a719-f9a3caa86a33",
+          "text": "Comunicar com meios de pagamentos",
+          "type": "istar.Task",
+          "x": 538,
+          "y": 627
+        },
+        {
+          "id": "52c2377c-288a-4c4f-8753-9db313c75166",
+          "text": "Seja capaz de comunicar usuários",
+          "type": "istar.Goal",
+          "x": 832,
+          "y": 485
+        },
+        {
+          "id": "bb9d8d36-ef37-4085-8c90-7a3ceb761750",
+          "text": "Seja capaz de comunicar externamente",
+          "type": "istar.Goal",
+          "x": 701,
+          "y": 481
+        },
+        {
+          "id": "1631c703-783f-46c7-a8c5-b2116dea7207",
+          "text": "Estabelecer comunicação externa",
+          "type": "istar.Task",
+          "x": 618,
+          "y": 545
+        },
+        {
+          "id": "e97b1f5b-47a9-4016-a18f-34600120a139",
+          "text": "Serviços de Add-ons (Mods) seja disponibilizado",
+          "type": "istar.Goal",
+          "x": 446,
+          "y": 220
+        },
+        {
+          "id": "5093b9dc-8379-4fe0-b23b-0685195a271e",
+          "text": "Remover Mods da Plataforma",
+          "type": "istar.Task",
+          "x": 491,
+          "y": 393
+        },
+        {
+          "id": "a663528a-6713-444a-8d67-cfee670c921d",
+          "text": "Fazer download de Mods",
+          "type": "istar.Task",
+          "x": 540,
+          "y": 312
+        },
+        {
+          "id": "ba89090f-8224-4425-bf11-42382fb9572e",
+          "text": "Fazer instalação diretamente",
+          "type": "istar.Task",
+          "x": 218,
+          "y": 311
+        },
+        {
+          "id": "ee340d8e-2b47-438c-ae76-e1b27f67790c",
+          "text": "Filtrar Mods",
+          "type": "istar.Task",
+          "x": 321,
+          "y": 311
+        },
+        {
+          "id": "7821c0d1-093d-4c86-80a4-4d5a73dd611b",
+          "text": "Sincronização Automática dos Mods",
+          "type": "istar.Task",
+          "x": 111,
+          "y": 311
+        },
+        {
+          "id": "d47d91a2-31d7-45e2-aac8-d74f5991c8ef",
+          "text": "Processo automatizado",
+          "type": "istar.Quality",
+          "x": 167,
+          "y": 216
+        },
+        {
+          "id": "bad47fbb-1ce3-4cb9-ae1b-ed96a17d2a7a",
+          "text": "Gerenciar Mods da Plataforma",
+          "type": "istar.Task",
+          "x": 426,
+          "y": 311
+        },
+        {
+          "id": "e99192a4-c5cc-45a0-a159-d80e4ce23b0f",
+          "text": "Adicionar mods à plataforma",
+          "type": "istar.Task",
+          "x": 387,
+          "y": 393
+        }
+      ]
+    },
+    {
+      "id": "3d8a29a1-054c-4495-abd3-899c039acf06",
+      "text": "Twitch",
+      "type": "istar.Agent",
+      "x": 17,
+      "y": 146,
+      "nodes": []
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "c0fae9e2-cdb1-475a-9a7b-ca902986b9ba",
+      "type": "istar.OrRefinementLink",
+      "source": "b277c23e-0447-40bf-9174-7e8b3aedde99",
+      "target": "30c9cbe6-7365-4266-9ab5-73dc85164ef4"
+    },
+    {
+      "id": "8c81d7ef-b78c-4379-a013-37fc6f543c09",
+      "type": "istar.AndRefinementLink",
+      "source": "344bf5cb-84ec-4cd1-9226-9ef39a0d92cc",
+      "target": "b277c23e-0447-40bf-9174-7e8b3aedde99"
+    },
+    {
+      "id": "e5713e15-8190-4e77-b6db-6b29a44e0d07",
+      "type": "istar.AndRefinementLink",
+      "source": "b4f99103-3d81-47b5-a9e2-2f61351eb891",
+      "target": "b277c23e-0447-40bf-9174-7e8b3aedde99"
+    },
+    {
+      "id": "a9ad275e-e770-4f88-a05c-4a29c9cdebff",
+      "type": "istar.OrRefinementLink",
+      "source": "e0864e5a-0722-4db2-baf7-bcf161fcb840",
+      "target": "2035e241-fd1a-496f-b607-96f32f0c4019"
+    },
+    {
+      "id": "891309af-f207-42ec-8780-2cccd6b2816b",
+      "type": "istar.AndRefinementLink",
+      "source": "4d7aa09a-c2f5-4ff8-89ee-c7bfc979e529",
+      "target": "e0864e5a-0722-4db2-baf7-bcf161fcb840"
+    },
+    {
+      "id": "ea79776f-b24e-4f2b-a25f-9fb20b6e03ce",
+      "type": "istar.AndRefinementLink",
+      "source": "c3c2db95-4c57-4087-8048-d56467c5a146",
+      "target": "e0864e5a-0722-4db2-baf7-bcf161fcb840"
+    },
+    {
+      "id": "aa1d21df-b9e7-4b36-8860-26c2102da39e",
+      "type": "istar.AndRefinementLink",
+      "source": "833d94f6-97df-4e64-9e2d-76f5acff32b7",
+      "target": "e0864e5a-0722-4db2-baf7-bcf161fcb840"
+    },
+    {
+      "id": "9dd4525e-cb14-4782-b5c3-f63ea6adc885",
+      "type": "istar.AndRefinementLink",
+      "source": "00b4d057-cb51-4665-a390-0e383091a111",
+      "target": "e0864e5a-0722-4db2-baf7-bcf161fcb840"
+    },
+    {
+      "id": "20e4beb4-e312-4df4-a90c-ca28892e0805",
+      "type": "istar.AndRefinementLink",
+      "source": "8d9a95a9-c2a0-4bc1-81f8-d328b6f53b6a",
+      "target": "9fa29cf0-fa05-4df1-b77a-1e7e8df34576"
+    },
+    {
+      "id": "58b526ff-22a6-4fea-ab26-4c97e3ea714f",
+      "type": "istar.AndRefinementLink",
+      "source": "e50bfa9c-7293-466b-9987-c6ac87618a4b",
+      "target": "9fa29cf0-fa05-4df1-b77a-1e7e8df34576"
+    },
+    {
+      "id": "148442ff-d8a9-4a6a-b169-610faaa09cbe",
+      "type": "istar.AndRefinementLink",
+      "source": "e50bfa9c-7293-466b-9987-c6ac87618a4b",
+      "target": "c3c2db95-4c57-4087-8048-d56467c5a146"
+    },
+    {
+      "id": "3cbb5624-aae2-4e50-b011-a34e7c3fc2a1",
+      "type": "istar.OrRefinementLink",
+      "source": "27ad3074-1c47-474b-9e97-7675c300bac0",
+      "target": "1a70b5ff-9932-406c-a705-f417401c1bce"
+    },
+    {
+      "id": "995147c3-823e-4789-b0dc-b3d0bbd9e751",
+      "type": "istar.AndRefinementLink",
+      "source": "efcc1b3f-aaf9-4501-afd9-416b630d37b6",
+      "target": "27ad3074-1c47-474b-9e97-7675c300bac0"
+    },
+    {
+      "id": "7952839d-8f6a-4a00-ae9a-19f64d74fced",
+      "type": "istar.ContributionLink",
+      "source": "efcc1b3f-aaf9-4501-afd9-416b630d37b6",
+      "target": "2bdddff2-b1cc-4c77-a0bc-175f4edfba71",
+      "label": "help"
+    },
+    {
+      "id": "04357054-b8e2-447a-9119-3afa3e7be1b5",
+      "type": "istar.ContributionLink",
+      "source": "591b4335-d2b0-40a3-958a-2c4acfb28dfc",
+      "target": "dca6c951-74fc-473f-bb79-61283c1aa0b4",
+      "label": "help"
+    },
+    {
+      "id": "8d53715b-eb6e-47a0-840b-25ce0c8e5de0",
+      "type": "istar.AndRefinementLink",
+      "source": "52c2377c-288a-4c4f-8753-9db313c75166",
+      "target": "591b4335-d2b0-40a3-958a-2c4acfb28dfc"
+    },
+    {
+      "id": "e8caf789-a3fb-455e-85ac-ed0d62b7f9b0",
+      "type": "istar.AndRefinementLink",
+      "source": "bb9d8d36-ef37-4085-8c90-7a3ceb761750",
+      "target": "591b4335-d2b0-40a3-958a-2c4acfb28dfc"
+    },
+    {
+      "id": "202bd7be-cd60-4bba-b987-17d27142de88",
+      "type": "istar.AndRefinementLink",
+      "source": "6d20db04-df41-4c23-a719-f9a3caa86a33",
+      "target": "1631c703-783f-46c7-a8c5-b2116dea7207"
+    },
+    {
+      "id": "4aec926e-2d82-46c7-a852-c0a52a1e7b4f",
+      "type": "istar.AndRefinementLink",
+      "source": "74b48094-e9e6-4ea3-930e-4848e64d9216",
+      "target": "1631c703-783f-46c7-a8c5-b2116dea7207"
+    },
+    {
+      "id": "5950782e-e837-44a6-8cc3-c4057610a632",
+      "type": "istar.OrRefinementLink",
+      "source": "1631c703-783f-46c7-a8c5-b2116dea7207",
+      "target": "bb9d8d36-ef37-4085-8c90-7a3ceb761750"
+    },
+    {
+      "id": "a1818d11-1791-4917-ba43-17cfa3baa0f0",
+      "type": "istar.OrRefinementLink",
+      "source": "9fa29cf0-fa05-4df1-b77a-1e7e8df34576",
+      "target": "52c2377c-288a-4c4f-8753-9db313c75166"
+    },
+    {
+      "id": "2033d772-eed4-44c9-92ff-e04f6daf7195",
+      "type": "istar.OrRefinementLink",
+      "source": "6704b8c0-4dc8-489e-9bfd-3b171f9231f8",
+      "target": "bb9d8d36-ef37-4085-8c90-7a3ceb761750"
+    },
+    {
+      "id": "96ed8287-b1e6-4819-9b15-bb0853803adc",
+      "type": "istar.AndRefinementLink",
+      "source": "a663528a-6713-444a-8d67-cfee670c921d",
+      "target": "e97b1f5b-47a9-4016-a18f-34600120a139"
+    },
+    {
+      "id": "fd9c51fa-48d5-4435-88c4-5e468a6b608d",
+      "type": "istar.OrRefinementLink",
+      "source": "ba89090f-8224-4425-bf11-42382fb9572e",
+      "target": "e97b1f5b-47a9-4016-a18f-34600120a139"
+    },
+    {
+      "id": "306e4ff4-d4bc-4aef-bf4e-5ae351cb4866",
+      "type": "istar.OrRefinementLink",
+      "source": "ee340d8e-2b47-438c-ae76-e1b27f67790c",
+      "target": "e97b1f5b-47a9-4016-a18f-34600120a139"
+    },
+    {
+      "id": "59fd33e9-26be-4d08-90fe-c4a49951ba06",
+      "type": "istar.OrRefinementLink",
+      "source": "7821c0d1-093d-4c86-80a4-4d5a73dd611b",
+      "target": "e97b1f5b-47a9-4016-a18f-34600120a139"
+    },
+    {
+      "id": "52d62835-8eac-45cb-870b-2763dd89890f",
+      "type": "istar.ContributionLink",
+      "source": "7821c0d1-093d-4c86-80a4-4d5a73dd611b",
+      "target": "d47d91a2-31d7-45e2-aac8-d74f5991c8ef",
+      "label": "help"
+    },
+    {
+      "id": "5119e4f1-04ec-477e-a6f0-aaa3e18ff80a",
+      "type": "istar.ContributionLink",
+      "source": "ba89090f-8224-4425-bf11-42382fb9572e",
+      "target": "d47d91a2-31d7-45e2-aac8-d74f5991c8ef",
+      "label": "help"
+    },
+    {
+      "id": "bc6dab35-38ff-45dc-9b53-d4ccf229fe33",
+      "type": "istar.AndRefinementLink",
+      "source": "bad47fbb-1ce3-4cb9-ae1b-ed96a17d2a7a",
+      "target": "e97b1f5b-47a9-4016-a18f-34600120a139"
+    },
+    {
+      "id": "ec15fe8e-6da9-4c2d-8975-716bd67414fe",
+      "type": "istar.AndRefinementLink",
+      "source": "e99192a4-c5cc-45a0-a159-d80e4ce23b0f",
+      "target": "bad47fbb-1ce3-4cb9-ae1b-ed96a17d2a7a"
+    },
+    {
+      "id": "b99cbc3e-ea1f-4ec2-b5c1-ba5f68f49cdf",
+      "type": "istar.AndRefinementLink",
+      "source": "5093b9dc-8379-4fe0-b23b-0685195a271e",
+      "target": "bad47fbb-1ce3-4cb9-ae1b-ed96a17d2a7a"
+    }
+  ],
+  "display": {
+    "3d8a29a1-054c-4495-abd3-899c039acf06": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Thu, 17 May 2018 04:25:38 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
