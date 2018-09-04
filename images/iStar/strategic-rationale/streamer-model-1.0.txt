@@ -1,0 +1,96 @@
+{
+  "actors": [
+    {
+      "id": "9fa354b8-feaa-4f54-b916-0a347d04ec55",
+      "text": "Streamer",
+      "type": "istar.Role",
+      "x": 116,
+      "y": 45,
+      "nodes": [
+        {
+          "id": "eb8ec193-c948-4bc4-b80f-6b20bf0aa9ec",
+          "text": "Stream seja iniciada",
+          "type": "istar.Goal",
+          "x": 198,
+          "y": 73
+        },
+        {
+          "id": "a3ec9975-2f99-4af2-8705-5588d306f9a6",
+          "text": "Conta na Twitch",
+          "type": "istar.Resource",
+          "x": 264,
+          "y": 385
+        },
+        {
+          "id": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0",
+          "text": "Adquirir stream key",
+          "type": "istar.Task",
+          "x": 127,
+          "y": 270
+        },
+        {
+          "id": "bc81d481-f2e3-4050-822a-282f7e56cac8",
+          "text": "Iniciar stream",
+          "type": "istar.Task",
+          "x": 196,
+          "y": 158
+        },
+        {
+          "id": "0855b7a7-28c2-4a37-95af-24f08e1ab9af",
+          "text": "Stream key",
+          "type": "istar.Resource",
+          "x": 131,
+          "y": 386
+        },
+        {
+          "id": "d91389af-6150-4347-aa43-b4ae351175ec",
+          "text": "Possuir conta",
+          "type": "istar.Task",
+          "x": 261,
+          "y": 272
+        }
+      ]
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "cc76731b-11f7-4c6a-8891-9e1b7e9031f4",
+      "type": "istar.AndRefinementLink",
+      "source": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0",
+      "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
+    },
+    {
+      "id": "4554a233-d2ec-48ea-8f82-12b9c09a191a",
+      "type": "istar.AndRefinementLink",
+      "source": "bc81d481-f2e3-4050-822a-282f7e56cac8",
+      "target": "eb8ec193-c948-4bc4-b80f-6b20bf0aa9ec"
+    },
+    {
+      "id": "8bbd9310-0cb4-4f84-a2c8-ee056db47f04",
+      "type": "istar.NeededByLink",
+      "source": "0855b7a7-28c2-4a37-95af-24f08e1ab9af",
+      "target": "e9db37c8-c2c0-4c1a-b64e-897ca7ce28d0"
+    },
+    {
+      "id": "df3e28bb-aa07-41e7-9a36-bccc39d208c0",
+      "type": "istar.NeededByLink",
+      "source": "a3ec9975-2f99-4af2-8705-5588d306f9a6",
+      "target": "d91389af-6150-4347-aa43-b4ae351175ec"
+    },
+    {
+      "id": "d414927e-1fc3-4e9a-9d45-a24e0befe9eb",
+      "type": "istar.AndRefinementLink",
+      "source": "d91389af-6150-4347-aa43-b4ae351175ec",
+      "target": "bc81d481-f2e3-4050-822a-282f7e56cac8"
+    }
+  ],
+  "display": {},
+  "tool": "pistar.1.2.0",
+  "istar": "2.0",
+  "saveDate": "Sat, 12 May 2018 23:35:18 GMT",
+  "diagram": {
+    "width": 1700,
+    "height": 1300
+  }
+}
